@@ -1,0 +1,30 @@
+name: Fetcher
+
+on:
+  push:
+  schedule:
+    - cron: '0 15 * * *'
+
+jobs:
+  generate:
+    name: Fetch from iana-registries
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Use Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+      - name: Install gem
+        run: |
+          gem install relaton-cli
+      - name: Fetch documents
+        run: relaton fetch-data iana-registries
+      - name: Push data
+        run: |
+          echo `date` > flag.txt
+          git config --global user.name "relaton-ci"
+          git config --global user.email "relaton-ci@users.noreply.github.com"
+          git add data/* flag.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m 'update documents' && git push)
