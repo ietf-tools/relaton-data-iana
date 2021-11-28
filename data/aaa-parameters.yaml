@@ -1,0 +1,26 @@
+---
+id: IANAaaa-parameters
+title:
+  content: Authentication, Authorization, and Accounting (AAA) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/aaa-parameters
+  type: src
+type: standard
+docid:
+  id: IANA aaa-parameters
+  type: IANA
+docnumber: aaa-parameters
+date:
+- type: created
+  value: '2003-04-08'
+- type: updated
+  value: '2019-08-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

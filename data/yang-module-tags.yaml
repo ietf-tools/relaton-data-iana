@@ -1,0 +1,26 @@
+---
+id: IANAyang-module-tags
+title:
+  content: YANG Module Tags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/yang-module-tags
+  type: src
+type: standard
+docid:
+  id: IANA yang-module-tags
+  type: IANA
+docnumber: yang-module-tags
+date:
+- type: created
+  value: '2020-03-23'
+- type: updated
+  value: '2021-02-05'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

@@ -1,0 +1,26 @@
+---
+id: IANAcard-parameters
+title:
+  content: Candidate Access Router Discovery (CARD) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/card-parameters
+  type: src
+type: standard
+docid:
+  id: IANA card-parameters
+  type: IANA
+docnumber: card-parameters
+date:
+- type: created
+  value: '2005-01-19'
+- type: updated
+  value: '2007-01-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

@@ -1,0 +1,26 @@
+---
+id: IANAfedfs-parameters
+title:
+  content: Federated File System (FedFS) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/fedfs-parameters
+  type: src
+type: standard
+docid:
+  id: IANA fedfs-parameters
+  type: IANA
+docnumber: fedfs-parameters
+date:
+- type: created
+  value: '2012-12-23'
+- type: updated
+  value: '2015-03-30'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

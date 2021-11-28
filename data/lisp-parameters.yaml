@@ -1,0 +1,26 @@
+---
+id: IANAlisp-parameters
+title:
+  content: Locator/ID Separation Protocol (LISP) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/lisp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA lisp-parameters
+  type: IANA
+docnumber: lisp-parameters
+date:
+- type: created
+  value: '2012-04-25'
+- type: updated
+  value: '2021-03-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

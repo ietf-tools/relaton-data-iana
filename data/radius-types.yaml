@@ -1,0 +1,24 @@
+---
+id: IANAradius-types
+title:
+  content: RADIUS Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+  id: IANA radius-types
+  type: IANA
+docnumber: radius-types
+date:
+  type: updated
+  value: '2021-07-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

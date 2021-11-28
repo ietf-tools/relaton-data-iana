@@ -1,0 +1,26 @@
+---
+id: IANAtcp-header-flags
+title:
+  content: Transmission Control Protocol (TCP) Header Flags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/tcp-header-flags
+  type: src
+type: standard
+docid:
+  id: IANA tcp-header-flags
+  type: IANA
+docnumber: tcp-header-flags
+date:
+- type: created
+  value: '2001-08-15'
+- type: updated
+  value: '2018-01-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

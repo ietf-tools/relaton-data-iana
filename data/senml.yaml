@@ -1,0 +1,26 @@
+---
+id: IANAsenml
+title:
+  content: Sensor Measurement Lists (SenML)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/senml
+  type: src
+type: standard
+docid:
+  id: IANA senml
+  type: IANA
+docnumber: senml
+date:
+- type: created
+  value: '2018-06-01'
+- type: updated
+  value: '2021-10-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

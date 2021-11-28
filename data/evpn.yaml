@@ -1,0 +1,26 @@
+---
+id: IANAevpn
+title:
+  content: Ethernet VPN (EVPN)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/evpn
+  type: src
+type: standard
+docid:
+  id: IANA evpn
+  type: IANA
+docnumber: evpn
+date:
+- type: created
+  value: '2014-10-21'
+- type: updated
+  value: '2021-10-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

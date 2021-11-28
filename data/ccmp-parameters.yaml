@@ -1,0 +1,26 @@
+---
+id: IANAccmp-parameters
+title:
+  content: Centralized Conferencing Manipulation Protocol (CCMP) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ccmp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA ccmp-parameters
+  type: IANA
+docnumber: ccmp-parameters
+date:
+- type: created
+  value: '2011-09-30'
+- type: updated
+  value: '2012-03-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

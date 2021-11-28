@@ -1,0 +1,24 @@
+---
+id: IANAmessage-headers
+title:
+  content: Message Headers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/message-headers
+  type: src
+type: standard
+docid:
+  id: IANA message-headers
+  type: IANA
+docnumber: message-headers
+date:
+  type: updated
+  value: '2021-10-05'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

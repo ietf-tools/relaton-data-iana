@@ -1,0 +1,26 @@
+---
+id: IANAnorm-parameters
+title:
+  content: Negative-ACKnowledgment (NACK) Oriented Reliable Multicast (NORM) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/norm-parameters
+  type: src
+type: standard
+docid:
+  id: IANA norm-parameters
+  type: IANA
+docnumber: norm-parameters
+date:
+- type: created
+  value: '2009-09-17'
+- type: updated
+  value: '2009-11-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

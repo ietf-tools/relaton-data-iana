@@ -1,0 +1,26 @@
+---
+id: IANAnntp-parameters
+title:
+  content: Network News Transfer Protocol (NNTP) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/nntp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA nntp-parameters
+  type: IANA
+docnumber: nntp-parameters
+date:
+- type: created
+  value: '2005-07-12'
+- type: updated
+  value: '2017-04-24'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

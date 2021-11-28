@@ -1,0 +1,26 @@
+---
+id: IANAimap-annotate-extension
+title:
+  content: Internet Message Access Protocol (IMAP) ANNOTATE Extension
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/imap-annotate-extension
+  type: src
+type: standard
+docid:
+  id: IANA imap-annotate-extension
+  type: IANA
+docnumber: imap-annotate-extension
+date:
+- type: created
+  value: '2007-06-06'
+- type: updated
+  value: '2018-10-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

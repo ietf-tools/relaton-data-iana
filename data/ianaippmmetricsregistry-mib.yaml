@@ -1,0 +1,26 @@
+---
+id: IANAianaippmmetricsregistry-mib
+title:
+  content: IANA-IPPM-METRICS-REGISTRY-MIB
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ianaippmmetricsregistry-mib
+  type: src
+type: standard
+docid:
+  id: IANA ianaippmmetricsregistry-mib
+  type: IANA
+docnumber: ianaippmmetricsregistry-mib
+date:
+- type: created
+  value: '2005-04-12'
+- type: updated
+  value: '2015-08-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

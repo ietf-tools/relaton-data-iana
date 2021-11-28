@@ -1,0 +1,26 @@
+---
+id: IANAnsh
+title:
+  content: Network Service Header (NSH) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/nsh
+  type: src
+type: standard
+docid:
+  id: IANA nsh
+  type: IANA
+docnumber: nsh
+date:
+- type: created
+  value: '2017-11-08'
+- type: updated
+  value: '2021-09-22'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

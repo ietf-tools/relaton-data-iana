@@ -1,0 +1,26 @@
+---
+id: IANAdevice-identification
+title:
+  content: Device Identification
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/device-identification
+  type: src
+type: standard
+docid:
+  id: IANA device-identification
+  type: IANA
+docnumber: device-identification
+date:
+- type: created
+  value: '2021-03-26'
+- type: updated
+  value: '2021-08-27'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

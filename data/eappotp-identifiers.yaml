@@ -1,0 +1,27 @@
+---
+id: IANAeappotp-identifiers
+title:
+  content: Extensible Authentication Protocol Protected One-Time Password (EAP-POTP)
+    Cryptographic Algorithm Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eappotp-identifiers
+  type: src
+type: standard
+docid:
+  id: IANA eappotp-identifiers
+  type: IANA
+docnumber: eappotp-identifiers
+date:
+- type: created
+  value: '2006-11-12'
+- type: updated
+  value: '2013-07-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

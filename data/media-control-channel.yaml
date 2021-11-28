@@ -1,0 +1,26 @@
+---
+id: IANAmedia-control-channel
+title:
+  content: Media Control Channel Framework Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/media-control-channel
+  type: src
+type: standard
+docid:
+  id: IANA media-control-channel
+  type: IANA
+docnumber: media-control-channel
+date:
+- type: created
+  value: '2011-03-08'
+- type: updated
+  value: '2013-04-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

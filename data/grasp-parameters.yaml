@@ -1,0 +1,26 @@
+---
+id: IANAgrasp-parameters
+title:
+  content: GeneRic Autonomic Signaling Protocol (GRASP) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/grasp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA grasp-parameters
+  type: IANA
+docnumber: grasp-parameters
+date:
+- type: created
+  value: '2017-07-20'
+- type: updated
+  value: '2021-05-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

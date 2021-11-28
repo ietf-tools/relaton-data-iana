@@ -1,0 +1,26 @@
+---
+id: IANAaead-parameters
+title:
+  content: Authenticated Encryption with Associated Data (AEAD) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/aead-parameters
+  type: src
+type: standard
+docid:
+  id: IANA aead-parameters
+  type: IANA
+docnumber: aead-parameters
+date:
+- type: created
+  value: '2007-11-14'
+- type: updated
+  value: '2019-04-18'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

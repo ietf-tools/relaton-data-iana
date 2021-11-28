@@ -1,0 +1,26 @@
+---
+id: IANAurn-serviceid-labels
+title:
+  content: Service URN Labels
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/urn-serviceid-labels
+  type: src
+type: standard
+docid:
+  id: IANA urn-serviceid-labels
+  type: IANA
+docnumber: urn-serviceid-labels
+date:
+- type: created
+  value: '2007-08-22'
+- type: updated
+  value: '2017-05-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

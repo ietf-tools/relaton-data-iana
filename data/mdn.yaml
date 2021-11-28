@@ -1,0 +1,24 @@
+---
+id: IANAmdn
+title:
+  content: Message Disposition Notification (MDN) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mdn
+  type: src
+type: standard
+docid:
+  id: IANA mdn
+  type: IANA
+docnumber: mdn
+date:
+  type: updated
+  value: '2017-03-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

@@ -1,0 +1,24 @@
+---
+id: IANArtp-parameters
+title:
+  content: Real-Time Transport Protocol (RTP) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rtp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA rtp-parameters
+  type: IANA
+docnumber: rtp-parameters
+date:
+  type: updated
+  value: '2021-10-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

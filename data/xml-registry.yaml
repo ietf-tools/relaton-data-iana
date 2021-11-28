@@ -1,0 +1,24 @@
+---
+id: IANAxml-registry
+title:
+  content: IETF XML Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/xml-registry
+  type: src
+type: standard
+docid:
+  id: IANA xml-registry
+  type: IANA
+docnumber: xml-registry
+date:
+  type: updated
+  value: '2021-11-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

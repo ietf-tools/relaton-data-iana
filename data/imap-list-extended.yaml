@@ -1,0 +1,26 @@
+---
+id: IANAimap-list-extended
+title:
+  content: Internet Message Access Protocol (IMAP) LIST EXTENDED Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/imap-list-extended
+  type: src
+type: standard
+docid:
+  id: IANA imap-list-extended
+  type: IANA
+docnumber: imap-list-extended
+date:
+- type: created
+  value: '2006-10-19'
+- type: updated
+  value: '2021-08-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

@@ -1,0 +1,26 @@
+---
+id: IANAgss-api-parameters
+title:
+  content: Generic Security Service Application Program Interface Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/gss-api-parameters
+  type: src
+type: standard
+docid:
+  id: IANA gss-api-parameters
+  type: IANA
+docnumber: gss-api-parameters
+date:
+- type: created
+  value: '2012-11-18'
+- type: updated
+  value: '2014-01-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

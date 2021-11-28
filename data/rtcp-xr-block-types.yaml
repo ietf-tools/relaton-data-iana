@@ -1,0 +1,26 @@
+---
+id: IANArtcp-xr-block-types
+title:
+  content: RTP Control Protocol Extended Reports (RTCP XR) Block Type Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rtcp-xr-block-types
+  type: src
+type: standard
+docid:
+  id: IANA rtcp-xr-block-types
+  type: IANA
+docnumber: rtcp-xr-block-types
+date:
+- type: created
+  value: '2003-08-29'
+- type: updated
+  value: '2016-11-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

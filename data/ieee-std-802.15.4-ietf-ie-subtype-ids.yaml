@@ -1,0 +1,26 @@
+---
+id: IANAieee-std-802.15.4-ietf-ie-subtype-ids
+title:
+  content: IEEE Std 802.15.4 IETF IE Subtype IDs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ieee-std-802.15.4-ietf-ie-subtype-ids
+  type: src
+type: standard
+docid:
+  id: IANA ieee-std-802.15.4-ietf-ie-subtype-ids
+  type: IANA
+docnumber: ieee-std-802.15.4-ietf-ie-subtype-ids
+date:
+- type: created
+  value: '2017-03-09'
+- type: updated
+  value: '2021-06-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

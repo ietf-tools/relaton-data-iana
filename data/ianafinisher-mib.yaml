@@ -1,0 +1,26 @@
+---
+id: IANAianafinisher-mib
+title:
+  content: IANA-FINISHER-MIB
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ianafinisher-mib
+  type: src
+type: standard
+docid:
+  id: IANA ianafinisher-mib
+  type: IANA
+docnumber: ianafinisher-mib
+date:
+- type: created
+  value: '2004-06-02'
+- type: updated
+  value: '2014-05-22'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

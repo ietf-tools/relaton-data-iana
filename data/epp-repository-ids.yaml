@@ -1,0 +1,26 @@
+---
+id: IANAepp-repository-ids
+title:
+  content: Extensible Provisioning Protocol (EPP) Repository Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/epp-repository-ids
+  type: src
+type: standard
+docid:
+  id: IANA epp-repository-ids
+  type: IANA
+docnumber: epp-repository-ids
+date:
+- type: created
+  value: '2004-10-26'
+- type: updated
+  value: '2021-10-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

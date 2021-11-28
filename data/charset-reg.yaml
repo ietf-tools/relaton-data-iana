@@ -1,0 +1,24 @@
+---
+id: IANAcharset-reg
+title:
+  content: Character Set Registrations
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/charset-reg
+  type: src
+type: standard
+docid:
+  id: IANA charset-reg
+  type: IANA
+docnumber: charset-reg
+date:
+  type: updated
+  value: '2021-01-04'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

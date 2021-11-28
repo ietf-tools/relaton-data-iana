@@ -1,0 +1,26 @@
+---
+id: IANAigp-parameters
+title:
+  content: Interior Gateway Protocol (IGP) Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/igp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA igp-parameters
+  type: IANA
+docnumber: igp-parameters
+date:
+- type: created
+  value: '2017-12-18'
+- type: updated
+  value: '2021-08-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

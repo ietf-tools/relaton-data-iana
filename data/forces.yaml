@@ -1,0 +1,26 @@
+---
+id: IANAforces
+title:
+  content: Forwarding and Control Element Separation (ForCES)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/forces
+  type: src
+type: standard
+docid:
+  id: IANA forces
+  type: IANA
+docnumber: forces
+date:
+- type: created
+  value: '2009-03-12'
+- type: updated
+  value: '2017-02-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

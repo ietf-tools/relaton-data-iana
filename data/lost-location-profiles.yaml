@@ -1,0 +1,26 @@
+---
+id: IANAlost-location-profiles
+title:
+  content: Location-to-Service Translation (LoST) Location Profiles
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/lost-location-profiles
+  type: src
+type: standard
+docid:
+  id: IANA lost-location-profiles
+  type: IANA
+docnumber: lost-location-profiles
+date:
+- type: created
+  value: '2008-06-10'
+- type: updated
+  value: '2021-08-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

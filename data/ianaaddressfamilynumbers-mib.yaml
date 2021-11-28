@@ -1,0 +1,24 @@
+---
+id: IANAianaaddressfamilynumbers-mib
+title:
+  content: IANA-ADDRESS-FAMILY-NUMBERS-MIB
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ianaaddressfamilynumbers-mib
+  type: src
+type: standard
+docid:
+  id: IANA ianaaddressfamilynumbers-mib
+  type: IANA
+docnumber: ianaaddressfamilynumbers-mib
+date:
+  type: created
+  value: '1999-08-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

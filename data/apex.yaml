@@ -1,0 +1,24 @@
+---
+id: IANAapex
+title:
+  content: APEX Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/apex
+  type: src
+type: standard
+docid:
+  id: IANA apex
+  type: IANA
+docnumber: apex
+date:
+  type: updated
+  value: '2009-06-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'

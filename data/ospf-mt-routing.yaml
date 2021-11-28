@@ -1,0 +1,26 @@
+---
+id: IANAospf-mt-routing
+title:
+  content: Open Shortest Path First (OSPF) Multi-Topology Routing
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ospf-mt-routing
+  type: src
+type: standard
+docid:
+  id: IANA ospf-mt-routing
+  type: IANA
+docnumber: ospf-mt-routing
+date:
+- type: created
+  value: '2007-06-04'
+- type: updated
+  value: '2013-05-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-28'
