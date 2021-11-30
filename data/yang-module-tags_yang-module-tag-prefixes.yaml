@@ -1,0 +1,26 @@
+---
+id: IANAyang-module-tags/yang-module-tag-prefixes
+title:
+  content: YANG Module Tag Prefixes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/yang-module-tags
+  type: src
+type: standard
+docid:
+  id: IANA yang-module-tags/yang-module-tag-prefixes
+  type: IANA
+docnumber: yang-module-tags/yang-module-tag-prefixes
+date:
+- type: created
+  value: '2020-03-23'
+- type: updated
+  value: '2021-02-05'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

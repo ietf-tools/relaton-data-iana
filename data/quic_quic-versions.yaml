@@ -1,0 +1,26 @@
+---
+id: IANAquic/quic-versions
+title:
+  content: QUIC Versions
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/quic
+  type: src
+type: standard
+docid:
+  id: IANA quic/quic-versions
+  type: IANA
+docnumber: quic/quic-versions
+date:
+- type: created
+  value: '2021-02-11'
+- type: updated
+  value: '2021-10-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

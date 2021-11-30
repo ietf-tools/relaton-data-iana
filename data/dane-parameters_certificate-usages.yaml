@@ -1,0 +1,26 @@
+---
+id: IANAdane-parameters/certificate-usages
+title:
+  content: TLSA Certificate Usages
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dane-parameters
+  type: src
+type: standard
+docid:
+  id: IANA dane-parameters/certificate-usages
+  type: IANA
+docnumber: dane-parameters/certificate-usages
+date:
+- type: created
+  value: '2012-06-28'
+- type: updated
+  value: '2014-04-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

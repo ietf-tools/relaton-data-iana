@@ -1,0 +1,26 @@
+---
+id: IANAtrip-parameters/trip-parameters-1
+title:
+  content: TRIP Capabilities
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/trip-parameters
+  type: src
+type: standard
+docid:
+  id: IANA trip-parameters/trip-parameters-1
+  type: IANA
+docnumber: trip-parameters/trip-parameters-1
+date:
+- type: created
+  value: '2001-12-18'
+- type: updated
+  value: '2021-08-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

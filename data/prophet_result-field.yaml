@@ -1,0 +1,26 @@
+---
+id: IANAprophet/result-field
+title:
+  content: PRoPHET Result Field
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/prophet
+  type: src
+type: standard
+docid:
+  id: IANA prophet/result-field
+  type: IANA
+docnumber: prophet/result-field
+date:
+- type: created
+  value: '2012-06-04'
+- type: updated
+  value: '2012-09-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

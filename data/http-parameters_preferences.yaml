@@ -1,0 +1,24 @@
+---
+id: IANAhttp-parameters/preferences
+title:
+  content: HTTP Preferences
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/http-parameters
+  type: src
+type: standard
+docid:
+  id: IANA http-parameters/preferences
+  type: IANA
+docnumber: http-parameters/preferences
+date:
+  type: updated
+  value: '2021-10-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

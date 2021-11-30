@@ -1,0 +1,26 @@
+---
+id: IANAcore-parameters/rt-link-target-att-value
+title:
+  content: Resource Type (rt=) Link Target Attribute Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/core-parameters
+  type: src
+type: standard
+docid:
+  id: IANA core-parameters/rt-link-target-att-value
+  type: IANA
+docnumber: core-parameters/rt-link-target-att-value
+date:
+- type: created
+  value: '2012-06-08'
+- type: updated
+  value: '2021-11-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

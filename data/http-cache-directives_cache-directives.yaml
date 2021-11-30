@@ -1,0 +1,26 @@
+---
+id: IANAhttp-cache-directives/cache-directives
+title:
+  content: HTTP Cache Directive Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/http-cache-directives
+  type: src
+type: standard
+docid:
+  id: IANA http-cache-directives/cache-directives
+  type: IANA
+docnumber: http-cache-directives/cache-directives
+date:
+- type: created
+  value: '2014-02-17'
+- type: updated
+  value: '2021-10-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

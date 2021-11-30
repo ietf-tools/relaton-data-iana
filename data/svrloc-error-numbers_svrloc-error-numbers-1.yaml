@@ -1,0 +1,26 @@
+---
+id: IANAsvrloc-error-numbers/svrloc-error-numbers-1
+title:
+  content: Error Numbers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/svrloc-error-numbers
+  type: src
+type: standard
+docid:
+  id: IANA svrloc-error-numbers/svrloc-error-numbers-1
+  type: IANA
+docnumber: svrloc-error-numbers/svrloc-error-numbers-1
+date:
+- type: created
+  value: '2003-04-01'
+- type: updated
+  value: '2003-04-02'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

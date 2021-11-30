@@ -1,0 +1,26 @@
+---
+id: IANAnslp-parameters/x-type-5-subtypes
+title:
+  content: START_TIME (X-Type 5) SubType values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/nslp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA nslp-parameters/x-type-5-subtypes
+  type: IANA
+docnumber: nslp-parameters/x-type-5-subtypes
+date:
+- type: created
+  value: '2010-02-03'
+- type: updated
+  value: '2011-03-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAvnc-uri/connection-channel-types
+title:
+  content: VNC URI Connection Channel Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/vnc-uri
+  type: src
+type: standard
+docid:
+  id: IANA vnc-uri/connection-channel-types
+  type: IANA
+docnumber: vnc-uri/connection-channel-types
+date:
+- type: created
+  value: '2016-03-17'
+- type: updated
+  value: '2016-05-27'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANArsip-parameters/rsip-parameters-9
+title:
+  content: RSIP Remote Flow Policies
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rsip-parameters
+  type: src
+type: standard
+docid:
+  id: IANA rsip-parameters/rsip-parameters-9
+  type: IANA
+docnumber: rsip-parameters/rsip-parameters-9
+date:
+- type: created
+  value: '2001-04-20'
+- type: updated
+  value: '2009-07-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

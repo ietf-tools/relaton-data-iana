@@ -1,0 +1,26 @@
+---
+id: IANApcep/h-pce-flag-tlv-flag-field
+title:
+  content: H-PCE-FLAG TLV Flag Field
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pcep
+  type: src
+type: standard
+docid:
+  id: IANA pcep/h-pce-flag-tlv-flag-field
+  type: IANA
+docnumber: pcep/h-pce-flag-tlv-flag-field
+date:
+- type: created
+  value: '2008-12-19'
+- type: updated
+  value: '2021-07-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

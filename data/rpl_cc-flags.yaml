@@ -1,0 +1,26 @@
+---
+id: IANArpl/cc-flags
+title:
+  content: Consistency Check (CC) Flags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rpl
+  type: src
+type: standard
+docid:
+  id: IANA rpl/cc-flags
+  type: IANA
+docnumber: rpl/cc-flags
+date:
+- type: created
+  value: '2011-04-08'
+- type: updated
+  value: '2021-05-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

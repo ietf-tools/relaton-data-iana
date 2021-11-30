@@ -1,0 +1,26 @@
+---
+id: IANAs-pmsi-parameters/s-pmsi-parameters-1
+title:
+  content: S-PMSI Join Message Type Field
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/s-pmsi-parameters
+  type: src
+type: standard
+docid:
+  id: IANA s-pmsi-parameters/s-pmsi-parameters-1
+  type: IANA
+docnumber: s-pmsi-parameters/s-pmsi-parameters-1
+date:
+- type: created
+  value: '2010-03-01'
+- type: updated
+  value: '2012-02-21'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

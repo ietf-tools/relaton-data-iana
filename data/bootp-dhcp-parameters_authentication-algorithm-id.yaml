@@ -1,0 +1,24 @@
+---
+id: IANAbootp-dhcp-parameters/authentication-algorithm-id
+title:
+  content: Authentication Suboption (value 8) - Algorithm identifier values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA bootp-dhcp-parameters/authentication-algorithm-id
+  type: IANA
+docnumber: bootp-dhcp-parameters/authentication-algorithm-id
+date:
+  type: updated
+  value: '2021-01-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

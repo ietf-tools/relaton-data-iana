@@ -1,0 +1,26 @@
+---
+id: IANAstamp-tlv-types/stamp-synchronization-sources
+title:
+  content: STAMP Synchronization Sources
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/stamp-tlv-types
+  type: src
+type: standard
+docid:
+  id: IANA stamp-tlv-types/stamp-synchronization-sources
+  type: IANA
+docnumber: stamp-tlv-types/stamp-synchronization-sources
+date:
+- type: created
+  value: '2020-11-19'
+- type: updated
+  value: '2021-01-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

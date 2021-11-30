@@ -1,0 +1,26 @@
+---
+id: IANAeap-sake-parameters/eap-sake-parameters-3
+title:
+  content: skippable attributes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eap-sake-parameters
+  type: src
+type: standard
+docid:
+  id: IANA eap-sake-parameters/eap-sake-parameters-3
+  type: IANA
+docnumber: eap-sake-parameters/eap-sake-parameters-3
+date:
+- type: created
+  value: '2006-10-16'
+- type: updated
+  value: '2007-02-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

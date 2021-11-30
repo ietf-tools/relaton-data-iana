@@ -1,0 +1,26 @@
+---
+id: IANAhttp2-parameters/frame-type
+title:
+  content: HTTP/2 Frame Type
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/http2-parameters
+  type: src
+type: standard
+docid:
+  id: IANA http2-parameters/frame-type
+  type: IANA
+docnumber: http2-parameters/frame-type
+date:
+- type: created
+  value: '2015-02-20'
+- type: updated
+  value: '2019-07-31'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,24 @@
+---
+id: IANAhttp-parameters/transfer-coding
+title:
+  content: HTTP Transfer Coding Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/http-parameters
+  type: src
+type: standard
+docid:
+  id: IANA http-parameters/transfer-coding
+  type: IANA
+docnumber: http-parameters/transfer-coding
+date:
+  type: updated
+  value: '2021-10-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

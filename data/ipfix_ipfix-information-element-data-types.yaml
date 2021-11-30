@@ -1,0 +1,26 @@
+---
+id: IANAipfix/ipfix-information-element-data-types
+title:
+  content: IPFIX Information Element Data Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ipfix
+  type: src
+type: standard
+docid:
+  id: IANA ipfix/ipfix-information-element-data-types
+  type: IANA
+docnumber: ipfix/ipfix-information-element-data-types
+date:
+- type: created
+  value: '2007-05-10'
+- type: updated
+  value: '2021-10-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

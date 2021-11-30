@@ -1,0 +1,26 @@
+---
+id: IANAeap-eke/pseudo-random
+title:
+  content: EAP-EKE Pseudo Random Function Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eap-eke
+  type: src
+type: standard
+docid:
+  id: IANA eap-eke/pseudo-random
+  type: IANA
+docnumber: eap-eke/pseudo-random
+date:
+- type: created
+  value: '2010-11-24'
+- type: updated
+  value: '2020-04-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

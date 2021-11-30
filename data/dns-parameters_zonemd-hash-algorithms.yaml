@@ -1,0 +1,24 @@
+---
+id: IANAdns-parameters/zonemd-hash-algorithms
+title:
+  content: ZONEMD Hash Algorithms
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dns-parameters
+  type: src
+type: standard
+docid:
+  id: IANA dns-parameters/zonemd-hash-algorithms
+  type: IANA
+docnumber: dns-parameters/zonemd-hash-algorithms
+date:
+  type: updated
+  value: '2021-10-22'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

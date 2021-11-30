@@ -1,0 +1,26 @@
+---
+id: IANAbundle/tcpcl-version
+title:
+  content: Bundle Protocol TCP Convergence-Layer Version Numbers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bundle
+  type: src
+type: standard
+docid:
+  id: IANA bundle/tcpcl-version
+  type: IANA
+docnumber: bundle/tcpcl-version
+date:
+- type: created
+  value: '2011-03-24'
+- type: updated
+  value: '2021-08-04'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAeap-numbers/eap-initiate-re-auth-start-flags
+title:
+  content: EAP Initiate/Re-auth-Start Flags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eap-numbers
+  type: src
+type: standard
+docid:
+  id: IANA eap-numbers/eap-initiate-re-auth-start-flags
+  type: IANA
+docnumber: eap-numbers/eap-initiate-re-auth-start-flags
+date:
+- type: created
+  value: '2004-04-09'
+- type: updated
+  value: '2021-10-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

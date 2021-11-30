@@ -1,0 +1,26 @@
+---
+id: IANAeap-channel-binding-parameters/channel-binding-namespaces
+title:
+  content: EAP Channel-Binding Namespaces
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eap-channel-binding-parameters
+  type: src
+type: standard
+docid:
+  id: IANA eap-channel-binding-parameters/channel-binding-namespaces
+  type: IANA
+docnumber: eap-channel-binding-parameters/channel-binding-namespaces
+date:
+- type: created
+  value: '2012-06-08'
+- type: updated
+  value: '2013-10-31'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

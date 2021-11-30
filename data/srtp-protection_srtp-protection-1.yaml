@@ -1,0 +1,26 @@
+---
+id: IANAsrtp-protection/srtp-protection-1
+title:
+  content: DTLS-SRTP Protection Profiles
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/srtp-protection
+  type: src
+type: standard
+docid:
+  id: IANA srtp-protection/srtp-protection-1
+  type: IANA
+docnumber: srtp-protection/srtp-protection-1
+date:
+- type: created
+  value: '2009-03-18'
+- type: updated
+  value: '2020-05-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

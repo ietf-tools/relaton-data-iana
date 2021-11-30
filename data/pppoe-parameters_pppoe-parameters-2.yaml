@@ -1,0 +1,26 @@
+---
+id: IANApppoe-parameters/pppoe-parameters-2
+title:
+  content: PPPoE Active Discovery Code fields (8-bit values)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pppoe-parameters
+  type: src
+type: standard
+docid:
+  id: IANA pppoe-parameters/pppoe-parameters-2
+  type: IANA
+docnumber: pppoe-parameters/pppoe-parameters-2
+date:
+- type: created
+  value: '2007-03-26'
+- type: updated
+  value: '2010-02-04'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

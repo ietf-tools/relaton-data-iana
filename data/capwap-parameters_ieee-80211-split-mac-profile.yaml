@@ -1,0 +1,26 @@
+---
+id: IANAcapwap-parameters/ieee-80211-split-mac-profile
+title:
+  content: IEEE 802.11 Split MAC Profile
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/capwap-parameters
+  type: src
+type: standard
+docid:
+  id: IANA capwap-parameters/ieee-80211-split-mac-profile
+  type: IANA
+docnumber: capwap-parameters/ieee-80211-split-mac-profile
+date:
+- type: created
+  value: '2008-12-04'
+- type: updated
+  value: '2018-05-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAcomp-meth-ids/comp-meth-ids-2
+title:
+  content: TLS Compression Method Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/comp-meth-ids
+  type: src
+type: standard
+docid:
+  id: IANA comp-meth-ids/comp-meth-ids-2
+  type: IANA
+docnumber: comp-meth-ids/comp-meth-ids-2
+date:
+- type: created
+  value: '2004-05-03'
+- type: updated
+  value: '2018-08-10'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

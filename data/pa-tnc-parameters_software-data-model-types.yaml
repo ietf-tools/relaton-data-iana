@@ -1,0 +1,26 @@
+---
+id: IANApa-tnc-parameters/software-data-model-types
+title:
+  content: Software Data Model Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pa-tnc-parameters
+  type: src
+type: standard
+docid:
+  id: IANA pa-tnc-parameters/software-data-model-types
+  type: IANA
+docnumber: pa-tnc-parameters/software-data-model-types
+date:
+- type: created
+  value: '2009-11-13'
+- type: updated
+  value: '2018-07-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

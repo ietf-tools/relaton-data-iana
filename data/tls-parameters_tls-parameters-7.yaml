@@ -1,0 +1,26 @@
+---
+id: IANAtls-parameters/tls-parameters-7
+title:
+  content: TLS HandshakeType
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/tls-parameters
+  type: src
+type: standard
+docid:
+  id: IANA tls-parameters/tls-parameters-7
+  type: IANA
+docnumber: tls-parameters/tls-parameters-7
+date:
+- type: created
+  value: '2005-08-23'
+- type: updated
+  value: '2021-10-27'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

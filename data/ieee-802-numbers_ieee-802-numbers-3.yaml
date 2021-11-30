@@ -1,0 +1,24 @@
+---
+id: IANAieee-802-numbers/ieee-802-numbers-3
+title:
+  content: Logical Link Control (LLC) Numbers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ieee-802-numbers
+  type: src
+type: standard
+docid:
+  id: IANA ieee-802-numbers/ieee-802-numbers-3
+  type: IANA
+docnumber: ieee-802-numbers/ieee-802-numbers-3
+date:
+  type: updated
+  value: '2021-07-30'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

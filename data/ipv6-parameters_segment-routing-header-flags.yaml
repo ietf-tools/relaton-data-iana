@@ -1,0 +1,24 @@
+---
+id: IANAipv6-parameters/segment-routing-header-flags
+title:
+  content: Segment Routing Header Flags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ipv6-parameters
+  type: src
+type: standard
+docid:
+  id: IANA ipv6-parameters/segment-routing-header-flags
+  type: IANA
+docnumber: ipv6-parameters/segment-routing-header-flags
+date:
+  type: updated
+  value: '2021-08-12'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

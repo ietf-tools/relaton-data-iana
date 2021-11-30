@@ -1,0 +1,26 @@
+---
+id: IANAforces/logical-types
+title:
+  content: Logical Functional Block (LFB) Class Names and Class Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/forces
+  type: src
+type: standard
+docid:
+  id: IANA forces/logical-types
+  type: IANA
+docnumber: forces/logical-types
+date:
+- type: created
+  value: '2009-03-12'
+- type: updated
+  value: '2017-02-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

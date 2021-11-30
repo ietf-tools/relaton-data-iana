@@ -1,0 +1,26 @@
+---
+id: IANAospf-lls-tlvs/ospf-lls-tlvs-2
+title:
+  content: LLS Type 1 Extended Options and Flags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ospf-lls-tlvs
+  type: src
+type: standard
+docid:
+  id: IANA ospf-lls-tlvs/ospf-lls-tlvs-2
+  type: IANA
+docnumber: ospf-lls-tlvs/ospf-lls-tlvs-2
+date:
+- type: created
+  value: '2007-01-31'
+- type: updated
+  value: '2021-05-17'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

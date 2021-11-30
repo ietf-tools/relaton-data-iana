@@ -1,0 +1,26 @@
+---
+id: IANAmanet-parameters/nbr-addr-type-address-block-tlv-type-extension
+title:
+  content: Type 9 Address Block TLV Type Extensions
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/manet-parameters
+  type: src
+type: standard
+docid:
+  id: IANA manet-parameters/nbr-addr-type-address-block-tlv-type-extension
+  type: IANA
+docnumber: manet-parameters/nbr-addr-type-address-block-tlv-type-extension
+date:
+- type: created
+  value: '2008-12-23'
+- type: updated
+  value: '2019-12-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

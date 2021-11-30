@@ -1,0 +1,26 @@
+---
+id: IANAbabel/flags
+title:
+  content: Babel Update Flags Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/babel
+  type: src
+type: standard
+docid:
+  id: IANA babel/flags
+  type: IANA
+docnumber: babel/flags
+date:
+- type: created
+  value: '2015-04-14'
+- type: updated
+  value: '2021-08-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

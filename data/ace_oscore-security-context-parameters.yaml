@@ -1,0 +1,26 @@
+---
+id: IANAace/oscore-security-context-parameters
+title:
+  content: OSCORE Security Context Parameters
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ace
+  type: src
+type: standard
+docid:
+  id: IANA ace/oscore-security-context-parameters
+  type: IANA
+docnumber: ace/oscore-security-context-parameters
+date:
+- type: created
+  value: '2021-07-27'
+- type: updated
+  value: '2021-09-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

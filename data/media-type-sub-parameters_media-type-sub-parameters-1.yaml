@@ -1,0 +1,26 @@
+---
+id: IANAmedia-type-sub-parameters/media-type-sub-parameters-1
+title:
+  content: Sub-Parameter Registry video/mpeg4-generic, audio/mpeg4-generic and application/mpeg4-generic
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/media-type-sub-parameters
+  type: src
+type: standard
+docid:
+  id: IANA media-type-sub-parameters/media-type-sub-parameters-1
+  type: IANA
+docnumber: media-type-sub-parameters/media-type-sub-parameters-1
+date:
+- type: created
+  value: '2003-10-31'
+- type: updated
+  value: '2020-12-17'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

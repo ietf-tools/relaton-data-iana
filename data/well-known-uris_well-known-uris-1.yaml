@@ -1,0 +1,26 @@
+---
+id: IANAwell-known-uris/well-known-uris-1
+title:
+  content: Well-Known URIs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/well-known-uris
+  type: src
+type: standard
+docid:
+  id: IANA well-known-uris/well-known-uris-1
+  type: IANA
+docnumber: well-known-uris/well-known-uris-1
+date:
+- type: created
+  value: '2010-01-20'
+- type: updated
+  value: '2021-10-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

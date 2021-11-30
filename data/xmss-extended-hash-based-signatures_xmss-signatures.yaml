@@ -1,0 +1,26 @@
+---
+id: IANAxmss-extended-hash-based-signatures/xmss-signatures
+title:
+  content: XMSS Signatures
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/xmss-extended-hash-based-signatures
+  type: src
+type: standard
+docid:
+  id: IANA xmss-extended-hash-based-signatures/xmss-signatures
+  type: IANA
+docnumber: xmss-extended-hash-based-signatures/xmss-signatures
+date:
+- type: created
+  value: '2018-02-16'
+- type: updated
+  value: '2020-05-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

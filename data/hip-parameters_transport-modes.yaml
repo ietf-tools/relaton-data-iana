@@ -1,0 +1,26 @@
+---
+id: IANAhip-parameters/transport-modes
+title:
+  content: HIP Transport Modes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/hip-parameters
+  type: src
+type: standard
+docid:
+  id: IANA hip-parameters/transport-modes
+  type: IANA
+docnumber: hip-parameters/transport-modes
+date:
+- type: created
+  value: '2007-12-07'
+- type: updated
+  value: '2021-07-17'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAdevice-identification/dev-urn-subtypes
+title:
+  content: DEV URN Subtypes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/device-identification
+  type: src
+type: standard
+docid:
+  id: IANA device-identification/dev-urn-subtypes
+  type: IANA
+docnumber: device-identification/dev-urn-subtypes
+date:
+- type: created
+  value: '2021-03-26'
+- type: updated
+  value: '2021-08-27'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

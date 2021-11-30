@@ -1,0 +1,24 @@
+---
+id: IANAisakmp-registry/isakmp-registry-3
+title:
+  content: IPSEC Security Protocol Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/isakmp-registry
+  type: src
+type: standard
+docid:
+  id: IANA isakmp-registry/isakmp-registry-3
+  type: IANA
+docnumber: isakmp-registry/isakmp-registry-3
+date:
+  type: updated
+  value: '2012-07-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

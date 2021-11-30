@@ -1,0 +1,26 @@
+---
+id: IANAaodv-parameters/message-types
+title:
+  content: AODV Message Types (for messages sent to port 654)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/aodv-parameters
+  type: src
+type: standard
+docid:
+  id: IANA aodv-parameters/message-types
+  type: IANA
+docnumber: aodv-parameters/message-types
+date:
+- type: created
+  value: '2003-05-19'
+- type: updated
+  value: '2003-07-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

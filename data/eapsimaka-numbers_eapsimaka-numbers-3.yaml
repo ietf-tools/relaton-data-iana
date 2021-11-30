@@ -1,0 +1,26 @@
+---
+id: IANAeapsimaka-numbers/eapsimaka-numbers-3
+title:
+  content: Attribute Types (Skippable Attributes 128-255)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eapsimaka-numbers
+  type: src
+type: standard
+docid:
+  id: IANA eapsimaka-numbers/eapsimaka-numbers-3
+  type: IANA
+docnumber: eapsimaka-numbers/eapsimaka-numbers-3
+date:
+- type: created
+  value: '2005-05-02'
+- type: updated
+  value: '2021-10-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

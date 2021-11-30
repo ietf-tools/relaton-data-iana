@@ -1,0 +1,24 @@
+---
+id: IANAbgp-parameters/bgp-prefix-sid-tlv-types
+title:
+  content: BGP Prefix-SID TLV Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA bgp-parameters/bgp-prefix-sid-tlv-types
+  type: IANA
+docnumber: bgp-parameters/bgp-prefix-sid-tlv-types
+date:
+  type: updated
+  value: '2021-10-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,24 @@
+---
+id: IANAmadcap-parameters/madcap-parameters-3
+title:
+  content: MADCAP Lease Identifier Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/madcap-parameters
+  type: src
+type: standard
+docid:
+  id: IANA madcap-parameters/madcap-parameters-3
+  type: IANA
+docnumber: madcap-parameters/madcap-parameters-3
+date:
+  type: updated
+  value: '2001-08-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

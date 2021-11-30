@@ -1,0 +1,26 @@
+---
+id: IANAmanet-parameters/link-metric-address-block-tlv-type-extension
+title:
+  content: LINK_METRIC Address Block TLV Type Extensions
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/manet-parameters
+  type: src
+type: standard
+docid:
+  id: IANA manet-parameters/link-metric-address-block-tlv-type-extension
+  type: IANA
+docnumber: manet-parameters/link-metric-address-block-tlv-type-extension
+date:
+- type: created
+  value: '2008-12-23'
+- type: updated
+  value: '2019-12-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

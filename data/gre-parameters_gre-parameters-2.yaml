@@ -1,0 +1,24 @@
+---
+id: IANAgre-parameters/gre-parameters-2
+title:
+  content: GRE Version Numbers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/gre-parameters
+  type: src
+type: standard
+docid:
+  id: IANA gre-parameters/gre-parameters-2
+  type: IANA
+docnumber: gre-parameters/gre-parameters-2
+date:
+  type: updated
+  value: '2009-05-21'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

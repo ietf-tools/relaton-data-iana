@@ -1,0 +1,26 @@
+---
+id: IANAisis-pdu/pdu
+title:
+  content: IS-IS PDU Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/isis-pdu
+  type: src
+type: standard
+docid:
+  id: IANA isis-pdu/pdu
+  type: IANA
+docnumber: isis-pdu/pdu
+date:
+- type: created
+  value: '2011-03-02'
+- type: updated
+  value: '2017-10-24'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

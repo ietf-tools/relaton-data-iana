@@ -1,0 +1,26 @@
+---
+id: IANAmih/mih-1
+title:
+  content: MIH Table of Mappings From Service Field Values to Transport Protocols
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mih
+  type: src
+type: standard
+docid:
+  id: IANA mih/mih-1
+  type: IANA
+docnumber: mih/mih-1
+date:
+- type: created
+  value: '2009-09-03'
+- type: updated
+  value: '2009-09-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAleighton-micali-signatures/lm-ots-signatures
+title:
+  content: LM-OTS Signatures
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/leighton-micali-signatures
+  type: src
+type: standard
+docid:
+  id: IANA leighton-micali-signatures/lm-ots-signatures
+  type: IANA
+docnumber: leighton-micali-signatures/lm-ots-signatures
+date:
+- type: created
+  value: '2019-02-01'
+- type: updated
+  value: '2021-06-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

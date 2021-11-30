@@ -1,0 +1,26 @@
+---
+id: IANAaaa-parameters/aaa-parameters-47
+title:
+  content: Command Codes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/aaa-parameters
+  type: src
+type: standard
+docid:
+  id: IANA aaa-parameters/aaa-parameters-47
+  type: IANA
+docnumber: aaa-parameters/aaa-parameters-47
+date:
+- type: created
+  value: '2003-04-08'
+- type: updated
+  value: '2019-08-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

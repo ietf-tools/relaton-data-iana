@@ -1,0 +1,26 @@
+---
+id: IANAiotp-codes/iotp-codes-11
+title:
+  content: Attribute/Content
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/iotp-codes
+  type: src
+type: standard
+docid:
+  id: IANA iotp-codes/iotp-codes-11
+  type: IANA
+docnumber: iotp-codes/iotp-codes-11
+date:
+- type: created
+  value: 2000-04
+- type: updated
+  value: '2012-02-02'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

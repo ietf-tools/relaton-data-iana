@@ -1,0 +1,26 @@
+---
+id: IANAepp-extension-role-values/epp-extension-role-values-1
+title:
+  content: EPP Organization Role Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/epp-extension-role-values
+  type: src
+type: standard
+docid:
+  id: IANA epp-extension-role-values/epp-extension-role-values-1
+  type: IANA
+docnumber: epp-extension-role-values/epp-extension-role-values-1
+date:
+- type: created
+  value: '2018-12-26'
+- type: updated
+  value: '2019-12-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

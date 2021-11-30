@@ -1,0 +1,24 @@
+---
+id: IANArtp-parameters/rtp-parameters-5
+title:
+  content: RTP SDES Item Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rtp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA rtp-parameters/rtp-parameters-5
+  type: IANA
+docnumber: rtp-parameters/rtp-parameters-5
+date:
+  type: updated
+  value: '2021-10-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

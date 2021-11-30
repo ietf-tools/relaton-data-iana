@@ -1,0 +1,24 @@
+---
+id: IANAppp-numbers/ppp-numbers-5
+title:
+  content: PPP TNCP Configuration Option Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ppp-numbers
+  type: src
+type: standard
+docid:
+  id: IANA ppp-numbers/ppp-numbers-5
+  type: IANA
+docnumber: ppp-numbers/ppp-numbers-5
+date:
+  type: updated
+  value: '2021-04-22'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

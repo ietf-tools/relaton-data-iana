@@ -1,0 +1,26 @@
+---
+id: IANApkix-parameters/srv-protocol-labels
+title:
+  content: PKIX SRV Protocol Labels
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pkix-parameters
+  type: src
+type: standard
+docid:
+  id: IANA pkix-parameters/srv-protocol-labels
+  type: IANA
+docnumber: pkix-parameters/srv-protocol-labels
+date:
+- type: created
+  value: '2003-12-23'
+- type: updated
+  value: '2021-08-17'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

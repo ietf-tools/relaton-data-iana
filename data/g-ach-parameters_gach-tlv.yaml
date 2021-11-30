@@ -1,0 +1,26 @@
+---
+id: IANAg-ach-parameters/gach-tlv
+title:
+  content: 'G-ACh Advertisement Protocol: GAP TLV Objects (Application ID 0)'
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/g-ach-parameters
+  type: src
+type: standard
+docid:
+  id: IANA g-ach-parameters/gach-tlv
+  type: IANA
+docnumber: g-ach-parameters/gach-tlv
+date:
+- type: created
+  value: '2014-02-07'
+- type: updated
+  value: '2021-03-24'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

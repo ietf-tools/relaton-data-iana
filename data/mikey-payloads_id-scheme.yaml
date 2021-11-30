@@ -1,0 +1,26 @@
+---
+id: IANAmikey-payloads/id-scheme
+title:
+  content: ID Scheme
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mikey-payloads
+  type: src
+type: standard
+docid:
+  id: IANA mikey-payloads/id-scheme
+  type: IANA
+docnumber: mikey-payloads/id-scheme
+date:
+- type: created
+  value: '2004-05-21'
+- type: updated
+  value: '2019-02-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

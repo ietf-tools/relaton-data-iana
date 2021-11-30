@@ -1,0 +1,26 @@
+---
+id: IANAgdoi-payloads/gdoi-sa-tek-attributes
+title:
+  content: GDOI SA TEK Attributes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/gdoi-payloads
+  type: src
+type: standard
+docid:
+  id: IANA gdoi-payloads/gdoi-sa-tek-attributes
+  type: IANA
+docnumber: gdoi-payloads/gdoi-sa-tek-attributes
+date:
+- type: created
+  value: '2003-03-28'
+- type: updated
+  value: '2017-12-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

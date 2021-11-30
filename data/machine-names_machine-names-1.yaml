@@ -1,0 +1,24 @@
+---
+id: IANAmachine-names/machine-names-1
+title:
+  content: Machine Names
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/machine-names
+  type: src
+type: standard
+docid:
+  id: IANA machine-names/machine-names-1
+  type: IANA
+docnumber: machine-names/machine-names-1
+date:
+  type: updated
+  value: '2001-08-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

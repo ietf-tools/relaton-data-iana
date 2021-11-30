@@ -1,0 +1,24 @@
+---
+id: IANAsmi-numbers/private-enterprise-numbers
+title:
+  content: SMI Network Management Private Enterprise Codes (PEN)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/smi-numbers
+  type: src
+type: standard
+docid:
+  id: IANA smi-numbers/private-enterprise-numbers
+  type: IANA
+docnumber: smi-numbers/private-enterprise-numbers
+date:
+  type: updated
+  value: '2021-11-08'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

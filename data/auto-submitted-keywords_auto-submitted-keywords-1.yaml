@@ -1,0 +1,26 @@
+---
+id: IANAauto-submitted-keywords/auto-submitted-keywords-1
+title:
+  content: Auto-Submitted Header Field Keywords
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/auto-submitted-keywords
+  type: src
+type: standard
+docid:
+  id: IANA auto-submitted-keywords/auto-submitted-keywords-1
+  type: IANA
+docnumber: auto-submitted-keywords/auto-submitted-keywords-1
+date:
+- type: created
+  value: '2008-12-23'
+- type: updated
+  value: '2009-02-02'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

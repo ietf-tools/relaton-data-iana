@@ -1,0 +1,26 @@
+---
+id: IANAikev2-parameters/ikev2-parameters-1
+title:
+  content: IKEv2 Exchange Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ikev2-parameters
+  type: src
+type: standard
+docid:
+  id: IANA ikev2-parameters/ikev2-parameters-1
+  type: IANA
+docnumber: ikev2-parameters/ikev2-parameters-1
+date:
+- type: created
+  value: '2005-01-18'
+- type: updated
+  value: '2021-11-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

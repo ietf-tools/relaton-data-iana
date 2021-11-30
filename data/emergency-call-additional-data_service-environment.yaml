@@ -1,0 +1,26 @@
+---
+id: IANAemergency-call-additional-data/service-environment
+title:
+  content: Service Environment
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/emergency-call-additional-data
+  type: src
+type: standard
+docid:
+  id: IANA emergency-call-additional-data/service-environment
+  type: IANA
+docnumber: emergency-call-additional-data/service-environment
+date:
+- type: created
+  value: '2015-12-10'
+- type: updated
+  value: '2020-09-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

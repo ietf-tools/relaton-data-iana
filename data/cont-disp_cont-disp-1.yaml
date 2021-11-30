@@ -1,0 +1,24 @@
+---
+id: IANAcont-disp/cont-disp-1
+title:
+  content: Content Disposition Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/cont-disp
+  type: src
+type: standard
+docid:
+  id: IANA cont-disp/cont-disp-1
+  type: IANA
+docnumber: cont-disp/cont-disp-1
+date:
+  type: updated
+  value: '2021-09-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

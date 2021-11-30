@@ -1,0 +1,26 @@
+---
+id: IANAmulticast-acquisition/method
+title:
+  content: Multicast Acquisition Method Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/multicast-acquisition
+  type: src
+type: standard
+docid:
+  id: IANA multicast-acquisition/method
+  type: IANA
+docnumber: multicast-acquisition/method
+date:
+- type: created
+  value: '2011-06-17'
+- type: updated
+  value: '2015-05-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,24 @@
+---
+id: IANAdns-parameters/dns-parameters-14
+title:
+  content: EDNS version Number (8 bits)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dns-parameters
+  type: src
+type: standard
+docid:
+  id: IANA dns-parameters/dns-parameters-14
+  type: IANA
+docnumber: dns-parameters/dns-parameters-14
+date:
+  type: updated
+  value: '2021-10-22'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

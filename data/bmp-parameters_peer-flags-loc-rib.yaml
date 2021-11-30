@@ -1,0 +1,26 @@
+---
+id: IANAbmp-parameters/peer-flags-loc-rib
+title:
+  content: BMP Peer Flags for Loc-RIB Instance Peer Type 3
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bmp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA bmp-parameters/peer-flags-loc-rib
+  type: IANA
+docnumber: bmp-parameters/peer-flags-loc-rib
+date:
+- type: created
+  value: '2016-04-14'
+- type: updated
+  value: '2021-08-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

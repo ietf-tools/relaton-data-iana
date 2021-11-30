@@ -1,0 +1,24 @@
+---
+id: IANAip-xns-mapping/ip-xns-mapping-1
+title:
+  content: ip-xns-mapping-1
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ip-xns-mapping
+  type: src
+type: standard
+docid:
+  id: IANA ip-xns-mapping/ip-xns-mapping-1
+  type: IANA
+docnumber: ip-xns-mapping/ip-xns-mapping-1
+date:
+  type: updated
+  value: '2001-06-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

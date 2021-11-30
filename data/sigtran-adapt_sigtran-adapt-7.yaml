@@ -1,0 +1,27 @@
+---
+id: IANAsigtran-adapt/sigtran-adapt-7
+title:
+  content: Message Types - Q.921/Q.931 Boundary Primitives Transport (QPTM) Messages
+    (Value 5)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/sigtran-adapt
+  type: src
+type: standard
+docid:
+  id: IANA sigtran-adapt/sigtran-adapt-7
+  type: IANA
+docnumber: sigtran-adapt/sigtran-adapt-7
+date:
+- type: created
+  value: '2002-08-12'
+- type: updated
+  value: '2011-12-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

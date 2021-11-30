@@ -1,0 +1,26 @@
+---
+id: IANAtrill-parameters/interested-labels-flags
+title:
+  content: Interested Labels Flag Bits
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/trill-parameters
+  type: src
+type: standard
+docid:
+  id: IANA trill-parameters/interested-labels-flags
+  type: IANA
+docnumber: trill-parameters/interested-labels-flags
+date:
+- type: created
+  value: '2010-03-26'
+- type: updated
+  value: '2019-04-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

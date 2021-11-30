@@ -1,0 +1,27 @@
+---
+id: IANAsigtran-adapt/sigtran-adapt-16
+title:
+  content: Message Types - V5 Boundary Primitives Transport (V5PTM) Messages (Value
+    14)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/sigtran-adapt
+  type: src
+type: standard
+docid:
+  id: IANA sigtran-adapt/sigtran-adapt-16
+  type: IANA
+docnumber: sigtran-adapt/sigtran-adapt-16
+date:
+- type: created
+  value: '2002-08-12'
+- type: updated
+  value: '2011-12-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

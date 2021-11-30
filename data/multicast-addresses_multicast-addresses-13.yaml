@@ -1,0 +1,24 @@
+---
+id: IANAmulticast-addresses/multicast-addresses-13
+title:
+  content: Relative Addresses used with Scoped Multicast Addresses
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/multicast-addresses
+  type: src
+type: standard
+docid:
+  id: IANA multicast-addresses/multicast-addresses-13
+  type: IANA
+docnumber: multicast-addresses/multicast-addresses-13
+date:
+  type: updated
+  value: '2021-10-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

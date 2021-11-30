@@ -1,0 +1,26 @@
+---
+id: IANAmobility-parameters/mobile-node-group-id-type
+title:
+  content: Mobile Node Group Identifier Type Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+  id: IANA mobility-parameters/mobile-node-group-id-type
+  type: IANA
+docnumber: mobility-parameters/mobile-node-group-id-type
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

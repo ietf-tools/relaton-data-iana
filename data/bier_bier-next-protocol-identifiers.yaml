@@ -1,0 +1,26 @@
+---
+id: IANAbier/bier-next-protocol-identifiers
+title:
+  content: BIER Next Protocol Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bier
+  type: src
+type: standard
+docid:
+  id: IANA bier/bier-next-protocol-identifiers
+  type: IANA
+docnumber: bier/bier-next-protocol-identifiers
+date:
+- type: created
+  value: '2017-10-31'
+- type: updated
+  value: '2018-06-08'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAcdni-parameters/logging-record-types
+title:
+  content: CDNI Logging record-types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/cdni-parameters
+  type: src
+type: standard
+docid:
+  id: IANA cdni-parameters/logging-record-types
+  type: IANA
+docnumber: cdni-parameters/logging-record-types
+date:
+- type: created
+  value: '2015-10-22'
+- type: updated
+  value: '2021-10-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

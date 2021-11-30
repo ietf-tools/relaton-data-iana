@@ -1,0 +1,26 @@
+---
+id: IANAoauth-parameters/pkce-code-challenge-method
+title:
+  content: PKCE Code Challenge Methods
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/oauth-parameters
+  type: src
+type: standard
+docid:
+  id: IANA oauth-parameters/pkce-code-challenge-method
+  type: IANA
+docnumber: oauth-parameters/pkce-code-challenge-method
+date:
+- type: created
+  value: '2012-07-27'
+- type: updated
+  value: '2021-09-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

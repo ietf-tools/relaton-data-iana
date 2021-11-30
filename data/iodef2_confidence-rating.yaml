@@ -1,0 +1,26 @@
+---
+id: IANAiodef2/confidence-rating
+title:
+  content: Confidence-rating
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/iodef2
+  type: src
+type: standard
+docid:
+  id: IANA iodef2/confidence-rating
+  type: IANA
+docnumber: iodef2/confidence-rating
+date:
+- type: created
+  value: '2016-08-16'
+- type: updated
+  value: '2016-12-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

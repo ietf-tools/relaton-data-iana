@@ -1,0 +1,26 @@
+---
+id: IANAnts/nts-next-protocols
+title:
+  content: Network Time Security Next Protocols
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/nts
+  type: src
+type: standard
+docid:
+  id: IANA nts/nts-next-protocols
+  type: IANA
+docnumber: nts/nts-next-protocols
+date:
+- type: created
+  value: '2020-04-07'
+- type: updated
+  value: '2021-02-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

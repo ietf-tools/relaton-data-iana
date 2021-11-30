@@ -1,0 +1,26 @@
+---
+id: IANAmobility-parameters/dsmipv6-home-address-option
+title:
+  content: Dual Stack MIPv6 (DSMIPv6) IPv4 Home Address Option Status Codes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+  id: IANA mobility-parameters/dsmipv6-home-address-option
+  type: IANA
+docnumber: mobility-parameters/dsmipv6-home-address-option
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

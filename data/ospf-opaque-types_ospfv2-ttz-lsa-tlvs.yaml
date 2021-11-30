@@ -1,0 +1,24 @@
+---
+id: IANAospf-opaque-types/ospfv2-ttz-lsa-tlvs
+title:
+  content: OSPFv2 TTZ LSA TLVs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ospf-opaque-types
+  type: src
+type: standard
+docid:
+  id: IANA ospf-opaque-types/ospfv2-ttz-lsa-tlvs
+  type: IANA
+docnumber: ospf-opaque-types/ospfv2-ttz-lsa-tlvs
+date:
+  type: updated
+  value: '2021-06-18'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

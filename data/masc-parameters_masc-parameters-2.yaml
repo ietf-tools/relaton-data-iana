@@ -1,0 +1,26 @@
+---
+id: IANAmasc-parameters/masc-parameters-2
+title:
+  content: MASC OPEN Message Optional Parameter Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/masc-parameters
+  type: src
+type: standard
+docid:
+  id: IANA masc-parameters/masc-parameters-2
+  type: IANA
+docnumber: masc-parameters/masc-parameters-2
+date:
+- type: created
+  value: 2000-09
+- type: updated
+  value: '2001-08-23'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

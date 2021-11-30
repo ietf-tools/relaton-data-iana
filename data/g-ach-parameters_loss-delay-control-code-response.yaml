@@ -1,0 +1,26 @@
+---
+id: IANAg-ach-parameters/loss-delay-control-code-response
+title:
+  content: 'Loss/Delay Measurement Control Code: Response Codes'
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/g-ach-parameters
+  type: src
+type: standard
+docid:
+  id: IANA g-ach-parameters/loss-delay-control-code-response
+  type: IANA
+docnumber: g-ach-parameters/loss-delay-control-code-response
+date:
+- type: created
+  value: '2014-02-07'
+- type: updated
+  value: '2021-03-24'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

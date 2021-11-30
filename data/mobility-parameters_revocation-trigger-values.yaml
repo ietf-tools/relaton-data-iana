@@ -1,0 +1,26 @@
+---
+id: IANAmobility-parameters/revocation-trigger-values
+title:
+  content: Revocation Trigger Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+  id: IANA mobility-parameters/revocation-trigger-values
+  type: IANA
+docnumber: mobility-parameters/revocation-trigger-values
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

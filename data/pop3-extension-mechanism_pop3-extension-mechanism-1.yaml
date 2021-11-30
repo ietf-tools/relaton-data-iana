@@ -1,0 +1,24 @@
+---
+id: IANApop3-extension-mechanism/pop3-extension-mechanism-1
+title:
+  content: POP3 Capabilities
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pop3-extension-mechanism
+  type: src
+type: standard
+docid:
+  id: IANA pop3-extension-mechanism/pop3-extension-mechanism-1
+  type: IANA
+docnumber: pop3-extension-mechanism/pop3-extension-mechanism-1
+date:
+  type: updated
+  value: '2013-03-13'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

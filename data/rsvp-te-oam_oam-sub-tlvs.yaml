@@ -1,0 +1,26 @@
+---
+id: IANArsvp-te-oam/oam-sub-tlvs
+title:
+  content: OAM Sub-TLVs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rsvp-te-oam
+  type: src
+type: standard
+docid:
+  id: IANA rsvp-te-oam/oam-sub-tlvs
+  type: IANA
+docnumber: rsvp-te-oam/oam-sub-tlvs
+date:
+- type: created
+  value: '2014-03-11'
+- type: updated
+  value: '2015-03-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

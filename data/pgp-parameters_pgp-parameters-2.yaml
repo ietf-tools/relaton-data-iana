@@ -1,0 +1,26 @@
+---
+id: IANApgp-parameters/pgp-parameters-2
+title:
+  content: PGP Packet Types/Tags
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pgp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA pgp-parameters/pgp-parameters-2
+  type: IANA
+docnumber: pgp-parameters/pgp-parameters-2
+date:
+- type: created
+  value: '2007-07-31'
+- type: updated
+  value: '2020-07-21'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

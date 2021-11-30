@@ -1,0 +1,26 @@
+---
+id: IANAbmp-parameters/initiation-peer-up-tlvs
+title:
+  content: BMP Initiation and Peer Up Information TLVs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bmp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA bmp-parameters/initiation-peer-up-tlvs
+  type: IANA
+docnumber: bmp-parameters/initiation-peer-up-tlvs
+date:
+- type: created
+  value: '2016-04-14'
+- type: updated
+  value: '2021-08-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

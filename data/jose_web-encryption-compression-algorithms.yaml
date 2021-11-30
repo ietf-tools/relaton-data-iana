@@ -1,0 +1,26 @@
+---
+id: IANAjose/web-encryption-compression-algorithms
+title:
+  content: JSON Web Encryption Compression Algorithms
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/jose
+  type: src
+type: standard
+docid:
+  id: IANA jose/web-encryption-compression-algorithms
+  type: IANA
+docnumber: jose/web-encryption-compression-algorithms
+date:
+- type: created
+  value: '2015-01-23'
+- type: updated
+  value: '2020-11-02'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

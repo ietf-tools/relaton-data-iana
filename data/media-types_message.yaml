@@ -1,0 +1,24 @@
+---
+id: IANAmedia-types/message
+title:
+  content: message
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/media-types
+  type: src
+type: standard
+docid:
+  id: IANA media-types/message
+  type: IANA
+docnumber: media-types/message
+date:
+  type: updated
+  value: '2021-11-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

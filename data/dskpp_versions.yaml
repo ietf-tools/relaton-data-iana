@@ -1,0 +1,26 @@
+---
+id: IANAdskpp/versions
+title:
+  content: DSKPP Version Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dskpp
+  type: src
+type: standard
+docid:
+  id: IANA dskpp/versions
+  type: IANA
+docnumber: dskpp/versions
+date:
+- type: created
+  value: '2010-09-21'
+- type: updated
+  value: '2015-06-08'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

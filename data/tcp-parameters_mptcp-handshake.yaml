@@ -1,0 +1,24 @@
+---
+id: IANAtcp-parameters/mptcp-handshake
+title:
+  content: MPTCP Handshake Algorithms
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/tcp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA tcp-parameters/mptcp-handshake
+  type: IANA
+docnumber: tcp-parameters/mptcp-handshake
+date:
+  type: updated
+  value: '2021-02-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAssh-parameters/ssh-parameters-24
+title:
+  content: Publickey Subsystem Attributes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ssh-parameters
+  type: src
+type: standard
+docid:
+  id: IANA ssh-parameters/ssh-parameters-24
+  type: IANA
+docnumber: ssh-parameters/ssh-parameters-24
+date:
+- type: created
+  value: '2005-06-02'
+- type: updated
+  value: '2021-09-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

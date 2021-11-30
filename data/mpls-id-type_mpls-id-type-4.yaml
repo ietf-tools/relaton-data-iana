@@ -1,0 +1,26 @@
+---
+id: IANAmpls-id-type/mpls-id-type-4
+title:
+  content: Q.2957 User-to-user Signaling for the Internet Protocol
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mpls-id-type
+  type: src
+type: standard
+docid:
+  id: IANA mpls-id-type/mpls-id-type-4
+  type: IANA
+docnumber: mpls-id-type/mpls-id-type-4
+date:
+- type: created
+  value: 2000-11
+- type: updated
+  value: '2011-05-05'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

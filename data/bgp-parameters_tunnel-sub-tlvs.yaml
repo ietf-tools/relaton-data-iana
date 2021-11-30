@@ -1,0 +1,24 @@
+---
+id: IANAbgp-parameters/tunnel-sub-tlvs
+title:
+  content: BGP Tunnel Encapsulation Attribute Sub-TLVs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA bgp-parameters/tunnel-sub-tlvs
+  type: IANA
+docnumber: bgp-parameters/tunnel-sub-tlvs
+date:
+  type: updated
+  value: '2021-10-19'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

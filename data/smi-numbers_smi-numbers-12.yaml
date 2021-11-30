@@ -1,0 +1,24 @@
+---
+id: IANAsmi-numbers/smi-numbers-12
+title:
+  content: Internet-standard MIB - Network Services Monitoring
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/smi-numbers
+  type: src
+type: standard
+docid:
+  id: IANA smi-numbers/smi-numbers-12
+  type: IANA
+docnumber: smi-numbers/smi-numbers-12
+date:
+  type: updated
+  value: '2021-11-08'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

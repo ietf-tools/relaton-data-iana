@@ -1,0 +1,24 @@
+---
+id: IANAspi-numbers/spi-numbers-1
+title:
+  content: Security Parameters Index (SPI)
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/spi-numbers
+  type: src
+type: standard
+docid:
+  id: IANA spi-numbers/spi-numbers-1
+  type: IANA
+docnumber: spi-numbers/spi-numbers-1
+date:
+  type: updated
+  value: '2010-04-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

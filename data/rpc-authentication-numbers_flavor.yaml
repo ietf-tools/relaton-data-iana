@@ -1,0 +1,26 @@
+---
+id: IANArpc-authentication-numbers/flavor
+title:
+  content: RPC Authentication Flavor Numbers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rpc-authentication-numbers
+  type: src
+type: standard
+docid:
+  id: IANA rpc-authentication-numbers/flavor
+  type: IANA
+docnumber: rpc-authentication-numbers/flavor
+date:
+- type: created
+  value: '2009-04-15'
+- type: updated
+  value: '2020-11-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAeappotp-identifiers/eappotp-identifiers-2
+title:
+  content: Hash Algorithms
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eappotp-identifiers
+  type: src
+type: standard
+docid:
+  id: IANA eappotp-identifiers/eappotp-identifiers-2
+  type: IANA
+docnumber: eappotp-identifiers/eappotp-identifiers-2
+date:
+- type: created
+  value: '2006-11-12'
+- type: updated
+  value: '2013-07-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

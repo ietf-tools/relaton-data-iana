@@ -1,0 +1,26 @@
+---
+id: IANAlisp-parameters/lisp-act-value
+title:
+  content: LISP ACT values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/lisp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA lisp-parameters/lisp-act-value
+  type: IANA
+docnumber: lisp-parameters/lisp-act-value
+date:
+- type: created
+  value: '2012-04-25'
+- type: updated
+  value: '2021-03-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

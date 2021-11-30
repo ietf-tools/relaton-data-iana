@@ -1,0 +1,26 @@
+---
+id: IANAppspp/merkle-hash-tree
+title:
+  content: PPSP Peer Protocol Merkle Hash Tree Function Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ppspp
+  type: src
+type: standard
+docid:
+  id: IANA ppspp/merkle-hash-tree
+  type: IANA
+docnumber: ppspp/merkle-hash-tree
+date:
+- type: created
+  value: '2015-04-05'
+- type: updated
+  value: '2015-07-13'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

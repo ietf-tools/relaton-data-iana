@@ -1,0 +1,26 @@
+---
+id: IANAdkim-parameters/dkim-parameters-1
+title:
+  content: DKIM Signature Tag Specifications
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dkim-parameters
+  type: src
+type: standard
+docid:
+  id: IANA dkim-parameters/dkim-parameters-1
+  type: IANA
+docnumber: dkim-parameters/dkim-parameters-1
+date:
+- type: created
+  value: '2007-03-08'
+- type: updated
+  value: '2018-07-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

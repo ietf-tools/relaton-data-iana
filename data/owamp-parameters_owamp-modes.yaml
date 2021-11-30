@@ -1,0 +1,26 @@
+---
+id: IANAowamp-parameters/owamp-modes
+title:
+  content: OWAMP-Modes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/owamp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA owamp-parameters/owamp-modes
+  type: IANA
+docnumber: owamp-parameters/owamp-modes
+date:
+- type: created
+  value: '2015-10-27'
+- type: updated
+  value: '2016-01-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

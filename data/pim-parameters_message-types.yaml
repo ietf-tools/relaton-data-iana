@@ -1,0 +1,24 @@
+---
+id: IANApim-parameters/message-types
+title:
+  content: PIM Message Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pim-parameters
+  type: src
+type: standard
+docid:
+  id: IANA pim-parameters/message-types
+  type: IANA
+docnumber: pim-parameters/message-types
+date:
+  type: updated
+  value: '2020-11-27'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

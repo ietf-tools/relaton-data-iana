@@ -1,0 +1,26 @@
+---
+id: IANAauth-namespaces/auth-namespaces-1
+title:
+  content: Protocol Name Space Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/auth-namespaces
+  type: src
+type: standard
+docid:
+  id: IANA auth-namespaces/auth-namespaces-1
+  type: IANA
+docnumber: auth-namespaces/auth-namespaces-1
+date:
+- type: created
+  value: '2001-05-15'
+- type: updated
+  value: '2018-11-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

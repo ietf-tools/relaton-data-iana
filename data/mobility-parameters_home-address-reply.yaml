@@ -1,0 +1,26 @@
+---
+id: IANAmobility-parameters/home-address-reply
+title:
+  content: IPv4 Home Address Reply Status Codes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+  id: IANA mobility-parameters/home-address-reply
+  type: IANA
+docnumber: mobility-parameters/home-address-reply
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

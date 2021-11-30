@@ -1,0 +1,26 @@
+---
+id: IANArsvp-te-parameters/rsvp-te-parameters-1
+title:
+  content: Attributes TLV Space
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rsvp-te-parameters
+  type: src
+type: standard
+docid:
+  id: IANA rsvp-te-parameters/rsvp-te-parameters-1
+  type: IANA
+docnumber: rsvp-te-parameters/rsvp-te-parameters-1
+date:
+- type: created
+  value: '2006-01-23'
+- type: updated
+  value: '2019-07-17'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAace/oauth-error-code-cbor-mappings
+title:
+  content: OAuth Error Code CBOR Mappings
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ace
+  type: src
+type: standard
+docid:
+  id: IANA ace/oauth-error-code-cbor-mappings
+  type: IANA
+docnumber: ace/oauth-error-code-cbor-mappings
+date:
+- type: created
+  value: '2021-07-27'
+- type: updated
+  value: '2021-09-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

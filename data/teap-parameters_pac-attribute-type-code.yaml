@@ -1,0 +1,26 @@
+---
+id: IANAteap-parameters/pac-attribute-type-code
+title:
+  content: TEAP PAC TLV (value 11) PAC Attribute Type Codes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/teap-parameters
+  type: src
+type: standard
+docid:
+  id: IANA teap-parameters/pac-attribute-type-code
+  type: IANA
+docnumber: teap-parameters/pac-attribute-type-code
+date:
+- type: created
+  value: '2014-01-24'
+- type: updated
+  value: '2014-05-13'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

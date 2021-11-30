@@ -1,0 +1,26 @@
+---
+id: IANAiax-parameters/iax-parameters-14
+title:
+  content: IAX Encryption Methods
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/iax-parameters
+  type: src
+type: standard
+docid:
+  id: IANA iax-parameters/iax-parameters-14
+  type: IANA
+docnumber: iax-parameters/iax-parameters-14
+date:
+- type: created
+  value: '2008-12-03'
+- type: updated
+  value: '2011-12-07'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

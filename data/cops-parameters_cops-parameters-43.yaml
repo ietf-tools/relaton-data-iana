@@ -1,0 +1,26 @@
+---
+id: IANAcops-parameters/cops-parameters-43
+title:
+  content: Merge Strategies
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/cops-parameters
+  type: src
+type: standard
+docid:
+  id: IANA cops-parameters/cops-parameters-43
+  type: IANA
+docnumber: cops-parameters/cops-parameters-43
+date:
+- type: created
+  value: 2000-11
+- type: updated
+  value: '2012-09-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

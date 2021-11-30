@@ -1,0 +1,26 @@
+---
+id: IANAprophet/hello-tlv-flags-3-7
+title:
+  content: Hello TLV Flags 3-7
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/prophet
+  type: src
+type: standard
+docid:
+  id: IANA prophet/hello-tlv-flags-3-7
+  type: IANA
+docnumber: prophet/hello-tlv-flags-3-7
+date:
+- type: created
+  value: '2012-06-04'
+- type: updated
+  value: '2012-09-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

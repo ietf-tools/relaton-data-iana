@@ -1,0 +1,26 @@
+---
+id: IANArserpool-parameters/rserpool-parameters-2
+title:
+  content: Endpoint Handlespace Redundancy Protocol (ENRP) Message Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rserpool-parameters
+  type: src
+type: standard
+docid:
+  id: IANA rserpool-parameters/rserpool-parameters-2
+  type: IANA
+docnumber: rserpool-parameters/rserpool-parameters-2
+date:
+- type: created
+  value: '2008-07-25'
+- type: updated
+  value: '2008-09-30'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

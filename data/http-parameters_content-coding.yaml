@@ -1,0 +1,24 @@
+---
+id: IANAhttp-parameters/content-coding
+title:
+  content: HTTP Content Coding Registry
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/http-parameters
+  type: src
+type: standard
+docid:
+  id: IANA http-parameters/content-coding
+  type: IANA
+docnumber: http-parameters/content-coding
+date:
+  type: updated
+  value: '2021-10-06'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

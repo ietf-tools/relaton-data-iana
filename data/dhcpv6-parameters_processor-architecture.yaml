@@ -1,0 +1,26 @@
+---
+id: IANAdhcpv6-parameters/processor-architecture
+title:
+  content: Processor Architecture Types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dhcpv6-parameters
+  type: src
+type: standard
+docid:
+  id: IANA dhcpv6-parameters/processor-architecture
+  type: IANA
+docnumber: dhcpv6-parameters/processor-architecture
+date:
+- type: created
+  value: '2003-11-03'
+- type: updated
+  value: '2021-10-27'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

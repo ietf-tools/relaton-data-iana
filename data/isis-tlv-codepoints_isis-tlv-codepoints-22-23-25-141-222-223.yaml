@@ -1,0 +1,28 @@
+---
+id: IANAisis-tlv-codepoints/isis-tlv-codepoints-22-23-25-141-222-223
+title:
+  content: "Sub-TLVs for TLVs 22, 23, 25, 141, 222, and 223 \n      (Extended IS reachability,
+    IS Neighbor Attribute, L2 Bundle Member Attributes, \n      inter-AS reachability
+    information, MT-ISN, and MT IS Neighbor Attribute TLVs)"
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/isis-tlv-codepoints
+  type: src
+type: standard
+docid:
+  id: IANA isis-tlv-codepoints/isis-tlv-codepoints-22-23-25-141-222-223
+  type: IANA
+docnumber: isis-tlv-codepoints/isis-tlv-codepoints-22-23-25-141-222-223
+date:
+- type: created
+  value: '2003-05-06'
+- type: updated
+  value: '2021-10-28'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

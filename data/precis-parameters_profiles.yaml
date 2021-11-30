@@ -1,0 +1,26 @@
+---
+id: IANAprecis-parameters/profiles
+title:
+  content: PRECIS Profiles
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/precis-parameters
+  type: src
+type: standard
+docid:
+  id: IANA precis-parameters/profiles
+  type: IANA
+docnumber: precis-parameters/profiles
+date:
+- type: created
+  value: '2015-03-06'
+- type: updated
+  value: '2017-10-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

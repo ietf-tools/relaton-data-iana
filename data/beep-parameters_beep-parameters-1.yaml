@@ -1,0 +1,26 @@
+---
+id: IANAbeep-parameters/beep-parameters-1
+title:
+  content: BEEP Profiles
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/beep-parameters
+  type: src
+type: standard
+docid:
+  id: IANA beep-parameters/beep-parameters-1
+  type: IANA
+docnumber: beep-parameters/beep-parameters-1
+date:
+- type: created
+  value: '2000-01-30'
+- type: updated
+  value: '2009-06-10'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

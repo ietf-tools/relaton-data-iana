@@ -1,0 +1,26 @@
+---
+id: IANAnorm-parameters/norm_cmd-message-subtypes
+title:
+  content: NORM_CMD Message Sub-types
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/norm-parameters
+  type: src
+type: standard
+docid:
+  id: IANA norm-parameters/norm_cmd-message-subtypes
+  type: IANA
+docnumber: norm-parameters/norm_cmd-message-subtypes
+date:
+- type: created
+  value: '2009-09-17'
+- type: updated
+  value: '2009-11-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

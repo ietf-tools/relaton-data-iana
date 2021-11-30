@@ -1,0 +1,26 @@
+---
+id: IANAtrans/trans-log-ids
+title:
+  content: Log IDs
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/trans
+  type: src
+type: standard
+docid:
+  id: IANA trans/trans-log-ids
+  type: IANA
+docnumber: trans/trans-log-ids
+date:
+- type: created
+  value: '2021-08-04'
+- type: updated
+  value: '2021-09-01'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

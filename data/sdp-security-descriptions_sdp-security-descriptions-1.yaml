@@ -1,0 +1,26 @@
+---
+id: IANAsdp-security-descriptions/sdp-security-descriptions-1
+title:
+  content: Key Methods
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/sdp-security-descriptions
+  type: src
+type: standard
+docid:
+  id: IANA sdp-security-descriptions/sdp-security-descriptions-1
+  type: IANA
+docnumber: sdp-security-descriptions/sdp-security-descriptions-1
+date:
+- type: created
+  value: '2005-09-21'
+- type: updated
+  value: '2015-12-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAdots/dots-signal-channel-conflict-cause-codes
+title:
+  content: DOTS Signal Channel Conflict Cause Codes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/dots
+  type: src
+type: standard
+docid:
+  id: IANA dots/dots-signal-channel-conflict-cause-codes
+  type: IANA
+docnumber: dots/dots-signal-channel-conflict-cause-codes
+date:
+- type: created
+  value: '2020-01-16'
+- type: updated
+  value: '2021-09-08'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

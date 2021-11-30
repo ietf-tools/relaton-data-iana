@@ -1,0 +1,26 @@
+---
+id: IANAmarkdown-variants/variants
+title:
+  content: Markdown Variants
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/markdown-variants
+  type: src
+type: standard
+docid:
+  id: IANA markdown-variants/variants
+  type: IANA
+docnumber: markdown-variants/variants
+date:
+- type: created
+  value: '2015-10-22'
+- type: updated
+  value: '2020-01-13'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

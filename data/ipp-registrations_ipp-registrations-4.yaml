@@ -1,0 +1,26 @@
+---
+id: IANAipp-registrations/ipp-registrations-4
+title:
+  content: Keyword Attribute Values
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/ipp-registrations
+  type: src
+type: standard
+docid:
+  id: IANA ipp-registrations/ipp-registrations-4
+  type: IANA
+docnumber: ipp-registrations/ipp-registrations-4
+date:
+- type: created
+  value: '2002-07-15'
+- type: updated
+  value: '2021-10-14'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

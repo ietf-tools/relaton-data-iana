@@ -1,0 +1,26 @@
+---
+id: IANArtfm/attributes
+title:
+  content: RTFM Attributes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rtfm
+  type: src
+type: standard
+docid:
+  id: IANA rtfm/attributes
+  type: IANA
+docnumber: rtfm/attributes
+date:
+- type: created
+  value: '2009-10-15'
+- type: updated
+  value: '2009-10-15'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

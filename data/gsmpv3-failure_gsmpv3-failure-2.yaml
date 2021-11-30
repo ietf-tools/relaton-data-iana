@@ -1,0 +1,26 @@
+---
+id: IANAgsmpv3-failure/gsmpv3-failure-2
+title:
+  content: Failure Response Message Names
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/gsmpv3-failure
+  type: src
+type: standard
+docid:
+  id: IANA gsmpv3-failure/gsmpv3-failure-2
+  type: IANA
+docnumber: gsmpv3-failure/gsmpv3-failure-2
+date:
+- type: created
+  value: '2002-03-28'
+- type: updated
+  value: '2011-08-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAlisp-parameters/lisp-crypto-cipher-suite
+title:
+  content: LISP Crypto Cipher Suite
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/lisp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA lisp-parameters/lisp-crypto-cipher-suite
+  type: IANA
+docnumber: lisp-parameters/lisp-crypto-cipher-suite
+date:
+- type: created
+  value: '2012-04-25'
+- type: updated
+  value: '2021-03-25'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAnslp-parameters/transient-failure-errors
+title:
+  content: Transient Failure Codes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/nslp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA nslp-parameters/transient-failure-errors
+  type: IANA
+docnumber: nslp-parameters/transient-failure-errors
+date:
+- type: created
+  value: '2010-02-03'
+- type: updated
+  value: '2011-03-16'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

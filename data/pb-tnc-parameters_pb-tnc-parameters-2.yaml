@@ -1,0 +1,26 @@
+---
+id: IANApb-tnc-parameters/pb-tnc-parameters-2
+title:
+  content: PA Subtypes
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/pb-tnc-parameters
+  type: src
+type: standard
+docid:
+  id: IANA pb-tnc-parameters/pb-tnc-parameters-2
+  type: IANA
+docnumber: pb-tnc-parameters/pb-tnc-parameters-2
+date:
+- type: created
+  value: '2009-12-18'
+- type: updated
+  value: '2018-07-09'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

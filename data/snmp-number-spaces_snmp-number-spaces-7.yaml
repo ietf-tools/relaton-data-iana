@@ -1,0 +1,24 @@
+---
+id: IANAsnmp-number-spaces/snmp-number-spaces-7
+title:
+  content: SNMP Transport Domains
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/snmp-number-spaces
+  type: src
+type: standard
+docid:
+  id: IANA snmp-number-spaces/snmp-number-spaces-7
+  type: IANA
+docnumber: snmp-number-spaces/snmp-number-spaces-7
+date:
+  type: updated
+  value: '2016-05-03'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

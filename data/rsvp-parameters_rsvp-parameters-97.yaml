@@ -1,0 +1,24 @@
+---
+id: IANArsvp-parameters/rsvp-parameters-97
+title:
+  content: Virtual Destination Ports
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/rsvp-parameters
+  type: src
+type: standard
+docid:
+  id: IANA rsvp-parameters/rsvp-parameters-97
+  type: IANA
+docnumber: rsvp-parameters/rsvp-parameters-97
+date:
+  type: updated
+  value: '2019-12-11'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

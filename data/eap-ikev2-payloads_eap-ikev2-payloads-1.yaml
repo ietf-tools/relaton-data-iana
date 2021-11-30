@@ -1,0 +1,26 @@
+---
+id: IANAeap-ikev2-payloads/eap-ikev2-payloads-1
+title:
+  content: EAP-IKEv2 Payloads
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/eap-ikev2-payloads
+  type: src
+type: standard
+docid:
+  id: IANA eap-ikev2-payloads/eap-ikev2-payloads-1
+  type: IANA
+docnumber: eap-ikev2-payloads/eap-ikev2-payloads-1
+date:
+- type: created
+  value: '2007-11-02'
+- type: updated
+  value: '2013-07-26'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

@@ -1,0 +1,26 @@
+---
+id: IANAacme/acme-order-auto-renewal-fields
+title:
+  content: ACME Order Auto-Renewal Fields
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/acme
+  type: src
+type: standard
+docid:
+  id: IANA acme/acme-order-auto-renewal-fields
+  type: IANA
+docnumber: acme/acme-order-auto-renewal-fields
+date:
+- type: created
+  value: '2019-01-02'
+- type: updated
+  value: '2021-09-29'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

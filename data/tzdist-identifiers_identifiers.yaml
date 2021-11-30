@@ -1,0 +1,26 @@
+---
+id: IANAtzdist-identifiers/identifiers
+title:
+  content: TZDIST Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/tzdist-identifiers
+  type: src
+type: standard
+docid:
+  id: IANA tzdist-identifiers/identifiers
+  type: IANA
+docnumber: tzdist-identifiers/identifiers
+date:
+- type: created
+  value: '2015-08-05'
+- type: updated
+  value: '2016-04-04'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'

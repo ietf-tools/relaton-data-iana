@@ -1,0 +1,26 @@
+---
+id: IANA_6tisch/_6tisch-6p-scheduling-function-identifiers
+title:
+  content: 6P Scheduling Function Identifiers
+  format: text/plain
+link:
+  content: http://www.iana.org/assignments/_6tisch
+  type: src
+type: standard
+docid:
+  id: IANA _6tisch/_6tisch-6p-scheduling-function-identifiers
+  type: IANA
+docnumber: _6tisch/_6tisch-6p-scheduling-function-identifiers
+date:
+- type: created
+  value: '2018-08-20'
+- type: updated
+  value: '2021-06-21'
+contributor:
+  organization:
+    name: Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role: publisher
+language: en
+script: Latn
+fetched: '2021-11-30'
