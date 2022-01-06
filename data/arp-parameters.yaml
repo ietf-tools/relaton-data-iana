@@ -1,24 +1,28 @@
 ---
 id: IANAarp-parameters
 title:
-  content: Address Resolution Protocol (ARP) Parameters
+- content: Address Resolution Protocol (ARP) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/arp-parameters
+- content: http://www.iana.org/assignments/arp-parameters
   type: src
 type: standard
 docid:
-  id: IANA arp-parameters
+- id: IANA arp-parameters
   type: IANA
 docnumber: arp-parameters
 date:
-  type: updated
+- type: updated
   value: '2016-07-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

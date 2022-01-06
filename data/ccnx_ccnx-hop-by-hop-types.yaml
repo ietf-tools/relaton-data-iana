@@ -1,14 +1,14 @@
 ---
 id: IANAccnx/ccnx-hop-by-hop-types
 title:
-  content: CCNx Hop-by-Hop Types
+- content: CCNx Hop-by-Hop Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ccnx
+- content: http://www.iana.org/assignments/ccnx
   type: src
 type: standard
 docid:
-  id: IANA ccnx/ccnx-hop-by-hop-types
+- id: IANA ccnx/ccnx-hop-by-hop-types
   type: IANA
 docnumber: ccnx/ccnx-hop-by-hop-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

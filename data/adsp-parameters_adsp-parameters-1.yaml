@@ -1,14 +1,14 @@
 ---
 id: IANAadsp-parameters/adsp-parameters-1
 title:
-  content: ADSP Specification Tags
+- content: ADSP Specification Tags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/adsp-parameters
+- content: http://www.iana.org/assignments/adsp-parameters
   type: src
 type: standard
 docid:
-  id: IANA adsp-parameters/adsp-parameters-1
+- id: IANA adsp-parameters/adsp-parameters-1
   type: IANA
 docnumber: adsp-parameters/adsp-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-04-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

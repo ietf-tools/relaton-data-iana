@@ -1,14 +1,14 @@
 ---
 id: IANAreload/forwarding-options
 title:
-  content: RELOAD Forwarding Option Registry
+- content: RELOAD Forwarding Option Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/reload
+- content: http://www.iana.org/assignments/reload
   type: src
 type: standard
 docid:
-  id: IANA reload/forwarding-options
+- id: IANA reload/forwarding-options
   type: IANA
 docnumber: reload/forwarding-options
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-03-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

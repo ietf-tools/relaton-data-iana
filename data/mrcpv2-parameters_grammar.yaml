@@ -1,14 +1,14 @@
 ---
 id: IANAmrcpv2-parameters/grammar
 title:
-  content: Grammar Reference List Parameters
+- content: Grammar Reference List Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mrcpv2-parameters
+- content: http://www.iana.org/assignments/mrcpv2-parameters
   type: src
 type: standard
 docid:
-  id: IANA mrcpv2-parameters/grammar
+- id: IANA mrcpv2-parameters/grammar
   type: IANA
 docnumber: mrcpv2-parameters/grammar
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-11-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

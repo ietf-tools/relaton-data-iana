@@ -1,14 +1,14 @@
 ---
 id: IANAmedia-control-channel/status-codes
 title:
-  content: Status Codes
+- content: Status Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/media-control-channel
+- content: http://www.iana.org/assignments/media-control-channel
   type: src
 type: standard
 docid:
-  id: IANA media-control-channel/status-codes
+- id: IANA media-control-channel/status-codes
   type: IANA
 docnumber: media-control-channel/status-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-04-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

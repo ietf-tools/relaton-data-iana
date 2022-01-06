@@ -1,15 +1,15 @@
 ---
 id: IANAeap-fast-parameters
 title:
-  content: Flexible Authentication via Secure Tunneling Extensible Authentication
+- content: Flexible Authentication via Secure Tunneling Extensible Authentication
     Protocol (EAP-FAST) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/eap-fast-parameters
+- content: http://www.iana.org/assignments/eap-fast-parameters
   type: src
 type: standard
 docid:
-  id: IANA eap-fast-parameters
+- id: IANA eap-fast-parameters
   type: IANA
 docnumber: eap-fast-parameters
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2013-07-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

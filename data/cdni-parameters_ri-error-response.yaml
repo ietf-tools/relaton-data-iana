@@ -1,14 +1,14 @@
 ---
 id: IANAcdni-parameters/ri-error-response
 title:
-  content: CDNI RI Error response code
+- content: CDNI RI Error response code
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cdni-parameters
+- content: http://www.iana.org/assignments/cdni-parameters
   type: src
 type: standard
 docid:
-  id: IANA cdni-parameters/ri-error-response
+- id: IANA cdni-parameters/ri-error-response
   type: IANA
 docnumber: cdni-parameters/ri-error-response
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,15 +1,15 @@
 ---
 id: IANAule-next-headers/ule-next-headers-1
 title:
-  content: Mandatory Extension Headers (or link-dependent type fields) for ULE (Range
+- content: Mandatory Extension Headers (or link-dependent type fields) for ULE (Range
     0-255 decimal)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ule-next-headers
+- content: http://www.iana.org/assignments/ule-next-headers
   type: src
 type: standard
 docid:
-  id: IANA ule-next-headers/ule-next-headers-1
+- id: IANA ule-next-headers/ule-next-headers-1
   type: IANA
 docnumber: ule-next-headers/ule-next-headers-1
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2014-08-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

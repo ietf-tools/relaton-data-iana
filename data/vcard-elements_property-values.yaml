@@ -1,14 +1,14 @@
 ---
 id: IANAvcard-elements/property-values
 title:
-  content: vCard Property Values
+- content: vCard Property Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/vcard-elements
+- content: http://www.iana.org/assignments/vcard-elements
   type: src
 type: standard
 docid:
-  id: IANA vcard-elements/property-values
+- id: IANA vcard-elements/property-values
   type: IANA
 docnumber: vcard-elements/property-values
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-05-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

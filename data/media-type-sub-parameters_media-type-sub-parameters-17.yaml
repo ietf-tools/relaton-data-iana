@@ -1,14 +1,14 @@
 ---
 id: IANAmedia-type-sub-parameters/media-type-sub-parameters-17
 title:
-  content: Sub-parameter Registry for application/mbox
+- content: Sub-parameter Registry for application/mbox
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/media-type-sub-parameters
+- content: http://www.iana.org/assignments/media-type-sub-parameters
   type: src
 type: standard
 docid:
-  id: IANA media-type-sub-parameters/media-type-sub-parameters-17
+- id: IANA media-type-sub-parameters/media-type-sub-parameters-17
   type: IANA
 docnumber: media-type-sub-parameters/media-type-sub-parameters-17
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-12-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

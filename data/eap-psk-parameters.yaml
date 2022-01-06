@@ -1,14 +1,14 @@
 ---
 id: IANAeap-psk-parameters
 title:
-  content: Extensible Authentication Protocol (EAP) EXT_Type Parameters
+- content: Extensible Authentication Protocol (EAP) EXT_Type Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/eap-psk-parameters
+- content: http://www.iana.org/assignments/eap-psk-parameters
   type: src
 type: standard
 docid:
-  id: IANA eap-psk-parameters
+- id: IANA eap-psk-parameters
   type: IANA
 docnumber: eap-psk-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-07-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAlanguage-tags/language-tags-1
 title:
-  content: Language Tags
+- content: Language Tags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/language-tags
+- content: http://www.iana.org/assignments/language-tags
   type: src
 type: standard
 docid:
-  id: IANA language-tags/language-tags-1
+- id: IANA language-tags/language-tags-1
   type: IANA
 docnumber: language-tags/language-tags-1
 date:
-  type: updated
+- type: updated
   value: '2010-06-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

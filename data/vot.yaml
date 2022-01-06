@@ -1,14 +1,14 @@
 ---
 id: IANAvot
 title:
-  content: Vectors of Trust (VoT)
+- content: Vectors of Trust (VoT)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/vot
+- content: http://www.iana.org/assignments/vot
   type: src
 type: standard
 docid:
-  id: IANA vot
+- id: IANA vot
   type: IANA
 docnumber: vot
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-10-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAmanet-parameters/interval-time-message-type-extension
 title:
-  content: Type 0 Message TLV Type Extensions
+- content: Type 0 Message TLV Type Extensions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/manet-parameters
+- content: http://www.iana.org/assignments/manet-parameters
   type: src
 type: standard
 docid:
-  id: IANA manet-parameters/interval-time-message-type-extension
+- id: IANA manet-parameters/interval-time-message-type-extension
   type: IANA
 docnumber: manet-parameters/interval-time-message-type-extension
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-12-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

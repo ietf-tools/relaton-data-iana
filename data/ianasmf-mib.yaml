@@ -1,14 +1,14 @@
 ---
 id: IANAianasmf-mib
 title:
-  content: IANA-SMF-MIB
+- content: IANA-SMF-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianasmf-mib
+- content: http://www.iana.org/assignments/ianasmf-mib
   type: src
 type: standard
 docid:
-  id: IANA ianasmf-mib
+- id: IANA ianasmf-mib
   type: IANA
 docnumber: ianasmf-mib
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-10-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

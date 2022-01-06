@@ -1,14 +1,14 @@
 ---
 id: IANArolie/rolie-urn-parameters
 title:
-  content: ROLIE URN Parameters
+- content: ROLIE URN Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rolie
+- content: http://www.iana.org/assignments/rolie
   type: src
 type: standard
 docid:
-  id: IANA rolie/rolie-urn-parameters
+- id: IANA rolie/rolie-urn-parameters
   type: IANA
 docnumber: rolie/rolie-urn-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-02-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANArpl/rpl-rej-status
 title:
-  content: RPL Rejection Status
+- content: RPL Rejection Status
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpl
+- content: http://www.iana.org/assignments/rpl
   type: src
 type: standard
 docid:
-  id: IANA rpl/rpl-rej-status
+- id: IANA rpl/rpl-rej-status
   type: IANA
 docnumber: rpl/rpl-rej-status
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-05-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

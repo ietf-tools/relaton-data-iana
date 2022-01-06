@@ -1,14 +1,14 @@
 ---
 id: IANArsvp-te-oam/bfd-sub-tlvs
 title:
-  content: BFD Configuration Sub-TLV Types
+- content: BFD Configuration Sub-TLV Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rsvp-te-oam
+- content: http://www.iana.org/assignments/rsvp-te-oam
   type: src
 type: standard
 docid:
-  id: IANA rsvp-te-oam/bfd-sub-tlvs
+- id: IANA rsvp-te-oam/bfd-sub-tlvs
   type: IANA
 docnumber: rsvp-te-oam/bfd-sub-tlvs
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-03-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

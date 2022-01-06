@@ -1,14 +1,14 @@
 ---
 id: IANAgsakmp-parameters/gsakmp-parameters-4
 title:
-  content: GSAKMP Policy Token Types
+- content: GSAKMP Policy Token Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gsakmp-parameters
+- content: http://www.iana.org/assignments/gsakmp-parameters
   type: src
 type: standard
 docid:
-  id: IANA gsakmp-parameters/gsakmp-parameters-4
+- id: IANA gsakmp-parameters/gsakmp-parameters-4
   type: IANA
 docnumber: gsakmp-parameters/gsakmp-parameters-4
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-09-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

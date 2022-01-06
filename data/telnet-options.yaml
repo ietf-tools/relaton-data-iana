@@ -1,24 +1,28 @@
 ---
 id: IANAtelnet-options
 title:
-  content: Telnet Options
+- content: Telnet Options
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/telnet-options
+- content: http://www.iana.org/assignments/telnet-options
   type: src
 type: standard
 docid:
-  id: IANA telnet-options
+- id: IANA telnet-options
   type: IANA
 docnumber: telnet-options
 date:
-  type: updated
+- type: updated
   value: '2011-12-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAeap-noob/eap-noob-serverinfo-data-fields
 title:
-  content: EAP-NOOB ServerInfo Data Fields
+- content: EAP-NOOB ServerInfo Data Fields
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/eap-noob
+- content: http://www.iana.org/assignments/eap-noob
   type: src
 type: standard
 docid:
-  id: IANA eap-noob/eap-noob-serverinfo-data-fields
+- id: IANA eap-noob/eap-noob-serverinfo-data-fields
   type: IANA
 docnumber: eap-noob/eap-noob-serverinfo-data-fields
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

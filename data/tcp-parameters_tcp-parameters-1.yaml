@@ -1,24 +1,28 @@
 ---
 id: IANAtcp-parameters/tcp-parameters-1
 title:
-  content: TCP Option Kind Numbers
+- content: TCP Option Kind Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tcp-parameters
+- content: http://www.iana.org/assignments/tcp-parameters
   type: src
 type: standard
 docid:
-  id: IANA tcp-parameters/tcp-parameters-1
+- id: IANA tcp-parameters/tcp-parameters-1
   type: IANA
 docnumber: tcp-parameters/tcp-parameters-1
 date:
-  type: updated
+- type: updated
   value: '2021-02-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

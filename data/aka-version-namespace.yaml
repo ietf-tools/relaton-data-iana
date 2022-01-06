@@ -1,14 +1,14 @@
 ---
 id: IANAaka-version-namespace
 title:
-  content: AKA-Version Namespace
+- content: AKA-Version Namespace
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/aka-version-namespace
+- content: http://www.iana.org/assignments/aka-version-namespace
   type: src
 type: standard
 docid:
-  id: IANA aka-version-namespace
+- id: IANA aka-version-namespace
   type: IANA
 docnumber: aka-version-namespace
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2005-11-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

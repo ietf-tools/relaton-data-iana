@@ -1,14 +1,14 @@
 ---
 id: IANAxcap-parameters
 title:
-  content: Extensible Markup Language (XML) Configuration Access Protocol (XCAP) Parameters
+- content: Extensible Markup Language (XML) Configuration Access Protocol (XCAP) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/xcap-parameters
+- content: http://www.iana.org/assignments/xcap-parameters
   type: src
 type: standard
 docid:
-  id: IANA xcap-parameters
+- id: IANA xcap-parameters
   type: IANA
 docnumber: xcap-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-01-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAcalipso
 title:
-  content: Common Architecture Label IPv6 Security Option (CALIPSO)
+- content: Common Architecture Label IPv6 Security Option (CALIPSO)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/calipso
+- content: http://www.iana.org/assignments/calipso
   type: src
 type: standard
 docid:
-  id: IANA calipso
+- id: IANA calipso
   type: IANA
 docnumber: calipso
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-07-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

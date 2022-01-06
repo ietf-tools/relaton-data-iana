@@ -1,14 +1,14 @@
 ---
 id: IANAicalendar/value-data-types
 title:
-  content: Value Data Types
+- content: Value Data Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/icalendar
+- content: http://www.iana.org/assignments/icalendar
   type: src
 type: standard
 docid:
-  id: IANA icalendar/value-data-types
+- id: IANA icalendar/value-data-types
   type: IANA
 docnumber: icalendar/value-data-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

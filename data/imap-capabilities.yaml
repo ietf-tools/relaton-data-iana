@@ -1,24 +1,28 @@
 ---
 id: IANAimap-capabilities
 title:
-  content: Internet Message Access Protocol (IMAP) Capabilities Registry
+- content: Internet Message Access Protocol (IMAP) Capabilities Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/imap-capabilities
+- content: http://www.iana.org/assignments/imap-capabilities
   type: src
 type: standard
 docid:
-  id: IANA imap-capabilities
+- id: IANA imap-capabilities
   type: IANA
 docnumber: imap-capabilities
 date:
-  type: updated
+- type: updated
   value: '2021-08-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

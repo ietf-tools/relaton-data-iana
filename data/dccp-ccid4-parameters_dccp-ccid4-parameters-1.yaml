@@ -1,14 +1,14 @@
 ---
 id: IANAdccp-ccid4-parameters/dccp-ccid4-parameters-1
 title:
-  content: CCID4-specific Reset codes (128-255)
+- content: CCID4-specific Reset codes (128-255)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dccp-ccid4-parameters
+- content: http://www.iana.org/assignments/dccp-ccid4-parameters
   type: src
 type: standard
 docid:
-  id: IANA dccp-ccid4-parameters/dccp-ccid4-parameters-1
+- id: IANA dccp-ccid4-parameters/dccp-ccid4-parameters-1
   type: IANA
 docnumber: dccp-ccid4-parameters/dccp-ccid4-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-08-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

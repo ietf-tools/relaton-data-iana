@@ -1,24 +1,28 @@
 ---
 id: IANArip-types
 title:
-  content: Routing Information Protocol (RIP) Parameters
+- content: Routing Information Protocol (RIP) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rip-types
+- content: http://www.iana.org/assignments/rip-types
   type: src
 type: standard
 docid:
-  id: IANA rip-types
+- id: IANA rip-types
   type: IANA
 docnumber: rip-types
 date:
-  type: updated
+- type: updated
   value: '2018-06-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

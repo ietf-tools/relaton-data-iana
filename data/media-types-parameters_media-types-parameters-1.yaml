@@ -1,24 +1,28 @@
 ---
 id: IANAmedia-types-parameters/media-types-parameters-1
 title:
-  content: MIME to X.400 Table
+- content: MIME to X.400 Table
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/media-types-parameters
+- content: http://www.iana.org/assignments/media-types-parameters
   type: src
 type: standard
 docid:
-  id: IANA media-types-parameters/media-types-parameters-1
+- id: IANA media-types-parameters/media-types-parameters-1
   type: IANA
 docnumber: media-types-parameters/media-types-parameters-1
 date:
-  type: updated
+- type: updated
   value: '2012-09-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

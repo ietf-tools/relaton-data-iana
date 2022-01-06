@@ -1,14 +1,14 @@
 ---
 id: IANAtcp-convert-protocol-parameters
 title:
-  content: TCP Convert Protocol (Convert) Parameters
+- content: TCP Convert Protocol (Convert) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tcp-convert-protocol-parameters
+- content: http://www.iana.org/assignments/tcp-convert-protocol-parameters
   type: src
 type: standard
 docid:
-  id: IANA tcp-convert-protocol-parameters
+- id: IANA tcp-convert-protocol-parameters
   type: IANA
 docnumber: tcp-convert-protocol-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-07-31'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

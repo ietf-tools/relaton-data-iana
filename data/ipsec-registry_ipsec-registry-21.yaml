@@ -1,24 +1,28 @@
 ---
 id: IANAipsec-registry/ipsec-registry-21
 title:
-  content: Next Payload Types
+- content: Next Payload Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipsec-registry
+- content: http://www.iana.org/assignments/ipsec-registry
   type: src
 type: standard
 docid:
-  id: IANA ipsec-registry/ipsec-registry-21
+- id: IANA ipsec-registry/ipsec-registry-21
   type: IANA
 docnumber: ipsec-registry/ipsec-registry-21
 date:
-  type: updated
+- type: updated
   value: '2013-05-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

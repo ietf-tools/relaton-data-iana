@@ -1,14 +1,14 @@
 ---
 id: IANAjose/web-signature-encryption-header-parameters
 title:
-  content: JSON Web Signature and Encryption Header Parameters
+- content: JSON Web Signature and Encryption Header Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/jose
+- content: http://www.iana.org/assignments/jose
   type: src
 type: standard
 docid:
-  id: IANA jose/web-signature-encryption-header-parameters
+- id: IANA jose/web-signature-encryption-header-parameters
   type: IANA
 docnumber: jose/web-signature-encryption-header-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-02'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAmarf-parameters/marf-parameters-2
 title:
-  content: Feedback Report Type Values
+- content: Feedback Report Type Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/marf-parameters
+- content: http://www.iana.org/assignments/marf-parameters
   type: src
 type: standard
 docid:
-  id: IANA marf-parameters/marf-parameters-2
+- id: IANA marf-parameters/marf-parameters-2
   type: IANA
 docnumber: marf-parameters/marf-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-03-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAbgp-extended-communities/evpn-layer-2-attributes-control-flags
 title:
-  content: EVPN Layer 2 Attributes Control Flags
+- content: EVPN Layer 2 Attributes Control Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-extended-communities
+- content: http://www.iana.org/assignments/bgp-extended-communities
   type: src
 type: standard
 docid:
-  id: IANA bgp-extended-communities/evpn-layer-2-attributes-control-flags
+- id: IANA bgp-extended-communities/evpn-layer-2-attributes-control-flags
   type: IANA
 docnumber: bgp-extended-communities/evpn-layer-2-attributes-control-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

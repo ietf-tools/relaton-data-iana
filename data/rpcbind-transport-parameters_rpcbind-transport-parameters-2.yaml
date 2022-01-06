@@ -1,14 +1,14 @@
 ---
 id: IANArpcbind-transport-parameters/rpcbind-transport-parameters-2
 title:
-  content: Protocol family (r_nc_protofmly)
+- content: Protocol family (r_nc_protofmly)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpcbind-transport-parameters
+- content: http://www.iana.org/assignments/rpcbind-transport-parameters
   type: src
 type: standard
 docid:
-  id: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-2
+- id: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-2
   type: IANA
 docnumber: rpcbind-transport-parameters/rpcbind-transport-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-10-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

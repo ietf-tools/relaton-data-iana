@@ -1,14 +1,14 @@
 ---
 id: IANAamtrelay-resource-record/relay-type-field
 title:
-  content: AMTRELAY Relay Type Field
+- content: AMTRELAY Relay Type Field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/amtrelay-resource-record
+- content: http://www.iana.org/assignments/amtrelay-resource-record
   type: src
 type: standard
 docid:
-  id: IANA amtrelay-resource-record/relay-type-field
+- id: IANA amtrelay-resource-record/relay-type-field
   type: IANA
 docnumber: amtrelay-resource-record/relay-type-field
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

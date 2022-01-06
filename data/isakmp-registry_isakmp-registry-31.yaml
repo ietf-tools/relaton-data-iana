@@ -1,24 +1,28 @@
 ---
 id: IANAisakmp-registry/isakmp-registry-31
 title:
-  content: IPSEC Identification Type
+- content: IPSEC Identification Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/isakmp-registry
+- content: http://www.iana.org/assignments/isakmp-registry
   type: src
 type: standard
 docid:
-  id: IANA isakmp-registry/isakmp-registry-31
+- id: IANA isakmp-registry/isakmp-registry-31
   type: IANA
 docnumber: isakmp-registry/isakmp-registry-31
 date:
-  type: updated
+- type: updated
   value: '2012-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

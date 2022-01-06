@@ -1,24 +1,28 @@
 ---
 id: IANArsvp-parameters
 title:
-  content: Resource Reservation Protocol (RSVP) Parameters
+- content: Resource Reservation Protocol (RSVP) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rsvp-parameters
+- content: http://www.iana.org/assignments/rsvp-parameters
   type: src
 type: standard
 docid:
-  id: IANA rsvp-parameters
+- id: IANA rsvp-parameters
   type: IANA
 docnumber: rsvp-parameters
 date:
-  type: updated
+- type: updated
   value: '2019-12-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

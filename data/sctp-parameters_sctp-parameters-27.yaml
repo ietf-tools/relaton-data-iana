@@ -1,14 +1,14 @@
 ---
 id: IANAsctp-parameters/sctp-parameters-27
 title:
-  content: Adaptation Code Points
+- content: Adaptation Code Points
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sctp-parameters
+- content: http://www.iana.org/assignments/sctp-parameters
   type: src
 type: standard
 docid:
-  id: IANA sctp-parameters/sctp-parameters-27
+- id: IANA sctp-parameters/sctp-parameters-27
   type: IANA
 docnumber: sctp-parameters/sctp-parameters-27
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

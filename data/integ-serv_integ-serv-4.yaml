@@ -1,14 +1,14 @@
 ---
 id: IANAinteg-serv/integ-serv-4
 title:
-  content: Parameter Names
+- content: Parameter Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/integ-serv
+- content: http://www.iana.org/assignments/integ-serv
   type: src
 type: standard
 docid:
-  id: IANA integ-serv/integ-serv-4
+- id: IANA integ-serv/integ-serv-4
   type: IANA
 docnumber: integ-serv/integ-serv-4
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2002-04-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

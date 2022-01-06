@@ -1,14 +1,14 @@
 ---
 id: IANAtrailer-types
 title:
-  content: Trailer Types
+- content: Trailer Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/trailer-types
+- content: http://www.iana.org/assignments/trailer-types
   type: src
 type: standard
 docid:
-  id: IANA trailer-types
+- id: IANA trailer-types
   type: IANA
 docnumber: trailer-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-01-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

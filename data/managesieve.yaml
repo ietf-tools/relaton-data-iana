@@ -1,14 +1,14 @@
 ---
 id: IANAmanagesieve
 title:
-  content: ManageSieve Registries
+- content: ManageSieve Registries
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/managesieve
+- content: http://www.iana.org/assignments/managesieve
   type: src
 type: standard
 docid:
-  id: IANA managesieve
+- id: IANA managesieve
   type: IANA
 docnumber: managesieve
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-05-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

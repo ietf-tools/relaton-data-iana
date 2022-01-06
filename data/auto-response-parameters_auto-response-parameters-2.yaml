@@ -1,14 +1,14 @@
 ---
 id: IANAauto-response-parameters/auto-response-parameters-2
 title:
-  content: Auto-Submitted header field optional parameters
+- content: Auto-Submitted header field optional parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/auto-response-parameters
+- content: http://www.iana.org/assignments/auto-response-parameters
   type: src
 type: standard
 docid:
-  id: IANA auto-response-parameters/auto-response-parameters-2
+- id: IANA auto-response-parameters/auto-response-parameters-2
   type: IANA
 docnumber: auto-response-parameters/auto-response-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-01-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

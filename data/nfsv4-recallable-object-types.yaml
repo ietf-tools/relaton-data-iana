@@ -1,14 +1,14 @@
 ---
 id: IANAnfsv4-recallable-object-types
 title:
-  content: NFSv4 Recallable Object Types
+- content: NFSv4 Recallable Object Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nfsv4-recallable-object-types
+- content: http://www.iana.org/assignments/nfsv4-recallable-object-types
   type: src
 type: standard
 docid:
-  id: IANA nfsv4-recallable-object-types
+- id: IANA nfsv4-recallable-object-types
   type: IANA
 docnumber: nfsv4-recallable-object-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-08-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAmulticast-ping
 title:
-  content: Multicast Ping Protocol Parameters
+- content: Multicast Ping Protocol Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/multicast-ping
+- content: http://www.iana.org/assignments/multicast-ping
   type: src
 type: standard
 docid:
-  id: IANA multicast-ping
+- id: IANA multicast-ping
   type: IANA
 docnumber: multicast-ping
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-12-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

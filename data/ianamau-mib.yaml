@@ -1,24 +1,28 @@
 ---
 id: IANAianamau-mib
 title:
-  content: IANA-MAU-MIB
+- content: IANA-MAU-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianamau-mib
+- content: http://www.iana.org/assignments/ianamau-mib
   type: src
 type: standard
 docid:
-  id: IANA ianamau-mib
+- id: IANA ianamau-mib
   type: IANA
 docnumber: ianamau-mib
 date:
-  type: created
+- type: created
   value: '2007-04-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

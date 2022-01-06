@@ -1,24 +1,28 @@
 ---
 id: IANAotp-parameters/otp-parameters-2
 title:
-  content: Extension Set Identifiers
+- content: Extension Set Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/otp-parameters
+- content: http://www.iana.org/assignments/otp-parameters
   type: src
 type: standard
 docid:
-  id: IANA otp-parameters/otp-parameters-2
+- id: IANA otp-parameters/otp-parameters-2
   type: IANA
 docnumber: otp-parameters/otp-parameters-2
 date:
-  type: updated
+- type: updated
   value: '2009-05-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

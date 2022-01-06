@@ -1,24 +1,28 @@
 ---
 id: IANAmessage-headers/content-translation-type-header-field-values
 title:
-  content: Content-Translation-Type Header Field Values
+- content: Content-Translation-Type Header Field Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/message-headers
+- content: http://www.iana.org/assignments/message-headers
   type: src
 type: standard
 docid:
-  id: IANA message-headers/content-translation-type-header-field-values
+- id: IANA message-headers/content-translation-type-header-field-values
   type: IANA
 docnumber: message-headers/content-translation-type-header-field-values
 date:
-  type: updated
+- type: updated
   value: '2021-10-05'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

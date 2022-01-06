@@ -1,14 +1,14 @@
 ---
 id: IANApassport/passport-rph-types
 title:
-  content: PASSporT Resource Priority Header (rph) Types
+- content: PASSporT Resource Priority Header (rph) Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/passport
+- content: http://www.iana.org/assignments/passport
   type: src
 type: standard
 docid:
-  id: IANA passport/passport-rph-types
+- id: IANA passport/passport-rph-types
   type: IANA
 docnumber: passport/passport-rph-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-02-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

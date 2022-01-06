@@ -1,14 +1,14 @@
 ---
 id: IANAmpls-multi-topology-parameters/multi-topology-ids
 title:
-  content: MPLS Multi-Topology Identifiers
+- content: MPLS Multi-Topology Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mpls-multi-topology-parameters
+- content: http://www.iana.org/assignments/mpls-multi-topology-parameters
   type: src
 type: standard
 docid:
-  id: IANA mpls-multi-topology-parameters/multi-topology-ids
+- id: IANA mpls-multi-topology-parameters/multi-topology-ids
   type: IANA
 docnumber: mpls-multi-topology-parameters/multi-topology-ids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-02-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

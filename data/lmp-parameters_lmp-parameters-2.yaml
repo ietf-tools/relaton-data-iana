@@ -1,24 +1,28 @@
 ---
 id: IANAlmp-parameters/lmp-parameters-2
 title:
-  content: LMP Message Type Name Space
+- content: LMP Message Type Name Space
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/lmp-parameters
+- content: http://www.iana.org/assignments/lmp-parameters
   type: src
 type: standard
 docid:
-  id: IANA lmp-parameters/lmp-parameters-2
+- id: IANA lmp-parameters/lmp-parameters-2
   type: IANA
 docnumber: lmp-parameters/lmp-parameters-2
 date:
-  type: updated
+- type: updated
   value: '2019-03-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

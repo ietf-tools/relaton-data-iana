@@ -1,14 +1,14 @@
 ---
 id: IANAkerberos-parameters/kerberos-parameters-1
 title:
-  content: Kerberos Encryption Type Numbers
+- content: Kerberos Encryption Type Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/kerberos-parameters
+- content: http://www.iana.org/assignments/kerberos-parameters
   type: src
 type: standard
 docid:
-  id: IANA kerberos-parameters/kerberos-parameters-1
+- id: IANA kerberos-parameters/kerberos-parameters-1
   type: IANA
 docnumber: kerberos-parameters/kerberos-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

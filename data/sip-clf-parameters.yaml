@@ -1,14 +1,14 @@
 ---
 id: IANAsip-clf-parameters
 title:
-  content: Session Initiation Protocol (SIP) Common Log Format (CLF) Parameters
+- content: Session Initiation Protocol (SIP) Common Log Format (CLF) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-clf-parameters
+- content: http://www.iana.org/assignments/sip-clf-parameters
   type: src
 type: standard
 docid:
-  id: IANA sip-clf-parameters
+- id: IANA sip-clf-parameters
   type: IANA
 docnumber: sip-clf-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-09-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

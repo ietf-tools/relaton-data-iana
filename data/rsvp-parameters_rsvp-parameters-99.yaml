@@ -1,24 +1,28 @@
 ---
 id: IANArsvp-parameters/rsvp-parameters-99
 title:
-  content: Error Codes and Globally-Defined Error Value Sub-Codes
+- content: Error Codes and Globally-Defined Error Value Sub-Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rsvp-parameters
+- content: http://www.iana.org/assignments/rsvp-parameters
   type: src
 type: standard
 docid:
-  id: IANA rsvp-parameters/rsvp-parameters-99
+- id: IANA rsvp-parameters/rsvp-parameters-99
   type: IANA
 docnumber: rsvp-parameters/rsvp-parameters-99
 date:
-  type: updated
+- type: updated
   value: '2019-12-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

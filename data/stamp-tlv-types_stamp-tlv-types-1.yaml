@@ -1,14 +1,14 @@
 ---
 id: IANAstamp-tlv-types/stamp-tlv-types-1
 title:
-  content: STAMP TLV Types
+- content: STAMP TLV Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/stamp-tlv-types
+- content: http://www.iana.org/assignments/stamp-tlv-types
   type: src
 type: standard
 docid:
-  id: IANA stamp-tlv-types/stamp-tlv-types-1
+- id: IANA stamp-tlv-types/stamp-tlv-types-1
   type: IANA
 docnumber: stamp-tlv-types/stamp-tlv-types-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-01-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

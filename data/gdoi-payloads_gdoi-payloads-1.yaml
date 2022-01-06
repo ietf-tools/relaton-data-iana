@@ -1,14 +1,14 @@
 ---
 id: IANAgdoi-payloads/gdoi-payloads-1
 title:
-  content: GDOI ID Payload Type Values
+- content: GDOI ID Payload Type Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gdoi-payloads
+- content: http://www.iana.org/assignments/gdoi-payloads
   type: src
 type: standard
 docid:
-  id: IANA gdoi-payloads/gdoi-payloads-1
+- id: IANA gdoi-payloads/gdoi-payloads-1
   type: IANA
 docnumber: gdoi-payloads/gdoi-payloads-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-12-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

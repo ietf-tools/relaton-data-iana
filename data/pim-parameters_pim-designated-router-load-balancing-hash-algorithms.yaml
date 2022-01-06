@@ -1,24 +1,28 @@
 ---
 id: IANApim-parameters/pim-designated-router-load-balancing-hash-algorithms
 title:
-  content: PIM Designated Router Load-Balancing Hash Algorithms
+- content: PIM Designated Router Load-Balancing Hash Algorithms
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pim-parameters
+- content: http://www.iana.org/assignments/pim-parameters
   type: src
 type: standard
 docid:
-  id: IANA pim-parameters/pim-designated-router-load-balancing-hash-algorithms
+- id: IANA pim-parameters/pim-designated-router-load-balancing-hash-algorithms
   type: IANA
 docnumber: pim-parameters/pim-designated-router-load-balancing-hash-algorithms
 date:
-  type: updated
+- type: updated
   value: '2020-11-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

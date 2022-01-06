@@ -1,24 +1,28 @@
 ---
 id: IANAurn-namespaces/urn-namespaces-1
 title:
-  content: Formal URN Namespaces
+- content: Formal URN Namespaces
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/urn-namespaces
+- content: http://www.iana.org/assignments/urn-namespaces
   type: src
 type: standard
 docid:
-  id: IANA urn-namespaces/urn-namespaces-1
+- id: IANA urn-namespaces/urn-namespaces-1
   type: IANA
 docnumber: urn-namespaces/urn-namespaces-1
 date:
-  type: updated
+- type: updated
   value: '2021-07-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

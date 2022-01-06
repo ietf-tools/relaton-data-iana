@@ -1,14 +1,14 @@
 ---
 id: IANAipseckey-rr-parameters
 title:
-  content: IPSECKEY Resource Record Parameters
+- content: IPSECKEY Resource Record Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipseckey-rr-parameters
+- content: http://www.iana.org/assignments/ipseckey-rr-parameters
   type: src
 type: standard
 docid:
-  id: IANA ipseckey-rr-parameters
+- id: IANA ipseckey-rr-parameters
   type: IANA
 docnumber: ipseckey-rr-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-10-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

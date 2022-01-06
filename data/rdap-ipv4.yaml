@@ -1,24 +1,28 @@
 ---
 id: IANArdap-ipv4
 title:
-  content: Bootstrap Service Registry for IPv4 Address Space
+- content: Bootstrap Service Registry for IPv4 Address Space
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rdap-ipv4
+- content: http://www.iana.org/assignments/rdap-ipv4
   type: src
 type: standard
 docid:
-  id: IANA rdap-ipv4
+- id: IANA rdap-ipv4
   type: IANA
 docnumber: rdap-ipv4
 date:
-  type: created
+- type: created
   value: '2015-03-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

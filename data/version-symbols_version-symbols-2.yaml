@@ -1,14 +1,14 @@
 ---
 id: IANAversion-symbols/version-symbols-2
 title:
-  content: application/QSIG symbols
+- content: application/QSIG symbols
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/version-symbols
+- content: http://www.iana.org/assignments/version-symbols
   type: src
 type: standard
 docid:
-  id: IANA version-symbols/version-symbols-2
+- id: IANA version-symbols/version-symbols-2
   type: IANA
 docnumber: version-symbols/version-symbols-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2001-12-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

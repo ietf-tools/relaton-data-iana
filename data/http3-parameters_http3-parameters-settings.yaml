@@ -1,14 +1,14 @@
 ---
 id: IANAhttp3-parameters/http3-parameters-settings
 title:
-  content: HTTP/3 Settings
+- content: HTTP/3 Settings
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http3-parameters
+- content: http://www.iana.org/assignments/http3-parameters
   type: src
 type: standard
 docid:
-  id: IANA http3-parameters/http3-parameters-settings
+- id: IANA http3-parameters/http3-parameters-settings
   type: IANA
 docnumber: http3-parameters/http3-parameters-settings
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-04-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

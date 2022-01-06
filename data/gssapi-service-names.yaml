@@ -1,25 +1,29 @@
 ---
 id: IANAgssapi-service-names
 title:
-  content: Generic Security Service Application Program Interface (GSSAPI)/Kerberos/Simple
+- content: Generic Security Service Application Program Interface (GSSAPI)/Kerberos/Simple
     Authentication and Security Layer (SASL) Service Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gssapi-service-names
+- content: http://www.iana.org/assignments/gssapi-service-names
   type: src
 type: standard
 docid:
-  id: IANA gssapi-service-names
+- id: IANA gssapi-service-names
   type: IANA
 docnumber: gssapi-service-names
 date:
-  type: updated
+- type: updated
   value: '2021-08-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

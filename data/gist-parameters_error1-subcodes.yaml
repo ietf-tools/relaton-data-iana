@@ -1,14 +1,14 @@
 ---
 id: IANAgist-parameters/error1-subcodes
 title:
-  content: Error Code 1 Subcodes
+- content: Error Code 1 Subcodes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gist-parameters
+- content: http://www.iana.org/assignments/gist-parameters
   type: src
 type: standard
 docid:
-  id: IANA gist-parameters/error1-subcodes
+- id: IANA gist-parameters/error1-subcodes
   type: IANA
 docnumber: gist-parameters/error1-subcodes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-01-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

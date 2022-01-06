@@ -1,14 +1,14 @@
 ---
 id: IANAdccp-parameters/dccp-parameters-1
 title:
-  content: Packet Types
+- content: Packet Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dccp-parameters
+- content: http://www.iana.org/assignments/dccp-parameters
   type: src
 type: standard
 docid:
-  id: IANA dccp-parameters/dccp-parameters-1
+- id: IANA dccp-parameters/dccp-parameters-1
   type: IANA
 docnumber: dccp-parameters/dccp-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-01-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

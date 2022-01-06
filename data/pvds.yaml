@@ -1,14 +1,14 @@
 ---
 id: IANApvds
 title:
-  content: Provisioning Domains (PvDs)
+- content: Provisioning Domains (PvDs)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pvds
+- content: http://www.iana.org/assignments/pvds
   type: src
 type: standard
 docid:
-  id: IANA pvds
+- id: IANA pvds
   type: IANA
 docnumber: pvds
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-08-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

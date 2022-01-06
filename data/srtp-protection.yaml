@@ -1,15 +1,15 @@
 ---
 id: IANAsrtp-protection
 title:
-  content: Datagram Transport Layer Security (DTLS) Extension to Establish Keys for
+- content: Datagram Transport Layer Security (DTLS) Extension to Establish Keys for
     Secure Real-time Transport Protocol (SRTP)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/srtp-protection
+- content: http://www.iana.org/assignments/srtp-protection
   type: src
 type: standard
 docid:
-  id: IANA srtp-protection
+- id: IANA srtp-protection
   type: IANA
 docnumber: srtp-protection
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2020-05-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

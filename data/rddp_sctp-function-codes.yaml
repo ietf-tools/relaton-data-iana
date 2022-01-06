@@ -1,14 +1,14 @@
 ---
 id: IANArddp/sctp-function-codes
 title:
-  content: SCTP Function Codes for DDP Stream Session Control
+- content: SCTP Function Codes for DDP Stream Session Control
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rddp
+- content: http://www.iana.org/assignments/rddp
   type: src
 type: standard
 docid:
-  id: IANA rddp/sctp-function-codes
+- id: IANA rddp/sctp-function-codes
   type: IANA
 docnumber: rddp/sctp-function-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-06-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

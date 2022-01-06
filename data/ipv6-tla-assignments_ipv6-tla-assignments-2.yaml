@@ -1,24 +1,28 @@
 ---
 id: IANAipv6-tla-assignments/ipv6-tla-assignments-2
 title:
-  content: Sub-TLA Identifier Assignments
+- content: Sub-TLA Identifier Assignments
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipv6-tla-assignments
+- content: http://www.iana.org/assignments/ipv6-tla-assignments
   type: src
 type: standard
 docid:
-  id: IANA ipv6-tla-assignments/ipv6-tla-assignments-2
+- id: IANA ipv6-tla-assignments/ipv6-tla-assignments-2
   type: IANA
 docnumber: ipv6-tla-assignments/ipv6-tla-assignments-2
 date:
-  type: updated
+- type: updated
   value: '2010-07-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

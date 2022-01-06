@@ -1,14 +1,14 @@
 ---
 id: IANAsip-parameters/sip-parameters-12
 title:
-  content: Header Field Parameters and Parameter Values
+- content: Header Field Parameters and Parameter Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-parameters
+- content: http://www.iana.org/assignments/sip-parameters
   type: src
 type: standard
 docid:
-  id: IANA sip-parameters/sip-parameters-12
+- id: IANA sip-parameters/sip-parameters-12
   type: IANA
 docnumber: sip-parameters/sip-parameters-12
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-01-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

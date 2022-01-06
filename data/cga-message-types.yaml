@@ -1,14 +1,14 @@
 ---
 id: IANAcga-message-types
 title:
-  content: Cryptographically Generated Addresses (CGA) Message Type Name Space
+- content: Cryptographically Generated Addresses (CGA) Message Type Name Space
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cga-message-types
+- content: http://www.iana.org/assignments/cga-message-types
   type: src
 type: standard
 docid:
-  id: IANA cga-message-types
+- id: IANA cga-message-types
   type: IANA
 docnumber: cga-message-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

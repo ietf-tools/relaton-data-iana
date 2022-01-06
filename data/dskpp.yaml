@@ -1,14 +1,14 @@
 ---
 id: IANAdskpp
 title:
-  content: Dynamic Symmetric Key Provisioning Protocol (DSKPP)
+- content: Dynamic Symmetric Key Provisioning Protocol (DSKPP)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dskpp
+- content: http://www.iana.org/assignments/dskpp
   type: src
 type: standard
 docid:
-  id: IANA dskpp
+- id: IANA dskpp
   type: IANA
 docnumber: dskpp
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-06-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

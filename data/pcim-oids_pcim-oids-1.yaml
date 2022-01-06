@@ -1,14 +1,14 @@
 ---
 id: IANApcim-oids/pcim-oids-1
 title:
-  content: pcimSchema LDAP Descriptors
+- content: pcimSchema LDAP Descriptors
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcim-oids
+- content: http://www.iana.org/assignments/pcim-oids
   type: src
 type: standard
 docid:
-  id: IANA pcim-oids/pcim-oids-1
+- id: IANA pcim-oids/pcim-oids-1
   type: IANA
 docnumber: pcim-oids/pcim-oids-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2006-09-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

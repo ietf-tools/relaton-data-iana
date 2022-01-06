@@ -1,14 +1,14 @@
 ---
 id: IANAdcap-parameters/frame-codes
 title:
-  content: Data Link Switching Protocol Frame Codes
+- content: Data Link Switching Protocol Frame Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dcap-parameters
+- content: http://www.iana.org/assignments/dcap-parameters
   type: src
 type: standard
 docid:
-  id: IANA dcap-parameters/frame-codes
+- id: IANA dcap-parameters/frame-codes
   type: IANA
 docnumber: dcap-parameters/frame-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-10-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAcivic-address-types-registry
 title:
-  content: Civic Address Types Registry
+- content: Civic Address Types Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/civic-address-types-registry
+- content: http://www.iana.org/assignments/civic-address-types-registry
   type: src
 type: standard
 docid:
-  id: IANA civic-address-types-registry
+- id: IANA civic-address-types-registry
   type: IANA
 docnumber: civic-address-types-registry
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-04-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

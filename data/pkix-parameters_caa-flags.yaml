@@ -1,14 +1,14 @@
 ---
 id: IANApkix-parameters/caa-flags
 title:
-  content: Certification Authority Restriction Flags
+- content: Certification Authority Restriction Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pkix-parameters
+- content: http://www.iana.org/assignments/pkix-parameters
   type: src
 type: standard
 docid:
-  id: IANA pkix-parameters/caa-flags
+- id: IANA pkix-parameters/caa-flags
   type: IANA
 docnumber: pkix-parameters/caa-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

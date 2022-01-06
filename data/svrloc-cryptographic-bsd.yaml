@@ -1,14 +1,14 @@
 ---
 id: IANAsvrloc-cryptographic-bsd
 title:
-  content: Service Location Protocol Version 2 (SLPv2) Cryptographic BSD Codes
+- content: Service Location Protocol Version 2 (SLPv2) Cryptographic BSD Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/svrloc-cryptographic-bsd
+- content: http://www.iana.org/assignments/svrloc-cryptographic-bsd
   type: src
 type: standard
 docid:
-  id: IANA svrloc-cryptographic-bsd
+- id: IANA svrloc-cryptographic-bsd
   type: IANA
 docnumber: svrloc-cryptographic-bsd
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2005-10-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

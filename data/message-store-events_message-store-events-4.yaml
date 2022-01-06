@@ -1,14 +1,14 @@
 ---
 id: IANAmessage-store-events/message-store-events-4
 title:
-  content: Event Parameters
+- content: Event Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/message-store-events
+- content: http://www.iana.org/assignments/message-store-events
   type: src
 type: standard
 docid:
-  id: IANA message-store-events/message-store-events-4
+- id: IANA message-store-events/message-store-events-4
   type: IANA
 docnumber: message-store-events/message-store-events-4
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-03-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAtoken-binding-protocol/token-binding-key-parameters
 title:
-  content: Token Binding Key Parameters
+- content: Token Binding Key Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/token-binding-protocol
+- content: http://www.iana.org/assignments/token-binding-protocol
   type: src
 type: standard
 docid:
-  id: IANA token-binding-protocol/token-binding-key-parameters
+- id: IANA token-binding-protocol/token-binding-key-parameters
   type: IANA
 docnumber: token-binding-protocol/token-binding-key-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-02-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

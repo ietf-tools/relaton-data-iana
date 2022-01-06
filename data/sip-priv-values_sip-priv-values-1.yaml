@@ -1,14 +1,14 @@
 ---
 id: IANAsip-priv-values/sip-priv-values-1
 title:
-  content: SIP Privacy Header Values
+- content: SIP Privacy Header Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-priv-values
+- content: http://www.iana.org/assignments/sip-priv-values
   type: src
 type: standard
 docid:
-  id: IANA sip-priv-values/sip-priv-values-1
+- id: IANA sip-priv-values/sip-priv-values-1
   type: IANA
 docnumber: sip-priv-values/sip-priv-values-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-01-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

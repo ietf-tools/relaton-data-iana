@@ -1,14 +1,14 @@
 ---
 id: IANArserpool-parameters
 title:
-  content: Reliable Server Pooling (RSerPool) Parameters
+- content: Reliable Server Pooling (RSerPool) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rserpool-parameters
+- content: http://www.iana.org/assignments/rserpool-parameters
   type: src
 type: standard
 docid:
-  id: IANA rserpool-parameters
+- id: IANA rserpool-parameters
   type: IANA
 docnumber: rserpool-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2008-09-30'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

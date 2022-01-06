@@ -1,14 +1,14 @@
 ---
 id: IANAospf-mt-routing/ospf-mt-routing-2
 title:
-  content: Multi-Topology ID Values
+- content: Multi-Topology ID Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ospf-mt-routing
+- content: http://www.iana.org/assignments/ospf-mt-routing
   type: src
 type: standard
 docid:
-  id: IANA ospf-mt-routing/ospf-mt-routing-2
+- id: IANA ospf-mt-routing/ospf-mt-routing-2
   type: IANA
 docnumber: ospf-mt-routing/ospf-mt-routing-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-05-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

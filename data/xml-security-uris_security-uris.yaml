@@ -1,14 +1,14 @@
 ---
 id: IANAxml-security-uris/security-uris
 title:
-  content: XML Security URIs
+- content: XML Security URIs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/xml-security-uris
+- content: http://www.iana.org/assignments/xml-security-uris
   type: src
 type: standard
 docid:
-  id: IANA xml-security-uris/security-uris
+- id: IANA xml-security-uris/security-uris
   type: IANA
 docnumber: xml-security-uris/security-uris
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-04-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

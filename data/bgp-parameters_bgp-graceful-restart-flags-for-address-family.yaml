@@ -1,24 +1,28 @@
 ---
 id: IANAbgp-parameters/bgp-graceful-restart-flags-for-address-family
 title:
-  content: BGP Graceful Restart Flags for Address Family
+- content: BGP Graceful Restart Flags for Address Family
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-parameters
+- content: http://www.iana.org/assignments/bgp-parameters
   type: src
 type: standard
 docid:
-  id: IANA bgp-parameters/bgp-graceful-restart-flags-for-address-family
+- id: IANA bgp-parameters/bgp-graceful-restart-flags-for-address-family
   type: IANA
 docnumber: bgp-parameters/bgp-graceful-restart-flags-for-address-family
 date:
-  type: updated
+- type: updated
   value: '2021-10-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

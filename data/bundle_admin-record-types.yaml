@@ -1,14 +1,14 @@
 ---
 id: IANAbundle/admin-record-types
 title:
-  content: Bundle Administrative Record Types
+- content: Bundle Administrative Record Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bundle
+- content: http://www.iana.org/assignments/bundle
   type: src
 type: standard
 docid:
-  id: IANA bundle/admin-record-types
+- id: IANA bundle/admin-record-types
   type: IANA
 docnumber: bundle/admin-record-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-04'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

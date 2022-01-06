@@ -1,15 +1,15 @@
 ---
 id: IANAurlauth-authorization-mechanism-registry
 title:
-  content: Internet Message Access Protocol (IMAP) URLAUTH Authorization Mechanism
+- content: Internet Message Access Protocol (IMAP) URLAUTH Authorization Mechanism
     Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/urlauth-authorization-mechanism-registry
+- content: http://www.iana.org/assignments/urlauth-authorization-mechanism-registry
   type: src
 type: standard
 docid:
-  id: IANA urlauth-authorization-mechanism-registry
+- id: IANA urlauth-authorization-mechanism-registry
   type: IANA
 docnumber: urlauth-authorization-mechanism-registry
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2006-08-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

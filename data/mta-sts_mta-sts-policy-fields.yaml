@@ -1,14 +1,14 @@
 ---
 id: IANAmta-sts/mta-sts-policy-fields
 title:
-  content: MTA-STS Policy Fields
+- content: MTA-STS Policy Fields
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mta-sts
+- content: http://www.iana.org/assignments/mta-sts
   type: src
 type: standard
 docid:
-  id: IANA mta-sts/mta-sts-policy-fields
+- id: IANA mta-sts/mta-sts-policy-fields
   type: IANA
 docnumber: mta-sts/mta-sts-policy-fields
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-09-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

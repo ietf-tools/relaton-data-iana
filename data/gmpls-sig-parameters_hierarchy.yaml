@@ -1,14 +1,14 @@
 ---
 id: IANAgmpls-sig-parameters/hierarchy
 title:
-  content: Hierarchy Actions
+- content: Hierarchy Actions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gmpls-sig-parameters
+- content: http://www.iana.org/assignments/gmpls-sig-parameters
   type: src
 type: standard
 docid:
-  id: IANA gmpls-sig-parameters/hierarchy
+- id: IANA gmpls-sig-parameters/hierarchy
   type: IANA
 docnumber: gmpls-sig-parameters/hierarchy
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-07-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

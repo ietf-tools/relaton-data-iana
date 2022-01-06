@@ -1,24 +1,28 @@
 ---
 id: IANAbgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
 title:
-  content: BGP Prefix-SID Originator SRGB TLV Flags
+- content: BGP Prefix-SID Originator SRGB TLV Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-parameters
+- content: http://www.iana.org/assignments/bgp-parameters
   type: src
 type: standard
 docid:
-  id: IANA bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
+- id: IANA bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
   type: IANA
 docnumber: bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
 date:
-  type: updated
+- type: updated
   value: '2021-10-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

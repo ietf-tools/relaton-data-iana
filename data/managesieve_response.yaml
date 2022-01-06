@@ -1,14 +1,14 @@
 ---
 id: IANAmanagesieve/response
 title:
-  content: ManageSieve Response Codes
+- content: ManageSieve Response Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/managesieve
+- content: http://www.iana.org/assignments/managesieve
   type: src
 type: standard
 docid:
-  id: IANA managesieve/response
+- id: IANA managesieve/response
   type: IANA
 docnumber: managesieve/response
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-05-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

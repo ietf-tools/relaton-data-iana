@@ -1,14 +1,14 @@
 ---
 id: IANAproxy-languages
 title:
-  content: Proxy Certificate Policy Languages
+- content: Proxy Certificate Policy Languages
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/proxy-languages
+- content: http://www.iana.org/assignments/proxy-languages
   type: src
 type: standard
 docid:
-  id: IANA proxy-languages
+- id: IANA proxy-languages
   type: IANA
 docnumber: proxy-languages
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2004-07-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

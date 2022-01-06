@@ -1,14 +1,14 @@
 ---
 id: IANAlisp-parameters/lisp-lcaf-type
 title:
-  content: LISP LCAF Type
+- content: LISP LCAF Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/lisp-parameters
+- content: http://www.iana.org/assignments/lisp-parameters
   type: src
 type: standard
 docid:
-  id: IANA lisp-parameters/lisp-lcaf-type
+- id: IANA lisp-parameters/lisp-lcaf-type
   type: IANA
 docnumber: lisp-parameters/lisp-lcaf-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

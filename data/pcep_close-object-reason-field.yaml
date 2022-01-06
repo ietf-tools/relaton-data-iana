@@ -1,14 +1,14 @@
 ---
 id: IANApcep/close-object-reason-field
 title:
-  content: CLOSE Object Reason Field
+- content: CLOSE Object Reason Field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-  id: IANA pcep/close-object-reason-field
+- id: IANA pcep/close-object-reason-field
   type: IANA
 docnumber: pcep/close-object-reason-field
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

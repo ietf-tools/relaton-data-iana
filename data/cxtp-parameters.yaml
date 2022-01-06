@@ -1,14 +1,14 @@
 ---
 id: IANAcxtp-parameters
 title:
-  content: Context Transfer Protocol (CXTP) Parameters
+- content: Context Transfer Protocol (CXTP) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cxtp-parameters
+- content: http://www.iana.org/assignments/cxtp-parameters
   type: src
 type: standard
 docid:
-  id: IANA cxtp-parameters
+- id: IANA cxtp-parameters
   type: IANA
 docnumber: cxtp-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2005-09-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAsenml/senml-labels
 title:
-  content: SenML Labels
+- content: SenML Labels
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/senml
+- content: http://www.iana.org/assignments/senml
   type: src
 type: standard
 docid:
-  id: IANA senml/senml-labels
+- id: IANA senml/senml-labels
   type: IANA
 docnumber: senml/senml-labels
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

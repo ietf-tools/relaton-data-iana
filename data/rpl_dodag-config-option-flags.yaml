@@ -1,14 +1,14 @@
 ---
 id: IANArpl/dodag-config-option-flags
 title:
-  content: DODAG Configuration Option Flags for MOP 0..6
+- content: DODAG Configuration Option Flags for MOP 0..6
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpl
+- content: http://www.iana.org/assignments/rpl
   type: src
 type: standard
 docid:
-  id: IANA rpl/dodag-config-option-flags
+- id: IANA rpl/dodag-config-option-flags
   type: IANA
 docnumber: rpl/dodag-config-option-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-05-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

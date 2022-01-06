@@ -1,14 +1,14 @@
 ---
 id: IANAcbor-tags
 title:
-  content: Concise Binary Object Representation (CBOR) Tags
+- content: Concise Binary Object Representation (CBOR) Tags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cbor-tags
+- content: http://www.iana.org/assignments/cbor-tags
   type: src
 type: standard
 docid:
-  id: IANA cbor-tags
+- id: IANA cbor-tags
   type: IANA
 docnumber: cbor-tags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

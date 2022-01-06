@@ -1,15 +1,15 @@
 ---
 id: IANAisis-tlv-codepoints/isis-tlv-codepoints-135-235-236-237
 title:
-  content: "Sub-TLVs for TLVs 135, 235, 236, and 237 (Extended IP reachability, \n
+- content: "Sub-TLVs for TLVs 135, 235, 236, and 237 (Extended IP reachability, \n
     \     MT IP. Reach, IPv6 IP. Reach, and MT IPv6 IP. Reach TLVs)"
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/isis-tlv-codepoints
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
   type: src
 type: standard
 docid:
-  id: IANA isis-tlv-codepoints/isis-tlv-codepoints-135-235-236-237
+- id: IANA isis-tlv-codepoints/isis-tlv-codepoints-135-235-236-237
   type: IANA
 docnumber: isis-tlv-codepoints/isis-tlv-codepoints-135-235-236-237
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2021-10-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

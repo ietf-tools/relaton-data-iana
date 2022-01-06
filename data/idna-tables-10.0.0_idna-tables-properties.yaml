@@ -1,14 +1,14 @@
 ---
 id: IANAidna-tables-10.0.0/idna-tables-properties
 title:
-  content: IDNA Derived Properties
+- content: IDNA Derived Properties
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/idna-tables-10.0.0
+- content: http://www.iana.org/assignments/idna-tables-10.0.0
   type: src
 type: standard
 docid:
-  id: IANA idna-tables-10.0.0/idna-tables-properties
+- id: IANA idna-tables-10.0.0/idna-tables-properties
   type: IANA
 docnumber: idna-tables-10.0.0/idna-tables-properties
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-04-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAperm-mcast-groupids
 title:
-  content: Permanent IPv6 Multicast Group Identifiers
+- content: Permanent IPv6 Multicast Group Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/perm-mcast-groupids
+- content: http://www.iana.org/assignments/perm-mcast-groupids
   type: src
 type: standard
 docid:
-  id: IANA perm-mcast-groupids
+- id: IANA perm-mcast-groupids
   type: IANA
 docnumber: perm-mcast-groupids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-02-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

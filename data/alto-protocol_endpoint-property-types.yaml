@@ -1,14 +1,14 @@
 ---
 id: IANAalto-protocol/endpoint-property-types
 title:
-  content: ALTO Endpoint Property Type Registry
+- content: ALTO Endpoint Property Type Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/alto-protocol
+- content: http://www.iana.org/assignments/alto-protocol
   type: src
 type: standard
 docid:
-  id: IANA alto-protocol/endpoint-property-types
+- id: IANA alto-protocol/endpoint-property-types
   type: IANA
 docnumber: alto-protocol/endpoint-property-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-09-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

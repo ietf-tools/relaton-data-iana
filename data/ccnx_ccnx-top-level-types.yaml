@@ -1,14 +1,14 @@
 ---
 id: IANAccnx/ccnx-top-level-types
 title:
-  content: CCNx Top-Level Types
+- content: CCNx Top-Level Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ccnx
+- content: http://www.iana.org/assignments/ccnx
   type: src
 type: standard
 docid:
-  id: IANA ccnx/ccnx-top-level-types
+- id: IANA ccnx/ccnx-top-level-types
   type: IANA
 docnumber: ccnx/ccnx-top-level-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

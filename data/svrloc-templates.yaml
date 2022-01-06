@@ -1,24 +1,28 @@
 ---
 id: IANAsvrloc-templates
 title:
-  content: Service Location Protocol, Version 2 (SLPv2) Templates
+- content: Service Location Protocol, Version 2 (SLPv2) Templates
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/svrloc-templates
+- content: http://www.iana.org/assignments/svrloc-templates
   type: src
 type: standard
 docid:
-  id: IANA svrloc-templates
+- id: IANA svrloc-templates
   type: IANA
 docnumber: svrloc-templates
 date:
-  type: updated
+- type: updated
   value: '2007-07-10'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

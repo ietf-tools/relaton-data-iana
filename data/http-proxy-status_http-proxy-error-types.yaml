@@ -1,14 +1,14 @@
 ---
 id: IANAhttp-proxy-status/http-proxy-error-types
 title:
-  content: HTTP Proxy Error Types
+- content: HTTP Proxy Error Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-proxy-status
+- content: http://www.iana.org/assignments/http-proxy-status
   type: src
 type: standard
 docid:
-  id: IANA http-proxy-status/http-proxy-error-types
+- id: IANA http-proxy-status/http-proxy-error-types
   type: IANA
 docnumber: http-proxy-status/http-proxy-error-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

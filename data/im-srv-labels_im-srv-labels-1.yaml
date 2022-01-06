@@ -1,14 +1,14 @@
 ---
 id: IANAim-srv-labels/im-srv-labels-1
 title:
-  content: Instant Messaging SRV Protocol Label Registry
+- content: Instant Messaging SRV Protocol Label Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/im-srv-labels
+- content: http://www.iana.org/assignments/im-srv-labels
   type: src
 type: standard
 docid:
-  id: IANA im-srv-labels/im-srv-labels-1
+- id: IANA im-srv-labels/im-srv-labels-1
   type: IANA
 docnumber: im-srv-labels/im-srv-labels-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-04-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAcose/header-parameters
 title:
-  content: COSE Header Parameters
+- content: COSE Header Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cose
+- content: http://www.iana.org/assignments/cose
   type: src
 type: standard
 docid:
-  id: IANA cose/header-parameters
+- id: IANA cose/header-parameters
   type: IANA
 docnumber: cose/header-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

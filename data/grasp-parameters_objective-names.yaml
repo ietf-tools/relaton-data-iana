@@ -1,14 +1,14 @@
 ---
 id: IANAgrasp-parameters/objective-names
 title:
-  content: GRASP Objective Names
+- content: GRASP Objective Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/grasp-parameters
+- content: http://www.iana.org/assignments/grasp-parameters
   type: src
 type: standard
 docid:
-  id: IANA grasp-parameters/objective-names
+- id: IANA grasp-parameters/objective-names
   type: IANA
 docnumber: grasp-parameters/objective-names
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-05-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

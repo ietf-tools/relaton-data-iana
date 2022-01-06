@@ -1,14 +1,14 @@
 ---
 id: IANApppoe-parameters/pppoe-parameters-1
 title:
-  content: PPPoE TAG Values (16-bit values)
+- content: PPPoE TAG Values (16-bit values)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pppoe-parameters
+- content: http://www.iana.org/assignments/pppoe-parameters
   type: src
 type: standard
 docid:
-  id: IANA pppoe-parameters/pppoe-parameters-1
+- id: IANA pppoe-parameters/pppoe-parameters-1
   type: IANA
 docnumber: pppoe-parameters/pppoe-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-02-04'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

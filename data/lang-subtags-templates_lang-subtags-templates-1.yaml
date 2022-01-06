@@ -1,24 +1,28 @@
 ---
 id: IANAlang-subtags-templates/lang-subtags-templates-1
 title:
-  content: Language Subtag Registry - Registration Templates
+- content: Language Subtag Registry - Registration Templates
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/lang-subtags-templates
+- content: http://www.iana.org/assignments/lang-subtags-templates
   type: src
 type: standard
 docid:
-  id: IANA lang-subtags-templates/lang-subtags-templates-1
+- id: IANA lang-subtags-templates/lang-subtags-templates-1
   type: IANA
 docnumber: lang-subtags-templates/lang-subtags-templates-1
 date:
-  type: updated
+- type: updated
   value: '2021-08-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

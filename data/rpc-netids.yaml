@@ -1,14 +1,14 @@
 ---
 id: IANArpc-netids
 title:
-  content: ONC RPC Network Identifiers (netids)
+- content: ONC RPC Network Identifiers (netids)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpc-netids
+- content: http://www.iana.org/assignments/rpc-netids
   type: src
 type: standard
 docid:
-  id: IANA rpc-netids
+- id: IANA rpc-netids
   type: IANA
 docnumber: rpc-netids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-04-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

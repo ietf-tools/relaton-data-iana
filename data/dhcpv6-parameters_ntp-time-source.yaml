@@ -1,14 +1,14 @@
 ---
 id: IANAdhcpv6-parameters/ntp-time-source
 title:
-  content: NTP Time Source Suboptions
+- content: NTP Time Source Suboptions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dhcpv6-parameters
+- content: http://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:
-  id: IANA dhcpv6-parameters/ntp-time-source
+- id: IANA dhcpv6-parameters/ntp-time-source
   type: IANA
 docnumber: dhcpv6-parameters/ntp-time-source
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAstun-parameters/turn-channel
 title:
-  content: Traversal Using Relays around NAT (TURN) Channel Numbers
+- content: Traversal Using Relays around NAT (TURN) Channel Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/stun-parameters
+- content: http://www.iana.org/assignments/stun-parameters
   type: src
 type: standard
 docid:
-  id: IANA stun-parameters/turn-channel
+- id: IANA stun-parameters/turn-channel
   type: IANA
 docnumber: stun-parameters/turn-channel
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-09-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

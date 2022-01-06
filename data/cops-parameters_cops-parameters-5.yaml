@@ -1,15 +1,15 @@
 ---
 id: IANAcops-parameters/cops-parameters-5
 title:
-  content: R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags,
+- content: R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags,
     and Error-Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cops-parameters
+- content: http://www.iana.org/assignments/cops-parameters
   type: src
 type: standard
 docid:
-  id: IANA cops-parameters/cops-parameters-5
+- id: IANA cops-parameters/cops-parameters-5
   type: IANA
 docnumber: cops-parameters/cops-parameters-5
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2012-09-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

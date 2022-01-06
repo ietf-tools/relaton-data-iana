@@ -1,24 +1,28 @@
 ---
 id: IANAsasl-mechanisms
 title:
-  content: Simple Authentication and Security Layer (SASL) Mechanisms
+- content: Simple Authentication and Security Layer (SASL) Mechanisms
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sasl-mechanisms
+- content: http://www.iana.org/assignments/sasl-mechanisms
   type: src
 type: standard
 docid:
-  id: IANA sasl-mechanisms
+- id: IANA sasl-mechanisms
   type: IANA
 docnumber: sasl-mechanisms
 date:
-  type: updated
+- type: updated
   value: '2021-07-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

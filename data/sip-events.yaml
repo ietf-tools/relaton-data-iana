@@ -1,14 +1,14 @@
 ---
 id: IANAsip-events
 title:
-  content: Session Initiation Protocol (SIP) Event Types Namespace
+- content: Session Initiation Protocol (SIP) Event Types Namespace
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-events
+- content: http://www.iana.org/assignments/sip-events
   type: src
 type: standard
 docid:
-  id: IANA sip-events
+- id: IANA sip-events
   type: IANA
 docnumber: sip-events
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-02'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

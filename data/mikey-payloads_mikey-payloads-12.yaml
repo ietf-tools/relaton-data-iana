@@ -1,14 +1,14 @@
 ---
 id: IANAmikey-payloads/mikey-payloads-12
 title:
-  content: DH Data Payload Field Names
+- content: DH Data Payload Field Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mikey-payloads
+- content: http://www.iana.org/assignments/mikey-payloads
   type: src
 type: standard
 docid:
-  id: IANA mikey-payloads/mikey-payloads-12
+- id: IANA mikey-payloads/mikey-payloads-12
   type: IANA
 docnumber: mikey-payloads/mikey-payloads-12
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-02-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

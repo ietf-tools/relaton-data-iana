@@ -1,14 +1,14 @@
 ---
 id: IANArddp/rdmap-message-atomic
 title:
-  content: RDMAP Message Atomic Operation Subcodes
+- content: RDMAP Message Atomic Operation Subcodes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rddp
+- content: http://www.iana.org/assignments/rddp
   type: src
 type: standard
 docid:
-  id: IANA rddp/rdmap-message-atomic
+- id: IANA rddp/rdmap-message-atomic
   type: IANA
 docnumber: rddp/rdmap-message-atomic
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-06-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

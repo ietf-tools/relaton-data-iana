@@ -1,14 +1,14 @@
 ---
 id: IANAxmlers/time-stamp-token
 title:
-  content: Time-Stamp Token Type
+- content: Time-Stamp Token Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/xmlers
+- content: http://www.iana.org/assignments/xmlers
   type: src
 type: standard
 docid:
-  id: IANA xmlers/time-stamp-token
+- id: IANA xmlers/time-stamp-token
   type: IANA
 docnumber: xmlers/time-stamp-token
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-07-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

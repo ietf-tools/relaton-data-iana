@@ -1,24 +1,28 @@
 ---
 id: IANAiana-routing-types
 title:
-  content: iana-routing-types YANG Module
+- content: iana-routing-types YANG Module
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iana-routing-types
+- content: http://www.iana.org/assignments/iana-routing-types
   type: src
 type: standard
 docid:
-  id: IANA iana-routing-types
+- id: IANA iana-routing-types
   type: IANA
 docnumber: iana-routing-types
 date:
-  type: created
+- type: created
   value: '2017-10-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAnorm-parameters/norm-stream-control
 title:
-  content: NORM Stream Control Codes
+- content: NORM Stream Control Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/norm-parameters
+- content: http://www.iana.org/assignments/norm-parameters
   type: src
 type: standard
 docid:
-  id: IANA norm-parameters/norm-stream-control
+- id: IANA norm-parameters/norm-stream-control
   type: IANA
 docnumber: norm-parameters/norm-stream-control
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-11-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

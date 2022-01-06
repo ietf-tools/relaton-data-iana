@@ -1,24 +1,28 @@
 ---
 id: IANAurn-namespaces
 title:
-  content: Uniform Resource Names (URN) Namespaces
+- content: Uniform Resource Names (URN) Namespaces
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/urn-namespaces
+- content: http://www.iana.org/assignments/urn-namespaces
   type: src
 type: standard
 docid:
-  id: IANA urn-namespaces
+- id: IANA urn-namespaces
   type: IANA
 docnumber: urn-namespaces
 date:
-  type: updated
+- type: updated
   value: '2021-07-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

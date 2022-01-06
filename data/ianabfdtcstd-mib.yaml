@@ -1,14 +1,14 @@
 ---
 id: IANAianabfdtcstd-mib
 title:
-  content: IANA-BFD-TC-STD-MIB
+- content: IANA-BFD-TC-STD-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianabfdtcstd-mib
+- content: http://www.iana.org/assignments/ianabfdtcstd-mib
   type: src
 type: standard
 docid:
-  id: IANA ianabfdtcstd-mib
+- id: IANA ianabfdtcstd-mib
   type: IANA
 docnumber: ianabfdtcstd-mib
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-01-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

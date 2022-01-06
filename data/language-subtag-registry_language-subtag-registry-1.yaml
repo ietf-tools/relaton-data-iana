@@ -1,21 +1,25 @@
 ---
 id: IANAlanguage-subtag-registry/language-subtag-registry-1
 title:
-  content: Language Subtag Registry
+- content: Language Subtag Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/language-subtag-registry
+- content: http://www.iana.org/assignments/language-subtag-registry
   type: src
 type: standard
 docid:
-  id: IANA language-subtag-registry/language-subtag-registry-1
+- id: IANA language-subtag-registry/language-subtag-registry-1
   type: IANA
 docnumber: language-subtag-registry/language-subtag-registry-1
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

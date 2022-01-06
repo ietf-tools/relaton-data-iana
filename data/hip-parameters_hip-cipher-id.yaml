@@ -1,14 +1,14 @@
 ---
 id: IANAhip-parameters/hip-cipher-id
 title:
-  content: HIP Cipher ID
+- content: HIP Cipher ID
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/hip-parameters
+- content: http://www.iana.org/assignments/hip-parameters
   type: src
 type: standard
 docid:
-  id: IANA hip-parameters/hip-cipher-id
+- id: IANA hip-parameters/hip-cipher-id
   type: IANA
 docnumber: hip-parameters/hip-cipher-id
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAkerberos-parameters/principal-names
 title:
-  content: Well-Known Kerberos Principal Names
+- content: Well-Known Kerberos Principal Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/kerberos-parameters
+- content: http://www.iana.org/assignments/kerberos-parameters
   type: src
 type: standard
 docid:
-  id: IANA kerberos-parameters/principal-names
+- id: IANA kerberos-parameters/principal-names
   type: IANA
 docnumber: kerberos-parameters/principal-names
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

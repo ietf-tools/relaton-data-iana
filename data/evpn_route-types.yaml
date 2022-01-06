@@ -1,14 +1,14 @@
 ---
 id: IANAevpn/route-types
 title:
-  content: EVPN Route Types
+- content: EVPN Route Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/evpn
+- content: http://www.iana.org/assignments/evpn
   type: src
 type: standard
 docid:
-  id: IANA evpn/route-types
+- id: IANA evpn/route-types
   type: IANA
 docnumber: evpn/route-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

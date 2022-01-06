@@ -1,14 +1,14 @@
 ---
 id: IANApcp-parameters/options
 title:
-  content: PCP Options
+- content: PCP Options
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcp-parameters
+- content: http://www.iana.org/assignments/pcp-parameters
   type: src
 type: standard
 docid:
-  id: IANA pcp-parameters/options
+- id: IANA pcp-parameters/options
   type: IANA
 docnumber: pcp-parameters/options
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-05-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

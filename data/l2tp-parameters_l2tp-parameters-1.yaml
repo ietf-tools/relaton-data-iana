@@ -1,14 +1,14 @@
 ---
 id: IANAl2tp-parameters/l2tp-parameters-1
 title:
-  content: Control Message Attribute Value Pairs
+- content: Control Message Attribute Value Pairs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/l2tp-parameters
+- content: http://www.iana.org/assignments/l2tp-parameters
   type: src
 type: standard
 docid:
-  id: IANA l2tp-parameters/l2tp-parameters-1
+- id: IANA l2tp-parameters/l2tp-parameters-1
   type: IANA
 docnumber: l2tp-parameters/l2tp-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-07-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

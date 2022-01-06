@@ -1,14 +1,14 @@
 ---
 id: IANAurn-serviceid-labels/urn-serviceid-labels-1
 title:
-  content: URN Service Labels
+- content: URN Service Labels
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/urn-serviceid-labels
+- content: http://www.iana.org/assignments/urn-serviceid-labels
   type: src
 type: standard
 docid:
-  id: IANA urn-serviceid-labels/urn-serviceid-labels-1
+- id: IANA urn-serviceid-labels/urn-serviceid-labels-1
   type: IANA
 docnumber: urn-serviceid-labels/urn-serviceid-labels-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-05-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

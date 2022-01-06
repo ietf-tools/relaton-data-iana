@@ -1,14 +1,14 @@
 ---
 id: IANAmrt/type-codes
 title:
-  content: Type Codes
+- content: Type Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mrt
+- content: http://www.iana.org/assignments/mrt
   type: src
 type: standard
 docid:
-  id: IANA mrt/type-codes
+- id: IANA mrt/type-codes
   type: IANA
 docnumber: mrt/type-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-01-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

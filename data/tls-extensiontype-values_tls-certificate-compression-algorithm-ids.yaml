@@ -1,14 +1,14 @@
 ---
 id: IANAtls-extensiontype-values/tls-certificate-compression-algorithm-ids
 title:
-  content: TLS Certificate Compression Algorithm IDs
+- content: TLS Certificate Compression Algorithm IDs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tls-extensiontype-values
+- content: http://www.iana.org/assignments/tls-extensiontype-values
   type: src
 type: standard
 docid:
-  id: IANA tls-extensiontype-values/tls-certificate-compression-algorithm-ids
+- id: IANA tls-extensiontype-values/tls-certificate-compression-algorithm-ids
   type: IANA
 docnumber: tls-extensiontype-values/tls-certificate-compression-algorithm-ids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

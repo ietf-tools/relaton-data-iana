@@ -1,14 +1,14 @@
 ---
 id: IANAcose
 title:
-  content: CBOR Object Signing and Encryption (COSE)
+- content: CBOR Object Signing and Encryption (COSE)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cose
+- content: http://www.iana.org/assignments/cose
   type: src
 type: standard
 docid:
-  id: IANA cose
+- id: IANA cose
   type: IANA
 docnumber: cose
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

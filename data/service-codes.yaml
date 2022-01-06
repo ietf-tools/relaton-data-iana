@@ -1,14 +1,14 @@
 ---
 id: IANAservice-codes
 title:
-  content: Service Codes
+- content: Service Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/service-codes
+- content: http://www.iana.org/assignments/service-codes
   type: src
 type: standard
 docid:
-  id: IANA service-codes
+- id: IANA service-codes
   type: IANA
 docnumber: service-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-03-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

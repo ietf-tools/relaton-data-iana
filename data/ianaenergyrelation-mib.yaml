@@ -1,14 +1,14 @@
 ---
 id: IANAianaenergyrelation-mib
 title:
-  content: IANA-ENERGY-RELATION-MIB
+- content: IANA-ENERGY-RELATION-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianaenergyrelation-mib
+- content: http://www.iana.org/assignments/ianaenergyrelation-mib
   type: src
 type: standard
 docid:
-  id: IANA ianaenergyrelation-mib
+- id: IANA ianaenergyrelation-mib
   type: IANA
 docnumber: ianaenergyrelation-mib
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

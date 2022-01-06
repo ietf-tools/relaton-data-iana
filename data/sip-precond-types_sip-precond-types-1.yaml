@@ -1,14 +1,14 @@
 ---
 id: IANAsip-precond-types/sip-precond-types-1
 title:
-  content: Precondition Types Used with SIP
+- content: Precondition Types Used with SIP
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-precond-types
+- content: http://www.iana.org/assignments/sip-precond-types
   type: src
 type: standard
 docid:
-  id: IANA sip-precond-types/sip-precond-types-1
+- id: IANA sip-precond-types/sip-precond-types-1
   type: IANA
 docnumber: sip-precond-types/sip-precond-types-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-07-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

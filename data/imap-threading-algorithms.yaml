@@ -1,14 +1,14 @@
 ---
 id: IANAimap-threading-algorithms
 title:
-  content: Internet Message Access Protocol (IMAP) Threading Algorithms
+- content: Internet Message Access Protocol (IMAP) Threading Algorithms
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/imap-threading-algorithms
+- content: http://www.iana.org/assignments/imap-threading-algorithms
   type: src
 type: standard
 docid:
-  id: IANA imap-threading-algorithms
+- id: IANA imap-threading-algorithms
   type: IANA
 docnumber: imap-threading-algorithms
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2008-06-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

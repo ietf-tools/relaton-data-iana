@@ -1,14 +1,14 @@
 ---
 id: IANAnvo3
 title:
-  content: Network Virtualization Overlay (NVO3)
+- content: Network Virtualization Overlay (NVO3)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nvo3
+- content: http://www.iana.org/assignments/nvo3
   type: src
 type: standard
 docid:
-  id: IANA nvo3
+- id: IANA nvo3
   type: IANA
 docnumber: nvo3
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

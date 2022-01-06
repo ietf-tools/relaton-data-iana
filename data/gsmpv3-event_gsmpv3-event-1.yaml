@@ -1,14 +1,14 @@
 ---
 id: IANAgsmpv3-event/gsmpv3-event-1
 title:
-  content: Event Flags
+- content: Event Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gsmpv3-event
+- content: http://www.iana.org/assignments/gsmpv3-event
   type: src
 type: standard
 docid:
-  id: IANA gsmpv3-event/gsmpv3-event-1
+- id: IANA gsmpv3-event/gsmpv3-event-1
   type: IANA
 docnumber: gsmpv3-event/gsmpv3-event-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2002-06-10'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

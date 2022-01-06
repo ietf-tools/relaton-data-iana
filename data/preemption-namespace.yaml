@@ -1,14 +1,14 @@
 ---
 id: IANApreemption-namespace
 title:
-  content: Preemption Namespace Registry
+- content: Preemption Namespace Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/preemption-namespace
+- content: http://www.iana.org/assignments/preemption-namespace
   type: src
 type: standard
 docid:
-  id: IANA preemption-namespace
+- id: IANA preemption-namespace
   type: IANA
 docnumber: preemption-namespace
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2006-02-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

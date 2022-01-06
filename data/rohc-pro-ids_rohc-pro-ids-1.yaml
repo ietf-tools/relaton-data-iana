@@ -1,14 +1,14 @@
 ---
 id: IANArohc-pro-ids/rohc-pro-ids-1
 title:
-  content: Profile Identifiers
+- content: Profile Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rohc-pro-ids
+- content: http://www.iana.org/assignments/rohc-pro-ids
   type: src
 type: standard
 docid:
-  id: IANA rohc-pro-ids/rohc-pro-ids-1
+- id: IANA rohc-pro-ids/rohc-pro-ids-1
   type: IANA
 docnumber: rohc-pro-ids/rohc-pro-ids-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-01-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

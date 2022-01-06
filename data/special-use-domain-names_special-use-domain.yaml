@@ -1,14 +1,14 @@
 ---
 id: IANAspecial-use-domain-names/special-use-domain
 title:
-  content: Special-Use Domain Names
+- content: Special-Use Domain Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/special-use-domain-names
+- content: http://www.iana.org/assignments/special-use-domain-names
   type: src
 type: standard
 docid:
-  id: IANA special-use-domain-names/special-use-domain
+- id: IANA special-use-domain-names/special-use-domain
   type: IANA
 docnumber: special-use-domain-names/special-use-domain
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

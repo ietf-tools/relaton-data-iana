@@ -1,14 +1,14 @@
 ---
 id: IANAip-over-IEEE1394/ip-over-IEEE1394-1
 title:
-  content: CSR Protocol Identifiers
+- content: CSR Protocol Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ip-over-IEEE1394
+- content: http://www.iana.org/assignments/ip-over-IEEE1394
   type: src
 type: standard
 docid:
-  id: IANA ip-over-IEEE1394/ip-over-IEEE1394-1
+- id: IANA ip-over-IEEE1394/ip-over-IEEE1394-1
   type: IANA
 docnumber: ip-over-IEEE1394/ip-over-IEEE1394-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-06-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

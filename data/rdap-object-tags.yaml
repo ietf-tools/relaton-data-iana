@@ -1,24 +1,28 @@
 ---
 id: IANArdap-object-tags
 title:
-  content: Bootstrap Service Registry for Provider Object Tags
+- content: Bootstrap Service Registry for Provider Object Tags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rdap-object-tags
+- content: http://www.iana.org/assignments/rdap-object-tags
   type: src
 type: standard
 docid:
-  id: IANA rdap-object-tags
+- id: IANA rdap-object-tags
   type: IANA
 docnumber: rdap-object-tags
 date:
-  type: created
+- type: created
   value: '2018-11-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

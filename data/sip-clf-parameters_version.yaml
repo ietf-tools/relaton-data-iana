@@ -1,14 +1,14 @@
 ---
 id: IANAsip-clf-parameters/version
 title:
-  content: SIP CLF Version Values
+- content: SIP CLF Version Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-clf-parameters
+- content: http://www.iana.org/assignments/sip-clf-parameters
   type: src
 type: standard
 docid:
-  id: IANA sip-clf-parameters/version
+- id: IANA sip-clf-parameters/version
   type: IANA
 docnumber: sip-clf-parameters/version
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-09-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

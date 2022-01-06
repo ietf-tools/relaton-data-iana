@@ -1,14 +1,14 @@
 ---
 id: IANAperformance-metrics/performance-metrics-registry
 title:
-  content: Performance Metrics Registry
+- content: Performance Metrics Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/performance-metrics
+- content: http://www.iana.org/assignments/performance-metrics
   type: src
 type: standard
 docid:
-  id: IANA performance-metrics/performance-metrics-registry
+- id: IANA performance-metrics/performance-metrics-registry
   type: IANA
 docnumber: performance-metrics/performance-metrics-registry
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

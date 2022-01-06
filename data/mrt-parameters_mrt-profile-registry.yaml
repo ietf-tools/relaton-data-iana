@@ -1,14 +1,14 @@
 ---
 id: IANAmrt-parameters/mrt-profile-registry
 title:
-  content: MRT Profile Identifier Registry
+- content: MRT Profile Identifier Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mrt-parameters
+- content: http://www.iana.org/assignments/mrt-parameters
   type: src
 type: standard
 docid:
-  id: IANA mrt-parameters/mrt-profile-registry
+- id: IANA mrt-parameters/mrt-profile-registry
   type: IANA
 docnumber: mrt-parameters/mrt-profile-registry
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-06-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

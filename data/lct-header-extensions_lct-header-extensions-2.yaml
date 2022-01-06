@@ -1,14 +1,14 @@
 ---
 id: IANAlct-header-extensions/lct-header-extensions-2
 title:
-  content: LCT Header Extension Types
+- content: LCT Header Extension Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/lct-header-extensions
+- content: http://www.iana.org/assignments/lct-header-extensions
   type: src
 type: standard
 docid:
-  id: IANA lct-header-extensions/lct-header-extensions-2
+- id: IANA lct-header-extensions/lct-header-extensions-2
   type: IANA
 docnumber: lct-header-extensions/lct-header-extensions-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-03-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

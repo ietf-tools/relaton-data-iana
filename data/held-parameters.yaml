@@ -1,14 +1,14 @@
 ---
 id: IANAheld-parameters
 title:
-  content: Geopriv HTTP Enabled Location Delivery (HELD) Parameters
+- content: Geopriv HTTP Enabled Location Delivery (HELD) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/held-parameters
+- content: http://www.iana.org/assignments/held-parameters
   type: src
 type: standard
 docid:
-  id: IANA held-parameters
+- id: IANA held-parameters
   type: IANA
 docnumber: held-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-03-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

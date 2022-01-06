@@ -1,24 +1,28 @@
 ---
 id: IANAipv4-recovered-address-space
 title:
-  content: IPv4 Recovered Address Space
+- content: IPv4 Recovered Address Space
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipv4-recovered-address-space
+- content: http://www.iana.org/assignments/ipv4-recovered-address-space
   type: src
 type: standard
 docid:
-  id: IANA ipv4-recovered-address-space
+- id: IANA ipv4-recovered-address-space
   type: IANA
 docnumber: ipv4-recovered-address-space
 date:
-  type: updated
+- type: updated
   value: '2019-03-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

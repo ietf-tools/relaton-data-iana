@@ -1,14 +1,14 @@
 ---
 id: IANAidna-tables-5.2.0/idna-tables-5.2.0-context
 title:
-  content: IDNA Contextual Rules
+- content: IDNA Contextual Rules
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/idna-tables-5.2.0
+- content: http://www.iana.org/assignments/idna-tables-5.2.0
   type: src
 type: standard
 docid:
-  id: IANA idna-tables-5.2.0/idna-tables-5.2.0-context
+- id: IANA idna-tables-5.2.0/idna-tables-5.2.0-context
   type: IANA
 docnumber: idna-tables-5.2.0/idna-tables-5.2.0-context
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-03-31'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

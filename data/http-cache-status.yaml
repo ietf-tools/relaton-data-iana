@@ -1,14 +1,14 @@
 ---
 id: IANAhttp-cache-status
 title:
-  content: HTTP Cache-Status
+- content: HTTP Cache-Status
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-cache-status
+- content: http://www.iana.org/assignments/http-cache-status
   type: src
 type: standard
 docid:
-  id: IANA http-cache-status
+- id: IANA http-cache-status
   type: IANA
 docnumber: http-cache-status
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

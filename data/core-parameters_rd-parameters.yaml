@@ -1,14 +1,14 @@
 ---
 id: IANAcore-parameters/rd-parameters
 title:
-  content: RD Parameters
+- content: RD Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/core-parameters
+- content: http://www.iana.org/assignments/core-parameters
   type: src
 type: standard
 docid:
-  id: IANA core-parameters/rd-parameters
+- id: IANA core-parameters/rd-parameters
   type: IANA
 docnumber: core-parameters/rd-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

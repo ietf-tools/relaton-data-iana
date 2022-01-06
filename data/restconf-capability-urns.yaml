@@ -1,14 +1,14 @@
 ---
 id: IANArestconf-capability-urns
 title:
-  content: RESTCONF Capability URNs
+- content: RESTCONF Capability URNs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/restconf-capability-urns
+- content: http://www.iana.org/assignments/restconf-capability-urns
   type: src
 type: standard
 docid:
-  id: IANA restconf-capability-urns
+- id: IANA restconf-capability-urns
   type: IANA
 docnumber: restconf-capability-urns
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-03-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAtransfer-encodings
 title:
-  content: Transfer Encodings
+- content: Transfer Encodings
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/transfer-encodings
+- content: http://www.iana.org/assignments/transfer-encodings
   type: src
 type: standard
 docid:
-  id: IANA transfer-encodings
+- id: IANA transfer-encodings
   type: IANA
 docnumber: transfer-encodings
 date:
-  type: updated
+- type: updated
   value: '2009-08-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

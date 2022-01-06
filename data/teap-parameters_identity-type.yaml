@@ -1,14 +1,14 @@
 ---
 id: IANAteap-parameters/identity-type
 title:
-  content: TEAP Identity-Type TLV (value 2) Registry
+- content: TEAP Identity-Type TLV (value 2) Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/teap-parameters
+- content: http://www.iana.org/assignments/teap-parameters
   type: src
 type: standard
 docid:
-  id: IANA teap-parameters/identity-type
+- id: IANA teap-parameters/identity-type
   type: IANA
 docnumber: teap-parameters/identity-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAs-pmsi-parameters
 title:
-  content: Selective P-Multicast Service Interface (S-PMSI) Parameters
+- content: Selective P-Multicast Service Interface (S-PMSI) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/s-pmsi-parameters
+- content: http://www.iana.org/assignments/s-pmsi-parameters
   type: src
 type: standard
 docid:
-  id: IANA s-pmsi-parameters
+- id: IANA s-pmsi-parameters
   type: IANA
 docnumber: s-pmsi-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-02-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

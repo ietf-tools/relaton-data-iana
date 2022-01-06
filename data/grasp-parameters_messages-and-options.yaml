@@ -1,14 +1,14 @@
 ---
 id: IANAgrasp-parameters/messages-and-options
 title:
-  content: GRASP Messages and Options
+- content: GRASP Messages and Options
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/grasp-parameters
+- content: http://www.iana.org/assignments/grasp-parameters
   type: src
 type: standard
 docid:
-  id: IANA grasp-parameters/messages-and-options
+- id: IANA grasp-parameters/messages-and-options
   type: IANA
 docnumber: grasp-parameters/messages-and-options
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-05-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAbundle/cbhe-node-numbers
 title:
-  content: CBHE Node Numbers
+- content: CBHE Node Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bundle
+- content: http://www.iana.org/assignments/bundle
   type: src
 type: standard
 docid:
-  id: IANA bundle/cbhe-node-numbers
+- id: IANA bundle/cbhe-node-numbers
   type: IANA
 docnumber: bundle/cbhe-node-numbers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-04'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

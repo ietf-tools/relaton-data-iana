@@ -1,24 +1,28 @@
 ---
 id: IANAmail-encoding/mail-encoding-1
 title:
-  content: Encoding Header Field Keywords
+- content: Encoding Header Field Keywords
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mail-encoding
+- content: http://www.iana.org/assignments/mail-encoding
   type: src
 type: standard
 docid:
-  id: IANA mail-encoding/mail-encoding-1
+- id: IANA mail-encoding/mail-encoding-1
   type: IANA
 docnumber: mail-encoding/mail-encoding-1
 date:
-  type: updated
+- type: updated
   value: '2009-03-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

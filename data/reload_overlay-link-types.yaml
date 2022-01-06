@@ -1,14 +1,14 @@
 ---
 id: IANAreload/overlay-link-types
 title:
-  content: RELOAD Overlay Link Registry
+- content: RELOAD Overlay Link Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/reload
+- content: http://www.iana.org/assignments/reload
   type: src
 type: standard
 docid:
-  id: IANA reload/overlay-link-types
+- id: IANA reload/overlay-link-types
   type: IANA
 docnumber: reload/overlay-link-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-03-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

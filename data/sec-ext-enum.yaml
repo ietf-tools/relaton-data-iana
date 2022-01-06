@@ -1,14 +1,14 @@
 ---
 id: IANAsec-ext-enum
 title:
-  content: Security External Enumeration Registry
+- content: Security External Enumeration Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sec-ext-enum
+- content: http://www.iana.org/assignments/sec-ext-enum
   type: src
 type: standard
 docid:
-  id: IANA sec-ext-enum
+- id: IANA sec-ext-enum
   type: IANA
 docnumber: sec-ext-enum
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-03-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAmedia-types/model
 title:
-  content: model
+- content: model
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/media-types
+- content: http://www.iana.org/assignments/media-types
   type: src
 type: standard
 docid:
-  id: IANA media-types/model
+- id: IANA media-types/model
   type: IANA
 docnumber: media-types/model
 date:
-  type: updated
+- type: updated
   value: '2021-11-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAsmi-numbers/smi-numbers-21
 title:
-  content: SMI pib PIB Codes
+- content: SMI pib PIB Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/smi-numbers
   type: src
 type: standard
 docid:
-  id: IANA smi-numbers/smi-numbers-21
+- id: IANA smi-numbers/smi-numbers-21
   type: IANA
 docnumber: smi-numbers/smi-numbers-21
 date:
-  type: updated
+- type: updated
   value: '2021-11-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAgist-parameters/nslpids
 title:
-  content: NSIS Signaling Layer Protocol (NSLP) Identifiers
+- content: NSIS Signaling Layer Protocol (NSLP) Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gist-parameters
+- content: http://www.iana.org/assignments/gist-parameters
   type: src
 type: standard
 docid:
-  id: IANA gist-parameters/nslpids
+- id: IANA gist-parameters/nslpids
   type: IANA
 docnumber: gist-parameters/nslpids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-01-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

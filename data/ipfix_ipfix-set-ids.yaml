@@ -1,14 +1,14 @@
 ---
 id: IANAipfix/ipfix-set-ids
 title:
-  content: IPFIX Set IDs
+- content: IPFIX Set IDs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipfix
+- content: http://www.iana.org/assignments/ipfix
   type: src
 type: standard
 docid:
-  id: IANA ipfix/ipfix-set-ids
+- id: IANA ipfix/ipfix-set-ids
   type: IANA
 docnumber: ipfix/ipfix-set-ids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

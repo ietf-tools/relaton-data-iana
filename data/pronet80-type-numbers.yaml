@@ -1,24 +1,28 @@
 ---
 id: IANApronet80-type-numbers
 title:
-  content: Pronet 80 Type Numbers
+- content: Pronet 80 Type Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pronet80-type-numbers
+- content: http://www.iana.org/assignments/pronet80-type-numbers
   type: src
 type: standard
 docid:
-  id: IANA pronet80-type-numbers
+- id: IANA pronet80-type-numbers
   type: IANA
 docnumber: pronet80-type-numbers
 date:
-  type: updated
+- type: updated
   value: '2001-06-29'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

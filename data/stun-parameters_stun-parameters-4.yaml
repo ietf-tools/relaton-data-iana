@@ -1,14 +1,14 @@
 ---
 id: IANAstun-parameters/stun-parameters-4
 title:
-  content: STUN Attributes
+- content: STUN Attributes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/stun-parameters
+- content: http://www.iana.org/assignments/stun-parameters
   type: src
 type: standard
 docid:
-  id: IANA stun-parameters/stun-parameters-4
+- id: IANA stun-parameters/stun-parameters-4
   type: IANA
 docnumber: stun-parameters/stun-parameters-4
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-09-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

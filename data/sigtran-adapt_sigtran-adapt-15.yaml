@@ -1,15 +1,15 @@
 ---
 id: IANAsigtran-adapt/sigtran-adapt-15
 title:
-  content: Message Types - DPNSS/DASS2 Boundary Primitives Transport Messages (Value
+- content: Message Types - DPNSS/DASS2 Boundary Primitives Transport Messages (Value
     13)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sigtran-adapt
+- content: http://www.iana.org/assignments/sigtran-adapt
   type: src
 type: standard
 docid:
-  id: IANA sigtran-adapt/sigtran-adapt-15
+- id: IANA sigtran-adapt/sigtran-adapt-15
   type: IANA
 docnumber: sigtran-adapt/sigtran-adapt-15
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2011-12-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

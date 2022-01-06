@@ -1,14 +1,14 @@
 ---
 id: IANAsdp-parameters/sdp-parameters-5
 title:
-  content: addrtype
+- content: addrtype
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sdp-parameters
+- content: http://www.iana.org/assignments/sdp-parameters
   type: src
 type: standard
 docid:
-  id: IANA sdp-parameters/sdp-parameters-5
+- id: IANA sdp-parameters/sdp-parameters-5
   type: IANA
 docnumber: sdp-parameters/sdp-parameters-5
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

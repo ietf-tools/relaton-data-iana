@@ -1,14 +1,14 @@
 ---
 id: IANArpki/bgpsec-path-flags
 title:
-  content: BGPsec_Path Flags
+- content: BGPsec_Path Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpki
+- content: http://www.iana.org/assignments/rpki
   type: src
 type: standard
 docid:
-  id: IANA rpki/bgpsec-path-flags
+- id: IANA rpki/bgpsec-path-flags
   type: IANA
 docnumber: rpki/bgpsec-path-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAcont-disp/cont-disp-2
 title:
-  content: Content Disposition Parameters
+- content: Content Disposition Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cont-disp
+- content: http://www.iana.org/assignments/cont-disp
   type: src
 type: standard
 docid:
-  id: IANA cont-disp/cont-disp-2
+- id: IANA cont-disp/cont-disp-2
   type: IANA
 docnumber: cont-disp/cont-disp-2
 date:
-  type: updated
+- type: updated
   value: '2021-09-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

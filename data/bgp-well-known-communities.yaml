@@ -1,14 +1,14 @@
 ---
 id: IANAbgp-well-known-communities
 title:
-  content: Border Gateway Protocol (BGP) Well-known Communities
+- content: Border Gateway Protocol (BGP) Well-known Communities
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-well-known-communities
+- content: http://www.iana.org/assignments/bgp-well-known-communities
   type: src
 type: standard
 docid:
-  id: IANA bgp-well-known-communities
+- id: IANA bgp-well-known-communities
   type: IANA
 docnumber: bgp-well-known-communities
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-30'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

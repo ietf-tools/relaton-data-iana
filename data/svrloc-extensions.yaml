@@ -1,14 +1,14 @@
 ---
 id: IANAsvrloc-extensions
 title:
-  content: Service Location Protocol Extensions, Version 2 (SLPv2)
+- content: Service Location Protocol Extensions, Version 2 (SLPv2)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/svrloc-extensions
+- content: http://www.iana.org/assignments/svrloc-extensions
   type: src
 type: standard
 docid:
-  id: IANA svrloc-extensions
+- id: IANA svrloc-extensions
   type: IANA
 docnumber: svrloc-extensions
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-07-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

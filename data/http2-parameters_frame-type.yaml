@@ -1,14 +1,14 @@
 ---
 id: IANAhttp2-parameters/frame-type
 title:
-  content: HTTP/2 Frame Type
+- content: HTTP/2 Frame Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http2-parameters
+- content: http://www.iana.org/assignments/http2-parameters
   type: src
 type: standard
 docid:
-  id: IANA http2-parameters/frame-type
+- id: IANA http2-parameters/frame-type
   type: IANA
 docnumber: http2-parameters/frame-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-31'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

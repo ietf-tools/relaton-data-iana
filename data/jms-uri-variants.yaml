@@ -1,14 +1,14 @@
 ---
 id: IANAjms-uri-variants
 title:
-  content: Java Message Service (JMS) URI Scheme Variants
+- content: Java Message Service (JMS) URI Scheme Variants
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/jms-uri-variants
+- content: http://www.iana.org/assignments/jms-uri-variants
   type: src
 type: standard
 docid:
-  id: IANA jms-uri-variants
+- id: IANA jms-uri-variants
   type: IANA
 docnumber: jms-uri-variants
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-04-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

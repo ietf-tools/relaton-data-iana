@@ -1,14 +1,14 @@
 ---
 id: IANAimap-metadata
 title:
-  content: IMAP METADATA Entry Registrations
+- content: IMAP METADATA Entry Registrations
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/imap-metadata
+- content: http://www.iana.org/assignments/imap-metadata
   type: src
 type: standard
 docid:
-  id: IANA imap-metadata
+- id: IANA imap-metadata
   type: IANA
 docnumber: imap-metadata
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-02-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

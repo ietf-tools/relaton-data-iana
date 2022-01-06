@@ -1,14 +1,14 @@
 ---
 id: IANAimap-jmap-keywords
 title:
-  content: IMAP and JMAP Keywords
+- content: IMAP and JMAP Keywords
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/imap-jmap-keywords
+- content: http://www.iana.org/assignments/imap-jmap-keywords
   type: src
 type: standard
 docid:
-  id: IANA imap-jmap-keywords
+- id: IANA imap-jmap-keywords
   type: IANA
 docnumber: imap-jmap-keywords
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-08-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

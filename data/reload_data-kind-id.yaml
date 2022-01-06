@@ -1,14 +1,14 @@
 ---
 id: IANAreload/data-kind-id
 title:
-  content: RELOAD Data Kind-ID
+- content: RELOAD Data Kind-ID
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/reload
+- content: http://www.iana.org/assignments/reload
   type: src
 type: standard
 docid:
-  id: IANA reload/data-kind-id
+- id: IANA reload/data-kind-id
   type: IANA
 docnumber: reload/data-kind-id
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-03-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

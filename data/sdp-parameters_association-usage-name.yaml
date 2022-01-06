@@ -1,14 +1,14 @@
 ---
 id: IANAsdp-parameters/association-usage-name
 title:
-  content: association-usage Name Registry
+- content: association-usage Name Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sdp-parameters
+- content: http://www.iana.org/assignments/sdp-parameters
   type: src
 type: standard
 docid:
-  id: IANA sdp-parameters/association-usage-name
+- id: IANA sdp-parameters/association-usage-name
   type: IANA
 docnumber: sdp-parameters/association-usage-name
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

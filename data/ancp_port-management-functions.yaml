@@ -1,14 +1,14 @@
 ---
 id: IANAancp/port-management-functions
 title:
-  content: ANCP Port Management Functions
+- content: ANCP Port Management Functions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ancp
+- content: http://www.iana.org/assignments/ancp
   type: src
 type: standard
 docid:
-  id: IANA ancp/port-management-functions
+- id: IANA ancp/port-management-functions
   type: IANA
 docnumber: ancp/port-management-functions
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-07-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

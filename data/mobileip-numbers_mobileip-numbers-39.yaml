@@ -1,24 +1,28 @@
 ---
 id: IANAmobileip-numbers/mobileip-numbers-39
 title:
-  content: Mobile Router Route Optimization Capability Extension (Value 153)
+- content: Mobile Router Route Optimization Capability Extension (Value 153)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mobileip-numbers
+- content: http://www.iana.org/assignments/mobileip-numbers
   type: src
 type: standard
 docid:
-  id: IANA mobileip-numbers/mobileip-numbers-39
+- id: IANA mobileip-numbers/mobileip-numbers-39
   type: IANA
 docnumber: mobileip-numbers/mobileip-numbers-39
 date:
-  type: updated
+- type: updated
   value: '2015-08-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

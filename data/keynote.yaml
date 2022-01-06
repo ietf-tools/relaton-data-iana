@@ -1,24 +1,28 @@
 ---
 id: IANAkeynote
 title:
-  content: KeyNote Parameters
+- content: KeyNote Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/keynote
+- content: http://www.iana.org/assignments/keynote
   type: src
 type: standard
 docid:
-  id: IANA keynote
+- id: IANA keynote
   type: IANA
 docnumber: keynote
 date:
-  type: updated
+- type: updated
   value: '2010-01-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

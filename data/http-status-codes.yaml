@@ -1,24 +1,28 @@
 ---
 id: IANAhttp-status-codes
 title:
-  content: Hypertext Transfer Protocol (HTTP) Status Code Registry
+- content: Hypertext Transfer Protocol (HTTP) Status Code Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-status-codes
+- content: http://www.iana.org/assignments/http-status-codes
   type: src
 type: standard
 docid:
-  id: IANA http-status-codes
+- id: IANA http-status-codes
   type: IANA
 docnumber: http-status-codes
 date:
-  type: updated
+- type: updated
   value: '2021-10-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAamtrelay-resource-record
 title:
-  content: AMTRELAY Resource Record Parameters
+- content: AMTRELAY Resource Record Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/amtrelay-resource-record
+- content: http://www.iana.org/assignments/amtrelay-resource-record
   type: src
 type: standard
 docid:
-  id: IANA amtrelay-resource-record
+- id: IANA amtrelay-resource-record
   type: IANA
 docnumber: amtrelay-resource-record
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

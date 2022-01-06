@@ -1,24 +1,28 @@
 ---
 id: IANAhttp-upgrade-tokens/http-upgrade-tokens-1
 title:
-  content: HTTP Upgrade Tokens
+- content: HTTP Upgrade Tokens
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-upgrade-tokens
+- content: http://www.iana.org/assignments/http-upgrade-tokens
   type: src
 type: standard
 docid:
-  id: IANA http-upgrade-tokens/http-upgrade-tokens-1
+- id: IANA http-upgrade-tokens/http-upgrade-tokens-1
   type: IANA
 docnumber: http-upgrade-tokens/http-upgrade-tokens-1
 date:
-  type: updated
+- type: updated
   value: '2021-10-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

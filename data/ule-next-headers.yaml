@@ -1,14 +1,14 @@
 ---
 id: IANAule-next-headers
 title:
-  content: Unidirectional Lightweight Encapsulation (ULE) Next-Header Registry
+- content: Unidirectional Lightweight Encapsulation (ULE) Next-Header Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ule-next-headers
+- content: http://www.iana.org/assignments/ule-next-headers
   type: src
 type: standard
 docid:
-  id: IANA ule-next-headers
+- id: IANA ule-next-headers
   type: IANA
 docnumber: ule-next-headers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-08-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAapex/apex-1
 title:
-  content: Applicable Exchange Core (APEX) Endpoint Applications
+- content: Applicable Exchange Core (APEX) Endpoint Applications
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/apex
+- content: http://www.iana.org/assignments/apex
   type: src
 type: standard
 docid:
-  id: IANA apex/apex-1
+- id: IANA apex/apex-1
   type: IANA
 docnumber: apex/apex-1
 date:
-  type: updated
+- type: updated
   value: '2009-06-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAgeopriv-identifiers
 title:
-  content: Geopriv Identifiers
+- content: Geopriv Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/geopriv-identifiers
+- content: http://www.iana.org/assignments/geopriv-identifiers
   type: src
 type: standard
 docid:
-  id: IANA geopriv-identifiers
+- id: IANA geopriv-identifiers
   type: IANA
 docnumber: geopriv-identifiers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-11-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

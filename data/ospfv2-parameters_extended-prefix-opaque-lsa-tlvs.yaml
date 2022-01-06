@@ -1,14 +1,14 @@
 ---
 id: IANAospfv2-parameters/extended-prefix-opaque-lsa-tlvs
 title:
-  content: OSPFv2 Extended Prefix Opaque LSA TLVs
+- content: OSPFv2 Extended Prefix Opaque LSA TLVs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ospfv2-parameters
+- content: http://www.iana.org/assignments/ospfv2-parameters
   type: src
 type: standard
 docid:
-  id: IANA ospfv2-parameters/extended-prefix-opaque-lsa-tlvs
+- id: IANA ospfv2-parameters/extended-prefix-opaque-lsa-tlvs
   type: IANA
 docnumber: ospfv2-parameters/extended-prefix-opaque-lsa-tlvs
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

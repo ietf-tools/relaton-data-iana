@@ -1,24 +1,28 @@
 ---
 id: IANAbgp-tunnel-encapsulation/tunnel-types
 title:
-  content: BGP Tunnel Encapsulation Attribute Tunnel Types
+- content: BGP Tunnel Encapsulation Attribute Tunnel Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
   type: src
 type: standard
 docid:
-  id: IANA bgp-tunnel-encapsulation/tunnel-types
+- id: IANA bgp-tunnel-encapsulation/tunnel-types
   type: IANA
 docnumber: bgp-tunnel-encapsulation/tunnel-types
 date:
-  type: updated
+- type: updated
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

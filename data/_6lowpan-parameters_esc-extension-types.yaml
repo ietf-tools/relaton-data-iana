@@ -1,14 +1,14 @@
 ---
 id: IANA_6lowpan-parameters/esc-extension-types
 title:
-  content: ESC Extension Types
+- content: ESC Extension Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/_6lowpan-parameters
+- content: http://www.iana.org/assignments/_6lowpan-parameters
   type: src
 type: standard
 docid:
-  id: IANA _6lowpan-parameters/esc-extension-types
+- id: IANA _6lowpan-parameters/esc-extension-types
   type: IANA
 docnumber: _6lowpan-parameters/esc-extension-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-29'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

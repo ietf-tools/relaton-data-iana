@@ -1,14 +1,14 @@
 ---
 id: IANArsvp-te-parameters/wson-processing-hop-sub-tlv
 title:
-  content: Sub-TLV Types for WSON Processing Hop Attribute TLV
+- content: Sub-TLV Types for WSON Processing Hop Attribute TLV
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rsvp-te-parameters
+- content: http://www.iana.org/assignments/rsvp-te-parameters
   type: src
 type: standard
 docid:
-  id: IANA rsvp-te-parameters/wson-processing-hop-sub-tlv
+- id: IANA rsvp-te-parameters/wson-processing-hop-sub-tlv
   type: IANA
 docnumber: rsvp-te-parameters/wson-processing-hop-sub-tlv
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

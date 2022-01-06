@@ -1,24 +1,28 @@
 ---
 id: IANAotp-parameters/otp-parameters-1
 title:
-  content: Algorithm Identifier
+- content: Algorithm Identifier
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/otp-parameters
+- content: http://www.iana.org/assignments/otp-parameters
   type: src
 type: standard
 docid:
-  id: IANA otp-parameters/otp-parameters-1
+- id: IANA otp-parameters/otp-parameters-1
   type: IANA
 docnumber: otp-parameters/otp-parameters-1
 date:
-  type: updated
+- type: updated
   value: '2009-05-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

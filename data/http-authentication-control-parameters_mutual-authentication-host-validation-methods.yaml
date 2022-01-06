@@ -1,14 +1,14 @@
 ---
 id: IANAhttp-authentication-control-parameters/mutual-authentication-host-validation-methods
 title:
-  content: HTTP Mutual Authentication Host Validation Methods
+- content: HTTP Mutual Authentication Host Validation Methods
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-authentication-control-parameters
+- content: http://www.iana.org/assignments/http-authentication-control-parameters
   type: src
 type: standard
 docid:
-  id: IANA http-authentication-control-parameters/mutual-authentication-host-validation-methods
+- id: IANA http-authentication-control-parameters/mutual-authentication-host-validation-methods
   type: IANA
 docnumber: http-authentication-control-parameters/mutual-authentication-host-validation-methods
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-04-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

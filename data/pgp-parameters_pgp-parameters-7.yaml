@@ -1,14 +1,14 @@
 ---
 id: IANApgp-parameters/pgp-parameters-7
 title:
-  content: Key Server Preference Extensions
+- content: Key Server Preference Extensions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pgp-parameters
+- content: http://www.iana.org/assignments/pgp-parameters
   type: src
 type: standard
 docid:
-  id: IANA pgp-parameters/pgp-parameters-7
+- id: IANA pgp-parameters/pgp-parameters-7
   type: IANA
 docnumber: pgp-parameters/pgp-parameters-7
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-07-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

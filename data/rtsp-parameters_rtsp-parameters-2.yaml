@@ -1,14 +1,14 @@
 ---
 id: IANArtsp-parameters/rtsp-parameters-2
 title:
-  content: RTSP/1.0 Headers
+- content: RTSP/1.0 Headers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rtsp-parameters
+- content: http://www.iana.org/assignments/rtsp-parameters
   type: src
 type: standard
 docid:
-  id: IANA rtsp-parameters/rtsp-parameters-2
+- id: IANA rtsp-parameters/rtsp-parameters-2
   type: IANA
 docnumber: rtsp-parameters/rtsp-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-02-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

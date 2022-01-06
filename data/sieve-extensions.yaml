@@ -1,14 +1,14 @@
 ---
 id: IANAsieve-extensions
 title:
-  content: Sieve Extensions
+- content: Sieve Extensions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sieve-extensions
+- content: http://www.iana.org/assignments/sieve-extensions
   type: src
 type: standard
 docid:
-  id: IANA sieve-extensions
+- id: IANA sieve-extensions
   type: IANA
 docnumber: sieve-extensions
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-05'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

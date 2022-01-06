@@ -1,24 +1,28 @@
 ---
 id: IANAradius-types/radius-types-8
 title:
-  content: Values for RADIUS Attribute 15, Login-Service
+- content: Values for RADIUS Attribute 15, Login-Service
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/radius-types
+- content: http://www.iana.org/assignments/radius-types
   type: src
 type: standard
 docid:
-  id: IANA radius-types/radius-types-8
+- id: IANA radius-types/radius-types-8
   type: IANA
 docnumber: radius-types/radius-types-8
 date:
-  type: updated
+- type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

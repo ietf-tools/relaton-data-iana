@@ -1,14 +1,14 @@
 ---
 id: IANAsyslog-parameters/syslog-parameters-6
 title:
-  content: syslog-sign Hash Algorithm Values
+- content: syslog-sign Hash Algorithm Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/syslog-parameters
+- content: http://www.iana.org/assignments/syslog-parameters
   type: src
 type: standard
 docid:
-  id: IANA syslog-parameters/syslog-parameters-6
+- id: IANA syslog-parameters/syslog-parameters-6
   type: IANA
 docnumber: syslog-parameters/syslog-parameters-6
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-04-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

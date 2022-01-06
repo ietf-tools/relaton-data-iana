@@ -1,14 +1,14 @@
 ---
 id: IANAforces/setup
 title:
-  content: Association Setup Response
+- content: Association Setup Response
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/forces
+- content: http://www.iana.org/assignments/forces
   type: src
 type: standard
 docid:
-  id: IANA forces/setup
+- id: IANA forces/setup
   type: IANA
 docnumber: forces/setup
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-02-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

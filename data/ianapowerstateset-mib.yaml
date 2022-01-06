@@ -1,14 +1,14 @@
 ---
 id: IANAianapowerstateset-mib
 title:
-  content: IANA-POWER-STATE-SET-MIB
+- content: IANA-POWER-STATE-SET-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianapowerstateset-mib
+- content: http://www.iana.org/assignments/ianapowerstateset-mib
   type: src
 type: standard
 docid:
-  id: IANA ianapowerstateset-mib
+- id: IANA ianapowerstateset-mib
   type: IANA
 docnumber: ianapowerstateset-mib
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-03-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

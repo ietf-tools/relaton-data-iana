@@ -1,14 +1,14 @@
 ---
 id: IANAccmp-parameters/response-codes
 title:
-  content: CCMP Response Codes
+- content: CCMP Response Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ccmp-parameters
+- content: http://www.iana.org/assignments/ccmp-parameters
   type: src
 type: standard
 docid:
-  id: IANA ccmp-parameters/response-codes
+- id: IANA ccmp-parameters/response-codes
   type: IANA
 docnumber: ccmp-parameters/response-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-03-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAnhrp-types
 title:
-  content: Next Hop Resolution Protocol (NHRP) Types
+- content: Next Hop Resolution Protocol (NHRP) Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nhrp-types
+- content: http://www.iana.org/assignments/nhrp-types
   type: src
 type: standard
 docid:
-  id: IANA nhrp-types
+- id: IANA nhrp-types
   type: IANA
 docnumber: nhrp-types
 date:
-  type: updated
+- type: updated
   value: '2009-02-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

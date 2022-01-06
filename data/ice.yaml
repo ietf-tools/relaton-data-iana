@@ -1,14 +1,14 @@
 ---
 id: IANAice
 title:
-  content: Interactive Connectivity Establishment (ICE)
+- content: Interactive Connectivity Establishment (ICE)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ice
+- content: http://www.iana.org/assignments/ice
   type: src
 type: standard
 docid:
-  id: IANA ice
+- id: IANA ice
   type: IANA
 docnumber: ice
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-01-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

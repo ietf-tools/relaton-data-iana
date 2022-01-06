@@ -1,14 +1,14 @@
 ---
 id: IANAlgr-dispositions/private-dispositions
 title:
-  content: Private Dispositions
+- content: Private Dispositions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/lgr-dispositions
+- content: http://www.iana.org/assignments/lgr-dispositions
   type: src
 type: standard
 docid:
-  id: IANA lgr-dispositions/private-dispositions
+- id: IANA lgr-dispositions/private-dispositions
   type: IANA
 docnumber: lgr-dispositions/private-dispositions
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-08-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANArsvp-parameters/rsvp-parameters-117
 title:
-  content: Capability Object values
+- content: Capability Object values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rsvp-parameters
+- content: http://www.iana.org/assignments/rsvp-parameters
   type: src
 type: standard
 docid:
-  id: IANA rsvp-parameters/rsvp-parameters-117
+- id: IANA rsvp-parameters/rsvp-parameters-117
   type: IANA
 docnumber: rsvp-parameters/rsvp-parameters-117
 date:
-  type: updated
+- type: updated
   value: '2019-12-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAsieve-environment-items
 title:
-  content: Sieve Environment Items
+- content: Sieve Environment Items
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sieve-environment-items
+- content: http://www.iana.org/assignments/sieve-environment-items
   type: src
 type: standard
 docid:
-  id: IANA sieve-environment-items
+- id: IANA sieve-environment-items
   type: IANA
 docnumber: sieve-environment-items
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-01-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

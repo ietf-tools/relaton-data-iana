@@ -1,24 +1,28 @@
 ---
 id: IANArpl-routing-metric-constraint/common-header-flag
 title:
-  content: Routing Metric/Constraint Common Header Flag field
+- content: Routing Metric/Constraint Common Header Flag field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpl-routing-metric-constraint
+- content: http://www.iana.org/assignments/rpl-routing-metric-constraint
   type: src
 type: standard
 docid:
-  id: IANA rpl-routing-metric-constraint/common-header-flag
+- id: IANA rpl-routing-metric-constraint/common-header-flag
   type: IANA
 docnumber: rpl-routing-metric-constraint/common-header-flag
 date:
-  type: updated
+- type: updated
   value: '2012-03-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

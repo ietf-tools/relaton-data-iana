@@ -1,14 +1,14 @@
 ---
 id: IANArpcbind-transport-parameters
 title:
-  content: RPCBIND Transport Parameters
+- content: RPCBIND Transport Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpcbind-transport-parameters
+- content: http://www.iana.org/assignments/rpcbind-transport-parameters
   type: src
 type: standard
 docid:
-  id: IANA rpcbind-transport-parameters
+- id: IANA rpcbind-transport-parameters
   type: IANA
 docnumber: rpcbind-transport-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-10-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

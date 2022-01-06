@@ -1,14 +1,14 @@
 ---
 id: IANArpl/mop
 title:
-  content: Mode of Operation
+- content: Mode of Operation
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpl
+- content: http://www.iana.org/assignments/rpl
   type: src
 type: standard
 docid:
-  id: IANA rpl/mop
+- id: IANA rpl/mop
   type: IANA
 docnumber: rpl/mop
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-05-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

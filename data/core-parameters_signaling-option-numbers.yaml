@@ -1,14 +1,14 @@
 ---
 id: IANAcore-parameters/signaling-option-numbers
 title:
-  content: CoAP Signaling Option Numbers
+- content: CoAP Signaling Option Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/core-parameters
+- content: http://www.iana.org/assignments/core-parameters
   type: src
 type: standard
 docid:
-  id: IANA core-parameters/signaling-option-numbers
+- id: IANA core-parameters/signaling-option-numbers
   type: IANA
 docnumber: core-parameters/signaling-option-numbers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

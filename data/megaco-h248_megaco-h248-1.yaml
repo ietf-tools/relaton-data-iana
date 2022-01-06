@@ -1,14 +1,14 @@
 ---
 id: IANAmegaco-h248/megaco-h248-1
 title:
-  content: Public Packages (0x0001-0x7fff)
+- content: Public Packages (0x0001-0x7fff)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/megaco-h248
+- content: http://www.iana.org/assignments/megaco-h248
   type: src
 type: standard
 docid:
-  id: IANA megaco-h248/megaco-h248-1
+- id: IANA megaco-h248/megaco-h248-1
   type: IANA
 docnumber: megaco-h248/megaco-h248-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-12-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAospf-authentication-codes/authentication-codes
 title:
-  content: Authentication Codes
+- content: Authentication Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ospf-authentication-codes
+- content: http://www.iana.org/assignments/ospf-authentication-codes
   type: src
 type: standard
 docid:
-  id: IANA ospf-authentication-codes/authentication-codes
+- id: IANA ospf-authentication-codes/authentication-codes
   type: IANA
 docnumber: ospf-authentication-codes/authentication-codes
 date:
-  type: updated
+- type: updated
   value: '2015-04-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

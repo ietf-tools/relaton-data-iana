@@ -1,24 +1,28 @@
 ---
 id: IANAicmp-parameters/icmp-parameters-codes
 title:
-  content: Code Fields
+- content: Code Fields
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/icmp-parameters
+- content: http://www.iana.org/assignments/icmp-parameters
   type: src
 type: standard
 docid:
-  id: IANA icmp-parameters/icmp-parameters-codes
+- id: IANA icmp-parameters/icmp-parameters-codes
   type: IANA
 docnumber: icmp-parameters/icmp-parameters-codes
 date:
-  type: updated
+- type: updated
   value: '2020-09-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

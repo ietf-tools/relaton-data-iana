@@ -1,14 +1,14 @@
 ---
 id: IANAimap-response-codes
 title:
-  content: IMAP Response Codes
+- content: IMAP Response Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/imap-response-codes
+- content: http://www.iana.org/assignments/imap-response-codes
   type: src
 type: standard
 docid:
-  id: IANA imap-response-codes
+- id: IANA imap-response-codes
   type: IANA
 docnumber: imap-response-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

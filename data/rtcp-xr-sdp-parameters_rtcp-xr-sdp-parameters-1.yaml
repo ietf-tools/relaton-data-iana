@@ -1,14 +1,14 @@
 ---
 id: IANArtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1
 title:
-  content: RTCP XR SDP Parameters
+- content: RTCP XR SDP Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rtcp-xr-sdp-parameters
+- content: http://www.iana.org/assignments/rtcp-xr-sdp-parameters
   type: src
 type: standard
 docid:
-  id: IANA rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1
+- id: IANA rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1
   type: IANA
 docnumber: rtcp-xr-sdp-parameters/rtcp-xr-sdp-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-11-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

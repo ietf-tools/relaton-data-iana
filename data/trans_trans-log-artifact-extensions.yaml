@@ -1,14 +1,14 @@
 ---
 id: IANAtrans/trans-log-artifact-extensions
 title:
-  content: Log Artifact Extensions
+- content: Log Artifact Extensions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/trans
+- content: http://www.iana.org/assignments/trans
   type: src
 type: standard
 docid:
-  id: IANA trans/trans-log-artifact-extensions
+- id: IANA trans/trans-log-artifact-extensions
   type: IANA
 docnumber: trans/trans-log-artifact-extensions
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

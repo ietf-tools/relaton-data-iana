@@ -1,14 +1,14 @@
 ---
 id: IANArtfm/opcodes
 title:
-  content: Pattern Matching Engine (PME) Opcodes
+- content: Pattern Matching Engine (PME) Opcodes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rtfm
+- content: http://www.iana.org/assignments/rtfm
   type: src
 type: standard
 docid:
-  id: IANA rtfm/opcodes
+- id: IANA rtfm/opcodes
   type: IANA
 docnumber: rtfm/opcodes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-10-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

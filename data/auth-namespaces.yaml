@@ -1,14 +1,14 @@
 ---
 id: IANAauth-namespaces
 title:
-  content: Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces
+- content: Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/auth-namespaces
+- content: http://www.iana.org/assignments/auth-namespaces
   type: src
 type: standard
 docid:
-  id: IANA auth-namespaces
+- id: IANA auth-namespaces
   type: IANA
 docnumber: auth-namespaces
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-11-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAip-parameters/ip-parameters-4
 title:
-  content: Type-of-Service Values
+- content: Type-of-Service Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ip-parameters
+- content: http://www.iana.org/assignments/ip-parameters
   type: src
 type: standard
 docid:
-  id: IANA ip-parameters/ip-parameters-4
+- id: IANA ip-parameters/ip-parameters-4
   type: IANA
 docnumber: ip-parameters/ip-parameters-4
 date:
-  type: updated
+- type: updated
   value: '2018-05-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAsvrloc-error-numbers
 title:
-  content: Service Location Protocol, Version 2 (SLPv2) Error Numbers
+- content: Service Location Protocol, Version 2 (SLPv2) Error Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/svrloc-error-numbers
+- content: http://www.iana.org/assignments/svrloc-error-numbers
   type: src
 type: standard
 docid:
-  id: IANA svrloc-error-numbers
+- id: IANA svrloc-error-numbers
   type: IANA
 docnumber: svrloc-error-numbers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2003-04-02'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

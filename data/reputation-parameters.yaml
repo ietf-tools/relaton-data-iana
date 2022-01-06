@@ -1,14 +1,14 @@
 ---
 id: IANAreputation-parameters
 title:
-  content: Reputation Parameters
+- content: Reputation Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/reputation-parameters
+- content: http://www.iana.org/assignments/reputation-parameters
   type: src
 type: standard
 docid:
-  id: IANA reputation-parameters
+- id: IANA reputation-parameters
   type: IANA
 docnumber: reputation-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-11-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

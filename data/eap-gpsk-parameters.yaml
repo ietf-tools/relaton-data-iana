@@ -1,15 +1,15 @@
 ---
 id: IANAeap-gpsk-parameters
 title:
-  content: Extensible Authentication Protocol Generalized Pre-Shared Key (EAP-GPSK)
+- content: Extensible Authentication Protocol Generalized Pre-Shared Key (EAP-GPSK)
     Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/eap-gpsk-parameters
+- content: http://www.iana.org/assignments/eap-gpsk-parameters
   type: src
 type: standard
 docid:
-  id: IANA eap-gpsk-parameters
+- id: IANA eap-gpsk-parameters
   type: IANA
 docnumber: eap-gpsk-parameters
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2009-02-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

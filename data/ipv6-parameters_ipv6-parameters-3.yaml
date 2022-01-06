@@ -1,24 +1,28 @@
 ---
 id: IANAipv6-parameters/ipv6-parameters-3
 title:
-  content: Routing Types
+- content: Routing Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipv6-parameters
+- content: http://www.iana.org/assignments/ipv6-parameters
   type: src
 type: standard
 docid:
-  id: IANA ipv6-parameters/ipv6-parameters-3
+- id: IANA ipv6-parameters/ipv6-parameters-3
   type: IANA
 docnumber: ipv6-parameters/ipv6-parameters-3
 date:
-  type: updated
+- type: updated
   value: '2021-08-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

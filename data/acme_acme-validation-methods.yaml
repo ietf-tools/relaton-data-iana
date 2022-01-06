@@ -1,14 +1,14 @@
 ---
 id: IANAacme/acme-validation-methods
 title:
-  content: ACME Validation Methods
+- content: ACME Validation Methods
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/acme
+- content: http://www.iana.org/assignments/acme
   type: src
 type: standard
 docid:
-  id: IANA acme/acme-validation-methods
+- id: IANA acme/acme-validation-methods
   type: IANA
 docnumber: acme/acme-validation-methods
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-29'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

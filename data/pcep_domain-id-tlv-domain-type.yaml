@@ -1,14 +1,14 @@
 ---
 id: IANApcep/domain-id-tlv-domain-type
 title:
-  content: Domain-ID TLV Domain Type
+- content: Domain-ID TLV Domain Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-  id: IANA pcep/domain-id-tlv-domain-type
+- id: IANA pcep/domain-id-tlv-domain-type
   type: IANA
 docnumber: pcep/domain-id-tlv-domain-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

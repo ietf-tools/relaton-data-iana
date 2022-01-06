@@ -1,14 +1,14 @@
 ---
 id: IANAiscsi-parameters/management-function-response
 title:
-  content: iSCSI Task Management Function Response Codes
+- content: iSCSI Task Management Function Response Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iscsi-parameters
+- content: http://www.iana.org/assignments/iscsi-parameters
   type: src
 type: standard
 docid:
-  id: IANA iscsi-parameters/management-function-response
+- id: IANA iscsi-parameters/management-function-response
   type: IANA
 docnumber: iscsi-parameters/management-function-response
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-04-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

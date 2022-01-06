@@ -1,14 +1,14 @@
 ---
 id: IANAdhcpv6-parameters/vss-type
 title:
-  content: VSS Type Options
+- content: VSS Type Options
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dhcpv6-parameters
+- content: http://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:
-  id: IANA dhcpv6-parameters/vss-type
+- id: IANA dhcpv6-parameters/vss-type
   type: IANA
 docnumber: dhcpv6-parameters/vss-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

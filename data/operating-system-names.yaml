@@ -1,24 +1,28 @@
 ---
 id: IANAoperating-system-names
 title:
-  content: Operating System Names
+- content: Operating System Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/operating-system-names
+- content: http://www.iana.org/assignments/operating-system-names
   type: src
 type: standard
 docid:
-  id: IANA operating-system-names
+- id: IANA operating-system-names
   type: IANA
 docnumber: operating-system-names
 date:
-  type: updated
+- type: updated
   value: '2010-10-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

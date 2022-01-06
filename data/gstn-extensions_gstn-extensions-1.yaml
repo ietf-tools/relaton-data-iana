@@ -1,24 +1,28 @@
 ---
 id: IANAgstn-extensions/gstn-extensions-1
 title:
-  content: Qual2-Label
+- content: Qual2-Label
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gstn-extensions
+- content: http://www.iana.org/assignments/gstn-extensions
   type: src
 type: standard
 docid:
-  id: IANA gstn-extensions/gstn-extensions-1
+- id: IANA gstn-extensions/gstn-extensions-1
   type: IANA
 docnumber: gstn-extensions/gstn-extensions-1
 date:
-  type: updated
+- type: updated
   value: '2009-07-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

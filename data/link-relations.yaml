@@ -1,14 +1,14 @@
 ---
 id: IANAlink-relations
 title:
-  content: Link Relations
+- content: Link Relations
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/link-relations
+- content: http://www.iana.org/assignments/link-relations
   type: src
 type: standard
 docid:
-  id: IANA link-relations
+- id: IANA link-relations
   type: IANA
 docnumber: link-relations
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

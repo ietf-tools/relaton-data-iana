@@ -1,14 +1,14 @@
 ---
 id: IANAmasc-parameters/masc-parameters-3
 title:
-  content: MASC UPDATE Message Attribute Types
+- content: MASC UPDATE Message Attribute Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/masc-parameters
+- content: http://www.iana.org/assignments/masc-parameters
   type: src
 type: standard
 docid:
-  id: IANA masc-parameters/masc-parameters-3
+- id: IANA masc-parameters/masc-parameters-3
   type: IANA
 docnumber: masc-parameters/masc-parameters-3
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2001-08-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANApcep/inter-layer-object-path-property-bits
 title:
-  content: Inter-Layer Object Path Property Bits
+- content: Inter-Layer Object Path Property Bits
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-  id: IANA pcep/inter-layer-object-path-property-bits
+- id: IANA pcep/inter-layer-object-path-property-bits
   type: IANA
 docnumber: pcep/inter-layer-object-path-property-bits
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

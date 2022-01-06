@@ -1,24 +1,28 @@
 ---
 id: IANAicmpv6-parameters/pvd-option-flags
 title:
-  content: PvD Option Flags
+- content: PvD Option Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/icmpv6-parameters
+- content: http://www.iana.org/assignments/icmpv6-parameters
   type: src
 type: standard
 docid:
-  id: IANA icmpv6-parameters/pvd-option-flags
+- id: IANA icmpv6-parameters/pvd-option-flags
   type: IANA
 docnumber: icmpv6-parameters/pvd-option-flags
 date:
-  type: updated
+- type: updated
   value: '2021-10-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

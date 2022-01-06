@@ -1,24 +1,28 @@
 ---
 id: IANAgssapi-service-names/gssapi-service-names-1
 title:
-  content: GSSAPI/Kerberos/SASL Service Names
+- content: GSSAPI/Kerberos/SASL Service Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gssapi-service-names
+- content: http://www.iana.org/assignments/gssapi-service-names
   type: src
 type: standard
 docid:
-  id: IANA gssapi-service-names/gssapi-service-names-1
+- id: IANA gssapi-service-names/gssapi-service-names-1
   type: IANA
 docnumber: gssapi-service-names/gssapi-service-names-1
 date:
-  type: updated
+- type: updated
   value: '2021-08-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

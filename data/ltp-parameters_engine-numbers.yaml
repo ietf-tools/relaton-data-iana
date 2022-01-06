@@ -1,14 +1,14 @@
 ---
 id: IANAltp-parameters/engine-numbers
 title:
-  content: LTP Engine Numbers
+- content: LTP Engine Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ltp-parameters
+- content: http://www.iana.org/assignments/ltp-parameters
   type: src
 type: standard
 docid:
-  id: IANA ltp-parameters/engine-numbers
+- id: IANA ltp-parameters/engine-numbers
   type: IANA
 docnumber: ltp-parameters/engine-numbers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-02-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

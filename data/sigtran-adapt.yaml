@@ -1,14 +1,14 @@
 ---
 id: IANAsigtran-adapt
 title:
-  content: Signaling User Adaptation Layer Assignments
+- content: Signaling User Adaptation Layer Assignments
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sigtran-adapt
+- content: http://www.iana.org/assignments/sigtran-adapt
   type: src
 type: standard
 docid:
-  id: IANA sigtran-adapt
+- id: IANA sigtran-adapt
   type: IANA
 docnumber: sigtran-adapt
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-12-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

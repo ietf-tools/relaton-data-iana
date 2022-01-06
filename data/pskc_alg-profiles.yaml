@@ -1,14 +1,14 @@
 ---
 id: IANApskc/alg-profiles
 title:
-  content: Algorithm URI Registry and Related PSKC Profiles
+- content: Algorithm URI Registry and Related PSKC Profiles
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pskc
+- content: http://www.iana.org/assignments/pskc
   type: src
 type: standard
 docid:
-  id: IANA pskc/alg-profiles
+- id: IANA pskc/alg-profiles
   type: IANA
 docnumber: pskc/alg-profiles
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-04-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAsafi-namespace/safi-namespace-2
 title:
-  content: SAFI Values
+- content: SAFI Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/safi-namespace
+- content: http://www.iana.org/assignments/safi-namespace
   type: src
 type: standard
 docid:
-  id: IANA safi-namespace/safi-namespace-2
+- id: IANA safi-namespace/safi-namespace-2
   type: IANA
 docnumber: safi-namespace/safi-namespace-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

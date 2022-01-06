@@ -1,24 +1,28 @@
 ---
 id: IANAnhrp-types/nhrp-types-1
 title:
-  content: NHRP Packet Types
+- content: NHRP Packet Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nhrp-types
+- content: http://www.iana.org/assignments/nhrp-types
   type: src
 type: standard
 docid:
-  id: IANA nhrp-types/nhrp-types-1
+- id: IANA nhrp-types/nhrp-types-1
   type: IANA
 docnumber: nhrp-types/nhrp-types-1
 date:
-  type: updated
+- type: updated
   value: '2009-02-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

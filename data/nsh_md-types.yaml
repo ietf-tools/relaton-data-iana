@@ -1,14 +1,14 @@
 ---
 id: IANAnsh/md-types
 title:
-  content: NSH MD Types
+- content: NSH MD Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nsh
+- content: http://www.iana.org/assignments/nsh
   type: src
 type: standard
 docid:
-  id: IANA nsh/md-types
+- id: IANA nsh/md-types
   type: IANA
 docnumber: nsh/md-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

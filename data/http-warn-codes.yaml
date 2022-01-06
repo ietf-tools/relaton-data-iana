@@ -1,14 +1,14 @@
 ---
 id: IANAhttp-warn-codes
 title:
-  content: Hypertext Transfer Protocol (HTTP) Warn Codes
+- content: Hypertext Transfer Protocol (HTTP) Warn Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-warn-codes
+- content: http://www.iana.org/assignments/http-warn-codes
   type: src
 type: standard
 docid:
-  id: IANA http-warn-codes
+- id: IANA http-warn-codes
   type: IANA
 docnumber: http-warn-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

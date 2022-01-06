@@ -1,14 +1,14 @@
 ---
 id: IANArpcbind-transport-parameters/rpcbind-transport-parameters-1
 title:
-  content: Transport semantics (r_nc_semantics)
+- content: Transport semantics (r_nc_semantics)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpcbind-transport-parameters
+- content: http://www.iana.org/assignments/rpcbind-transport-parameters
   type: src
 type: standard
 docid:
-  id: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-1
+- id: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-1
   type: IANA
 docnumber: rpcbind-transport-parameters/rpcbind-transport-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-10-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

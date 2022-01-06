@@ -1,14 +1,14 @@
 ---
 id: IANAkerberos-v-gss-api/token-types
 title:
-  content: Kerberos V GSS-API Token Type Identifiers
+- content: Kerberos V GSS-API Token Type Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/kerberos-v-gss-api
+- content: http://www.iana.org/assignments/kerberos-v-gss-api
   type: src
 type: standard
 docid:
-  id: IANA kerberos-v-gss-api/token-types
+- id: IANA kerberos-v-gss-api/token-types
   type: IANA
 docnumber: kerberos-v-gss-api/token-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-03-03'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

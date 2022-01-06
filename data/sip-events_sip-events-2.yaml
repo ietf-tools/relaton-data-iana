@@ -1,14 +1,14 @@
 ---
 id: IANAsip-events/sip-events-2
 title:
-  content: Event packages and Event template-packages
+- content: Event packages and Event template-packages
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sip-events
+- content: http://www.iana.org/assignments/sip-events
   type: src
 type: standard
 docid:
-  id: IANA sip-events/sip-events-2
+- id: IANA sip-events/sip-events-2
   type: IANA
 docnumber: sip-events/sip-events-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-02'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

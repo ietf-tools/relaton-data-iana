@@ -1,14 +1,14 @@
 ---
 id: IANAgmpls-sig-parameters/otn-signal-types
 title:
-  content: OTN Signal Type
+- content: OTN Signal Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gmpls-sig-parameters
+- content: http://www.iana.org/assignments/gmpls-sig-parameters
   type: src
 type: standard
 docid:
-  id: IANA gmpls-sig-parameters/otn-signal-types
+- id: IANA gmpls-sig-parameters/otn-signal-types
   type: IANA
 docnumber: gmpls-sig-parameters/otn-signal-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-07-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

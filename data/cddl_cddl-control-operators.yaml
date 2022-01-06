@@ -1,14 +1,14 @@
 ---
 id: IANAcddl/cddl-control-operators
 title:
-  content: CDDL Control Operators
+- content: CDDL Control Operators
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cddl
+- content: http://www.iana.org/assignments/cddl
   type: src
 type: standard
 docid:
-  id: IANA cddl/cddl-control-operators
+- id: IANA cddl/cddl-control-operators
   type: IANA
 docnumber: cddl/cddl-control-operators
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

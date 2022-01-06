@@ -1,14 +1,14 @@
 ---
 id: IANA_6lowpan-parameters/_6lowpan-parameters-1
 title:
-  content: Dispatch Type Field
+- content: Dispatch Type Field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/_6lowpan-parameters
+- content: http://www.iana.org/assignments/_6lowpan-parameters
   type: src
 type: standard
 docid:
-  id: IANA _6lowpan-parameters/_6lowpan-parameters-1
+- id: IANA _6lowpan-parameters/_6lowpan-parameters-1
   type: IANA
 docnumber: _6lowpan-parameters/_6lowpan-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-29'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

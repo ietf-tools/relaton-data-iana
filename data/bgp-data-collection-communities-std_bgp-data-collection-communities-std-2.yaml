@@ -1,14 +1,14 @@
 ---
 id: IANAbgp-data-collection-communities-std/bgp-data-collection-communities-std-2
 title:
-  content: Region Identifiers (<R>)
+- content: Region Identifiers (<R>)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-data-collection-communities-std
+- content: http://www.iana.org/assignments/bgp-data-collection-communities-std
   type: src
 type: standard
 docid:
-  id: IANA bgp-data-collection-communities-std/bgp-data-collection-communities-std-2
+- id: IANA bgp-data-collection-communities-std/bgp-data-collection-communities-std-2
   type: IANA
 docnumber: bgp-data-collection-communities-std/bgp-data-collection-communities-std-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2006-02-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAvnc-uri/id-hash-algorithms
 title:
-  content: VNC URI ID Hash Algorithms
+- content: VNC URI ID Hash Algorithms
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/vnc-uri
+- content: http://www.iana.org/assignments/vnc-uri
   type: src
 type: standard
 docid:
-  id: IANA vnc-uri/id-hash-algorithms
+- id: IANA vnc-uri/id-hash-algorithms
   type: IANA
 docnumber: vnc-uri/id-hash-algorithms
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-05-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

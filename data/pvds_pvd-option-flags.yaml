@@ -1,14 +1,14 @@
 ---
 id: IANApvds/pvd-option-flags
 title:
-  content: PvD Option Flags
+- content: PvD Option Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pvds
+- content: http://www.iana.org/assignments/pvds
   type: src
 type: standard
 docid:
-  id: IANA pvds/pvd-option-flags
+- id: IANA pvds/pvd-option-flags
   type: IANA
 docnumber: pvds/pvd-option-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-08-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

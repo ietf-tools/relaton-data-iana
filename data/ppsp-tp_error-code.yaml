@@ -1,14 +1,14 @@
 ---
 id: IANAppsp-tp/error-code
 title:
-  content: PPSTP Error Code Registry
+- content: PPSTP Error Code Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ppsp-tp
+- content: http://www.iana.org/assignments/ppsp-tp
   type: src
 type: standard
 docid:
-  id: IANA ppsp-tp/error-code
+- id: IANA ppsp-tp/error-code
   type: IANA
 docnumber: ppsp-tp/error-code
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-06-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

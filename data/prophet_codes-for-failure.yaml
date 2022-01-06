@@ -1,14 +1,14 @@
 ---
 id: IANAprophet/codes-for-failure
 title:
-  content: PRoPHET Codes for Failure
+- content: PRoPHET Codes for Failure
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/prophet
+- content: http://www.iana.org/assignments/prophet
   type: src
 type: standard
 docid:
-  id: IANA prophet/codes-for-failure
+- id: IANA prophet/codes-for-failure
   type: IANA
 docnumber: prophet/codes-for-failure
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-09-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

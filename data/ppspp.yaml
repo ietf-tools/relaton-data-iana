@@ -1,14 +1,14 @@
 ---
 id: IANAppspp
 title:
-  content: Peer-to-Peer Streaming Peer Protocol (PPSPP)
+- content: Peer-to-Peer Streaming Peer Protocol (PPSPP)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ppspp
+- content: http://www.iana.org/assignments/ppspp
   type: src
 type: standard
 docid:
-  id: IANA ppspp
+- id: IANA ppspp
   type: IANA
 docnumber: ppspp
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-07-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

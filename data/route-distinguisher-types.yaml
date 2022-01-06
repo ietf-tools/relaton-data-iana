@@ -1,14 +1,14 @@
 ---
 id: IANAroute-distinguisher-types
 title:
-  content: Route Distinguisher Type Field
+- content: Route Distinguisher Type Field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/route-distinguisher-types
+- content: http://www.iana.org/assignments/route-distinguisher-types
   type: src
 type: standard
 docid:
-  id: IANA route-distinguisher-types
+- id: IANA route-distinguisher-types
   type: IANA
 docnumber: route-distinguisher-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-05-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

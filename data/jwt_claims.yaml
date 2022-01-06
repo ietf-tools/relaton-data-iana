@@ -1,14 +1,14 @@
 ---
 id: IANAjwt/claims
 title:
-  content: JSON Web Token Claims
+- content: JSON Web Token Claims
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/jwt
+- content: http://www.iana.org/assignments/jwt
   type: src
 type: standard
 docid:
-  id: IANA jwt/claims
+- id: IANA jwt/claims
   type: IANA
 docnumber: jwt/claims
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

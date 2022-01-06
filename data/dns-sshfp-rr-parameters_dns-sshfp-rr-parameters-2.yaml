@@ -1,14 +1,14 @@
 ---
 id: IANAdns-sshfp-rr-parameters/dns-sshfp-rr-parameters-2
 title:
-  content: SSHFP RR types for fingerprint types
+- content: SSHFP RR types for fingerprint types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dns-sshfp-rr-parameters
+- content: http://www.iana.org/assignments/dns-sshfp-rr-parameters
   type: src
 type: standard
 docid:
-  id: IANA dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-2
+- id: IANA dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-2
   type: IANA
 docnumber: dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-02-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

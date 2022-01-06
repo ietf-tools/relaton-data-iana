@@ -1,14 +1,14 @@
 ---
 id: IANAcrypto-suites
 title:
-  content: Cryptographic Suites for IKEv1, IKEv2, and IPsec
+- content: Cryptographic Suites for IKEv1, IKEv2, and IPsec
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/crypto-suites
+- content: http://www.iana.org/assignments/crypto-suites
   type: src
 type: standard
 docid:
-  id: IANA crypto-suites
+- id: IANA crypto-suites
   type: IANA
 docnumber: crypto-suites
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-04-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

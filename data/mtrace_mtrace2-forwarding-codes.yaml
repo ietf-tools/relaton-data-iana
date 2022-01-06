@@ -1,14 +1,14 @@
 ---
 id: IANAmtrace/mtrace2-forwarding-codes
 title:
-  content: Mtrace2 Forwarding Codes
+- content: Mtrace2 Forwarding Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mtrace
+- content: http://www.iana.org/assignments/mtrace
   type: src
 type: standard
 docid:
-  id: IANA mtrace/mtrace2-forwarding-codes
+- id: IANA mtrace/mtrace2-forwarding-codes
   type: IANA
 docnumber: mtrace/mtrace2-forwarding-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-10-30'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAbundle/bpsec-security-context
 title:
-  content: BPSec Security Context Identifiers
+- content: BPSec Security Context Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bundle
+- content: http://www.iana.org/assignments/bundle
   type: src
 type: standard
 docid:
-  id: IANA bundle/bpsec-security-context
+- id: IANA bundle/bpsec-security-context
   type: IANA
 docnumber: bundle/bpsec-security-context
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-04'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

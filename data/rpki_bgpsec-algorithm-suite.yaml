@@ -1,14 +1,14 @@
 ---
 id: IANArpki/bgpsec-algorithm-suite
 title:
-  content: BGPsec Algorithm Suites
+- content: BGPsec Algorithm Suites
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpki
+- content: http://www.iana.org/assignments/rpki
   type: src
 type: standard
 docid:
-  id: IANA rpki/bgpsec-algorithm-suite
+- id: IANA rpki/bgpsec-algorithm-suite
   type: IANA
 docnumber: rpki/bgpsec-algorithm-suite
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

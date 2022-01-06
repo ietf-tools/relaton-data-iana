@@ -1,14 +1,14 @@
 ---
 id: IANAjose/web-key-use
 title:
-  content: JSON Web Key Use
+- content: JSON Web Key Use
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/jose
+- content: http://www.iana.org/assignments/jose
   type: src
 type: standard
 docid:
-  id: IANA jose/web-key-use
+- id: IANA jose/web-key-use
   type: IANA
 docnumber: jose/web-key-use
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-02'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

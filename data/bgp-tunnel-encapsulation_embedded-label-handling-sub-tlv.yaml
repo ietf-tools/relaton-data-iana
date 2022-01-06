@@ -1,24 +1,28 @@
 ---
 id: IANAbgp-tunnel-encapsulation/embedded-label-handling-sub-tlv
 title:
-  content: Embedded Label Handling Sub-TLVs
+- content: Embedded Label Handling Sub-TLVs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
   type: src
 type: standard
 docid:
-  id: IANA bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv
+- id: IANA bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv
   type: IANA
 docnumber: bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv
 date:
-  type: updated
+- type: updated
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

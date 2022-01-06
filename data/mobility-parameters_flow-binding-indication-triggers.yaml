@@ -1,14 +1,14 @@
 ---
 id: IANAmobility-parameters/flow-binding-indication-triggers
 title:
-  content: Flow Binding Indication Triggers
+- content: Flow Binding Indication Triggers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mobility-parameters
+- content: http://www.iana.org/assignments/mobility-parameters
   type: src
 type: standard
 docid:
-  id: IANA mobility-parameters/flow-binding-indication-triggers
+- id: IANA mobility-parameters/flow-binding-indication-triggers
   type: IANA
 docnumber: mobility-parameters/flow-binding-indication-triggers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-10-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAiscsi-parameters/iscsi-parameters-5
 title:
-  content: iSCSI Opcodes
+- content: iSCSI Opcodes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iscsi-parameters
+- content: http://www.iana.org/assignments/iscsi-parameters
   type: src
 type: standard
 docid:
-  id: IANA iscsi-parameters/iscsi-parameters-5
+- id: IANA iscsi-parameters/iscsi-parameters-5
   type: IANA
 docnumber: iscsi-parameters/iscsi-parameters-5
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-04-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

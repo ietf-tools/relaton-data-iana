@@ -1,14 +1,14 @@
 ---
 id: IANAisns-parameters/isns-parameters-2
 title:
-  content: Standard iSNS Attributes
+- content: Standard iSNS Attributes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/isns-parameters
+- content: http://www.iana.org/assignments/isns-parameters
   type: src
 type: standard
 docid:
-  id: IANA isns-parameters/isns-parameters-2
+- id: IANA isns-parameters/isns-parameters-2
   type: IANA
 docnumber: isns-parameters/isns-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2005-10-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

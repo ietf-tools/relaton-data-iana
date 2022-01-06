@@ -1,24 +1,28 @@
 ---
 id: IANAdirectory-system-names
 title:
-  content: Directory System Names
+- content: Directory System Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/directory-system-names
+- content: http://www.iana.org/assignments/directory-system-names
   type: src
 type: standard
 docid:
-  id: IANA directory-system-names
+- id: IANA directory-system-names
   type: IANA
 docnumber: directory-system-names
 date:
-  type: updated
+- type: updated
   value: '2006-08-10'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

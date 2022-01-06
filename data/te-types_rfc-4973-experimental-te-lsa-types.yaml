@@ -1,14 +1,14 @@
 ---
 id: IANAte-types/rfc-4973-experimental-te-lsa-types
 title:
-  content: RFC 4973 Experimental TE LSA Types
+- content: RFC 4973 Experimental TE LSA Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/te-types
+- content: http://www.iana.org/assignments/te-types
   type: src
 type: standard
 docid:
-  id: IANA te-types/rfc-4973-experimental-te-lsa-types
+- id: IANA te-types/rfc-4973-experimental-te-lsa-types
   type: IANA
 docnumber: te-types/rfc-4973-experimental-te-lsa-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2007-08-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

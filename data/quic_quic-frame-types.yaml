@@ -1,14 +1,14 @@
 ---
 id: IANAquic/quic-frame-types
 title:
-  content: QUIC Frame Types
+- content: QUIC Frame Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/quic
+- content: http://www.iana.org/assignments/quic
   type: src
 type: standard
 docid:
-  id: IANA quic/quic-frame-types
+- id: IANA quic/quic-frame-types
   type: IANA
 docnumber: quic/quic-frame-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

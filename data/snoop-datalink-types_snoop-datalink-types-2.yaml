@@ -1,14 +1,14 @@
 ---
 id: IANAsnoop-datalink-types/snoop-datalink-types-2
 title:
-  content: Datalink Types
+- content: Datalink Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/snoop-datalink-types
+- content: http://www.iana.org/assignments/snoop-datalink-types
   type: src
 type: standard
 docid:
-  id: IANA snoop-datalink-types/snoop-datalink-types-2
+- id: IANA snoop-datalink-types/snoop-datalink-types-2
   type: IANA
 docnumber: snoop-datalink-types/snoop-datalink-types-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-03-20'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

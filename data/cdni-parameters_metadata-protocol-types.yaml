@@ -1,14 +1,14 @@
 ---
 id: IANAcdni-parameters/metadata-protocol-types
 title:
-  content: CDNI Metadata Protocol Types
+- content: CDNI Metadata Protocol Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cdni-parameters
+- content: http://www.iana.org/assignments/cdni-parameters
   type: src
 type: standard
 docid:
-  id: IANA cdni-parameters/metadata-protocol-types
+- id: IANA cdni-parameters/metadata-protocol-types
   type: IANA
 docnumber: cdni-parameters/metadata-protocol-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

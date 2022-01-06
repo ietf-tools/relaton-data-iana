@@ -1,24 +1,28 @@
 ---
 id: IANAieee-802-numbers/ieee-802-numbers-2
 title:
-  content: Organizationally Unique Identifiers
+- content: Organizationally Unique Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ieee-802-numbers
+- content: http://www.iana.org/assignments/ieee-802-numbers
   type: src
 type: standard
 docid:
-  id: IANA ieee-802-numbers/ieee-802-numbers-2
+- id: IANA ieee-802-numbers/ieee-802-numbers-2
   type: IANA
 docnumber: ieee-802-numbers/ieee-802-numbers-2
 date:
-  type: updated
+- type: updated
   value: '2021-07-30'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

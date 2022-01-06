@@ -1,14 +1,14 @@
 ---
 id: IANAnlpids
 title:
-  content: Network Layer Protocol Identifiers (NLPIDs) of Interest
+- content: Network Layer Protocol Identifiers (NLPIDs) of Interest
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nlpids
+- content: http://www.iana.org/assignments/nlpids
   type: src
 type: standard
 docid:
-  id: IANA nlpids
+- id: IANA nlpids
   type: IANA
 docnumber: nlpids
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-10-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

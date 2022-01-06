@@ -1,15 +1,15 @@
 ---
 id: IANAg-ach-parameters/mpls-g-ach-types
 title:
-  content: MPLS Generalized Associated Channel (G-ACh) Types (including Pseudowire
+- content: MPLS Generalized Associated Channel (G-ACh) Types (including Pseudowire
     Associated Channel Types)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/g-ach-parameters
+- content: http://www.iana.org/assignments/g-ach-parameters
   type: src
 type: standard
 docid:
-  id: IANA g-ach-parameters/mpls-g-ach-types
+- id: IANA g-ach-parameters/mpls-g-ach-types
   type: IANA
 docnumber: g-ach-parameters/mpls-g-ach-types
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2021-03-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

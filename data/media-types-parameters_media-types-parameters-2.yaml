@@ -1,24 +1,28 @@
 ---
 id: IANAmedia-types-parameters/media-types-parameters-2
 title:
-  content: X.400 to MIME Table - Basic Body Parts
+- content: X.400 to MIME Table - Basic Body Parts
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/media-types-parameters
+- content: http://www.iana.org/assignments/media-types-parameters
   type: src
 type: standard
 docid:
-  id: IANA media-types-parameters/media-types-parameters-2
+- id: IANA media-types-parameters/media-types-parameters-2
   type: IANA
 docnumber: media-types-parameters/media-types-parameters-2
 date:
-  type: updated
+- type: updated
   value: '2012-09-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

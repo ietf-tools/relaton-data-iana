@@ -1,24 +1,28 @@
 ---
 id: IANAradius-types/radius-types-14
 title:
-  content: Values for RADIUS Attribute 64, Tunnel-Type
+- content: Values for RADIUS Attribute 64, Tunnel-Type
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/radius-types
+- content: http://www.iana.org/assignments/radius-types
   type: src
 type: standard
 docid:
-  id: IANA radius-types/radius-types-14
+- id: IANA radius-types/radius-types-14
   type: IANA
 docnumber: radius-types/radius-types-14
 date:
-  type: updated
+- type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

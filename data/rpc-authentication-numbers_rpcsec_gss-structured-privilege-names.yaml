@@ -1,14 +1,14 @@
 ---
 id: IANArpc-authentication-numbers/rpcsec_gss-structured-privilege-names
 title:
-  content: RPCSEC_GSS Structured Privilege Names Registry
+- content: RPCSEC_GSS Structured Privilege Names Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpc-authentication-numbers
+- content: http://www.iana.org/assignments/rpc-authentication-numbers
   type: src
 type: standard
 docid:
-  id: IANA rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
+- id: IANA rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
   type: IANA
 docnumber: rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

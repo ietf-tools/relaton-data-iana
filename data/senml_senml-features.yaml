@@ -1,14 +1,14 @@
 ---
 id: IANAsenml/senml-features
 title:
-  content: SenML Features
+- content: SenML Features
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/senml
+- content: http://www.iana.org/assignments/senml
   type: src
 type: standard
 docid:
-  id: IANA senml/senml-features
+- id: IANA senml/senml-features
   type: IANA
 docnumber: senml/senml-features
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

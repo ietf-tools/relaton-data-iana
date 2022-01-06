@@ -1,14 +1,14 @@
 ---
 id: IANAstamp-tlv-types/stamp-timestamping-methods
 title:
-  content: STAMP Timestamping Methods
+- content: STAMP Timestamping Methods
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/stamp-tlv-types
+- content: http://www.iana.org/assignments/stamp-tlv-types
   type: src
 type: standard
 docid:
-  id: IANA stamp-tlv-types/stamp-timestamping-methods
+- id: IANA stamp-tlv-types/stamp-timestamping-methods
   type: IANA
 docnumber: stamp-tlv-types/stamp-timestamping-methods
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-01-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

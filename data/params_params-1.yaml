@@ -1,14 +1,14 @@
 ---
 id: IANAparams/params-1
 title:
-  content: IETF URN Sub-namespace for Registered Protocol Parameter Identifiers
+- content: IETF URN Sub-namespace for Registered Protocol Parameter Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/params
+- content: http://www.iana.org/assignments/params
   type: src
 type: standard
 docid:
-  id: IANA params/params-1
+- id: IANA params/params-1
   type: IANA
 docnumber: params/params-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-10'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

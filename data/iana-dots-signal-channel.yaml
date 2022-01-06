@@ -1,14 +1,14 @@
 ---
 id: IANAiana-dots-signal-channel
 title:
-  content: iana-dots-signal-channel YANG Module
+- content: iana-dots-signal-channel YANG Module
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iana-dots-signal-channel
+- content: http://www.iana.org/assignments/iana-dots-signal-channel
   type: src
 type: standard
 docid:
-  id: IANA iana-dots-signal-channel
+- id: IANA iana-dots-signal-channel
   type: IANA
 docnumber: iana-dots-signal-channel
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

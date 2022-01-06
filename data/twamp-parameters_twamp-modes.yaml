@@ -1,14 +1,14 @@
 ---
 id: IANAtwamp-parameters/twamp-modes
 title:
-  content: TWAMP-Modes
+- content: TWAMP-Modes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/twamp-parameters
+- content: http://www.iana.org/assignments/twamp-parameters
   type: src
 type: standard
 docid:
-  id: IANA twamp-parameters/twamp-modes
+- id: IANA twamp-parameters/twamp-modes
   type: IANA
 docnumber: twamp-parameters/twamp-modes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-06-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

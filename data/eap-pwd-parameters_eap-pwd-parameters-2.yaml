@@ -1,14 +1,14 @@
 ---
 id: IANAeap-pwd-parameters/eap-pwd-parameters-2
 title:
-  content: Random Function Registry
+- content: Random Function Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/eap-pwd-parameters
+- content: http://www.iana.org/assignments/eap-pwd-parameters
   type: src
 type: standard
 docid:
-  id: IANA eap-pwd-parameters/eap-pwd-parameters-2
+- id: IANA eap-pwd-parameters/eap-pwd-parameters-2
   type: IANA
 docnumber: eap-pwd-parameters/eap-pwd-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-04-24'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

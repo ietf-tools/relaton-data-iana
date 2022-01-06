@@ -1,14 +1,14 @@
 ---
 id: IANAyang-parameters
 title:
-  content: YANG Parameters
+- content: YANG Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/yang-parameters
+- content: http://www.iana.org/assignments/yang-parameters
   type: src
 type: standard
 docid:
-  id: IANA yang-parameters
+- id: IANA yang-parameters
   type: IANA
 docnumber: yang-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

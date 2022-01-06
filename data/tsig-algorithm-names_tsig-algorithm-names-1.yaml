@@ -1,14 +1,14 @@
 ---
 id: IANAtsig-algorithm-names/tsig-algorithm-names-1
 title:
-  content: TSIG Algorithm Names
+- content: TSIG Algorithm Names
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tsig-algorithm-names
+- content: http://www.iana.org/assignments/tsig-algorithm-names
   type: src
 type: standard
 docid:
-  id: IANA tsig-algorithm-names/tsig-algorithm-names-1
+- id: IANA tsig-algorithm-names/tsig-algorithm-names-1
   type: IANA
 docnumber: tsig-algorithm-names/tsig-algorithm-names-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-12-02'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

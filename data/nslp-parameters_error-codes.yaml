@@ -1,14 +1,14 @@
 ---
 id: IANAnslp-parameters/error-codes
 title:
-  content: QoS Model Error Codes
+- content: QoS Model Error Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/nslp-parameters
+- content: http://www.iana.org/assignments/nslp-parameters
   type: src
 type: standard
 docid:
-  id: IANA nslp-parameters/error-codes
+- id: IANA nslp-parameters/error-codes
   type: IANA
 docnumber: nslp-parameters/error-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2011-03-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

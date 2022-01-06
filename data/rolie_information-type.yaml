@@ -1,14 +1,14 @@
 ---
 id: IANArolie/information-type
 title:
-  content: ROLIE Information Types
+- content: ROLIE Information Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rolie
+- content: http://www.iana.org/assignments/rolie
   type: src
 type: standard
 docid:
-  id: IANA rolie/information-type
+- id: IANA rolie/information-type
   type: IANA
 docnumber: rolie/information-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-02-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

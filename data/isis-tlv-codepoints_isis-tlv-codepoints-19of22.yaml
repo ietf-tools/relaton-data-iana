@@ -1,15 +1,15 @@
 ---
 id: IANAisis-tlv-codepoints/isis-tlv-codepoints-19of22
 title:
-  content: link-attribute bit values for sub-TLV 19 of TLV 22 (Extended IS reachability
+- content: link-attribute bit values for sub-TLV 19 of TLV 22 (Extended IS reachability
     TLV)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/isis-tlv-codepoints
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
   type: src
 type: standard
 docid:
-  id: IANA isis-tlv-codepoints/isis-tlv-codepoints-19of22
+- id: IANA isis-tlv-codepoints/isis-tlv-codepoints-19of22
   type: IANA
 docnumber: isis-tlv-codepoints/isis-tlv-codepoints-19of22
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2021-10-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

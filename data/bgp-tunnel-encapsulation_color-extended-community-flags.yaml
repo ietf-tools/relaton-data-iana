@@ -1,24 +1,28 @@
 ---
 id: IANAbgp-tunnel-encapsulation/color-extended-community-flags
 title:
-  content: Color Extended Community Flags
+- content: Color Extended Community Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
   type: src
 type: standard
 docid:
-  id: IANA bgp-tunnel-encapsulation/color-extended-community-flags
+- id: IANA bgp-tunnel-encapsulation/color-extended-community-flags
   type: IANA
 docnumber: bgp-tunnel-encapsulation/color-extended-community-flags
 date:
-  type: updated
+- type: updated
   value: '2021-09-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

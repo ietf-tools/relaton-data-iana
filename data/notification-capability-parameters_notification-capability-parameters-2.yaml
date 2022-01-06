@@ -1,14 +1,14 @@
 ---
 id: IANAnotification-capability-parameters/notification-capability-parameters-2
 title:
-  content: Notification-Capability Parameters
+- content: Notification-Capability Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/notification-capability-parameters
+- content: http://www.iana.org/assignments/notification-capability-parameters
   type: src
 type: standard
 docid:
-  id: IANA notification-capability-parameters/notification-capability-parameters-2
+- id: IANA notification-capability-parameters/notification-capability-parameters-2
   type: IANA
 docnumber: notification-capability-parameters/notification-capability-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-05-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

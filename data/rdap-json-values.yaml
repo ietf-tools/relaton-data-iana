@@ -1,14 +1,14 @@
 ---
 id: IANArdap-json-values
 title:
-  content: RDAP JSON Values
+- content: RDAP JSON Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rdap-json-values
+- content: http://www.iana.org/assignments/rdap-json-values
   type: src
 type: standard
 docid:
-  id: IANA rdap-json-values
+- id: IANA rdap-json-values
   type: IANA
 docnumber: rdap-json-values
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-06-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

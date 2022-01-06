@@ -1,14 +1,14 @@
 ---
 id: IANAkeytable/kdf
 title:
-  content: KeyTable KDFs
+- content: KeyTable KDFs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/keytable
+- content: http://www.iana.org/assignments/keytable
   type: src
 type: standard
 docid:
-  id: IANA keytable/kdf
+- id: IANA keytable/kdf
   type: IANA
 docnumber: keytable/kdf
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-04-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

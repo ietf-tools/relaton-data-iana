@@ -1,14 +1,14 @@
 ---
 id: IANAnetnews-parameters/cancel-lock-hash-algorithms
 title:
-  content: Netnews Cancel-Lock Hash Algorithms
+- content: Netnews Cancel-Lock Hash Algorithms
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/netnews-parameters
+- content: http://www.iana.org/assignments/netnews-parameters
   type: src
 type: standard
 docid:
-  id: IANA netnews-parameters/cancel-lock-hash-algorithms
+- id: IANA netnews-parameters/cancel-lock-hash-algorithms
   type: IANA
 docnumber: netnews-parameters/cancel-lock-hash-algorithms
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-02-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

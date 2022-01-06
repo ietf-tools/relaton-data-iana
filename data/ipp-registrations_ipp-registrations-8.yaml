@@ -1,14 +1,14 @@
 ---
 id: IANAipp-registrations/ipp-registrations-8
 title:
-  content: Out-of-Band Attribute Value Tags
+- content: Out-of-Band Attribute Value Tags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipp-registrations
+- content: http://www.iana.org/assignments/ipp-registrations
   type: src
 type: standard
 docid:
-  id: IANA ipp-registrations/ipp-registrations-8
+- id: IANA ipp-registrations/ipp-registrations-8
   type: IANA
 docnumber: ipp-registrations/ipp-registrations-8
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

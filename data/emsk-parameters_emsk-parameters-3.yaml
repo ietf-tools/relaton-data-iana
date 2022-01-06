@@ -1,14 +1,14 @@
 ---
 id: IANAemsk-parameters/emsk-parameters-3
 title:
-  content: EMSK PRF Numbers
+- content: EMSK PRF Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/emsk-parameters
+- content: http://www.iana.org/assignments/emsk-parameters
   type: src
 type: standard
 docid:
-  id: IANA emsk-parameters/emsk-parameters-3
+- id: IANA emsk-parameters/emsk-parameters-3
   type: IANA
 docnumber: emsk-parameters/emsk-parameters-3
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

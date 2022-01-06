@@ -1,14 +1,14 @@
 ---
 id: IANAauth-namespaces/auth-namespaces-5
 title:
-  content: RDM Name Space Values
+- content: RDM Name Space Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/auth-namespaces
+- content: http://www.iana.org/assignments/auth-namespaces
   type: src
 type: standard
 docid:
-  id: IANA auth-namespaces/auth-namespaces-5
+- id: IANA auth-namespaces/auth-namespaces-5
   type: IANA
 docnumber: auth-namespaces/auth-namespaces-5
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-11-26'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

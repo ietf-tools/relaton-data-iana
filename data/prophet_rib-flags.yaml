@@ -1,14 +1,14 @@
 ---
 id: IANAprophet/rib-flags
 title:
-  content: RIB Flags
+- content: RIB Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/prophet
+- content: http://www.iana.org/assignments/prophet
   type: src
 type: standard
 docid:
-  id: IANA prophet/rib-flags
+- id: IANA prophet/rib-flags
   type: IANA
 docnumber: prophet/rib-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-09-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

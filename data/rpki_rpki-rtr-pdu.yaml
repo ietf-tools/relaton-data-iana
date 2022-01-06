@@ -1,14 +1,14 @@
 ---
 id: IANArpki/rpki-rtr-pdu
 title:
-  content: rpki-rtr-pdu
+- content: rpki-rtr-pdu
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpki
+- content: http://www.iana.org/assignments/rpki
   type: src
 type: standard
 docid:
-  id: IANA rpki/rpki-rtr-pdu
+- id: IANA rpki/rpki-rtr-pdu
   type: IANA
 docnumber: rpki/rpki-rtr-pdu
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

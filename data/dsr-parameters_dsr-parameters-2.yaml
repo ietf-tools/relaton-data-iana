@@ -1,14 +1,14 @@
 ---
 id: IANAdsr-parameters/dsr-parameters-2
 title:
-  content: Dynamic Source Routing (DSR) Protocol Route Error Types
+- content: Dynamic Source Routing (DSR) Protocol Route Error Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dsr-parameters
+- content: http://www.iana.org/assignments/dsr-parameters
   type: src
 type: standard
 docid:
-  id: IANA dsr-parameters/dsr-parameters-2
+- id: IANA dsr-parameters/dsr-parameters-2
   type: IANA
 docnumber: dsr-parameters/dsr-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2007-02-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

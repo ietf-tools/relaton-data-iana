@@ -1,14 +1,14 @@
 ---
 id: IANApower-state-sets/dmtf
 title:
-  content: DMTF Power State Set
+- content: DMTF Power State Set
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/power-state-sets
+- content: http://www.iana.org/assignments/power-state-sets
   type: src
 type: standard
 docid:
-  id: IANA power-state-sets/dmtf
+- id: IANA power-state-sets/dmtf
   type: IANA
 docnumber: power-state-sets/dmtf
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-09-05'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

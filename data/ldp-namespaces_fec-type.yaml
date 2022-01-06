@@ -1,24 +1,28 @@
 ---
 id: IANAldp-namespaces/fec-type
 title:
-  content: Forwarding Equivalence Class (FEC) Type Name Space
+- content: Forwarding Equivalence Class (FEC) Type Name Space
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ldp-namespaces
+- content: http://www.iana.org/assignments/ldp-namespaces
   type: src
 type: standard
 docid:
-  id: IANA ldp-namespaces/fec-type
+- id: IANA ldp-namespaces/fec-type
   type: IANA
 docnumber: ldp-namespaces/fec-type
 date:
-  type: updated
+- type: updated
   value: '2018-03-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

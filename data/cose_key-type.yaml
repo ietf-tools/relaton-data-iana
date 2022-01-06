@@ -1,14 +1,14 @@
 ---
 id: IANAcose/key-type
 title:
-  content: COSE Key Types
+- content: COSE Key Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/cose
+- content: http://www.iana.org/assignments/cose
   type: src
 type: standard
 docid:
-  id: IANA cose/key-type
+- id: IANA cose/key-type
   type: IANA
 docnumber: cose/key-type
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAte-link-capabilities
 title:
-  content: Link State Routing TE Capabilities
+- content: Link State Routing TE Capabilities
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/te-link-capabilities
+- content: http://www.iana.org/assignments/te-link-capabilities
   type: src
 type: standard
 docid:
-  id: IANA te-link-capabilities
+- id: IANA te-link-capabilities
   type: IANA
 docnumber: te-link-capabilities
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2007-12-10'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANArfb
 title:
-  content: Remote Framebuffer (RFB)
+- content: Remote Framebuffer (RFB)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rfb
+- content: http://www.iana.org/assignments/rfb
   type: src
 type: standard
 docid:
-  id: IANA rfb
+- id: IANA rfb
   type: IANA
 docnumber: rfb
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-03-31'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

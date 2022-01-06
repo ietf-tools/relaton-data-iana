@@ -1,14 +1,14 @@
 ---
 id: IANAospf-traffic-eng-tlvs/otn-tdm-scsi
 title:
-  content: Types for sub-TLVs of OTN-TDM SCSI (Switching Capability Specific Information)
+- content: Types for sub-TLVs of OTN-TDM SCSI (Switching Capability Specific Information)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ospf-traffic-eng-tlvs
+- content: http://www.iana.org/assignments/ospf-traffic-eng-tlvs
   type: src
 type: standard
 docid:
-  id: IANA ospf-traffic-eng-tlvs/otn-tdm-scsi
+- id: IANA ospf-traffic-eng-tlvs/otn-tdm-scsi
   type: IANA
 docnumber: ospf-traffic-eng-tlvs/otn-tdm-scsi
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2017-05-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAiana-if-type
 title:
-  content: iana-if-type YANG Module
+- content: iana-if-type YANG Module
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iana-if-type
+- content: http://www.iana.org/assignments/iana-if-type
   type: src
 type: standard
 docid:
-  id: IANA iana-if-type
+- id: IANA iana-if-type
   type: IANA
 docnumber: iana-if-type
 date:
-  type: created
+- type: created
   value: '2014-01-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAds-rr-types
 title:
-  content: DNSSEC Delegation Signer (DS) Resource Record (RR) Type Digest Algorithms
+- content: DNSSEC Delegation Signer (DS) Resource Record (RR) Type Digest Algorithms
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ds-rr-types
+- content: http://www.iana.org/assignments/ds-rr-types
   type: src
 type: standard
 docid:
-  id: IANA ds-rr-types
+- id: IANA ds-rr-types
   type: IANA
 docnumber: ds-rr-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

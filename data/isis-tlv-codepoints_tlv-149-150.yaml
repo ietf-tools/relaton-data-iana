@@ -1,14 +1,14 @@
 ---
 id: IANAisis-tlv-codepoints/tlv-149-150
 title:
-  content: Sub-TLVs for TLVs 149 and 150
+- content: Sub-TLVs for TLVs 149 and 150
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/isis-tlv-codepoints
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
   type: src
 type: standard
 docid:
-  id: IANA isis-tlv-codepoints/tlv-149-150
+- id: IANA isis-tlv-codepoints/tlv-149-150
   type: IANA
 docnumber: isis-tlv-codepoints/tlv-149-150
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

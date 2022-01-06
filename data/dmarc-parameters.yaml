@@ -1,15 +1,15 @@
 ---
 id: IANAdmarc-parameters
 title:
-  content: Domain-based Message Authentication, Reporting, and Conformance (DMARC)
+- content: Domain-based Message Authentication, Reporting, and Conformance (DMARC)
     Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dmarc-parameters
+- content: http://www.iana.org/assignments/dmarc-parameters
   type: src
 type: standard
 docid:
-  id: IANA dmarc-parameters
+- id: IANA dmarc-parameters
   type: IANA
 docnumber: dmarc-parameters
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2021-07-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

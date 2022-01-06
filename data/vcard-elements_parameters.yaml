@@ -1,14 +1,14 @@
 ---
 id: IANAvcard-elements/parameters
 title:
-  content: vCard Parameters
+- content: vCard Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/vcard-elements
+- content: http://www.iana.org/assignments/vcard-elements
   type: src
 type: standard
 docid:
-  id: IANA vcard-elements/parameters
+- id: IANA vcard-elements/parameters
   type: IANA
 docnumber: vcard-elements/parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-05-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

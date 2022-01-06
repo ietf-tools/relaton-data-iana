@@ -1,15 +1,15 @@
 ---
 id: IANAiesg-recognized-organizations/organizations
 title:
-  content: Standards-related organizations that have registered Media Types in the
+- content: Standards-related organizations that have registered Media Types in the
     Standards Tree
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iesg-recognized-organizations
+- content: http://www.iana.org/assignments/iesg-recognized-organizations
   type: src
 type: standard
 docid:
-  id: IANA iesg-recognized-organizations/organizations
+- id: IANA iesg-recognized-organizations/organizations
   type: IANA
 docnumber: iesg-recognized-organizations/organizations
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2021-07-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

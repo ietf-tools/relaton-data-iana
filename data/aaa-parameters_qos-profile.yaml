@@ -1,14 +1,14 @@
 ---
 id: IANAaaa-parameters/qos-profile
 title:
-  content: QoS Profiles
+- content: QoS Profiles
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/aaa-parameters
+- content: http://www.iana.org/assignments/aaa-parameters
   type: src
 type: standard
 docid:
-  id: IANA aaa-parameters/qos-profile
+- id: IANA aaa-parameters/qos-profile
   type: IANA
 docnumber: aaa-parameters/qos-profile
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-08-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

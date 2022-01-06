@@ -1,14 +1,14 @@
 ---
 id: IANAoauth-parameters/authorization-server-metadata
 title:
-  content: OAuth Authorization Server Metadata
+- content: OAuth Authorization Server Metadata
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/oauth-parameters
+- content: http://www.iana.org/assignments/oauth-parameters
   type: src
 type: standard
 docid:
-  id: IANA oauth-parameters/authorization-server-metadata
+- id: IANA oauth-parameters/authorization-server-metadata
   type: IANA
 docnumber: oauth-parameters/authorization-server-metadata
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

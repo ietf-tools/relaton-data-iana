@@ -1,14 +1,14 @@
 ---
 id: IANAjwt
 title:
-  content: JSON Web Token (JWT)
+- content: JSON Web Token (JWT)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/jwt
+- content: http://www.iana.org/assignments/jwt
   type: src
 type: standard
 docid:
-  id: IANA jwt
+- id: IANA jwt
   type: IANA
 docnumber: jwt
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

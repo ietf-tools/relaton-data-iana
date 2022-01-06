@@ -1,14 +1,14 @@
 ---
 id: IANApwe3-parameters/gach-ethernet
 title:
-  content: 'G-ACh Advertisement Protocol: Ethernet Interface Parameters'
+- content: 'G-ACh Advertisement Protocol: Ethernet Interface Parameters'
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pwe3-parameters
+- content: http://www.iana.org/assignments/pwe3-parameters
   type: src
 type: standard
 docid:
-  id: IANA pwe3-parameters/gach-ethernet
+- id: IANA pwe3-parameters/gach-ethernet
   type: IANA
 docnumber: pwe3-parameters/gach-ethernet
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-03-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

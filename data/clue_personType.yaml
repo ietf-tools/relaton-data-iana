@@ -1,14 +1,14 @@
 ---
 id: IANAclue/personType
 title:
-  content: CLUE Schema <personType>
+- content: CLUE Schema <personType>
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/clue
+- content: http://www.iana.org/assignments/clue
   type: src
 type: standard
 docid:
-  id: IANA clue/personType
+- id: IANA clue/personType
   type: IANA
 docnumber: clue/personType
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-02-05'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

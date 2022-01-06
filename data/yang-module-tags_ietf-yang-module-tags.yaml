@@ -1,14 +1,14 @@
 ---
 id: IANAyang-module-tags/ietf-yang-module-tags
 title:
-  content: IETF YANG Module Tags
+- content: IETF YANG Module Tags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/yang-module-tags
+- content: http://www.iana.org/assignments/yang-module-tags
   type: src
 type: standard
 docid:
-  id: IANA yang-module-tags/ietf-yang-module-tags
+- id: IANA yang-module-tags/ietf-yang-module-tags
   type: IANA
 docnumber: yang-module-tags/ietf-yang-module-tags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-02-05'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

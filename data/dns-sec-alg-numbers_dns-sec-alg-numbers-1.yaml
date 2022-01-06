@@ -1,14 +1,14 @@
 ---
 id: IANAdns-sec-alg-numbers/dns-sec-alg-numbers-1
 title:
-  content: DNS Security Algorithm Numbers
+- content: DNS Security Algorithm Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dns-sec-alg-numbers
+- content: http://www.iana.org/assignments/dns-sec-alg-numbers
   type: src
 type: standard
 docid:
-  id: IANA dns-sec-alg-numbers/dns-sec-alg-numbers-1
+- id: IANA dns-sec-alg-numbers/dns-sec-alg-numbers-1
   type: IANA
 docnumber: dns-sec-alg-numbers/dns-sec-alg-numbers-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-04-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

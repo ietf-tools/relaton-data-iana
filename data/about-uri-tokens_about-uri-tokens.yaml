@@ -1,14 +1,14 @@
 ---
 id: IANAabout-uri-tokens/about-uri-tokens
 title:
-  content: '"about" URI Tokens'
+- content: '"about" URI Tokens'
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/about-uri-tokens
+- content: http://www.iana.org/assignments/about-uri-tokens
   type: src
 type: standard
 docid:
-  id: IANA about-uri-tokens/about-uri-tokens
+- id: IANA about-uri-tokens/about-uri-tokens
   type: IANA
 docnumber: about-uri-tokens/about-uri-tokens
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-09-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAmail-parameters/multicast-email-smtp-extensions
 title:
-  content: Multicast Email SMTP Extensions
+- content: Multicast Email SMTP Extensions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mail-parameters
+- content: http://www.iana.org/assignments/mail-parameters
   type: src
 type: standard
 docid:
-  id: IANA mail-parameters/multicast-email-smtp-extensions
+- id: IANA mail-parameters/multicast-email-smtp-extensions
   type: IANA
 docnumber: mail-parameters/multicast-email-smtp-extensions
 date:
-  type: updated
+- type: updated
   value: '2020-02-14'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

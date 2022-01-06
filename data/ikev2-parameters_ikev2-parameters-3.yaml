@@ -1,14 +1,14 @@
 ---
 id: IANAikev2-parameters/ikev2-parameters-3
 title:
-  content: Transform Type Values
+- content: Transform Type Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ikev2-parameters
+- content: http://www.iana.org/assignments/ikev2-parameters
   type: src
 type: standard
 docid:
-  id: IANA ikev2-parameters/ikev2-parameters-3
+- id: IANA ikev2-parameters/ikev2-parameters-3
   type: IANA
 docnumber: ikev2-parameters/ikev2-parameters-3
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-11-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

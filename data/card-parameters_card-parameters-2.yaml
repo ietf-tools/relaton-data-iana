@@ -1,14 +1,14 @@
 ---
 id: IANAcard-parameters/card-parameters-2
 title:
-  content: Layer 2 Access Technology Identifier Registry
+- content: Layer 2 Access Technology Identifier Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/card-parameters
+- content: http://www.iana.org/assignments/card-parameters
   type: src
 type: standard
 docid:
-  id: IANA card-parameters/card-parameters-2
+- id: IANA card-parameters/card-parameters-2
   type: IANA
 docnumber: card-parameters/card-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2007-01-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

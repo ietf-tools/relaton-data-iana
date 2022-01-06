@@ -1,14 +1,14 @@
 ---
 id: IANAcaptive-portals
 title:
-  content: Captive Portals
+- content: Captive Portals
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/captive-portals
+- content: http://www.iana.org/assignments/captive-portals
   type: src
 type: standard
 docid:
-  id: IANA captive-portals
+- id: IANA captive-portals
   type: IANA
 docnumber: captive-portals
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-09-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

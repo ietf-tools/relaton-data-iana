@@ -1,14 +1,14 @@
 ---
 id: IANAsecurity-txt-fields
 title:
-  content: security.txt Fields
+- content: security.txt Fields
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/security-txt-fields
+- content: http://www.iana.org/assignments/security-txt-fields
   type: src
 type: standard
 docid:
-  id: IANA security-txt-fields
+- id: IANA security-txt-fields
   type: IANA
 docnumber: security-txt-fields
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

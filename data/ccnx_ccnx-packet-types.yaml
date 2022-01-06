@@ -1,14 +1,14 @@
 ---
 id: IANAccnx/ccnx-packet-types
 title:
-  content: CCNx Packet Types
+- content: CCNx Packet Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ccnx
+- content: http://www.iana.org/assignments/ccnx
   type: src
 type: standard
 docid:
-  id: IANA ccnx/ccnx-packet-types
+- id: IANA ccnx/ccnx-packet-types
   type: IANA
 docnumber: ccnx/ccnx-packet-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-07-12'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

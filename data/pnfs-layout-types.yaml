@@ -1,14 +1,14 @@
 ---
 id: IANApnfs-layout-types
 title:
-  content: pNFS Layout Types
+- content: pNFS Layout Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pnfs-layout-types
+- content: http://www.iana.org/assignments/pnfs-layout-types
   type: src
 type: standard
 docid:
-  id: IANA pnfs-layout-types
+- id: IANA pnfs-layout-types
   type: IANA
 docnumber: pnfs-layout-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-08-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANApcep/s2ls-object-flag-field
 title:
-  content: S2LS Object Flag Field
+- content: S2LS Object Flag Field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-  id: IANA pcep/s2ls-object-flag-field
+- id: IANA pcep/s2ls-object-flag-field
   type: IANA
 docnumber: pcep/s2ls-object-flag-field
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

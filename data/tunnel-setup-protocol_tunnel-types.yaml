@@ -1,14 +1,14 @@
 ---
 id: IANAtunnel-setup-protocol/tunnel-types
 title:
-  content: Tunnel Types
+- content: Tunnel Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tunnel-setup-protocol
+- content: http://www.iana.org/assignments/tunnel-setup-protocol
   type: src
 type: standard
 docid:
-  id: IANA tunnel-setup-protocol/tunnel-types
+- id: IANA tunnel-setup-protocol/tunnel-types
   type: IANA
 docnumber: tunnel-setup-protocol/tunnel-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-02-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

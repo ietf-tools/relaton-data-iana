@@ -1,14 +1,14 @@
 ---
 id: IANAdlep-parameters/signal-type-values
 title:
-  content: Signal Type Values
+- content: Signal Type Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dlep-parameters
+- content: http://www.iana.org/assignments/dlep-parameters
   type: src
 type: standard
 docid:
-  id: IANA dlep-parameters/signal-type-values
+- id: IANA dlep-parameters/signal-type-values
   type: IANA
 docnumber: dlep-parameters/signal-type-values
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-03-30'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAianacharset-mib
 title:
-  content: IANA-CHARSET-MIB
+- content: IANA-CHARSET-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianacharset-mib
+- content: http://www.iana.org/assignments/ianacharset-mib
   type: src
 type: standard
 docid:
-  id: IANA ianacharset-mib
+- id: IANA ianacharset-mib
   type: IANA
 docnumber: ianacharset-mib
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-01-04'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

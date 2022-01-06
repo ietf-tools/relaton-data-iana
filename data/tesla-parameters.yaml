@@ -1,14 +1,14 @@
 ---
 id: IANAtesla-parameters
 title:
-  content: Timed Efficient Stream Loss-tolerant Authentication (TESLA) Parameters
+- content: Timed Efficient Stream Loss-tolerant Authentication (TESLA) Parameters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tesla-parameters
+- content: http://www.iana.org/assignments/tesla-parameters
   type: src
 type: standard
 docid:
-  id: IANA tesla-parameters
+- id: IANA tesla-parameters
   type: IANA
 docnumber: tesla-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-04-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

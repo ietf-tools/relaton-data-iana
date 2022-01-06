@@ -1,14 +1,14 @@
 ---
 id: IANAleighton-micali-signatures
 title:
-  content: Leighton-Micali Signatures (LMS)
+- content: Leighton-Micali Signatures (LMS)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/leighton-micali-signatures
+- content: http://www.iana.org/assignments/leighton-micali-signatures
   type: src
 type: standard
 docid:
-  id: IANA leighton-micali-signatures
+- id: IANA leighton-micali-signatures
   type: IANA
 docnumber: leighton-micali-signatures
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-06-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

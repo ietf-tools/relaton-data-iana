@@ -1,14 +1,14 @@
 ---
 id: IANAslp-da-service
 title:
-  content: Service Location Protocol (SLP) Remote Service Discovery
+- content: Service Location Protocol (SLP) Remote Service Discovery
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/slp-da-service
+- content: http://www.iana.org/assignments/slp-da-service
   type: src
 type: standard
 docid:
-  id: IANA slp-da-service
+- id: IANA slp-da-service
   type: IANA
 docnumber: slp-da-service
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-06-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

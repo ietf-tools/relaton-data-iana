@@ -1,14 +1,14 @@
 ---
 id: IANAipfix/ipfix-information-element-units
 title:
-  content: IPFIX Information Element Units
+- content: IPFIX Information Element Units
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ipfix
+- content: http://www.iana.org/assignments/ipfix
   type: src
 type: standard
 docid:
-  id: IANA ipfix/ipfix-information-element-units
+- id: IANA ipfix/ipfix-information-element-units
   type: IANA
 docnumber: ipfix/ipfix-information-element-units
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,24 +1,28 @@
 ---
 id: IANAbootp-dhcp-parameters/options
 title:
-  content: BOOTP Vendor Extensions and DHCP Options
+- content: BOOTP Vendor Extensions and DHCP Options
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bootp-dhcp-parameters
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
   type: src
 type: standard
 docid:
-  id: IANA bootp-dhcp-parameters/options
+- id: IANA bootp-dhcp-parameters/options
   type: IANA
 docnumber: bootp-dhcp-parameters/options
 date:
-  type: updated
+- type: updated
   value: '2021-01-15'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

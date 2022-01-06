@@ -1,14 +1,14 @@
 ---
 id: IANAhttp-alt-svc-parameters
 title:
-  content: Hypertext Transfer Protocol (HTTP) Alt-Svc Parameter Registry
+- content: Hypertext Transfer Protocol (HTTP) Alt-Svc Parameter Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-alt-svc-parameters
+- content: http://www.iana.org/assignments/http-alt-svc-parameters
   type: src
 type: standard
 docid:
-  id: IANA http-alt-svc-parameters
+- id: IANA http-alt-svc-parameters
   type: IANA
 docnumber: http-alt-svc-parameters
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2016-04-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

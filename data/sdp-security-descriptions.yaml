@@ -1,14 +1,14 @@
 ---
 id: IANAsdp-security-descriptions
 title:
-  content: Session Description Protocol (SDP) Security Descriptions
+- content: Session Description Protocol (SDP) Security Descriptions
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/sdp-security-descriptions
+- content: http://www.iana.org/assignments/sdp-security-descriptions
   type: src
 type: standard
 docid:
-  id: IANA sdp-security-descriptions
+- id: IANA sdp-security-descriptions
   type: IANA
 docnumber: sdp-security-descriptions
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-12-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

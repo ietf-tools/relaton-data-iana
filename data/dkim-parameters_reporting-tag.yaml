@@ -1,14 +1,14 @@
 ---
 id: IANAdkim-parameters/reporting-tag
 title:
-  content: DKIM Reporting Tag Registry
+- content: DKIM Reporting Tag Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dkim-parameters
+- content: http://www.iana.org/assignments/dkim-parameters
   type: src
 type: standard
 docid:
-  id: IANA dkim-parameters/reporting-tag
+- id: IANA dkim-parameters/reporting-tag
   type: IANA
 docnumber: dkim-parameters/reporting-tag
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-07-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

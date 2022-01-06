@@ -1,14 +1,14 @@
 ---
 id: IANAospfv3-parameters/ospfv3-parameters-7
 title:
-  content: OSPFv3 Router Properties Registry
+- content: OSPFv3 Router Properties Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ospfv3-parameters
+- content: http://www.iana.org/assignments/ospfv3-parameters
   type: src
 type: standard
 docid:
-  id: IANA ospfv3-parameters/ospfv3-parameters-7
+- id: IANA ospfv3-parameters/ospfv3-parameters-7
   type: IANA
 docnumber: ospfv3-parameters/ospfv3-parameters-7
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

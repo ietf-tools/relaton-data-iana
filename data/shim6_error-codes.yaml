@@ -1,14 +1,14 @@
 ---
 id: IANAshim6/error-codes
 title:
-  content: Shim6 Error Codes
+- content: Shim6 Error Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/shim6
+- content: http://www.iana.org/assignments/shim6
   type: src
 type: standard
 docid:
-  id: IANA shim6/error-codes
+- id: IANA shim6/error-codes
   type: IANA
 docnumber: shim6/error-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2009-06-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

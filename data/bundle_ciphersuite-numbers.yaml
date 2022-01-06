@@ -1,14 +1,14 @@
 ---
 id: IANAbundle/ciphersuite-numbers
 title:
-  content: Ciphersuite Numbers
+- content: Ciphersuite Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/bundle
+- content: http://www.iana.org/assignments/bundle
   type: src
 type: standard
 docid:
-  id: IANA bundle/ciphersuite-numbers
+- id: IANA bundle/ciphersuite-numbers
   type: IANA
 docnumber: bundle/ciphersuite-numbers
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-08-04'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

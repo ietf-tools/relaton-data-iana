@@ -1,24 +1,28 @@
 ---
 id: IANAisakmp-registry/isakmp-registry-7
 title:
-  content: IPSEC AH Transform Identifiers
+- content: IPSEC AH Transform Identifiers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/isakmp-registry
+- content: http://www.iana.org/assignments/isakmp-registry
   type: src
 type: standard
 docid:
-  id: IANA isakmp-registry/isakmp-registry-7
+- id: IANA isakmp-registry/isakmp-registry-7
   type: IANA
 docnumber: isakmp-registry/isakmp-registry-7
 date:
-  type: updated
+- type: updated
   value: '2012-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAianaitualarmtc-mib
 title:
-  content: IANA-ITU-ALARM-TC-MIB
+- content: IANA-ITU-ALARM-TC-MIB
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ianaitualarmtc-mib
+- content: http://www.iana.org/assignments/ianaitualarmtc-mib
   type: src
 type: standard
 docid:
-  id: IANA ianaitualarmtc-mib
+- id: IANA ianaitualarmtc-mib
   type: IANA
 docnumber: ianaitualarmtc-mib
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-22'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

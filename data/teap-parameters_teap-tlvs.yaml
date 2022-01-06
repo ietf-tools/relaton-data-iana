@@ -1,14 +1,14 @@
 ---
 id: IANAteap-parameters/teap-tlvs
 title:
-  content: TEAP TLV Types
+- content: TEAP TLV Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/teap-parameters
+- content: http://www.iana.org/assignments/teap-parameters
   type: src
 type: standard
 docid:
-  id: IANA teap-parameters/teap-tlvs
+- id: IANA teap-parameters/teap-tlvs
   type: IANA
 docnumber: teap-parameters/teap-tlvs
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-13'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

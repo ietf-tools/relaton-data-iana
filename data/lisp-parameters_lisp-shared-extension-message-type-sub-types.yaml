@@ -1,14 +1,14 @@
 ---
 id: IANAlisp-parameters/lisp-shared-extension-message-type-sub-types
 title:
-  content: LISP Shared Extension Message Type Sub-types
+- content: LISP Shared Extension Message Type Sub-types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/lisp-parameters
+- content: http://www.iana.org/assignments/lisp-parameters
   type: src
 type: standard
 docid:
-  id: IANA lisp-parameters/lisp-shared-extension-message-type-sub-types
+- id: IANA lisp-parameters/lisp-shared-extension-message-type-sub-types
   type: IANA
 docnumber: lisp-parameters/lisp-shared-extension-message-type-sub-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-03-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANArpc-netids/rpc-netids-1
 title:
-  content: ONC RPC Netids (First Come First Served)
+- content: ONC RPC Netids (First Come First Served)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rpc-netids
+- content: http://www.iana.org/assignments/rpc-netids
   type: src
 type: standard
 docid:
-  id: IANA rpc-netids/rpc-netids-1
+- id: IANA rpc-netids/rpc-netids-1
   type: IANA
 docnumber: rpc-netids/rpc-netids-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-04-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

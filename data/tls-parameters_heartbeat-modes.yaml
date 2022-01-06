@@ -1,14 +1,14 @@
 ---
 id: IANAtls-parameters/heartbeat-modes
 title:
-  content: TLS Heartbeat Modes
+- content: TLS Heartbeat Modes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/tls-parameters
+- content: http://www.iana.org/assignments/tls-parameters
   type: src
 type: standard
 docid:
-  id: IANA tls-parameters/heartbeat-modes
+- id: IANA tls-parameters/heartbeat-modes
   type: IANA
 docnumber: tls-parameters/heartbeat-modes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-27'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAscep/scep-ca-capabilities
 title:
-  content: SCEP CA Capabilities
+- content: SCEP CA Capabilities
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/scep
+- content: http://www.iana.org/assignments/scep
   type: src
 type: standard
 docid:
-  id: IANA scep/scep-ca-capabilities
+- id: IANA scep/scep-ca-capabilities
   type: IANA
 docnumber: scep/scep-ca-capabilities
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-11-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

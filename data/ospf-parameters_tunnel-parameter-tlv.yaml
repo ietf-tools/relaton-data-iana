@@ -1,14 +1,14 @@
 ---
 id: IANAospf-parameters/tunnel-parameter-tlv
 title:
-  content: OSPF Tunnel Parameter Sub-TLVs
+- content: OSPF Tunnel Parameter Sub-TLVs
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ospf-parameters
+- content: http://www.iana.org/assignments/ospf-parameters
   type: src
 type: standard
 docid:
-  id: IANA ospf-parameters/tunnel-parameter-tlv
+- id: IANA ospf-parameters/tunnel-parameter-tlv
   type: IANA
 docnumber: ospf-parameters/tunnel-parameter-tlv
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-06-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANAemsk-parameters/emsk-parameters-1
 title:
-  content: User Specific Root Keys (USRK) Key Labels
+- content: User Specific Root Keys (USRK) Key Labels
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/emsk-parameters
+- content: http://www.iana.org/assignments/emsk-parameters
   type: src
 type: standard
 docid:
-  id: IANA emsk-parameters/emsk-parameters-1
+- id: IANA emsk-parameters/emsk-parameters-1
   type: IANA
 docnumber: emsk-parameters/emsk-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-05-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

@@ -1,14 +1,14 @@
 ---
 id: IANApt-tls-parameters/message-types
 title:
-  content: PT-TLS Message Types
+- content: PT-TLS Message Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pt-tls-parameters
+- content: http://www.iana.org/assignments/pt-tls-parameters
   type: src
 type: standard
 docid:
-  id: IANA pt-tls-parameters/message-types
+- id: IANA pt-tls-parameters/message-types
   type: IANA
 docnumber: pt-tls-parameters/message-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-03-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

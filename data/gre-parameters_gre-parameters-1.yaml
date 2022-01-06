@@ -1,24 +1,28 @@
 ---
 id: IANAgre-parameters/gre-parameters-1
 title:
-  content: GRE Protocol Types
+- content: GRE Protocol Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gre-parameters
+- content: http://www.iana.org/assignments/gre-parameters
   type: src
 type: standard
 docid:
-  id: IANA gre-parameters/gre-parameters-1
+- id: IANA gre-parameters/gre-parameters-1
   type: IANA
 docnumber: gre-parameters/gre-parameters-1
 date:
-  type: updated
+- type: updated
   value: '2009-05-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

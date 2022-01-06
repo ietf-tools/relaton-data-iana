@@ -1,15 +1,15 @@
 ---
 id: IANAdssc
 title:
-  content: Data Structure for the Security Suitability of Cryptographic Algorithms
+- content: Data Structure for the Security Suitability of Cryptographic Algorithms
     (DSSC)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dssc
+- content: http://www.iana.org/assignments/dssc
   type: src
 type: standard
 docid:
-  id: IANA dssc
+- id: IANA dssc
   type: IANA
 docnumber: dssc
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2018-04-06'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

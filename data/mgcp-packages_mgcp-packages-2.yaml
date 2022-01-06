@@ -1,14 +1,14 @@
 ---
 id: IANAmgcp-packages/mgcp-packages-2
 title:
-  content: List of Extension Digit Map Letters
+- content: List of Extension Digit Map Letters
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mgcp-packages
+- content: http://www.iana.org/assignments/mgcp-packages
   type: src
 type: standard
 docid:
-  id: IANA mgcp-packages/mgcp-packages-2
+- id: IANA mgcp-packages/mgcp-packages-2
   type: IANA
 docnumber: mgcp-packages/mgcp-packages-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-06-25'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

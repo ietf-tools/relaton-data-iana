@@ -1,14 +1,14 @@
 ---
 id: IANAigmp-type-numbers/igmp-type-numbers-1
 title:
-  content: IGMP Type Numbers
+- content: IGMP Type Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/igmp-type-numbers
+- content: http://www.iana.org/assignments/igmp-type-numbers
   type: src
 type: standard
 docid:
-  id: IANA igmp-type-numbers/igmp-type-numbers-1
+- id: IANA igmp-type-numbers/igmp-type-numbers-1
   type: IANA
 docnumber: igmp-type-numbers/igmp-type-numbers-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2019-11-21'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

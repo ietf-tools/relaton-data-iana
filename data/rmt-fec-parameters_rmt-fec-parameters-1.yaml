@@ -1,14 +1,14 @@
 ---
 id: IANArmt-fec-parameters/rmt-fec-parameters-1
 title:
-  content: ietf:rmt:fec:encoding - Fully-Specified FEC schemes (0-127)
+- content: ietf:rmt:fec:encoding - Fully-Specified FEC schemes (0-127)
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/rmt-fec-parameters
+- content: http://www.iana.org/assignments/rmt-fec-parameters
   type: src
 type: standard
 docid:
-  id: IANA rmt-fec-parameters/rmt-fec-parameters-1
+- id: IANA rmt-fec-parameters/rmt-fec-parameters-1
   type: IANA
 docnumber: rmt-fec-parameters/rmt-fec-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-01-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

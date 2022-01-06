@@ -1,14 +1,14 @@
 ---
 id: IANAmsrp-parameters/msrp-parameters-2
 title:
-  content: Header Fields
+- content: Header Fields
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/msrp-parameters
+- content: http://www.iana.org/assignments/msrp-parameters
   type: src
 type: standard
 docid:
-  id: IANA msrp-parameters/msrp-parameters-2
+- id: IANA msrp-parameters/msrp-parameters-2
   type: IANA
 docnumber: msrp-parameters/msrp-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-12-18'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

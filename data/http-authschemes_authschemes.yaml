@@ -1,14 +1,14 @@
 ---
 id: IANAhttp-authschemes/authschemes
 title:
-  content: HTTP Authentication Schemes
+- content: HTTP Authentication Schemes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/http-authschemes
+- content: http://www.iana.org/assignments/http-authschemes
   type: src
 type: standard
 docid:
-  id: IANA http-authschemes/authschemes
+- id: IANA http-authschemes/authschemes
   type: IANA
 docnumber: http-authschemes/authschemes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-10-01'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

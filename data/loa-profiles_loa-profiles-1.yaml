@@ -1,14 +1,14 @@
 ---
 id: IANAloa-profiles/loa-profiles-1
 title:
-  content: Level of Assurance Profiles
+- content: Level of Assurance Profiles
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/loa-profiles
+- content: http://www.iana.org/assignments/loa-profiles
   type: src
 type: standard
 docid:
-  id: IANA loa-profiles/loa-profiles-1
+- id: IANA loa-profiles/loa-profiles-1
   type: IANA
 docnumber: loa-profiles/loa-profiles-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-12-17'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

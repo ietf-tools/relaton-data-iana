@@ -1,14 +1,14 @@
 ---
 id: IANAntp-parameters/ntp-parameters-1
 title:
-  content: NTP Reference Identifier Codes
+- content: NTP Reference Identifier Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/ntp-parameters
+- content: http://www.iana.org/assignments/ntp-parameters
   type: src
 type: standard
 docid:
-  id: IANA ntp-parameters/ntp-parameters-1
+- id: IANA ntp-parameters/ntp-parameters-1
   type: IANA
 docnumber: ntp-parameters/ntp-parameters-1
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-10-05'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

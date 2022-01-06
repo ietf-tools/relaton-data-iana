@@ -1,24 +1,28 @@
 ---
 id: IANAas-numbers/as-numbers-1
 title:
-  content: 16-bit Autonomous System Numbers
+- content: 16-bit Autonomous System Numbers
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/as-numbers
+- content: http://www.iana.org/assignments/as-numbers
   type: src
 type: standard
 docid:
-  id: IANA as-numbers/as-numbers-1
+- id: IANA as-numbers/as-numbers-1
   type: IANA
 docnumber: as-numbers/as-numbers-1
 date:
-  type: updated
+- type: updated
   value: '2021-10-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

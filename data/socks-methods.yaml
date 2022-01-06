@@ -1,24 +1,28 @@
 ---
 id: IANAsocks-methods
 title:
-  content: SOCKS Methods
+- content: SOCKS Methods
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/socks-methods
+- content: http://www.iana.org/assignments/socks-methods
   type: src
 type: standard
 docid:
-  id: IANA socks-methods
+- id: IANA socks-methods
   type: IANA
 docnumber: socks-methods
 date:
-  type: updated
+- type: updated
   value: '2017-08-31'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

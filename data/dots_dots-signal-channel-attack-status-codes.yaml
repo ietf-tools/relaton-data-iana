@@ -1,14 +1,14 @@
 ---
 id: IANAdots/dots-signal-channel-attack-status-codes
 title:
-  content: DOTS Signal Channel Attack Status Codes
+- content: DOTS Signal Channel Attack Status Codes
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/dots
+- content: http://www.iana.org/assignments/dots
   type: src
 type: standard
 docid:
-  id: IANA dots/dots-signal-channel-attack-status-codes
+- id: IANA dots/dots-signal-channel-attack-status-codes
   type: IANA
 docnumber: dots/dots-signal-channel-attack-status-codes
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-09-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

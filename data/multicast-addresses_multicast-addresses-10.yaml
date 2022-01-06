@@ -1,24 +1,28 @@
 ---
 id: IANAmulticast-addresses/multicast-addresses-10
 title:
-  content: Source-Specific Multicast Block (232.0.0.0-232.255.255.255 (232/8))
+- content: Source-Specific Multicast Block (232.0.0.0-232.255.255.255 (232/8))
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/multicast-addresses
+- content: http://www.iana.org/assignments/multicast-addresses
   type: src
 type: standard
 docid:
-  id: IANA multicast-addresses/multicast-addresses-10
+- id: IANA multicast-addresses/multicast-addresses-10
   type: IANA
 docnumber: multicast-addresses/multicast-addresses-10
 date:
-  type: updated
+- type: updated
   value: '2021-10-28'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

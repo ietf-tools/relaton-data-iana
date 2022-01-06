@@ -1,14 +1,14 @@
 ---
 id: IANAmobility-parameters/traffic-selector
 title:
-  content: Traffic Selector Format
+- content: Traffic Selector Format
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mobility-parameters
+- content: http://www.iana.org/assignments/mobility-parameters
   type: src
 type: standard
 docid:
-  id: IANA mobility-parameters/traffic-selector
+- id: IANA mobility-parameters/traffic-selector
   type: IANA
 docnumber: mobility-parameters/traffic-selector
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-10-09'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

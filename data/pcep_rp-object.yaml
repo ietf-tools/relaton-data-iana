@@ -1,14 +1,14 @@
 ---
 id: IANApcep/rp-object
 title:
-  content: RP Object Flag Field
+- content: RP Object Flag Field
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-  id: IANA pcep/rp-object
+- id: IANA pcep/rp-object
   type: IANA
 docnumber: pcep/rp-object
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2021-07-19'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

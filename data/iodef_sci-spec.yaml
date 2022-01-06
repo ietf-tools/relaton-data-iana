@@ -1,14 +1,14 @@
 ---
 id: IANAiodef/sci-spec
 title:
-  content: Structured Cybersecurity Information (SCI) Specifications
+- content: Structured Cybersecurity Information (SCI) Specifications
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/iodef
+- content: http://www.iana.org/assignments/iodef
   type: src
 type: standard
 docid:
-  id: IANA iodef/sci-spec
+- id: IANA iodef/sci-spec
   type: IANA
 docnumber: iodef/sci-spec
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2014-04-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

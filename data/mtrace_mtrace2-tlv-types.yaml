@@ -1,14 +1,14 @@
 ---
 id: IANAmtrace/mtrace2-tlv-types
 title:
-  content: Mtrace2 TLV Types
+- content: Mtrace2 TLV Types
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/mtrace
+- content: http://www.iana.org/assignments/mtrace
   type: src
 type: standard
 docid:
-  id: IANA mtrace/mtrace2-tlv-types
+- id: IANA mtrace/mtrace2-tlv-types
   type: IANA
 docnumber: mtrace/mtrace2-tlv-types
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2018-10-30'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

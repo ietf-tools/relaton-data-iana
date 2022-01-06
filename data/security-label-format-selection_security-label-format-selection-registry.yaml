@@ -1,14 +1,14 @@
 ---
 id: IANAsecurity-label-format-selection/security-label-format-selection-registry
 title:
-  content: Security Label Format Selection Registry
+- content: Security Label Format Selection Registry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/security-label-format-selection
+- content: http://www.iana.org/assignments/security-label-format-selection
   type: src
 type: standard
 docid:
-  id: IANA security-label-format-selection/security-label-format-selection-registry
+- id: IANA security-label-format-selection/security-label-format-selection-registry
   type: IANA
 docnumber: security-label-format-selection/security-label-format-selection-registry
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-07-16'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

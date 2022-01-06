@@ -1,14 +1,14 @@
 ---
 id: IANAgmpls-sig-parameters/grid
 title:
-  content: Grid Subregistry
+- content: Grid Subregistry
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gmpls-sig-parameters
+- content: http://www.iana.org/assignments/gmpls-sig-parameters
   type: src
 type: standard
 docid:
-  id: IANA gmpls-sig-parameters/grid
+- id: IANA gmpls-sig-parameters/grid
   type: IANA
 docnumber: gmpls-sig-parameters/grid
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2020-07-23'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

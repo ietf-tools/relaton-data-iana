@@ -1,14 +1,14 @@
 ---
 id: IANAgeolocation-policy
 title:
-  content: Geolocation Policy
+- content: Geolocation Policy
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/geolocation-policy
+- content: http://www.iana.org/assignments/geolocation-policy
   type: src
 type: standard
 docid:
-  id: IANA geolocation-policy
+- id: IANA geolocation-policy
   type: IANA
 docnumber: geolocation-policy
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2013-01-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

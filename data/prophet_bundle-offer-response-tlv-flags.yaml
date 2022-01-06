@@ -1,14 +1,14 @@
 ---
 id: IANAprophet/bundle-offer-response-tlv-flags
 title:
-  content: Bundle Offer and Response TLV Flags
+- content: Bundle Offer and Response TLV Flags
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/prophet
+- content: http://www.iana.org/assignments/prophet
   type: src
 type: standard
 docid:
-  id: IANA prophet/bundle-offer-response-tlv-flags
+- id: IANA prophet/bundle-offer-response-tlv-flags
   type: IANA
 docnumber: prophet/bundle-offer-response-tlv-flags
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2012-09-11'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

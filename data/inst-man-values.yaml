@@ -1,14 +1,14 @@
 ---
 id: IANAinst-man-values
 title:
-  content: Instance Manipulation Values
+- content: Instance Manipulation Values
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/inst-man-values
+- content: http://www.iana.org/assignments/inst-man-values
   type: src
 type: standard
 docid:
-  id: IANA inst-man-values
+- id: IANA inst-man-values
   type: IANA
 docnumber: inst-man-values
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2015-06-08'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

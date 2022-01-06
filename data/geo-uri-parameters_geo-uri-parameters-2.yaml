@@ -1,14 +1,14 @@
 ---
 id: IANAgeo-uri-parameters/geo-uri-parameters-2
 title:
-  content: "'geo' URI 'crs' Parameter Values"
+- content: "'geo' URI 'crs' Parameter Values"
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/geo-uri-parameters
+- content: http://www.iana.org/assignments/geo-uri-parameters
   type: src
 type: standard
 docid:
-  id: IANA geo-uri-parameters/geo-uri-parameters-2
+- id: IANA geo-uri-parameters/geo-uri-parameters-2
   type: IANA
 docnumber: geo-uri-parameters/geo-uri-parameters-2
 date:
@@ -17,10 +17,14 @@ date:
 - type: updated
   value: '2010-06-07'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'

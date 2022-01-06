@@ -1,15 +1,15 @@
 ---
 id: IANAgsmpv3-message
 title:
-  content: Global Switch Management Protocol version 3 (GSMPv3) Message Type Name
+- content: Global Switch Management Protocol version 3 (GSMPv3) Message Type Name
     Space
   format: text/plain
 link:
-  content: http://www.iana.org/assignments/gsmpv3-message
+- content: http://www.iana.org/assignments/gsmpv3-message
   type: src
 type: standard
 docid:
-  id: IANA gsmpv3-message
+- id: IANA gsmpv3-message
   type: IANA
 docnumber: gsmpv3-message
 date:
@@ -18,10 +18,14 @@ date:
 - type: updated
   value: '2002-06-10'
 contributor:
-  organization:
-    name: Internet Assigned Numbers Authority
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
     abbreviation: IANA
-  role: publisher
-language: en
-script: Latn
-fetched: '2022-01-05'
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-01-06'
