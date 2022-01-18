@@ -22,7 +22,9 @@ jobs:
       - name: Fetch documents
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: relaton fetch-data iana-registries
+        run: |
+          rm -f data/*
+          relaton fetch-data iana-registries
       - name: Push data
         run: |
           echo `date` > flag.txt
