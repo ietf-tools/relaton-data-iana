@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA jose/web-key-elliptic-curve
   type: IANA
+  primary: true
 docnumber: jose/web-key-elliptic-curve
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

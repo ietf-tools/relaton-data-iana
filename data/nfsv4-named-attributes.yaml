@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA nfsv4-named-attributes
   type: IANA
+  primary: true
 docnumber: nfsv4-named-attributes
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

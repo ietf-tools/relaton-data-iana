@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA ikev2-parameters/ikev2-parameters-1
   type: IANA
+  primary: true
 docnumber: ikev2-parameters/ikev2-parameters-1
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

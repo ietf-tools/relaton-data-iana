@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: IANA isis-tlv-codepoints/isis-tlv-codepoints-19of22
   type: IANA
+  primary: true
 docnumber: isis-tlv-codepoints/isis-tlv-codepoints-19of22
 date:
 - type: created
@@ -28,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA ospfv2-parameters/ospfv2-parameters-3
   type: IANA
+  primary: true
 docnumber: ospfv2-parameters/ospfv2-parameters-3
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA ieee-802-numbers/iana-lldp-tlv-subtypes
   type: IANA
+  primary: true
 docnumber: ieee-802-numbers/iana-lldp-tlv-subtypes
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

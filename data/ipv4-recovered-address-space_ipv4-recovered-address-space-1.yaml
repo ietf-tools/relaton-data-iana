@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA ipv4-recovered-address-space/ipv4-recovered-address-space-1
   type: IANA
+  primary: true
 docnumber: ipv4-recovered-address-space/ipv4-recovered-address-space-1
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

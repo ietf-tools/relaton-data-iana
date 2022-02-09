@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA apex/apex-1
   type: IANA
+  primary: true
 docnumber: apex/apex-1
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: IANA gssapi-service-names
   type: IANA
+  primary: true
 docnumber: gssapi-service-names
 date:
 - type: updated
@@ -26,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

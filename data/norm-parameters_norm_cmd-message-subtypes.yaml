@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA norm-parameters/norm_cmd-message-subtypes
   type: IANA
+  primary: true
 docnumber: norm-parameters/norm_cmd-message-subtypes
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

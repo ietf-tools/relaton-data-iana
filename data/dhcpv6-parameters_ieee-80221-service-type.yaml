@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA dhcpv6-parameters/ieee-80221-service-type
   type: IANA
+  primary: true
 docnumber: dhcpv6-parameters/ieee-80221-service-type
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

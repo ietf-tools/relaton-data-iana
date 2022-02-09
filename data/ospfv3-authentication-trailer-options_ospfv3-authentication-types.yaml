@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA ospfv3-authentication-trailer-options/ospfv3-authentication-types
   type: IANA
+  primary: true
 docnumber: ospfv3-authentication-trailer-options/ospfv3-authentication-types
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

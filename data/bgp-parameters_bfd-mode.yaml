@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA bgp-parameters/bfd-mode
   type: IANA
+  primary: true
 docnumber: bgp-parameters/bfd-mode
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

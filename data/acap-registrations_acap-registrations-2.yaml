@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA acap-registrations/acap-registrations-2
   type: IANA
+  primary: true
 docnumber: acap-registrations/acap-registrations-2
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

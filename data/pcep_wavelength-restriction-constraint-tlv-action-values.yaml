@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA pcep/wavelength-restriction-constraint-tlv-action-values
   type: IANA
+  primary: true
 docnumber: pcep/wavelength-restriction-constraint-tlv-action-values
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

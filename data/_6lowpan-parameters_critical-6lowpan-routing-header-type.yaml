@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA _6lowpan-parameters/critical-6lowpan-routing-header-type
   type: IANA
+  primary: true
 docnumber: _6lowpan-parameters/critical-6lowpan-routing-header-type
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

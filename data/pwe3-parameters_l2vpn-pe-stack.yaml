@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA pwe3-parameters/l2vpn-pe-stack
   type: IANA
+  primary: true
 docnumber: pwe3-parameters/l2vpn-pe-stack
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA language-tag-extensions-registry/language-tag-extensions-registry-1
   type: IANA
+  primary: true
 docnumber: language-tag-extensions-registry/language-tag-extensions-registry-1
 contributor:
 - organization:
@@ -22,4 +23,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

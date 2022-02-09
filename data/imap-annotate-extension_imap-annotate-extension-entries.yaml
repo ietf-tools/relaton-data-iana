@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA imap-annotate-extension/imap-annotate-extension-entries
   type: IANA
+  primary: true
 docnumber: imap-annotate-extension/imap-annotate-extension-entries
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

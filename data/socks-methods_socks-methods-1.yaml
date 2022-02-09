@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA socks-methods/socks-methods-1
   type: IANA
+  primary: true
 docnumber: socks-methods/socks-methods-1
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

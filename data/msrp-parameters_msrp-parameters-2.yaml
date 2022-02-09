@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA msrp-parameters/msrp-parameters-2
   type: IANA
+  primary: true
 docnumber: msrp-parameters/msrp-parameters-2
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

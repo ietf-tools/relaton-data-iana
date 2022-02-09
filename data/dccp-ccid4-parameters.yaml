@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: IANA dccp-ccid4-parameters
   type: IANA
+  primary: true
 docnumber: dccp-ccid4-parameters
 date:
 - type: created
@@ -28,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

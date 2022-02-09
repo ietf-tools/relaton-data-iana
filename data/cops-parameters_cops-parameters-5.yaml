@@ -11,6 +11,7 @@ type: standard
 docid:
 - id: IANA cops-parameters/cops-parameters-5
   type: IANA
+  primary: true
 docnumber: cops-parameters/cops-parameters-5
 date:
 - type: created
@@ -28,4 +29,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

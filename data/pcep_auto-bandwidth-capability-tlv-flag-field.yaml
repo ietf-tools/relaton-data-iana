@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA pcep/auto-bandwidth-capability-tlv-flag-field
   type: IANA
+  primary: true
 docnumber: pcep/auto-bandwidth-capability-tlv-flag-field
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

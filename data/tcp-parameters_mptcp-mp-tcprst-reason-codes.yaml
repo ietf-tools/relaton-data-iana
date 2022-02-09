@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA tcp-parameters/mptcp-mp-tcprst-reason-codes
   type: IANA
+  primary: true
 docnumber: tcp-parameters/mptcp-mp-tcprst-reason-codes
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

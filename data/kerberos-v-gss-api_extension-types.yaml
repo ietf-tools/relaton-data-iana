@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA kerberos-v-gss-api/extension-types
   type: IANA
+  primary: true
 docnumber: kerberos-v-gss-api/extension-types
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA sctp-parameters/sctp-parameters-25
   type: IANA
+  primary: true
 docnumber: sctp-parameters/sctp-parameters-25
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

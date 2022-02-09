@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA smi-numbers/private-enterprise-numbers
   type: IANA
+  primary: true
 docnumber: smi-numbers/private-enterprise-numbers
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

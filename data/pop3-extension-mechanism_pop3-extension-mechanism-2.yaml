@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA pop3-extension-mechanism/pop3-extension-mechanism-2
   type: IANA
+  primary: true
 docnumber: pop3-extension-mechanism/pop3-extension-mechanism-2
 date:
 - type: updated
@@ -25,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

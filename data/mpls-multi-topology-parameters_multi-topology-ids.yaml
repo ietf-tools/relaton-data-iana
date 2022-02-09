@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA mpls-multi-topology-parameters/multi-topology-ids
   type: IANA
+  primary: true
 docnumber: mpls-multi-topology-parameters/multi-topology-ids
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

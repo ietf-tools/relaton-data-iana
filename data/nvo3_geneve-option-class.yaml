@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA nvo3/geneve-option-class
   type: IANA
+  primary: true
 docnumber: nvo3/geneve-option-class
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

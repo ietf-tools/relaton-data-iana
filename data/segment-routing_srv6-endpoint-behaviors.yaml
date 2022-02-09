@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA segment-routing/srv6-endpoint-behaviors
   type: IANA
+  primary: true
 docnumber: segment-routing/srv6-endpoint-behaviors
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

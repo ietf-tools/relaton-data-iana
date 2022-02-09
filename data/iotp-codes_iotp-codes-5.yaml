@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA iotp-codes/iotp-codes-5
   type: IANA
+  primary: true
 docnumber: iotp-codes/iotp-codes-5
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'

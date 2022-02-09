@@ -10,6 +10,7 @@ type: standard
 docid:
 - id: IANA oauth-parameters/token-endpoint-auth-method
   type: IANA
+  primary: true
 docnumber: oauth-parameters/token-endpoint-auth-method
 date:
 - type: created
@@ -27,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-02-08'
+fetched: '2022-02-09'
