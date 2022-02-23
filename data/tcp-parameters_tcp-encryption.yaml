@@ -1,0 +1,29 @@
+---
+id: IANAtcp-parameters/tcp-encryption
+title:
+- content: TCP Encryption Protocol Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA tcp-parameters/tcp-encryption
+  type: IANA
+  primary: true
+docnumber: tcp-parameters/tcp-encryption
+date:
+- type: updated
+  value: '2021-02-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

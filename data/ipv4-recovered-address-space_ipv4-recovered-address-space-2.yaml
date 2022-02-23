@@ -1,0 +1,31 @@
+---
+id: IANAipv4-recovered-address-space/ipv4-recovered-address-space-2
+title:
+- content: |2
+
+    Allocations made from the Current Recovered IPv4 Pool
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv4-recovered-address-space
+  type: src
+type: standard
+docid:
+- id: IANA ipv4-recovered-address-space/ipv4-recovered-address-space-2
+  type: IANA
+  primary: true
+docnumber: ipv4-recovered-address-space/ipv4-recovered-address-space-2
+date:
+- type: updated
+  value: '2019-03-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

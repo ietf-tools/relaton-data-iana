@@ -1,0 +1,31 @@
+---
+id: IANAreload/message-codes
+title:
+- content: RELOAD Message Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/reload
+  type: src
+type: standard
+docid:
+- id: IANA reload/message-codes
+  type: IANA
+  primary: true
+docnumber: reload/message-codes
+date:
+- type: created
+  value: '2013-03-26'
+- type: updated
+  value: '2017-03-24'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

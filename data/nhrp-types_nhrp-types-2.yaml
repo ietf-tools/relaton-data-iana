@@ -1,0 +1,29 @@
+---
+id: IANAnhrp-types/nhrp-types-2
+title:
+- content: NHRP Extension Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nhrp-types
+  type: src
+type: standard
+docid:
+- id: IANA nhrp-types/nhrp-types-2
+  type: IANA
+  primary: true
+docnumber: nhrp-types/nhrp-types-2
+date:
+- type: updated
+  value: '2009-02-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

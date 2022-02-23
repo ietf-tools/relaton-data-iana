@@ -1,0 +1,31 @@
+---
+id: IANAos-specific-parameters
+title:
+- content: Operating System Specific Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/os-specific-parameters
+  type: src
+type: standard
+docid:
+- id: IANA os-specific-parameters
+  type: IANA
+  primary: true
+docnumber: os-specific-parameters
+date:
+- type: created
+  value: '2003-10-31'
+- type: updated
+  value: '2020-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

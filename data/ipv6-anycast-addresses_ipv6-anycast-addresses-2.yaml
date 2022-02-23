@@ -1,0 +1,29 @@
+---
+id: IANAipv6-anycast-addresses/ipv6-anycast-addresses-2
+title:
+- content: IPv6 Anycast Subnet-Router Anycast Address
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-anycast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA ipv6-anycast-addresses/ipv6-anycast-addresses-2
+  type: IANA
+  primary: true
+docnumber: ipv6-anycast-addresses/ipv6-anycast-addresses-2
+date:
+- type: updated
+  value: '2014-05-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

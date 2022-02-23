@@ -1,0 +1,29 @@
+---
+id: IANAkeynote/keynote-3
+title:
+- content: KeyNote Signature Algorithm Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/keynote
+  type: src
+type: standard
+docid:
+- id: IANA keynote/keynote-3
+  type: IANA
+  primary: true
+docnumber: keynote/keynote-3
+date:
+- type: updated
+  value: '2010-01-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

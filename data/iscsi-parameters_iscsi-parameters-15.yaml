@@ -1,0 +1,31 @@
+---
+id: IANAiscsi-parameters/iscsi-parameters-15
+title:
+- content: iSER Opcodes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iscsi-parameters
+  type: src
+type: standard
+docid:
+- id: IANA iscsi-parameters/iscsi-parameters-15
+  type: IANA
+  primary: true
+docnumber: iscsi-parameters/iscsi-parameters-15
+date:
+- type: created
+  value: '2003-04-16'
+- type: updated
+  value: '2014-04-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

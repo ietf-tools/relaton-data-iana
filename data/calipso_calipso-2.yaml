@@ -1,0 +1,31 @@
+---
+id: IANAcalipso/calipso-2
+title:
+- content: CALIPSO Domain of Interpretation (DOI)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/calipso
+  type: src
+type: standard
+docid:
+- id: IANA calipso/calipso-2
+  type: IANA
+  primary: true
+docnumber: calipso/calipso-2
+date:
+- type: created
+  value: '2009-04-24'
+- type: updated
+  value: '2009-07-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

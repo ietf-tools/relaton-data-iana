@@ -1,0 +1,31 @@
+---
+id: IANAlocally-served-dns-zones/transport-independent
+title:
+- content: Transport-Independent Locally-Served DNS Zone Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/locally-served-dns-zones
+  type: src
+type: standard
+docid:
+- id: IANA locally-served-dns-zones/transport-independent
+  type: IANA
+  primary: true
+docnumber: locally-served-dns-zones/transport-independent
+date:
+- type: created
+  value: '2011-06-10'
+- type: updated
+  value: '2018-05-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

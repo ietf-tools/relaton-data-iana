@@ -1,0 +1,31 @@
+---
+id: IANAg-ach-parameters/mpls-rtm-tlv
+title:
+- content: MPLS RTM TLV Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/g-ach-parameters
+  type: src
+type: standard
+docid:
+- id: IANA g-ach-parameters/mpls-rtm-tlv
+  type: IANA
+  primary: true
+docnumber: g-ach-parameters/mpls-rtm-tlv
+date:
+- type: created
+  value: '2014-02-07'
+- type: updated
+  value: '2021-03-24'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

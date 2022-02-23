@@ -1,0 +1,31 @@
+---
+id: IANApvds/additional-information-pvd-keys
+title:
+- content: Additional Information PvD Keys
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pvds
+  type: src
+type: standard
+docid:
+- id: IANA pvds/additional-information-pvd-keys
+  type: IANA
+  primary: true
+docnumber: pvds/additional-information-pvd-keys
+date:
+- type: created
+  value: '2020-02-18'
+- type: updated
+  value: '2020-08-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

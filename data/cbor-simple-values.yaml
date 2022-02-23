@@ -1,0 +1,31 @@
+---
+id: IANAcbor-simple-values
+title:
+- content: Concise Binary Object Representation (CBOR) Simple Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cbor-simple-values
+  type: src
+type: standard
+docid:
+- id: IANA cbor-simple-values
+  type: IANA
+  primary: true
+docnumber: cbor-simple-values
+date:
+- type: created
+  value: '2013-09-19'
+- type: updated
+  value: '2020-12-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

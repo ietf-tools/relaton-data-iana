@@ -1,0 +1,31 @@
+---
+id: IANAppsp-tp
+title:
+- content: Peer-to-Peer Streaming Tracker Protocol (PPSTP)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ppsp-tp
+  type: src
+type: standard
+docid:
+- id: IANA ppsp-tp
+  type: IANA
+  primary: true
+docnumber: ppsp-tp
+date:
+- type: created
+  value: '2016-01-14'
+- type: updated
+  value: '2016-06-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

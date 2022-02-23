@@ -1,0 +1,29 @@
+---
+id: IANApublic-data-network-numbers/public-data-network-numbers-1
+title:
+- content: Public Data Network Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/public-data-network-numbers
+  type: src
+type: standard
+docid:
+- id: IANA public-data-network-numbers/public-data-network-numbers-1
+  type: IANA
+  primary: true
+docnumber: public-data-network-numbers/public-data-network-numbers-1
+date:
+- type: updated
+  value: '2010-06-24'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

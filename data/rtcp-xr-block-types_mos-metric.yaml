@@ -1,0 +1,31 @@
+---
+id: IANArtcp-xr-block-types/mos-metric
+title:
+- content: RTCP XR MOS Metric block - multimedia application Calculation Algorithm
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtcp-xr-block-types
+  type: src
+type: standard
+docid:
+- id: IANA rtcp-xr-block-types/mos-metric
+  type: IANA
+  primary: true
+docnumber: rtcp-xr-block-types/mos-metric
+date:
+- type: created
+  value: '2003-08-29'
+- type: updated
+  value: '2016-11-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

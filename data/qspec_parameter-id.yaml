@@ -1,0 +1,31 @@
+---
+id: IANAqspec/parameter-id
+title:
+- content: Parameter ID
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/qspec
+  type: src
+type: standard
+docid:
+- id: IANA qspec/parameter-id
+  type: IANA
+  primary: true
+docnumber: qspec/parameter-id
+date:
+- type: created
+  value: '2010-02-24'
+- type: updated
+  value: '2010-10-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

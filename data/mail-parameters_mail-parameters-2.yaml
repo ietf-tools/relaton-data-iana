@@ -1,0 +1,29 @@
+---
+id: IANAmail-parameters/mail-parameters-2
+title:
+- content: SMTP Service Extensions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mail-parameters
+  type: src
+type: standard
+docid:
+- id: IANA mail-parameters/mail-parameters-2
+  type: IANA
+  primary: true
+docnumber: mail-parameters/mail-parameters-2
+date:
+- type: updated
+  value: '2020-02-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

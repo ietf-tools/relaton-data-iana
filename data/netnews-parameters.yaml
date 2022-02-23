@@ -1,0 +1,31 @@
+---
+id: IANAnetnews-parameters
+title:
+- content: Netnews Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/netnews-parameters
+  type: src
+type: standard
+docid:
+- id: IANA netnews-parameters
+  type: IANA
+  primary: true
+docnumber: netnews-parameters
+date:
+- type: created
+  value: '2017-12-12'
+- type: updated
+  value: '2018-02-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

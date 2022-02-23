@@ -1,0 +1,31 @@
+---
+id: IANAdcep-parameters/channel-type
+title:
+- content: Channel Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dcep-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dcep-parameters/channel-type
+  type: IANA
+  primary: true
+docnumber: dcep-parameters/channel-type
+date:
+- type: created
+  value: '2015-01-19'
+- type: updated
+  value: '2021-01-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

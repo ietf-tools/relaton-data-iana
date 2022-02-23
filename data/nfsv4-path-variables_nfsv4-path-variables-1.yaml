@@ -1,0 +1,31 @@
+---
+id: IANAnfsv4-path-variables/nfsv4-path-variables-1
+title:
+- content: NFSv4 Path Variables
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nfsv4-path-variables
+  type: src
+type: standard
+docid:
+- id: IANA nfsv4-path-variables/nfsv4-path-variables-1
+  type: IANA
+  primary: true
+docnumber: nfsv4-path-variables/nfsv4-path-variables-1
+date:
+- type: created
+  value: '2009-01-16'
+- type: updated
+  value: '2020-08-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

@@ -1,0 +1,31 @@
+---
+id: IANAsip-parameters/sip-parameters-4
+title:
+- content: Option Tags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sip-parameters
+  type: src
+type: standard
+docid:
+- id: IANA sip-parameters/sip-parameters-4
+  type: IANA
+  primary: true
+docnumber: sip-parameters/sip-parameters-4
+date:
+- type: created
+  value: 2002-01
+- type: updated
+  value: '2021-01-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

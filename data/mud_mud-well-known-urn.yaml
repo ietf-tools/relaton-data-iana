@@ -1,0 +1,31 @@
+---
+id: IANAmud/mud-well-known-urn
+title:
+- content: MUD Well-Known Uniform Resource Name (URN)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mud
+  type: src
+type: standard
+docid:
+- id: IANA mud/mud-well-known-urn
+  type: IANA
+  primary: true
+docnumber: mud/mud-well-known-urn
+date:
+- type: created
+  value: '2018-06-27'
+- type: updated
+  value: '2019-05-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

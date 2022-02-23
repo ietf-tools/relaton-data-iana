@@ -1,0 +1,31 @@
+---
+id: IANAperformance-metrics/performance-metrics-method
+title:
+- content: Performance Metric Name Elements -  Method
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/performance-metrics
+  type: src
+type: standard
+docid:
+- id: IANA performance-metrics/performance-metrics-method
+  type: IANA
+  primary: true
+docnumber: performance-metrics/performance-metrics-method
+date:
+- type: created
+  value: '2020-03-19'
+- type: updated
+  value: '2020-11-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

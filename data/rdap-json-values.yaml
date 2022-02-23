@@ -1,0 +1,31 @@
+---
+id: IANArdap-json-values
+title:
+- content: RDAP JSON Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rdap-json-values
+  type: src
+type: standard
+docid:
+- id: IANA rdap-json-values
+  type: IANA
+  primary: true
+docnumber: rdap-json-values
+date:
+- type: created
+  value: '2015-01-12'
+- type: updated
+  value: '2021-06-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

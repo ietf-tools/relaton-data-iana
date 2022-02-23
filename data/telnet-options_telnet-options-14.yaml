@@ -1,0 +1,29 @@
+---
+id: IANAtelnet-options/telnet-options-14
+title:
+- content: DES_OFB64 Telnet Encryption Type (Type 2)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/telnet-options
+  type: src
+type: standard
+docid:
+- id: IANA telnet-options/telnet-options-14
+  type: IANA
+  primary: true
+docnumber: telnet-options/telnet-options-14
+date:
+- type: updated
+  value: '2011-12-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

@@ -1,0 +1,30 @@
+---
+id: IANAtelnet-options/telnet-options-17
+title:
+- content: CAST5_40_CFB64 (Type 8) and  CAST128_CFB64 (Type 10) Telnet Encryption
+    Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/telnet-options
+  type: src
+type: standard
+docid:
+- id: IANA telnet-options/telnet-options-17
+  type: IANA
+  primary: true
+docnumber: telnet-options/telnet-options-17
+date:
+- type: updated
+  value: '2011-12-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

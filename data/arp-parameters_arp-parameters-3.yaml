@@ -1,0 +1,29 @@
+---
+id: IANAarp-parameters/arp-parameters-3
+title:
+- content: Protocol Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/arp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA arp-parameters/arp-parameters-3
+  type: IANA
+  primary: true
+docnumber: arp-parameters/arp-parameters-3
+date:
+- type: updated
+  value: '2016-07-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

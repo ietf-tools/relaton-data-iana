@@ -1,0 +1,31 @@
+---
+id: IANAremote-direct-data-placement
+title:
+- content: Remote Direct Data Placement
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/remote-direct-data-placement
+  type: src
+type: standard
+docid:
+- id: IANA remote-direct-data-placement
+  type: IANA
+  primary: true
+docnumber: remote-direct-data-placement
+date:
+- type: created
+  value: '2020-03-02'
+- type: updated
+  value: '2020-08-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

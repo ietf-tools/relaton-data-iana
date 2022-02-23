@@ -1,0 +1,29 @@
+---
+id: IANAsig-alg-numbers/sig-alg-numbers-1
+title:
+- content: SIG (0) Algorithm Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sig-alg-numbers
+  type: src
+type: standard
+docid:
+- id: IANA sig-alg-numbers/sig-alg-numbers-1
+  type: IANA
+  primary: true
+docnumber: sig-alg-numbers/sig-alg-numbers-1
+date:
+- type: updated
+  value: '2003-11-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

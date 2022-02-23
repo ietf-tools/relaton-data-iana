@@ -1,0 +1,31 @@
+---
+id: IANAigmp-type-numbers/igmp-type-numbers-2
+title:
+- content: '"Code" Fields'
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/igmp-type-numbers
+  type: src
+type: standard
+docid:
+- id: IANA igmp-type-numbers/igmp-type-numbers-2
+  type: IANA
+  primary: true
+docnumber: igmp-type-numbers/igmp-type-numbers-2
+date:
+- type: created
+  value: '2002-02-06'
+- type: updated
+  value: '2019-11-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

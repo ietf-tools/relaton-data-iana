@@ -1,0 +1,31 @@
+---
+id: IANAdccp-ccid3-parameters/dccp-ccid3-parameters-2
+title:
+- content: CCID3-specific Option Types (128-255)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dccp-ccid3-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dccp-ccid3-parameters/dccp-ccid3-parameters-2
+  type: IANA
+  primary: true
+docnumber: dccp-ccid3-parameters/dccp-ccid3-parameters-2
+date:
+- type: created
+  value: '2005-08-26'
+- type: updated
+  value: '2011-08-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

@@ -1,0 +1,29 @@
+---
+id: IANAradius-types/radius-types-22
+title:
+- content: Privacy Flags (Attribute 129, Basic-Location-Policy-Rules)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+- id: IANA radius-types/radius-types-22
+  type: IANA
+  primary: true
+docnumber: radius-types/radius-types-22
+date:
+- type: updated
+  value: '2021-07-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

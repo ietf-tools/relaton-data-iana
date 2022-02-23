@@ -1,0 +1,31 @@
+---
+id: IANAnslp-parameters/error-classes
+title:
+- content: NSLP Error Classes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nslp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA nslp-parameters/error-classes
+  type: IANA
+  primary: true
+docnumber: nslp-parameters/error-classes
+date:
+- type: created
+  value: '2010-02-03'
+- type: updated
+  value: '2011-03-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

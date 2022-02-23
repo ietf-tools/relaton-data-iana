@@ -1,0 +1,31 @@
+---
+id: IANAtrill-parameters/rbridge-channel-header-flags
+title:
+- content: RBridge Channel Header Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/trill-parameters
+  type: src
+type: standard
+docid:
+- id: IANA trill-parameters/rbridge-channel-header-flags
+  type: IANA
+  primary: true
+docnumber: trill-parameters/rbridge-channel-header-flags
+date:
+- type: created
+  value: '2010-03-26'
+- type: updated
+  value: '2019-04-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

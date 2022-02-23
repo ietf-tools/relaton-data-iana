@@ -1,0 +1,31 @@
+---
+id: IANAcaptive-portals/api-keys
+title:
+- content: Captive Portal API Keys
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/captive-portals
+  type: src
+type: standard
+docid:
+- id: IANA captive-portals/api-keys
+  type: IANA
+  primary: true
+docnumber: captive-portals/api-keys
+date:
+- type: created
+  value: '2020-07-07'
+- type: updated
+  value: '2020-09-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

@@ -1,0 +1,29 @@
+---
+id: IANAmedia-feature-tags/media-feature-tags-3
+title:
+- content: iso.org.dod.internet.features.uri-tree (1.3.6.1.8.3)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-feature-tags
+  type: src
+type: standard
+docid:
+- id: IANA media-feature-tags/media-feature-tags-3
+  type: IANA
+  primary: true
+docnumber: media-feature-tags/media-feature-tags-3
+date:
+- type: updated
+  value: '2021-01-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

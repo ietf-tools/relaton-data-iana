@@ -1,0 +1,31 @@
+---
+id: IANAcfm-oam
+title:
+- content: Connectivity Fault Management (CFM) OAM IETF Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cfm-oam
+  type: src
+type: standard
+docid:
+- id: IANA cfm-oam
+  type: IANA
+  primary: true
+docnumber: cfm-oam
+date:
+- type: created
+  value: '2014-06-02'
+- type: updated
+  value: '2015-03-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

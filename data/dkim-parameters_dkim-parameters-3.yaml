@@ -1,0 +1,31 @@
+---
+id: IANAdkim-parameters/dkim-parameters-3
+title:
+- content: DKIM-Signature Canonicalization Header
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dkim-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dkim-parameters/dkim-parameters-3
+  type: IANA
+  primary: true
+docnumber: dkim-parameters/dkim-parameters-3
+date:
+- type: created
+  value: '2007-03-08'
+- type: updated
+  value: '2018-07-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'

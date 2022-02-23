@@ -1,0 +1,31 @@
+---
+id: IANAjose/web-key-parameters
+title:
+- content: JSON Web Key Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/jose
+  type: src
+type: standard
+docid:
+- id: IANA jose/web-key-parameters
+  type: IANA
+  primary: true
+docnumber: jose/web-key-parameters
+date:
+- type: created
+  value: '2015-01-23'
+- type: updated
+  value: '2020-11-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-02-23'
