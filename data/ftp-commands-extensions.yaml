@@ -11,9 +11,6 @@ docid:
 - id: IANA ftp-commands-extensions
   type: IANA
   primary: true
-- id: FTP-COMMANDS-EXTENSIONS
-  type: IANA
-  scope: anchor
 docnumber: ftp-commands-extensions
 date:
 - type: created

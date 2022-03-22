@@ -11,9 +11,6 @@ docid:
 - id: IANA dssc/cryptographic
   type: IANA
   primary: true
-- id: DSSC/CRYPTOGRAPHIC
-  type: IANA
-  scope: anchor
 docnumber: dssc/cryptographic
 date:
 - type: created

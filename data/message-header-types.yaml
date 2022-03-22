@@ -11,9 +11,6 @@ docid:
 - id: IANA message-header-types
   type: IANA
   primary: true
-- id: MESSAGE-HEADER-TYPES
-  type: IANA
-  scope: anchor
 docnumber: message-header-types
 date:
 - type: created

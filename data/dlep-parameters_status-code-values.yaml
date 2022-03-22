@@ -11,9 +11,6 @@ docid:
 - id: IANA dlep-parameters/status-code-values
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/STATUS-CODE-VALUES
-  type: IANA
-  scope: anchor
 docnumber: dlep-parameters/status-code-values
 date:
 - type: created

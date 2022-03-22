@@ -11,9 +11,6 @@ docid:
 - id: IANA hash-function-text-names
   type: IANA
   primary: true
-- id: HASH-FUNCTION-TEXT-NAMES
-  type: IANA
-  scope: anchor
 docnumber: hash-function-text-names
 date:
 - type: created

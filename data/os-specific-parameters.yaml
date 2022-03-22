@@ -11,9 +11,6 @@ docid:
 - id: IANA os-specific-parameters
   type: IANA
   primary: true
-- id: OS-SPECIFIC-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: os-specific-parameters
 date:
 - type: created

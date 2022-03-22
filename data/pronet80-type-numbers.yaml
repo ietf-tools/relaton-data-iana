@@ -11,9 +11,6 @@ docid:
 - id: IANA pronet80-type-numbers
   type: IANA
   primary: true
-- id: PRONET80-TYPE-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: pronet80-type-numbers
 date:
 - type: updated

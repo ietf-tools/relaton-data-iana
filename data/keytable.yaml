@@ -11,9 +11,6 @@ docid:
 - id: IANA keytable
   type: IANA
   primary: true
-- id: KEYTABLE
-  type: IANA
-  scope: anchor
 docnumber: keytable
 date:
 - type: created

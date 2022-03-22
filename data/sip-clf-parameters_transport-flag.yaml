@@ -11,9 +11,6 @@ docid:
 - id: IANA sip-clf-parameters/transport-flag
   type: IANA
   primary: true
-- id: SIP-CLF-PARAMETERS/TRANSPORT-FLAG
-  type: IANA
-  scope: anchor
 docnumber: sip-clf-parameters/transport-flag
 date:
 - type: created

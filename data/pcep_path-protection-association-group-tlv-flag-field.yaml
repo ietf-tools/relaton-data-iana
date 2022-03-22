@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/path-protection-association-group-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/PATH-PROTECTION-ASSOCIATION-GROUP-TLV-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/path-protection-association-group-tlv-flag-field
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA cose/key-type-parameters
   type: IANA
   primary: true
-- id: COSE/KEY-TYPE-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: cose/key-type-parameters
 date:
 - type: created

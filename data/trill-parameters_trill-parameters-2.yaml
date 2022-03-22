@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/trill-parameters-2
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/TRILL-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/trill-parameters-2
 date:
 - type: created

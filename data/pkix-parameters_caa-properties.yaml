@@ -11,9 +11,6 @@ docid:
 - id: IANA pkix-parameters/caa-properties
   type: IANA
   primary: true
-- id: PKIX-PARAMETERS/CAA-PROPERTIES
-  type: IANA
-  scope: anchor
 docnumber: pkix-parameters/caa-properties
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA epp-extension-role-values
   type: IANA
   primary: true
-- id: EPP-EXTENSION-ROLE-VALUES
-  type: IANA
-  scope: anchor
 docnumber: epp-extension-role-values
 date:
 - type: created

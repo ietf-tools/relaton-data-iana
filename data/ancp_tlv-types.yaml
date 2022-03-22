@@ -11,9 +11,6 @@ docid:
 - id: IANA ancp/tlv-types
   type: IANA
   primary: true
-- id: ANCP/TLV-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ancp/tlv-types
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA language-tag-extensions-registry/language-tag-extensions-registry-1
   type: IANA
   primary: true
-- id: LANGUAGE-TAG-EXTENSIONS-REGISTRY/LANGUAGE-TAG-EXTENSIONS-REGISTRY-1
-  type: IANA
-  scope: anchor
 docnumber: language-tag-extensions-registry/language-tag-extensions-registry-1
 contributor:
 - organization:

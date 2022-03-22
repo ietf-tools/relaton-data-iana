@@ -11,9 +11,6 @@ docid:
 - id: IANA rpc-program-numbers
   type: IANA
   primary: true
-- id: RPC-PROGRAM-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: rpc-program-numbers
 date:
 - type: created

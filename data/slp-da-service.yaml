@@ -11,9 +11,6 @@ docid:
 - id: IANA slp-da-service
   type: IANA
   primary: true
-- id: SLP-DA-SERVICE
-  type: IANA
-  scope: anchor
 docnumber: slp-da-service
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA svrloc-error-numbers/svrloc-error-numbers-1
   type: IANA
   primary: true
-- id: SVRLOC-ERROR-NUMBERS/SVRLOC-ERROR-NUMBERS-1
-  type: IANA
-  scope: anchor
 docnumber: svrloc-error-numbers/svrloc-error-numbers-1
 date:
 - type: created

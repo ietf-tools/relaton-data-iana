@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/exception-id
   type: IANA
   primary: true
-- id: FORCES/EXCEPTION-ID
-  type: IANA
-  scope: anchor
 docnumber: forces/exception-id
 date:
 - type: created

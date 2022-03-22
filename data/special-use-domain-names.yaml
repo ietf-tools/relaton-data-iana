@@ -11,9 +11,6 @@ docid:
 - id: IANA special-use-domain-names
   type: IANA
   primary: true
-- id: SPECIAL-USE-DOMAIN-NAMES
-  type: IANA
-  scope: anchor
 docnumber: special-use-domain-names
 date:
 - type: created

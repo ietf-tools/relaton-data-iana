@@ -11,9 +11,6 @@ docid:
 - id: IANA iana-dots-signal-channel
   type: IANA
   primary: true
-- id: IANA-DOTS-SIGNAL-CHANNEL
-  type: IANA
-  scope: anchor
 docnumber: iana-dots-signal-channel
 date:
 - type: created

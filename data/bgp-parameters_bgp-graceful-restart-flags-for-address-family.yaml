@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-parameters/bgp-graceful-restart-flags-for-address-family
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BGP-GRACEFUL-RESTART-FLAGS-FOR-ADDRESS-FAMILY
-  type: IANA
-  scope: anchor
 docnumber: bgp-parameters/bgp-graceful-restart-flags-for-address-family
 date:
 - type: updated

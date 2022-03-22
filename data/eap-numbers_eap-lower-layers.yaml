@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-numbers/eap-lower-layers
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-LOWER-LAYERS
-  type: IANA
-  scope: anchor
 docnumber: eap-numbers/eap-lower-layers
 date:
 - type: created

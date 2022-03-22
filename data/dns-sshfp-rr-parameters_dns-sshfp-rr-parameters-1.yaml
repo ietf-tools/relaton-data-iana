@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-1
   type: IANA
   primary: true
-- id: DNS-SSHFP-RR-PARAMETERS/DNS-SSHFP-RR-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: dns-sshfp-rr-parameters/dns-sshfp-rr-parameters-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA jose/web-key-set-parameters
   type: IANA
   primary: true
-- id: JOSE/WEB-KEY-SET-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: jose/web-key-set-parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA tls-parameters/authorization-data
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/AUTHORIZATION-DATA
-  type: IANA
-  scope: anchor
 docnumber: tls-parameters/authorization-data
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA authentication-cryptographic-protocol-id
   type: IANA
   primary: true
-- id: AUTHENTICATION-CRYPTOGRAPHIC-PROTOCOL-ID
-  type: IANA
-  scope: anchor
 docnumber: authentication-cryptographic-protocol-id
 date:
 - type: created

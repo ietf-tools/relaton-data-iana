@@ -11,9 +11,6 @@ docid:
 - id: IANA lang-tag-apps
   type: IANA
   primary: true
-- id: LANG-TAG-APPS
-  type: IANA
-  scope: anchor
 docnumber: lang-tag-apps
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA printer-language-numbers
   type: IANA
   primary: true
-- id: PRINTER-LANGUAGE-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: printer-language-numbers
 date:
 - type: updated

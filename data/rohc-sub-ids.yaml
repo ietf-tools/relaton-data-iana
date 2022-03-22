@@ -11,9 +11,6 @@ docid:
 - id: IANA rohc-sub-ids
   type: IANA
   primary: true
-- id: ROHC-SUB-IDS
-  type: IANA
-  scope: anchor
 docnumber: rohc-sub-ids
 date:
 - type: created

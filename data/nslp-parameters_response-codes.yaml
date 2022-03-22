@@ -11,9 +11,6 @@ docid:
 - id: IANA nslp-parameters/response-codes
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/RESPONSE-CODES
-  type: IANA
-  scope: anchor
 docnumber: nslp-parameters/response-codes
 date:
 - type: created

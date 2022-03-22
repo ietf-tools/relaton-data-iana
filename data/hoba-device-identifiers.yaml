@@ -11,9 +11,6 @@ docid:
 - id: IANA hoba-device-identifiers
   type: IANA
   primary: true
-- id: HOBA-DEVICE-IDENTIFIERS
-  type: IANA
-  scope: anchor
 docnumber: hoba-device-identifiers
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA igp-parameters/igp-msd-types
   type: IANA
   primary: true
-- id: IGP-PARAMETERS/IGP-MSD-TYPES
-  type: IANA
-  scope: anchor
 docnumber: igp-parameters/igp-msd-types
 date:
 - type: created

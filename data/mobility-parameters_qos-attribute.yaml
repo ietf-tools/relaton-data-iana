@@ -11,9 +11,6 @@ docid:
 - id: IANA mobility-parameters/qos-attribute
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/QOS-ATTRIBUTE
-  type: IANA
-  scope: anchor
 docnumber: mobility-parameters/qos-attribute
 date:
 - type: created

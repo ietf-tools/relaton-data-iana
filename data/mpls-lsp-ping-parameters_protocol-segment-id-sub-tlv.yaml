@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/protocol-segment-id-sub-tlv
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/PROTOCOL-SEGMENT-ID-SUB-TLV
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/protocol-segment-id-sub-tlv
 date:
 - type: created

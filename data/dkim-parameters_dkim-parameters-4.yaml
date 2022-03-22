@@ -11,9 +11,6 @@ docid:
 - id: IANA dkim-parameters/dkim-parameters-4
   type: IANA
   primary: true
-- id: DKIM-PARAMETERS/DKIM-PARAMETERS-4
-  type: IANA
-  scope: anchor
 docnumber: dkim-parameters/dkim-parameters-4
 date:
 - type: created

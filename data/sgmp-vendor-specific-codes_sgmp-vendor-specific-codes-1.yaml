@@ -11,9 +11,6 @@ docid:
 - id: IANA sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1
   type: IANA
   primary: true
-- id: SGMP-VENDOR-SPECIFIC-CODES/SGMP-VENDOR-SPECIFIC-CODES-1
-  type: IANA
-  scope: anchor
 docnumber: sgmp-vendor-specific-codes/sgmp-vendor-specific-codes-1
 date:
 - type: updated

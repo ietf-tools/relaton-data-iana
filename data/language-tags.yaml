@@ -11,9 +11,6 @@ docid:
 - id: IANA language-tags
   type: IANA
   primary: true
-- id: LANGUAGE-TAGS
-  type: IANA
-  scope: anchor
 docnumber: language-tags
 date:
 - type: updated

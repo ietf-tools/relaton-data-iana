@@ -11,9 +11,6 @@ docid:
 - id: IANA tls-parameters/tls-parameters-4
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/TLS-PARAMETERS-4
-  type: IANA
-  scope: anchor
 docnumber: tls-parameters/tls-parameters-4
 date:
 - type: created

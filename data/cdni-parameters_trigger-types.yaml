@@ -11,9 +11,6 @@ docid:
 - id: IANA cdni-parameters/trigger-types
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/TRIGGER-TYPES
-  type: IANA
-  scope: anchor
 docnumber: cdni-parameters/trigger-types
 date:
 - type: created

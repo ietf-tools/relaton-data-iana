@@ -11,9 +11,6 @@ docid:
 - id: IANA gdoi-payloads/iec62351-9-authentication-values
   type: IANA
   primary: true
-- id: GDOI-PAYLOADS/IEC62351-9-AUTHENTICATION-VALUES
-  type: IANA
-  scope: anchor
 docnumber: gdoi-payloads/iec62351-9-authentication-values
 date:
 - type: created

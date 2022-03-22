@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/inter-layer-object-path-property-bits
   type: IANA
   primary: true
-- id: PCEP/INTER-LAYER-OBJECT-PATH-PROPERTY-BITS
-  type: IANA
-  scope: anchor
 docnumber: pcep/inter-layer-object-path-property-bits
 date:
 - type: created

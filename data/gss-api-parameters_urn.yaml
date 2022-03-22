@@ -11,9 +11,6 @@ docid:
 - id: IANA gss-api-parameters/urn
   type: IANA
   primary: true
-- id: GSS-API-PARAMETERS/URN
-  type: IANA
-  scope: anchor
 docnumber: gss-api-parameters/urn
 date:
 - type: created

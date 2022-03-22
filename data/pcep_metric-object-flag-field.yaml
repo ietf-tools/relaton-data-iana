@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/metric-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/METRIC-OBJECT-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/metric-object-flag-field
 date:
 - type: created

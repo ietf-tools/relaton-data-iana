@@ -11,9 +11,6 @@ docid:
 - id: IANA olsr-types/olsr-types-2
   type: IANA
   primary: true
-- id: OLSR-TYPES/OLSR-TYPES-2
-  type: IANA
-  scope: anchor
 docnumber: olsr-types/olsr-types-2
 date:
 - type: created

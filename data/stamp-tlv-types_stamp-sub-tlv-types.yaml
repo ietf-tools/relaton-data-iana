@@ -11,9 +11,6 @@ docid:
 - id: IANA stamp-tlv-types/stamp-sub-tlv-types
   type: IANA
   primary: true
-- id: STAMP-TLV-TYPES/STAMP-SUB-TLV-TYPES
-  type: IANA
-  scope: anchor
 docnumber: stamp-tlv-types/stamp-sub-tlv-types
 date:
 - type: created

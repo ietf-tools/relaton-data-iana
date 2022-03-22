@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/rbridge-channel-protocol
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/RBRIDGE-CHANNEL-PROTOCOL
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/rbridge-channel-protocol
 date:
 - type: created

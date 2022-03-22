@@ -11,9 +11,6 @@ docid:
 - id: IANA ecml-parameters
   type: IANA
   primary: true
-- id: ECML-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: ecml-parameters
 date:
 - type: created

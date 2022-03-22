@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/global-flags
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/GLOBAL-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/global-flags
 date:
 - type: created

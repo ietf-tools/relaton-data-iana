@@ -11,9 +11,6 @@ docid:
 - id: IANA ccmp-parameters/response-codes
   type: IANA
   primary: true
-- id: CCMP-PARAMETERS/RESPONSE-CODES
-  type: IANA
-  scope: anchor
 docnumber: ccmp-parameters/response-codes
 date:
 - type: created

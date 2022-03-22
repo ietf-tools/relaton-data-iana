@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-eke/identity-type
   type: IANA
   primary: true
-- id: EAP-EKE/IDENTITY-TYPE
-  type: IANA
-  scope: anchor
 docnumber: eap-eke/identity-type
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA jwt
   type: IANA
   primary: true
-- id: JWT
-  type: IANA
-  scope: anchor
 docnumber: jwt
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA ipp-registrations
   type: IANA
   primary: true
-- id: IPP-REGISTRATIONS
-  type: IANA
-  scope: anchor
 docnumber: ipp-registrations
 date:
 - type: created

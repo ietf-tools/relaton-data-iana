@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/extended-header-flags
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/EXTENDED-HEADER-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/extended-header-flags
 date:
 - type: created

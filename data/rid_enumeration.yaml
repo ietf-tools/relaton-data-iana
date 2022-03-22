@@ -11,9 +11,6 @@ docid:
 - id: IANA rid/enumeration
   type: IANA
   primary: true
-- id: RID/ENUMERATION
-  type: IANA
-  scope: anchor
 docnumber: rid/enumeration
 date:
 - type: created

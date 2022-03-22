@@ -11,9 +11,6 @@ docid:
 - id: IANA cxtp-parameters
   type: IANA
   primary: true
-- id: CXTP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: cxtp-parameters
 date:
 - type: created

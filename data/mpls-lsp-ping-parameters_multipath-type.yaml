@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/multipath-type
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/MULTIPATH-TYPE
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/multipath-type
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA imap-list-extended
   type: IANA
   primary: true
-- id: IMAP-LIST-EXTENDED
-  type: IANA
-  scope: anchor
 docnumber: imap-list-extended
 date:
 - type: created

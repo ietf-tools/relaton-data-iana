@@ -11,9 +11,6 @@ docid:
 - id: IANA mdn/disp-mod
   type: IANA
   primary: true
-- id: MDN/DISP-MOD
-  type: IANA
-  scope: anchor
 docnumber: mdn/disp-mod
 date:
 - type: updated

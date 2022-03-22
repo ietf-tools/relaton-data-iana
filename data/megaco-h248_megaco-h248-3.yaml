@@ -11,9 +11,6 @@ docid:
 - id: IANA megaco-h248/megaco-h248-3
   type: IANA
   primary: true
-- id: MEGACO-H248/MEGACO-H248-3
-  type: IANA
-  scope: anchor
 docnumber: megaco-h248/megaco-h248-3
 date:
 - type: created

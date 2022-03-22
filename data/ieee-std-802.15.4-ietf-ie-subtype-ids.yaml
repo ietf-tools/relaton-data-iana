@@ -11,9 +11,6 @@ docid:
 - id: IANA ieee-std-802.15.4-ietf-ie-subtype-ids
   type: IANA
   primary: true
-- id: IEEE-STD-802.15.4-IETF-IE-SUBTYPE-IDS
-  type: IANA
-  scope: anchor
 docnumber: ieee-std-802.15.4-ietf-ie-subtype-ids
 date:
 - type: created

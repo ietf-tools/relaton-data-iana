@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-mt-routing
   type: IANA
   primary: true
-- id: OSPF-MT-ROUTING
-  type: IANA
-  scope: anchor
 docnumber: ospf-mt-routing
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA acme
   type: IANA
   primary: true
-- id: ACME
-  type: IANA
-  scope: anchor
 docnumber: acme
 date:
 - type: created

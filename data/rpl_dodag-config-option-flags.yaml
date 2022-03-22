@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/dodag-config-option-flags
   type: IANA
   primary: true
-- id: RPL/DODAG-CONFIG-OPTION-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: rpl/dodag-config-option-flags
 date:
 - type: created

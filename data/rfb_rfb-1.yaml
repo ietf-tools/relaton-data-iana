@@ -11,9 +11,6 @@ docid:
 - id: IANA rfb/rfb-1
   type: IANA
   primary: true
-- id: RFB/RFB-1
-  type: IANA
-  scope: anchor
 docnumber: rfb/rfb-1
 date:
 - type: created

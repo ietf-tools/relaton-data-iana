@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/cache-control-directive
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/CACHE-CONTROL-DIRECTIVE
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/cache-control-directive
 date:
 - type: created

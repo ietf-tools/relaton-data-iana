@@ -11,9 +11,6 @@ docid:
 - id: IANA clue
   type: IANA
   primary: true
-- id: CLUE
-  type: IANA
-  scope: anchor
 docnumber: clue
 date:
 - type: created

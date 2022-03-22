@@ -11,9 +11,6 @@ docid:
 - id: IANA reload/error-codes
   type: IANA
   primary: true
-- id: RELOAD/ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: reload/error-codes
 date:
 - type: created

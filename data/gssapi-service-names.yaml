@@ -12,9 +12,6 @@ docid:
 - id: IANA gssapi-service-names
   type: IANA
   primary: true
-- id: GSSAPI-SERVICE-NAMES
-  type: IANA
-  scope: anchor
 docnumber: gssapi-service-names
 date:
 - type: updated

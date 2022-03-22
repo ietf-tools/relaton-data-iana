@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-pax/eap-pax-4
   type: IANA
   primary: true
-- id: EAP-PAX/EAP-PAX-4
-  type: IANA
-  scope: anchor
 docnumber: eap-pax/eap-pax-4
 date:
 - type: created

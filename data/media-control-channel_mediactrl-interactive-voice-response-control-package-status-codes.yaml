@@ -11,9 +11,6 @@ docid:
 - id: IANA media-control-channel/mediactrl-interactive-voice-response-control-package-status-codes
   type: IANA
   primary: true
-- id: MEDIA-CONTROL-CHANNEL/MEDIACTRL-INTERACTIVE-VOICE-RESPONSE-CONTROL-PACKAGE-STATUS-CODES
-  type: IANA
-  scope: anchor
 docnumber: media-control-channel/mediactrl-interactive-voice-response-control-package-status-codes
 date:
 - type: created

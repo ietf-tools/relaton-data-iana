@@ -11,9 +11,6 @@ docid:
 - id: IANA dlep-parameters/message-type-values
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/MESSAGE-TYPE-VALUES
-  type: IANA
-  scope: anchor
 docnumber: dlep-parameters/message-type-values
 date:
 - type: created

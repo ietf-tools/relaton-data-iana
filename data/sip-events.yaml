@@ -11,9 +11,6 @@ docid:
 - id: IANA sip-events
   type: IANA
   primary: true
-- id: SIP-EVENTS
-  type: IANA
-  scope: anchor
 docnumber: sip-events
 date:
 - type: created

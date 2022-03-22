@@ -12,9 +12,6 @@ docid:
 - id: IANA osi-nsapa-numbers
   type: IANA
   primary: true
-- id: OSI-NSAPA-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: osi-nsapa-numbers
 date:
 - type: updated

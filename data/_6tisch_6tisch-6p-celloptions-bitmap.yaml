@@ -11,9 +11,6 @@ docid:
 - id: IANA _6tisch/_6tisch-6p-celloptions-bitmap
   type: IANA
   primary: true
-- id: _6TISCH/_6TISCH-6P-CELLOPTIONS-BITMAP
-  type: IANA
-  scope: anchor
 docnumber: _6tisch/_6tisch-6p-celloptions-bitmap
 date:
 - type: created

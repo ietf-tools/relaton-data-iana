@@ -11,9 +11,6 @@ docid:
 - id: IANA pim-parameters/port-option-types
   type: IANA
   primary: true
-- id: PIM-PARAMETERS/PORT-OPTION-TYPES
-  type: IANA
-  scope: anchor
 docnumber: pim-parameters/port-option-types
 date:
 - type: updated

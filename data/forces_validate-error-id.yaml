@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/validate-error-id
   type: IANA
   primary: true
-- id: FORCES/VALIDATE-ERROR-ID
-  type: IANA
-  scope: anchor
 docnumber: forces/validate-error-id
 date:
 - type: created

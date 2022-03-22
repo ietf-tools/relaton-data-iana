@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/loss-delay-control-code-query
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/LOSS-DELAY-CONTROL-CODE-QUERY
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/loss-delay-control-code-query
 date:
 - type: created

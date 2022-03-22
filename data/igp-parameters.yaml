@@ -11,9 +11,6 @@ docid:
 - id: IANA igp-parameters
   type: IANA
   primary: true
-- id: IGP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: igp-parameters
 date:
 - type: created

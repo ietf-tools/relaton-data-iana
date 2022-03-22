@@ -11,9 +11,6 @@ docid:
 - id: IANA bier/bier-algorithm
   type: IANA
   primary: true
-- id: BIER/BIER-ALGORITHM
-  type: IANA
-  scope: anchor
 docnumber: bier/bier-algorithm
 date:
 - type: created

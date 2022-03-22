@@ -11,9 +11,6 @@ docid:
 - id: IANA passport
   type: IANA
   primary: true
-- id: PASSPORT
-  type: IANA
-  scope: anchor
 docnumber: passport
 date:
 - type: created

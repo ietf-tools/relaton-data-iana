@@ -11,9 +11,6 @@ docid:
 - id: IANA pres-srv-labels/pres-srv-labels-1
   type: IANA
   primary: true
-- id: PRES-SRV-LABELS/PRES-SRV-LABELS-1
-  type: IANA
-  scope: anchor
 docnumber: pres-srv-labels/pres-srv-labels-1
 date:
 - type: created

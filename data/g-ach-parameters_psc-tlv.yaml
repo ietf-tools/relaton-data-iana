@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/psc-tlv
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/PSC-TLV
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/psc-tlv
 date:
 - type: created

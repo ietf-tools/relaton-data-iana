@@ -11,9 +11,6 @@ docid:
 - id: IANA wesp-flags/wesp-flags-2
   type: IANA
   primary: true
-- id: WESP-FLAGS/WESP-FLAGS-2
-  type: IANA
-  scope: anchor
 docnumber: wesp-flags/wesp-flags-2
 date:
 - type: created

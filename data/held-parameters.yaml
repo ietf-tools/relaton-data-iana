@@ -11,9 +11,6 @@ docid:
 - id: IANA held-parameters
   type: IANA
   primary: true
-- id: HELD-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: held-parameters
 date:
 - type: created

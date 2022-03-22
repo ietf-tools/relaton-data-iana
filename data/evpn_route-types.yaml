@@ -11,9 +11,6 @@ docid:
 - id: IANA evpn/route-types
   type: IANA
   primary: true
-- id: EVPN/ROUTE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: evpn/route-types
 date:
 - type: created

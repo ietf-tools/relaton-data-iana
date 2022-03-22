@@ -11,9 +11,6 @@ docid:
 - id: IANA cga-message-types/cga-message-types-1
   type: IANA
   primary: true
-- id: CGA-MESSAGE-TYPES/CGA-MESSAGE-TYPES-1
-  type: IANA
-  scope: anchor
 docnumber: cga-message-types/cga-message-types-1
 date:
 - type: created

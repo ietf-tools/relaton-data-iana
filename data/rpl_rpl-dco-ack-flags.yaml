@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/rpl-dco-ack-flags
   type: IANA
   primary: true
-- id: RPL/RPL-DCO-ACK-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: rpl/rpl-dco-ack-flags
 date:
 - type: created

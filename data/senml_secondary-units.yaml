@@ -11,9 +11,6 @@ docid:
 - id: IANA senml/secondary-units
   type: IANA
   primary: true
-- id: SENML/SECONDARY-UNITS
-  type: IANA
-  scope: anchor
 docnumber: senml/secondary-units
 date:
 - type: created

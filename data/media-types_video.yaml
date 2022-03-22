@@ -11,9 +11,6 @@ docid:
 - id: IANA media-types/video
   type: IANA
   primary: true
-- id: MEDIA-TYPES/VIDEO
-  type: IANA
-  scope: anchor
 docnumber: media-types/video
 date:
 - type: updated

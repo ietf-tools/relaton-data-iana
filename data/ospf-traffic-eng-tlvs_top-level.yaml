@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-traffic-eng-tlvs/top-level
   type: IANA
   primary: true
-- id: OSPF-TRAFFIC-ENG-TLVS/TOP-LEVEL
-  type: IANA
-  scope: anchor
 docnumber: ospf-traffic-eng-tlvs/top-level
 date:
 - type: created

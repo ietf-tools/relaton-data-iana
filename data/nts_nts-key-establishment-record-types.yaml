@@ -11,9 +11,6 @@ docid:
 - id: IANA nts/nts-key-establishment-record-types
   type: IANA
   primary: true
-- id: NTS/NTS-KEY-ESTABLISHMENT-RECORD-TYPES
-  type: IANA
-  scope: anchor
 docnumber: nts/nts-key-establishment-record-types
 date:
 - type: created

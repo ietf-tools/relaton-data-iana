@@ -11,9 +11,6 @@ docid:
 - id: IANA svrloc-extensions
   type: IANA
   primary: true
-- id: SVRLOC-EXTENSIONS
-  type: IANA
-  scope: anchor
 docnumber: svrloc-extensions
 date:
 - type: created

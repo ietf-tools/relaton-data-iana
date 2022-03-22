@@ -11,9 +11,6 @@ docid:
 - id: IANA dane-parameters/matching-types
   type: IANA
   primary: true
-- id: DANE-PARAMETERS/MATCHING-TYPES
-  type: IANA
-  scope: anchor
 docnumber: dane-parameters/matching-types
 date:
 - type: created

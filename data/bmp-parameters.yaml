@@ -11,9 +11,6 @@ docid:
 - id: IANA bmp-parameters
   type: IANA
   primary: true
-- id: BMP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: bmp-parameters
 date:
 - type: created

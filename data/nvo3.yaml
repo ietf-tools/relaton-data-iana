@@ -11,9 +11,6 @@ docid:
 - id: IANA nvo3
   type: IANA
   primary: true
-- id: NVO3
-  type: IANA
-  scope: anchor
 docnumber: nvo3
 date:
 - type: created

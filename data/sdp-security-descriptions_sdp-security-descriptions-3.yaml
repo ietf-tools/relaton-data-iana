@@ -11,9 +11,6 @@ docid:
 - id: IANA sdp-security-descriptions/sdp-security-descriptions-3
   type: IANA
   primary: true
-- id: SDP-SECURITY-DESCRIPTIONS/SDP-SECURITY-DESCRIPTIONS-3
-  type: IANA
-  scope: anchor
 docnumber: sdp-security-descriptions/sdp-security-descriptions-3
 date:
 - type: created

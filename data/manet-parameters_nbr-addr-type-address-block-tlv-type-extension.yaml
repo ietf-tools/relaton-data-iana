@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/nbr-addr-type-address-block-tlv-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/NBR-ADDR-TYPE-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/nbr-addr-type-address-block-tlv-type-extension
 date:
 - type: created

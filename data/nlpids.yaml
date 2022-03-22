@@ -11,9 +11,6 @@ docid:
 - id: IANA nlpids
   type: IANA
   primary: true
-- id: NLPIDS
-  type: IANA
-  scope: anchor
 docnumber: nlpids
 date:
 - type: created

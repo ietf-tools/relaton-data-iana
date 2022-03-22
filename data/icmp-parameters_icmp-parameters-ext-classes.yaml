@@ -11,9 +11,6 @@ docid:
 - id: IANA icmp-parameters/icmp-parameters-ext-classes
   type: IANA
   primary: true
-- id: ICMP-PARAMETERS/ICMP-PARAMETERS-EXT-CLASSES
-  type: IANA
-  scope: anchor
 docnumber: icmp-parameters/icmp-parameters-ext-classes
 date:
 - type: updated

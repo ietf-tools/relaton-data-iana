@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-pwd-parameters/eap-pwd-parameters-3
   type: IANA
   primary: true
-- id: EAP-PWD-PARAMETERS/EAP-PWD-PARAMETERS-3
-  type: IANA
-  scope: anchor
 docnumber: eap-pwd-parameters/eap-pwd-parameters-3
 date:
 - type: created

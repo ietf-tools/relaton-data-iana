@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/bundle-uri-scheme
   type: IANA
   primary: true
-- id: BUNDLE/BUNDLE-URI-SCHEME
-  type: IANA
-  scope: anchor
 docnumber: bundle/bundle-uri-scheme
 date:
 - type: created

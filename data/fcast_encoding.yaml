@@ -11,9 +11,6 @@ docid:
 - id: IANA fcast/encoding
   type: IANA
   primary: true
-- id: FCAST/ENCODING
-  type: IANA
-  scope: anchor
 docnumber: fcast/encoding
 date:
 - type: created

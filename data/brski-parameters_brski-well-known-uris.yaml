@@ -11,9 +11,6 @@ docid:
 - id: IANA brski-parameters/brski-well-known-uris
   type: IANA
   primary: true
-- id: BRSKI-PARAMETERS/BRSKI-WELL-KNOWN-URIS
-  type: IANA
-  scope: anchor
 docnumber: brski-parameters/brski-well-known-uris
 date:
 - type: created

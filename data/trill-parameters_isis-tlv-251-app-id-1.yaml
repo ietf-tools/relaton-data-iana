@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/isis-tlv-251-app-id-1
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/ISIS-TLV-251-APP-ID-1
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/isis-tlv-251-app-id-1
 date:
 - type: created

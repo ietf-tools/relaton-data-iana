@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/fault-flag
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/FAULT-FLAG
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/fault-flag
 date:
 - type: created

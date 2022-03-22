@@ -11,9 +11,6 @@ docid:
 - id: IANA ospfv3-parameters/ac-lsa
   type: IANA
   primary: true
-- id: OSPFV3-PARAMETERS/AC-LSA
-  type: IANA
-  scope: anchor
 docnumber: ospfv3-parameters/ac-lsa
 date:
 - type: created

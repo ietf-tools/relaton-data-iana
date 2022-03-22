@@ -11,9 +11,6 @@ docid:
 - id: IANA iana-crypt-hash
   type: IANA
   primary: true
-- id: IANA-CRYPT-HASH
-  type: IANA
-  scope: anchor
 docnumber: iana-crypt-hash
 date:
 - type: created

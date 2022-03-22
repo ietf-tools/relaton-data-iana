@@ -11,9 +11,6 @@ docid:
 - id: IANA sdp-parameters/sdp-parameters-4
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/SDP-PARAMETERS-4
-  type: IANA
-  scope: anchor
 docnumber: sdp-parameters/sdp-parameters-4
 date:
 - type: created

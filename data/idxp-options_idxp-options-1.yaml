@@ -11,9 +11,6 @@ docid:
 - id: IANA idxp-options/idxp-options-1
   type: IANA
   primary: true
-- id: IDXP-OPTIONS/IDXP-OPTIONS-1
-  type: IANA
-  scope: anchor
 docnumber: idxp-options/idxp-options-1
 date:
 - type: created

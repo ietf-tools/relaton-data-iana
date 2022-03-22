@@ -11,9 +11,6 @@ docid:
 - id: IANA tls-extensiontype-values/alpn-protocol-ids
   type: IANA
   primary: true
-- id: TLS-EXTENSIONTYPE-VALUES/ALPN-PROTOCOL-IDS
-  type: IANA
-  scope: anchor
 docnumber: tls-extensiontype-values/alpn-protocol-ids
 date:
 - type: created

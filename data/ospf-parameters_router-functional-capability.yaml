@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-parameters/router-functional-capability
   type: IANA
   primary: true
-- id: OSPF-PARAMETERS/ROUTER-FUNCTIONAL-CAPABILITY
-  type: IANA
-  scope: anchor
 docnumber: ospf-parameters/router-functional-capability
 date:
 - type: created

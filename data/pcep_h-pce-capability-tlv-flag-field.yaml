@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/h-pce-capability-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/H-PCE-CAPABILITY-TLV-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/h-pce-capability-tlv-flag-field
 date:
 - type: created

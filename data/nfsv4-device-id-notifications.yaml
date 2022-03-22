@@ -11,9 +11,6 @@ docid:
 - id: IANA nfsv4-device-id-notifications
   type: IANA
   primary: true
-- id: NFSV4-DEVICE-ID-NOTIFICATIONS
-  type: IANA
-  scope: anchor
 docnumber: nfsv4-device-id-notifications
 date:
 - type: created

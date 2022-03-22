@@ -11,9 +11,6 @@ docid:
 - id: IANA eappotp-identifiers/eappotp-identifiers-4
   type: IANA
   primary: true
-- id: EAPPOTP-IDENTIFIERS/EAPPOTP-IDENTIFIERS-4
-  type: IANA
-  scope: anchor
 docnumber: eappotp-identifiers/eappotp-identifiers-4
 date:
 - type: created

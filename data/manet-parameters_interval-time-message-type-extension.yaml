@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/interval-time-message-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/INTERVAL-TIME-MESSAGE-TYPE-EXTENSION
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/interval-time-message-type-extension
 date:
 - type: created

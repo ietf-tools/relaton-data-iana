@@ -11,9 +11,6 @@ docid:
 - id: IANA http-upgrade-tokens
   type: IANA
   primary: true
-- id: HTTP-UPGRADE-TOKENS
-  type: IANA
-  scope: anchor
 docnumber: http-upgrade-tokens
 date:
 - type: updated

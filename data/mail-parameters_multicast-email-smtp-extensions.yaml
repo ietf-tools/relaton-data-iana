@@ -11,9 +11,6 @@ docid:
 - id: IANA mail-parameters/multicast-email-smtp-extensions
   type: IANA
   primary: true
-- id: MAIL-PARAMETERS/MULTICAST-EMAIL-SMTP-EXTENSIONS
-  type: IANA
-  scope: anchor
 docnumber: mail-parameters/multicast-email-smtp-extensions
 date:
 - type: updated

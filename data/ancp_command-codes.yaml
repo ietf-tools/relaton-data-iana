@@ -11,9 +11,6 @@ docid:
 - id: IANA ancp/command-codes
   type: IANA
   primary: true
-- id: ANCP/COMMAND-CODES
-  type: IANA
-  scope: anchor
 docnumber: ancp/command-codes
 date:
 - type: created

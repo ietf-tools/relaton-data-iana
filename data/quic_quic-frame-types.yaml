@@ -11,9 +11,6 @@ docid:
 - id: IANA quic/quic-frame-types
   type: IANA
   primary: true
-- id: QUIC/QUIC-FRAME-TYPES
-  type: IANA
-  scope: anchor
 docnumber: quic/quic-frame-types
 date:
 - type: created

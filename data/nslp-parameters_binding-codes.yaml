@@ -11,9 +11,6 @@ docid:
 - id: IANA nslp-parameters/binding-codes
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/BINDING-CODES
-  type: IANA
-  scope: anchor
 docnumber: nslp-parameters/binding-codes
 date:
 - type: created

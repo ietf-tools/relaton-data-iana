@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/softwarereference-spec-id
   type: IANA
   primary: true
-- id: IODEF2/SOFTWAREREFERENCE-SPEC-ID
-  type: IANA
-  scope: anchor
 docnumber: iodef2/softwarereference-spec-id
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA emergency-call-metadata-control-data/emergency-call-vehicle-lamp-id
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-METADATA-CONTROL-DATA/EMERGENCY-CALL-VEHICLE-LAMP-ID
-  type: IANA
-  scope: anchor
 docnumber: emergency-call-metadata-control-data/emergency-call-vehicle-lamp-id
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA language-subtag-registry/language-subtag-registry-1
   type: IANA
   primary: true
-- id: LANGUAGE-SUBTAG-REGISTRY/LANGUAGE-SUBTAG-REGISTRY-1
-  type: IANA
-  scope: anchor
 docnumber: language-subtag-registry/language-subtag-registry-1
 contributor:
 - organization:

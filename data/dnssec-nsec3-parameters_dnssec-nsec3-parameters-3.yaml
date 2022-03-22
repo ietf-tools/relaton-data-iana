@@ -11,9 +11,6 @@ docid:
 - id: IANA dnssec-nsec3-parameters/dnssec-nsec3-parameters-3
   type: IANA
   primary: true
-- id: DNSSEC-NSEC3-PARAMETERS/DNSSEC-NSEC3-PARAMETERS-3
-  type: IANA
-  scope: anchor
 docnumber: dnssec-nsec3-parameters/dnssec-nsec3-parameters-3
 date:
 - type: created

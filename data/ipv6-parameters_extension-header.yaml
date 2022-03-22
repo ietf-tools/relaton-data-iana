@@ -11,9 +11,6 @@ docid:
 - id: IANA ipv6-parameters/extension-header
   type: IANA
   primary: true
-- id: IPV6-PARAMETERS/EXTENSION-HEADER
-  type: IANA
-  scope: anchor
 docnumber: ipv6-parameters/extension-header
 date:
 - type: updated

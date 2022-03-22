@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/address-block-tlv-types
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/ADDRESS-BLOCK-TLV-TYPES
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/address-block-tlv-types
 date:
 - type: created

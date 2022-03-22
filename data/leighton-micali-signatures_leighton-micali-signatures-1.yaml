@@ -11,9 +11,6 @@ docid:
 - id: IANA leighton-micali-signatures/leighton-micali-signatures-1
   type: IANA
   primary: true
-- id: LEIGHTON-MICALI-SIGNATURES/LEIGHTON-MICALI-SIGNATURES-1
-  type: IANA
-  scope: anchor
 docnumber: leighton-micali-signatures/leighton-micali-signatures-1
 date:
 - type: created

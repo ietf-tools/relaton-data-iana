@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/extended-rbridge-channel-security-types
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/EXTENDED-RBRIDGE-CHANNEL-SECURITY-TYPES
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/extended-rbridge-channel-security-types
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA perm-mcast-groupids
   type: IANA
   primary: true
-- id: PERM-MCAST-GROUPIDS
-  type: IANA
-  scope: anchor
 docnumber: perm-mcast-groupids
 date:
 - type: created

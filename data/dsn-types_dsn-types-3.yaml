@@ -11,9 +11,6 @@ docid:
 - id: IANA dsn-types/dsn-types-3
   type: IANA
   primary: true
-- id: DSN-TYPES/DSN-TYPES-3
-  type: IANA
-  scope: anchor
 docnumber: dsn-types/dsn-types-3
 date:
 - type: created

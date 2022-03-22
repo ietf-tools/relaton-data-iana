@@ -11,9 +11,6 @@ docid:
 - id: IANA cpim-headers/cpim-headers-1
   type: IANA
   primary: true
-- id: CPIM-HEADERS/CPIM-HEADERS-1
-  type: IANA
-  scope: anchor
 docnumber: cpim-headers/cpim-headers-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA rtfm
   type: IANA
   primary: true
-- id: RTFM
-  type: IANA
-  scope: anchor
 docnumber: rtfm
 date:
 - type: created

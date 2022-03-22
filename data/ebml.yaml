@@ -11,9 +11,6 @@ docid:
 - id: IANA ebml
   type: IANA
   primary: true
-- id: EBML
-  type: IANA
-  scope: anchor
 docnumber: ebml
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA sctp-parameters
   type: IANA
   primary: true
-- id: SCTP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: sctp-parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA keynote/keynote-2
   type: IANA
   primary: true
-- id: KEYNOTE/KEYNOTE-2
-  type: IANA
-  scope: anchor
 docnumber: keynote/keynote-2
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA reload/data-model
   type: IANA
   primary: true
-- id: RELOAD/DATA-MODEL
-  type: IANA
-  scope: anchor
 docnumber: reload/data-model
 date:
 - type: created

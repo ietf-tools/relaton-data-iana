@@ -11,9 +11,6 @@ docid:
 - id: IANA ccnx/ccnx-top-level-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-TOP-LEVEL-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ccnx/ccnx-top-level-types
 date:
 - type: created

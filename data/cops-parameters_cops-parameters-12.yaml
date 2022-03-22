@@ -11,9 +11,6 @@ docid:
 - id: IANA cops-parameters/cops-parameters-12
   type: IANA
   primary: true
-- id: COPS-PARAMETERS/COPS-PARAMETERS-12
-  type: IANA
-  scope: anchor
 docnumber: cops-parameters/cops-parameters-12
 date:
 - type: created

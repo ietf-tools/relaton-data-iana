@@ -11,9 +11,6 @@ docid:
 - id: IANA token-binding-protocol/token-binding-key-parameters
   type: IANA
   primary: true
-- id: TOKEN-BINDING-PROTOCOL/TOKEN-BINDING-KEY-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: token-binding-protocol/token-binding-key-parameters
 date:
 - type: created

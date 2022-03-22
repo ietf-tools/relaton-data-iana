@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/wavelength-restriction-constraint-tlv-action-values
   type: IANA
   primary: true
-- id: PCEP/WAVELENGTH-RESTRICTION-CONSTRAINT-TLV-ACTION-VALUES
-  type: IANA
-  scope: anchor
 docnumber: pcep/wavelength-restriction-constraint-tlv-action-values
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-extended-communities/evpn-layer-2-attributes-control-flags
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/EVPN-LAYER-2-ATTRIBUTES-CONTROL-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: bgp-extended-communities/evpn-layer-2-attributes-control-flags
 date:
 - type: created

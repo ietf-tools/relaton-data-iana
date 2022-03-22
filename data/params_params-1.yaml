@@ -11,9 +11,6 @@ docid:
 - id: IANA params/params-1
   type: IANA
   primary: true
-- id: PARAMS/PARAMS-1
-  type: IANA
-  scope: anchor
 docnumber: params/params-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA phbid-codes
   type: IANA
   primary: true
-- id: PHBID-CODES
-  type: IANA
-  scope: anchor
 docnumber: phbid-codes
 date:
 - type: updated

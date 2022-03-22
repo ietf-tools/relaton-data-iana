@@ -11,9 +11,6 @@ docid:
 - id: IANA device-identification/dev-urn-subtypes
   type: IANA
   primary: true
-- id: DEVICE-IDENTIFICATION/DEV-URN-SUBTYPES
-  type: IANA
-  scope: anchor
 docnumber: device-identification/dev-urn-subtypes
 date:
 - type: created

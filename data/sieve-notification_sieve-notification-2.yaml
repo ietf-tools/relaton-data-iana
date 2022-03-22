@@ -11,9 +11,6 @@ docid:
 - id: IANA sieve-notification/sieve-notification-2
   type: IANA
   primary: true
-- id: SIEVE-NOTIFICATION/SIEVE-NOTIFICATION-2
-  type: IANA
-  scope: anchor
 docnumber: sieve-notification/sieve-notification-2
 date:
 - type: created

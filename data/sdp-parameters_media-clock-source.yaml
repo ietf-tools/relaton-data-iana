@@ -11,9 +11,6 @@ docid:
 - id: IANA sdp-parameters/media-clock-source
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/MEDIA-CLOCK-SOURCE
-  type: IANA
-  scope: anchor
 docnumber: sdp-parameters/media-clock-source
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA rtp-parameters/rtp-ekt-message-types
   type: IANA
   primary: true
-- id: RTP-PARAMETERS/RTP-EKT-MESSAGE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: rtp-parameters/rtp-ekt-message-types
 date:
 - type: updated

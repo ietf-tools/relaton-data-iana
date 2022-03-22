@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/control-message-options
   type: IANA
   primary: true
-- id: RPL/CONTROL-MESSAGE-OPTIONS
-  type: IANA
-  scope: anchor
 docnumber: rpl/control-message-options
 date:
 - type: created

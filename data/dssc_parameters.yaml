@@ -11,9 +11,6 @@ docid:
 - id: IANA dssc/parameters
   type: IANA
   primary: true
-- id: DSSC/PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: dssc/parameters
 date:
 - type: created

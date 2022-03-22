@@ -11,9 +11,6 @@ docid:
 - id: IANA dlep-parameters/ipv4-attached-subnet-flags
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/IPV4-ATTACHED-SUBNET-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: dlep-parameters/ipv4-attached-subnet-flags
 date:
 - type: created

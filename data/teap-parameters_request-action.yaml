@@ -11,9 +11,6 @@ docid:
 - id: IANA teap-parameters/request-action
   type: IANA
   primary: true
-- id: TEAP-PARAMETERS/REQUEST-ACTION
-  type: IANA
-  scope: anchor
 docnumber: teap-parameters/request-action
 date:
 - type: created

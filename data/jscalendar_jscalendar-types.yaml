@@ -11,9 +11,6 @@ docid:
 - id: IANA jscalendar/jscalendar-types
   type: IANA
   primary: true
-- id: JSCALENDAR/JSCALENDAR-TYPES
-  type: IANA
-  scope: anchor
 docnumber: jscalendar/jscalendar-types
 date:
 - type: created

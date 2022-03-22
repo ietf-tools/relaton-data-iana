@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/ciphersuite-numbers
   type: IANA
   primary: true
-- id: BUNDLE/CIPHERSUITE-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: bundle/ciphersuite-numbers
 date:
 - type: created

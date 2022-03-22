@@ -11,9 +11,6 @@ docid:
 - id: IANA cfm-oam
   type: IANA
   primary: true
-- id: CFM-OAM
-  type: IANA
-  scope: anchor
 docnumber: cfm-oam
 date:
 - type: created

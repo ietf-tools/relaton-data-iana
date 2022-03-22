@@ -11,9 +11,6 @@ docid:
 - id: IANA loa-profiles/loa-profiles-1
   type: IANA
   primary: true
-- id: LOA-PROFILES/LOA-PROFILES-1
-  type: IANA
-  scope: anchor
 docnumber: loa-profiles/loa-profiles-1
 date:
 - type: created

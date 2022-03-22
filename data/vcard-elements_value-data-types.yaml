@@ -11,9 +11,6 @@ docid:
 - id: IANA vcard-elements/value-data-types
   type: IANA
   primary: true
-- id: VCARD-ELEMENTS/VALUE-DATA-TYPES
-  type: IANA
-  scope: anchor
 docnumber: vcard-elements/value-data-types
 date:
 - type: created

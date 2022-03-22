@@ -12,9 +12,6 @@ docid:
 - id: IANA gsmpv3-adapt
   type: IANA
   primary: true
-- id: GSMPV3-ADAPT
-  type: IANA
-  scope: anchor
 docnumber: gsmpv3-adapt
 date:
 - type: created

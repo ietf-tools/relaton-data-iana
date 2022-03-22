@@ -11,9 +11,6 @@ docid:
 - id: IANA performance-metrics
   type: IANA
   primary: true
-- id: PERFORMANCE-METRICS
-  type: IANA
-  scope: anchor
 docnumber: performance-metrics
 date:
 - type: created

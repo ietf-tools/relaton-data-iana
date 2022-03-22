@@ -11,9 +11,6 @@ docid:
 - id: IANA foobar-af-numbers
   type: IANA
   primary: true
-- id: FOOBAR-AF-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: foobar-af-numbers
 date:
 - type: updated

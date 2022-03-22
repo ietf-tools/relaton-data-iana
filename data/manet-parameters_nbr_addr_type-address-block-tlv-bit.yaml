@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/nbr_addr_type-address-block-tlv-bit
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/NBR_ADDR_TYPE-ADDRESS-BLOCK-TLV-BIT
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/nbr_addr_type-address-block-tlv-bit
 date:
 - type: created

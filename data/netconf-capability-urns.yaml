@@ -11,9 +11,6 @@ docid:
 - id: IANA netconf-capability-urns
   type: IANA
   primary: true
-- id: NETCONF-CAPABILITY-URNS
-  type: IANA
-  scope: anchor
 docnumber: netconf-capability-urns
 date:
 - type: created

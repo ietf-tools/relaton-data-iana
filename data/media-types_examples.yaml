@@ -11,9 +11,6 @@ docid:
 - id: IANA media-types/examples
   type: IANA
   primary: true
-- id: MEDIA-TYPES/EXAMPLES
-  type: IANA
-  scope: anchor
 docnumber: media-types/examples
 date:
 - type: updated

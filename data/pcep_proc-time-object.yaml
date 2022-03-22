@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/proc-time-object
   type: IANA
   primary: true
-- id: PCEP/PROC-TIME-OBJECT
-  type: IANA
-  scope: anchor
 docnumber: pcep/proc-time-object
 date:
 - type: created

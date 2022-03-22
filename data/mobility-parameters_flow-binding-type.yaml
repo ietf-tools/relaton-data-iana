@@ -11,9 +11,6 @@ docid:
 - id: IANA mobility-parameters/flow-binding-type
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/FLOW-BINDING-TYPE
-  type: IANA
-  scope: anchor
 docnumber: mobility-parameters/flow-binding-type
 date:
 - type: created

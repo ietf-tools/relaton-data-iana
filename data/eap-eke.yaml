@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-eke
   type: IANA
   primary: true
-- id: EAP-EKE
-  type: IANA
-  scope: anchor
 docnumber: eap-eke
 date:
 - type: created

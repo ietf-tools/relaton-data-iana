@@ -12,9 +12,6 @@ docid:
 - id: IANA dmarc-parameters
   type: IANA
   primary: true
-- id: DMARC-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: dmarc-parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/adjacency-type-igp-adjacency-segment-id
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/ADJACENCY-TYPE-IGP-ADJACENCY-SEGMENT-ID
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/adjacency-type-igp-adjacency-segment-id
 date:
 - type: created

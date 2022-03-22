@@ -11,9 +11,6 @@ docid:
 - id: IANA reload
   type: IANA
   primary: true
-- id: RELOAD
-  type: IANA
-  scope: anchor
 docnumber: reload
 date:
 - type: created

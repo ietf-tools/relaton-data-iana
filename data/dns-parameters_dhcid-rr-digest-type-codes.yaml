@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-parameters/dhcid-rr-digest-type-codes
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/DHCID-RR-DIGEST-TYPE-CODES
-  type: IANA
-  scope: anchor
 docnumber: dns-parameters/dhcid-rr-digest-type-codes
 date:
 - type: updated

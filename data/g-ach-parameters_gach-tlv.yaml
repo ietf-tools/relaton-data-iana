@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/gach-tlv
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/GACH-TLV
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/gach-tlv
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA ikev2-parameters/ikev2-parameters-14
   type: IANA
   primary: true
-- id: IKEV2-PARAMETERS/IKEV2-PARAMETERS-14
-  type: IANA
-  scope: anchor
 docnumber: ikev2-parameters/ikev2-parameters-14
 date:
 - type: created

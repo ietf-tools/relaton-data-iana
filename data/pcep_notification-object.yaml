@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/notification-object
   type: IANA
   primary: true
-- id: PCEP/NOTIFICATION-OBJECT
-  type: IANA
-  scope: anchor
 docnumber: pcep/notification-object
 date:
 - type: created

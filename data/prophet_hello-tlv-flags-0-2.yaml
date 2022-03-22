@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/hello-tlv-flags-0-2
   type: IANA
   primary: true
-- id: PROPHET/HELLO-TLV-FLAGS-0-2
-  type: IANA
-  scope: anchor
 docnumber: prophet/hello-tlv-flags-0-2
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA yang-parameters
   type: IANA
   primary: true
-- id: YANG-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: yang-parameters
 date:
 - type: created

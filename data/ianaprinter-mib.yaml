@@ -11,9 +11,6 @@ docid:
 - id: IANA ianaprinter-mib
   type: IANA
   primary: true
-- id: IANAPRINTER-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianaprinter-mib
 date:
 - type: created

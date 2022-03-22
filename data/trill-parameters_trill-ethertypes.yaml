@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/trill-ethertypes
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/TRILL-ETHERTYPES
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/trill-ethertypes
 date:
 - type: created

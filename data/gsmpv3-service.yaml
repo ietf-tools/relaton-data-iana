@@ -11,9 +11,6 @@ docid:
 - id: IANA gsmpv3-service
   type: IANA
   primary: true
-- id: GSMPV3-SERVICE
-  type: IANA
-  scope: anchor
 docnumber: gsmpv3-service
 date:
 - type: created

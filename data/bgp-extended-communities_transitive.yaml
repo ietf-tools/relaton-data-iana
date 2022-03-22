@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-extended-communities/transitive
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/TRANSITIVE
-  type: IANA
-  scope: anchor
 docnumber: bgp-extended-communities/transitive
 date:
 - type: created

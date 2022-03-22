@@ -11,9 +11,6 @@ docid:
 - id: IANA bfcp-parameters/bfcp-parameters-1
   type: IANA
   primary: true
-- id: BFCP-PARAMETERS/BFCP-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: bfcp-parameters/bfcp-parameters-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA dsn-types
   type: IANA
   primary: true
-- id: DSN-TYPES
-  type: IANA
-  scope: anchor
 docnumber: dsn-types
 date:
 - type: created

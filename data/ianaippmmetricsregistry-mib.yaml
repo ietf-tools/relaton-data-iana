@@ -11,9 +11,6 @@ docid:
 - id: IANA ianaippmmetricsregistry-mib
   type: IANA
   primary: true
-- id: IANAIPPMMETRICSREGISTRY-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianaippmmetricsregistry-mib
 date:
 - type: created

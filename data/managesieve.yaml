@@ -11,9 +11,6 @@ docid:
 - id: IANA managesieve
   type: IANA
   primary: true
-- id: MANAGESIEVE
-  type: IANA
-  scope: anchor
 docnumber: managesieve
 date:
 - type: created

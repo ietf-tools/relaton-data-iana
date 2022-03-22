@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/cc-flags
   type: IANA
   primary: true
-- id: RPL/CC-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: rpl/cc-flags
 date:
 - type: created

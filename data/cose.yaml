@@ -11,9 +11,6 @@ docid:
 - id: IANA cose
   type: IANA
   primary: true
-- id: COSE
-  type: IANA
-  scope: anchor
 docnumber: cose
 date:
 - type: created

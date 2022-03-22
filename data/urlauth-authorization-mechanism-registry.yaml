@@ -12,9 +12,6 @@ docid:
 - id: IANA urlauth-authorization-mechanism-registry
   type: IANA
   primary: true
-- id: URLAUTH-AUTHORIZATION-MECHANISM-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: urlauth-authorization-mechanism-registry
 date:
 - type: created

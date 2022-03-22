@@ -12,9 +12,6 @@ docid:
 - id: IANA gsmpv3-traffic
   type: IANA
   primary: true
-- id: GSMPV3-TRAFFIC
-  type: IANA
-  scope: anchor
 docnumber: gsmpv3-traffic
 date:
 - type: created

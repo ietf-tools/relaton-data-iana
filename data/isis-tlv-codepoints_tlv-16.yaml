@@ -11,9 +11,6 @@ docid:
 - id: IANA isis-tlv-codepoints/tlv-16
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/TLV-16
-  type: IANA
-  scope: anchor
 docnumber: isis-tlv-codepoints/tlv-16
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA address-family-numbers
   type: IANA
   primary: true
-- id: ADDRESS-FAMILY-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: address-family-numbers
 date:
 - type: updated

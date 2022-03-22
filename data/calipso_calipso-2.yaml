@@ -11,9 +11,6 @@ docid:
 - id: IANA calipso/calipso-2
   type: IANA
   primary: true
-- id: CALIPSO/CALIPSO-2
-  type: IANA
-  scope: anchor
 docnumber: calipso/calipso-2
 date:
 - type: created

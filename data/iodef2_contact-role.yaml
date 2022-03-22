@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/contact-role
   type: IANA
   primary: true
-- id: IODEF2/CONTACT-ROLE
-  type: IANA
-  scope: anchor
 docnumber: iodef2/contact-role
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA rdap-dns
   type: IANA
   primary: true
-- id: RDAP-DNS
-  type: IANA
-  scope: anchor
 docnumber: rdap-dns
 date:
 - type: created

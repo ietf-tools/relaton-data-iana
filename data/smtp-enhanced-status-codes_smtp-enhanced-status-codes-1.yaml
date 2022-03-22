@@ -11,9 +11,6 @@ docid:
 - id: IANA smtp-enhanced-status-codes/smtp-enhanced-status-codes-1
   type: IANA
   primary: true
-- id: SMTP-ENHANCED-STATUS-CODES/SMTP-ENHANCED-STATUS-CODES-1
-  type: IANA
-  scope: anchor
 docnumber: smtp-enhanced-status-codes/smtp-enhanced-status-codes-1
 date:
 - type: created

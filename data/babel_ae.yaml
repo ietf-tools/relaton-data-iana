@@ -11,9 +11,6 @@ docid:
 - id: IANA babel/ae
   type: IANA
   primary: true
-- id: BABEL/AE
-  type: IANA
-  scope: anchor
 docnumber: babel/ae
 date:
 - type: created

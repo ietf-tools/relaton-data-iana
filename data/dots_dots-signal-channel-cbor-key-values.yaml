@@ -11,9 +11,6 @@ docid:
 - id: IANA dots/dots-signal-channel-cbor-key-values
   type: IANA
   primary: true
-- id: DOTS/DOTS-SIGNAL-CHANNEL-CBOR-KEY-VALUES
-  type: IANA
-  scope: anchor
 docnumber: dots/dots-signal-channel-cbor-key-values
 date:
 - type: created

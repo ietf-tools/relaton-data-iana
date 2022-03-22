@@ -11,9 +11,6 @@ docid:
 - id: IANA captive-portals
   type: IANA
   primary: true
-- id: CAPTIVE-PORTALS
-  type: IANA
-  scope: anchor
 docnumber: captive-portals
 date:
 - type: created

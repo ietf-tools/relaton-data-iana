@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/notification-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/NOTIFICATION-OBJECT-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/notification-object-flag-field
 date:
 - type: created

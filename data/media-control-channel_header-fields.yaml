@@ -11,9 +11,6 @@ docid:
 - id: IANA media-control-channel/header-fields
   type: IANA
   primary: true
-- id: MEDIA-CONTROL-CHANNEL/HEADER-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: media-control-channel/header-fields
 date:
 - type: created

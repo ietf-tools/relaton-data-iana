@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/seek-style
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/SEEK-STYLE
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/seek-style
 date:
 - type: created

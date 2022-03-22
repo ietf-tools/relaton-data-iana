@@ -11,9 +11,6 @@ docid:
 - id: IANA gre-parameters
   type: IANA
   primary: true
-- id: GRE-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: gre-parameters
 date:
 - type: updated

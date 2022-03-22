@@ -11,9 +11,6 @@ docid:
 - id: IANA keytable/algid
   type: IANA
   primary: true
-- id: KEYTABLE/ALGID
-  type: IANA
-  scope: anchor
 docnumber: keytable/algid
 date:
 - type: created

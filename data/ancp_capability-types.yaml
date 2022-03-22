@@ -11,9 +11,6 @@ docid:
 - id: IANA ancp/capability-types
   type: IANA
   primary: true
-- id: ANCP/CAPABILITY-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ancp/capability-types
 date:
 - type: created

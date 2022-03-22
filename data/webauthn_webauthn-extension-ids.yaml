@@ -11,9 +11,6 @@ docid:
 - id: IANA webauthn/webauthn-extension-ids
   type: IANA
   primary: true
-- id: WEBAUTHN/WEBAUTHN-EXTENSION-IDS
-  type: IANA
-  scope: anchor
 docnumber: webauthn/webauthn-extension-ids
 date:
 - type: created

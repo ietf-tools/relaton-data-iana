@@ -11,9 +11,6 @@ docid:
 - id: IANA pt-eap
   type: IANA
   primary: true
-- id: PT-EAP
-  type: IANA
-  scope: anchor
 docnumber: pt-eap
 date:
 - type: created

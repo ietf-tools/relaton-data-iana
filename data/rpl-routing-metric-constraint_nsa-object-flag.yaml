@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl-routing-metric-constraint/nsa-object-flag
   type: IANA
   primary: true
-- id: RPL-ROUTING-METRIC-CONSTRAINT/NSA-OBJECT-FLAG
-  type: IANA
-  scope: anchor
 docnumber: rpl-routing-metric-constraint/nsa-object-flag
 date:
 - type: updated

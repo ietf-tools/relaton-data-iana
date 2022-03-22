@@ -11,9 +11,6 @@ docid:
 - id: IANA gss-eap-parameters/error-codes
   type: IANA
   primary: true
-- id: GSS-EAP-PARAMETERS/ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: gss-eap-parameters/error-codes
 date:
 - type: created

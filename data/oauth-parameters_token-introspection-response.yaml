@@ -11,9 +11,6 @@ docid:
 - id: IANA oauth-parameters/token-introspection-response
   type: IANA
   primary: true
-- id: OAUTH-PARAMETERS/TOKEN-INTROSPECTION-RESPONSE
-  type: IANA
-  scope: anchor
 docnumber: oauth-parameters/token-introspection-response
 date:
 - type: created

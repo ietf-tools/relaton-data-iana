@@ -11,9 +11,6 @@ docid:
 - id: IANA jose/web-signature-encryption-algorithms
   type: IANA
   primary: true
-- id: JOSE/WEB-SIGNATURE-ENCRYPTION-ALGORITHMS
-  type: IANA
-  scope: anchor
 docnumber: jose/web-signature-encryption-algorithms
 date:
 - type: created

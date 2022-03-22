@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/sr-ero-flag-field
   type: IANA
   primary: true
-- id: PCEP/SR-ERO-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/sr-ero-flag-field
 date:
 - type: created

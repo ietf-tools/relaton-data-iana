@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/redirect-reasons
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/REDIRECT-REASONS
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/redirect-reasons
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA rddp/rdmap-ddp-untagged-queue
   type: IANA
   primary: true
-- id: RDDP/RDMAP-DDP-UNTAGGED-QUEUE
-  type: IANA
-  scope: anchor
 docnumber: rddp/rdmap-ddp-untagged-queue
 date:
 - type: created

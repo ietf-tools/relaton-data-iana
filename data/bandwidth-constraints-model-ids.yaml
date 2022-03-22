@@ -11,9 +11,6 @@ docid:
 - id: IANA bandwidth-constraints-model-ids
   type: IANA
   primary: true
-- id: BANDWIDTH-CONSTRAINTS-MODEL-IDS
-  type: IANA
-  scope: anchor
 docnumber: bandwidth-constraints-model-ids
 date:
 - type: created

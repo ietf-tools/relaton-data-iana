@@ -11,9 +11,6 @@ docid:
 - id: IANA igp-parameters/link-attribute-application-identifiers
   type: IANA
   primary: true
-- id: IGP-PARAMETERS/LINK-ATTRIBUTE-APPLICATION-IDENTIFIERS
-  type: IANA
-  scope: anchor
 docnumber: igp-parameters/link-attribute-application-identifiers
 date:
 - type: created

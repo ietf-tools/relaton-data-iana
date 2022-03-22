@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/hip-cipher-id
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HIP-CIPHER-ID
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/hip-cipher-id
 date:
 - type: created

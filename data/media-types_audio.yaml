@@ -11,9 +11,6 @@ docid:
 - id: IANA media-types/audio
   type: IANA
   primary: true
-- id: MEDIA-TYPES/AUDIO
-  type: IANA
-  scope: anchor
 docnumber: media-types/audio
 date:
 - type: updated

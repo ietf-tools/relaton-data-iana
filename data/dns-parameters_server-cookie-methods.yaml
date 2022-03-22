@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-parameters/server-cookie-methods
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/SERVER-COOKIE-METHODS
-  type: IANA
-  scope: anchor
 docnumber: dns-parameters/server-cookie-methods
 date:
 - type: updated

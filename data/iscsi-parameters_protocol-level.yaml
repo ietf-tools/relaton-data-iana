@@ -11,9 +11,6 @@ docid:
 - id: IANA iscsi-parameters/protocol-level
   type: IANA
   primary: true
-- id: ISCSI-PARAMETERS/PROTOCOL-LEVEL
-  type: IANA
-  scope: anchor
 docnumber: iscsi-parameters/protocol-level
 date:
 - type: created

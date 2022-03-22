@@ -11,9 +11,6 @@ docid:
 - id: IANA integ-serv
   type: IANA
   primary: true
-- id: INTEG-SERV
-  type: IANA
-  scope: anchor
 docnumber: integ-serv
 date:
 - type: created

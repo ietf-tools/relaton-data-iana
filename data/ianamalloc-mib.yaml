@@ -11,9 +11,6 @@ docid:
 - id: IANA ianamalloc-mib
   type: IANA
   primary: true
-- id: IANAMALLOC-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianamalloc-mib
 date:
 - type: created

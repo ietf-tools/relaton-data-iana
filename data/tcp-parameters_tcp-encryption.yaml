@@ -11,9 +11,6 @@ docid:
 - id: IANA tcp-parameters/tcp-encryption
   type: IANA
   primary: true
-- id: TCP-PARAMETERS/TCP-ENCRYPTION
-  type: IANA
-  scope: anchor
 docnumber: tcp-parameters/tcp-encryption
 date:
 - type: updated

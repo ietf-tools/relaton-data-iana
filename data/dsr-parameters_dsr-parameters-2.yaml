@@ -11,9 +11,6 @@ docid:
 - id: IANA dsr-parameters/dsr-parameters-2
   type: IANA
   primary: true
-- id: DSR-PARAMETERS/DSR-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: dsr-parameters/dsr-parameters-2
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA sdp-parameters/cs-correlation-values
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/CS-CORRELATION-VALUES
-  type: IANA
-  scope: anchor
 docnumber: sdp-parameters/cs-correlation-values
 date:
 - type: created

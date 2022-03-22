@@ -11,9 +11,6 @@ docid:
 - id: IANA ppsp-tp
   type: IANA
   primary: true
-- id: PPSP-TP
-  type: IANA
-  scope: anchor
 docnumber: ppsp-tp
 date:
 - type: created

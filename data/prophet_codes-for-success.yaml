@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/codes-for-success
   type: IANA
   primary: true
-- id: PROPHET/CODES-FOR-SUCCESS
-  type: IANA
-  scope: anchor
 docnumber: prophet/codes-for-success
 date:
 - type: created

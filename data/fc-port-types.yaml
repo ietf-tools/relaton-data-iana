@@ -11,9 +11,6 @@ docid:
 - id: IANA fc-port-types
   type: IANA
   primary: true
-- id: FC-PORT-TYPES
-  type: IANA
-  scope: anchor
 docnumber: fc-port-types
 date:
 - type: created

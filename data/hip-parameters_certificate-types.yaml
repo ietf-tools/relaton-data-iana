@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/certificate-types
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/CERTIFICATE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/certificate-types
 date:
 - type: created

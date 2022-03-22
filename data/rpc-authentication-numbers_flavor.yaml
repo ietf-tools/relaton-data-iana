@@ -11,9 +11,6 @@ docid:
 - id: IANA rpc-authentication-numbers/flavor
   type: IANA
   primary: true
-- id: RPC-AUTHENTICATION-NUMBERS/FLAVOR
-  type: IANA
-  scope: anchor
 docnumber: rpc-authentication-numbers/flavor
 date:
 - type: created

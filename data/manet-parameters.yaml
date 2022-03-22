@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters
   type: IANA
   primary: true
-- id: MANET-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters
 date:
 - type: created

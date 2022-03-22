@@ -11,9 +11,6 @@ docid:
 - id: IANA tls-extensiontype-values
   type: IANA
   primary: true
-- id: TLS-EXTENSIONTYPE-VALUES
-  type: IANA
-  scope: anchor
 docnumber: tls-extensiontype-values
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA xmss-extended-hash-based-signatures/wots-signatures
   type: IANA
   primary: true
-- id: XMSS-EXTENDED-HASH-BASED-SIGNATURES/WOTS-SIGNATURES
-  type: IANA
-  scope: anchor
 docnumber: xmss-extended-hash-based-signatures/wots-signatures
 date:
 - type: created

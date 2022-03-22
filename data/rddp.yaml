@@ -11,9 +11,6 @@ docid:
 - id: IANA rddp
   type: IANA
   primary: true
-- id: RDDP
-  type: IANA
-  scope: anchor
 docnumber: rddp
 date:
 - type: created

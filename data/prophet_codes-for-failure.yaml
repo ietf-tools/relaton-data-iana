@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/codes-for-failure
   type: IANA
   primary: true
-- id: PROPHET/CODES-FOR-FAILURE
-  type: IANA
-  scope: anchor
 docnumber: prophet/codes-for-failure
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/nat-traversal
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/NAT-TRAVERSAL
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/nat-traversal
 date:
 - type: created

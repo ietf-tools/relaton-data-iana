@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-extended-communities/traffic-action-fields
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/TRAFFIC-ACTION-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: bgp-extended-communities/traffic-action-fields
 date:
 - type: created

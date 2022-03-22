@@ -11,9 +11,6 @@ docid:
 - id: IANA ule-next-headers
   type: IANA
   primary: true
-- id: ULE-NEXT-HEADERS
-  type: IANA
-  scope: anchor
 docnumber: ule-next-headers
 date:
 - type: created

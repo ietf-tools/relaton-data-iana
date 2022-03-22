@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-numbers/eap-numbers-noob-peerinfo-data-fields
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-NUMBERS-NOOB-PEERINFO-DATA-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: eap-numbers/eap-numbers-noob-peerinfo-data-fields
 date:
 - type: created

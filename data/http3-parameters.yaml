@@ -11,9 +11,6 @@ docid:
 - id: IANA http3-parameters
   type: IANA
   primary: true
-- id: HTTP3-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: http3-parameters
 date:
 - type: created

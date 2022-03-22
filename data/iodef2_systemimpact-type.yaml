@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/systemimpact-type
   type: IANA
   primary: true
-- id: IODEF2/SYSTEMIMPACT-TYPE
-  type: IANA
-  scope: anchor
 docnumber: iodef2/systemimpact-type
 date:
 - type: created

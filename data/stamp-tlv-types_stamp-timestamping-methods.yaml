@@ -11,9 +11,6 @@ docid:
 - id: IANA stamp-tlv-types/stamp-timestamping-methods
   type: IANA
   primary: true
-- id: STAMP-TLV-TYPES/STAMP-TIMESTAMPING-METHODS
-  type: IANA
-  scope: anchor
 docnumber: stamp-tlv-types/stamp-timestamping-methods
 date:
 - type: created

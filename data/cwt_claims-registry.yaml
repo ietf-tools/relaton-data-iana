@@ -11,9 +11,6 @@ docid:
 - id: IANA cwt/claims-registry
   type: IANA
   primary: true
-- id: CWT/CLAIMS-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: cwt/claims-registry
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/message-tlv-hello
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/MESSAGE-TLV-HELLO
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/message-tlv-hello
 date:
 - type: created

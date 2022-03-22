@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/timeimpact-metric
   type: IANA
   primary: true
-- id: IODEF2/TIMEIMPACT-METRIC
-  type: IANA
-  scope: anchor
 docnumber: iodef2/timeimpact-metric
 date:
 - type: created

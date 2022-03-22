@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl-routing-metric-constraint/common-header-a
   type: IANA
   primary: true
-- id: RPL-ROUTING-METRIC-CONSTRAINT/COMMON-HEADER-A
-  type: IANA
-  scope: anchor
 docnumber: rpl-routing-metric-constraint/common-header-a
 date:
 - type: updated

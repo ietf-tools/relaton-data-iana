@@ -11,9 +11,6 @@ docid:
 - id: IANA multicast-acquisition/status-code
   type: IANA
   primary: true
-- id: MULTICAST-ACQUISITION/STATUS-CODE
-  type: IANA
-  scope: anchor
 docnumber: multicast-acquisition/status-code
 date:
 - type: created

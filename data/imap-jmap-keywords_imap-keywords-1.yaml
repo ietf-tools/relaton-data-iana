@@ -11,9 +11,6 @@ docid:
 - id: IANA imap-jmap-keywords/imap-keywords-1
   type: IANA
   primary: true
-- id: IMAP-JMAP-KEYWORDS/IMAP-KEYWORDS-1
-  type: IANA
-  scope: anchor
 docnumber: imap-jmap-keywords/imap-keywords-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA netnews-parameters
   type: IANA
   primary: true
-- id: NETNEWS-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: netnews-parameters
 date:
 - type: created

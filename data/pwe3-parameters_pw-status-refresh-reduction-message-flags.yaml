@@ -11,9 +11,6 @@ docid:
 - id: IANA pwe3-parameters/pw-status-refresh-reduction-message-flags
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/PW-STATUS-REFRESH-REDUCTION-MESSAGE-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: pwe3-parameters/pw-status-refresh-reduction-message-flags
 date:
 - type: created

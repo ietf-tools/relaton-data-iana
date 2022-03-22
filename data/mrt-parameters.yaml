@@ -11,9 +11,6 @@ docid:
 - id: IANA mrt-parameters
   type: IANA
   primary: true
-- id: MRT-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: mrt-parameters
 date:
 - type: created

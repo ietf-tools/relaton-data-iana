@@ -11,9 +11,6 @@ docid:
 - id: IANA otp-parameters/otp-parameters-1
   type: IANA
   primary: true
-- id: OTP-PARAMETERS/OTP-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: otp-parameters/otp-parameters-1
 date:
 - type: updated

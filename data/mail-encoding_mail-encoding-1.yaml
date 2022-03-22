@@ -11,9 +11,6 @@ docid:
 - id: IANA mail-encoding/mail-encoding-1
   type: IANA
   primary: true
-- id: MAIL-ENCODING/MAIL-ENCODING-1
-  type: IANA
-  scope: anchor
 docnumber: mail-encoding/mail-encoding-1
 date:
 - type: updated

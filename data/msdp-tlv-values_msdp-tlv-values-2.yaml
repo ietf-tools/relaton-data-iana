@@ -11,9 +11,6 @@ docid:
 - id: IANA msdp-tlv-values/msdp-tlv-values-2
   type: IANA
   primary: true
-- id: MSDP-TLV-VALUES/MSDP-TLV-VALUES-2
-  type: IANA
-  scope: anchor
 docnumber: msdp-tlv-values/msdp-tlv-values-2
 date:
 - type: created

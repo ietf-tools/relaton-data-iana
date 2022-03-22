@@ -11,9 +11,6 @@ docid:
 - id: IANA authentication-method-reference-values
   type: IANA
   primary: true
-- id: AUTHENTICATION-METHOD-REFERENCE-VALUES
-  type: IANA
-  scope: anchor
 docnumber: authentication-method-reference-values
 date:
 - type: created

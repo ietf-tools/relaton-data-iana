@@ -11,9 +11,6 @@ docid:
 - id: IANA cdni-parameters/logging-file-version
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/LOGGING-FILE-VERSION
-  type: IANA
-  scope: anchor
 docnumber: cdni-parameters/logging-file-version
 date:
 - type: created

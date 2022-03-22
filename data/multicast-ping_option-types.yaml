@@ -11,9 +11,6 @@ docid:
 - id: IANA multicast-ping/option-types
   type: IANA
   primary: true
-- id: MULTICAST-PING/OPTION-TYPES
-  type: IANA
-  scope: anchor
 docnumber: multicast-ping/option-types
 date:
 - type: created

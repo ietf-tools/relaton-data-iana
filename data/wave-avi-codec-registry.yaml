@@ -11,9 +11,6 @@ docid:
 - id: IANA wave-avi-codec-registry
   type: IANA
   primary: true
-- id: WAVE-AVI-CODEC-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: wave-avi-codec-registry
 date:
 - type: updated

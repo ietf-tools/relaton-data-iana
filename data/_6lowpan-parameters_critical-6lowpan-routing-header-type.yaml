@@ -11,9 +11,6 @@ docid:
 - id: IANA _6lowpan-parameters/critical-6lowpan-routing-header-type
   type: IANA
   primary: true
-- id: _6LOWPAN-PARAMETERS/CRITICAL-6LOWPAN-ROUTING-HEADER-TYPE
-  type: IANA
-  scope: anchor
 docnumber: _6lowpan-parameters/critical-6lowpan-routing-header-type
 date:
 - type: created

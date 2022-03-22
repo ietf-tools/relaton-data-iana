@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-numbers/eap-initiate-re-auth-flags
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-INITIATE-RE-AUTH-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: eap-numbers/eap-initiate-re-auth-flags
 date:
 - type: created

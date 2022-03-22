@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/oper-tlv-types
   type: IANA
   primary: true
-- id: FORCES/OPER-TLV-TYPES
-  type: IANA
-  scope: anchor
 docnumber: forces/oper-tlv-types
 date:
 - type: created

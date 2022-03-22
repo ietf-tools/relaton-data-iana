@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/bpsec-security-context
   type: IANA
   primary: true
-- id: BUNDLE/BPSEC-SECURITY-CONTEXT
-  type: IANA
-  scope: anchor
 docnumber: bundle/bpsec-security-context
 date:
 - type: created

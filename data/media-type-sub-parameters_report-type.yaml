@@ -11,9 +11,6 @@ docid:
 - id: IANA media-type-sub-parameters/report-type
   type: IANA
   primary: true
-- id: MEDIA-TYPE-SUB-PARAMETERS/REPORT-TYPE
-  type: IANA
-  scope: anchor
 docnumber: media-type-sub-parameters/report-type
 date:
 - type: created

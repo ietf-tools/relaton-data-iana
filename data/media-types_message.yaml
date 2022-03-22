@@ -11,9 +11,6 @@ docid:
 - id: IANA media-types/message
   type: IANA
   primary: true
-- id: MEDIA-TYPES/MESSAGE
-  type: IANA
-  scope: anchor
 docnumber: media-types/message
 date:
 - type: updated

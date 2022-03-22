@@ -11,9 +11,6 @@ docid:
 - id: IANA ancp
   type: IANA
   primary: true
-- id: ANCP
-  type: IANA
-  scope: anchor
 docnumber: ancp
 date:
 - type: created

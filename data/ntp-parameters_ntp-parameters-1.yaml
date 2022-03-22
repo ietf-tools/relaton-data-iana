@@ -11,9 +11,6 @@ docid:
 - id: IANA ntp-parameters/ntp-parameters-1
   type: IANA
   primary: true
-- id: NTP-PARAMETERS/NTP-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: ntp-parameters/ntp-parameters-1
 date:
 - type: created

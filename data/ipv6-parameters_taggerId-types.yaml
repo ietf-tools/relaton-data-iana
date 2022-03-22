@@ -11,9 +11,6 @@ docid:
 - id: IANA ipv6-parameters/taggerId-types
   type: IANA
   primary: true
-- id: IPV6-PARAMETERS/TAGGERID-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ipv6-parameters/taggerId-types
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA registrar-ids
   type: IANA
   primary: true
-- id: REGISTRAR-IDS
-  type: IANA
-  scope: anchor
 docnumber: registrar-ids
 date:
 - type: updated

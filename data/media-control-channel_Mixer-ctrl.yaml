@@ -11,9 +11,6 @@ docid:
 - id: IANA media-control-channel/Mixer-ctrl
   type: IANA
   primary: true
-- id: MEDIA-CONTROL-CHANNEL/MIXER-CTRL
-  type: IANA
-  scope: anchor
 docnumber: media-control-channel/Mixer-ctrl
 date:
 - type: created

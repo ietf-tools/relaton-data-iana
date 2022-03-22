@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/disjointness-configuration-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/DISJOINTNESS-CONFIGURATION-TLV-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/disjointness-configuration-tlv-flag-field
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA websocket
   type: IANA
   primary: true
-- id: WEBSOCKET
-  type: IANA
-  scope: anchor
 docnumber: websocket
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA iana-dns-class-rr-type
   type: IANA
   primary: true
-- id: IANA-DNS-CLASS-RR-TYPE
-  type: IANA
-  scope: anchor
 docnumber: iana-dns-class-rr-type
 date:
 - type: created

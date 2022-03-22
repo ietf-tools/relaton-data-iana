@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/rpl-non-rej-status
   type: IANA
   primary: true
-- id: RPL/RPL-NON-REJ-STATUS
-  type: IANA
-  scope: anchor
 docnumber: rpl/rpl-non-rej-status
 date:
 - type: created

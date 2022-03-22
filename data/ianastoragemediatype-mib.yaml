@@ -11,9 +11,6 @@ docid:
 - id: IANA ianastoragemediatype-mib
   type: IANA
   primary: true
-- id: IANASTORAGEMEDIATYPE-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianastoragemediatype-mib
 date:
 - type: created

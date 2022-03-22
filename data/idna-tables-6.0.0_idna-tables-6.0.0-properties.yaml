@@ -11,9 +11,6 @@ docid:
 - id: IANA idna-tables-6.0.0/idna-tables-6.0.0-properties
   type: IANA
   primary: true
-- id: IDNA-TABLES-6.0.0/IDNA-TABLES-6.0.0-PROPERTIES
-  type: IANA
-  scope: anchor
 docnumber: idna-tables-6.0.0/idna-tables-6.0.0-properties
 date:
 - type: created

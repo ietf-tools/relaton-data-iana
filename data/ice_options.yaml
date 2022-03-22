@@ -11,9 +11,6 @@ docid:
 - id: IANA ice/options
   type: IANA
   primary: true
-- id: ICE/OPTIONS
-  type: IANA
-  scope: anchor
 docnumber: ice/options
 date:
 - type: created

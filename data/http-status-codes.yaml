@@ -11,9 +11,6 @@ docid:
 - id: IANA http-status-codes
   type: IANA
   primary: true
-- id: HTTP-STATUS-CODES
-  type: IANA
-  scope: anchor
 docnumber: http-status-codes
 date:
 - type: updated

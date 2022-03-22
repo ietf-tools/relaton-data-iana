@@ -11,9 +11,6 @@ docid:
 - id: IANA quic/quic-versions
   type: IANA
   primary: true
-- id: QUIC/QUIC-VERSIONS
-  type: IANA
-  scope: anchor
 docnumber: quic/quic-versions
 date:
 - type: created

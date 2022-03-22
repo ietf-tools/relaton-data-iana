@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-traffic-eng-tlvs/subtlv2
   type: IANA
   primary: true
-- id: OSPF-TRAFFIC-ENG-TLVS/SUBTLV2
-  type: IANA
-  scope: anchor
 docnumber: ospf-traffic-eng-tlvs/subtlv2
 date:
 - type: created

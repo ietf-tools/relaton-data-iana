@@ -11,9 +11,6 @@ docid:
 - id: IANA media-control-channel/ivr-prompt
   type: IANA
   primary: true
-- id: MEDIA-CONTROL-CHANNEL/IVR-PROMPT
-  type: IANA
-  scope: anchor
 docnumber: media-control-channel/ivr-prompt
 date:
 - type: created

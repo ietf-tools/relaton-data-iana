@@ -11,9 +11,6 @@ docid:
 - id: IANA aodv-parameters
   type: IANA
   primary: true
-- id: AODV-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: aodv-parameters
 date:
 - type: created

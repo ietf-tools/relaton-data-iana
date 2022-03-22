@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-lls-tlvs/ospf-lls-tlvs-1
   type: IANA
   primary: true
-- id: OSPF-LLS-TLVS/OSPF-LLS-TLVS-1
-  type: IANA
-  scope: anchor
 docnumber: ospf-lls-tlvs/ospf-lls-tlvs-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA abfab-parameters
   type: IANA
   primary: true
-- id: ABFAB-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: abfab-parameters
 date:
 - type: created

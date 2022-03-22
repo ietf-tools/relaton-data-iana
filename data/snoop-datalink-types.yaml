@@ -11,9 +11,6 @@ docid:
 - id: IANA snoop-datalink-types
   type: IANA
   primary: true
-- id: SNOOP-DATALINK-TYPES
-  type: IANA
-  scope: anchor
 docnumber: snoop-datalink-types
 date:
 - type: created

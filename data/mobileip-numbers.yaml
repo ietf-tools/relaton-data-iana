@@ -11,9 +11,6 @@ docid:
 - id: IANA mobileip-numbers
   type: IANA
   primary: true
-- id: MOBILEIP-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: mobileip-numbers
 date:
 - type: updated

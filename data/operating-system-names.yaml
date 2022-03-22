@@ -11,9 +11,6 @@ docid:
 - id: IANA operating-system-names
   type: IANA
   primary: true
-- id: OPERATING-SYSTEM-NAMES
-  type: IANA
-  scope: anchor
 docnumber: operating-system-names
 date:
 - type: updated

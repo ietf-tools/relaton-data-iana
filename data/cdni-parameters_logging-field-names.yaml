@@ -11,9 +11,6 @@ docid:
 - id: IANA cdni-parameters/logging-field-names
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/LOGGING-FIELD-NAMES
-  type: IANA
-  scope: anchor
 docnumber: cdni-parameters/logging-field-names
 date:
 - type: created

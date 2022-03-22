@@ -11,9 +11,6 @@ docid:
 - id: IANA rsvp-te-parameters/wavelength-assignment-method
   type: IANA
   primary: true
-- id: RSVP-TE-PARAMETERS/WAVELENGTH-ASSIGNMENT-METHOD
-  type: IANA
-  scope: anchor
 docnumber: rsvp-te-parameters/wavelength-assignment-method
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/hi-algorithm
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HI-ALGORITHM
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/hi-algorithm
 date:
 - type: created

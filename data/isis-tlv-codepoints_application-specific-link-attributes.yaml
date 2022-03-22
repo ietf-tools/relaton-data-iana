@@ -11,9 +11,6 @@ docid:
 - id: IANA isis-tlv-codepoints/application-specific-link-attributes
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/APPLICATION-SPECIFIC-LINK-ATTRIBUTES
-  type: IANA
-  scope: anchor
 docnumber: isis-tlv-codepoints/application-specific-link-attributes
 date:
 - type: created

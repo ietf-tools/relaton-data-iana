@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/loss-delay-measurement-tlv
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/LOSS-DELAY-MEASUREMENT-TLV
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/loss-delay-measurement-tlv
 date:
 - type: created

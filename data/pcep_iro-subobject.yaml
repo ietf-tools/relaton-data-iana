@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/iro-subobject
   type: IANA
   primary: true
-- id: PCEP/IRO-SUBOBJECT
-  type: IANA
-  scope: anchor
 docnumber: pcep/iro-subobject
 date:
 - type: created

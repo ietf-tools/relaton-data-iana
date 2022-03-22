@@ -11,9 +11,6 @@ docid:
 - id: IANA ldp-namespaces/fec-type
   type: IANA
   primary: true
-- id: LDP-NAMESPACES/FEC-TYPE
-  type: IANA
-  scope: anchor
 docnumber: ldp-namespaces/fec-type
 date:
 - type: updated

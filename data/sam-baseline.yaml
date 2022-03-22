@@ -11,9 +11,6 @@ docid:
 - id: IANA sam-baseline
   type: IANA
   primary: true
-- id: SAM-BASELINE
-  type: IANA
-  scope: anchor
 docnumber: sam-baseline
 date:
 - type: created

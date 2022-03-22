@@ -11,9 +11,6 @@ docid:
 - id: IANA dlep-parameters
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: dlep-parameters
 date:
 - type: created

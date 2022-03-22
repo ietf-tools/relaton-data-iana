@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/notify-reason
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/NOTIFY-REASON
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/notify-reason
 date:
 - type: created

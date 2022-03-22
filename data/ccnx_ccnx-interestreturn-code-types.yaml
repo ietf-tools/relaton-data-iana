@@ -11,9 +11,6 @@ docid:
 - id: IANA ccnx/ccnx-interestreturn-code-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-INTERESTRETURN-CODE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ccnx/ccnx-interestreturn-code-types
 date:
 - type: created

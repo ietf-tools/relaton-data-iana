@@ -11,9 +11,6 @@ docid:
 - id: IANA nslp-parameters/informational
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/INFORMATIONAL
-  type: IANA
-  scope: anchor
 docnumber: nslp-parameters/informational
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/smf-nbr-types
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/SMF-NBR-TYPES
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/smf-nbr-types
 date:
 - type: created

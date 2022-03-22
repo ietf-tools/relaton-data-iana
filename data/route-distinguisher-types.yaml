@@ -11,9 +11,6 @@ docid:
 - id: IANA route-distinguisher-types
   type: IANA
   primary: true
-- id: ROUTE-DISTINGUISHER-TYPES
-  type: IANA
-  scope: anchor
 docnumber: route-distinguisher-types
 date:
 - type: created

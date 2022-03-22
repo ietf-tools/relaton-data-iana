@@ -11,9 +11,6 @@ docid:
 - id: IANA pwe3-parameters/gach-ethernet
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/GACH-ETHERNET
-  type: IANA
-  scope: anchor
 docnumber: pwe3-parameters/gach-ethernet
 date:
 - type: created

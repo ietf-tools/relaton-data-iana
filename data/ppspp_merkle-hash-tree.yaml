@@ -11,9 +11,6 @@ docid:
 - id: IANA ppspp/merkle-hash-tree
   type: IANA
   primary: true
-- id: PPSPP/MERKLE-HASH-TREE
-  type: IANA
-  scope: anchor
 docnumber: ppspp/merkle-hash-tree
 date:
 - type: created

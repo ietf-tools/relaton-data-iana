@@ -11,9 +11,6 @@ docid:
 - id: IANA igmp-type-numbers/igmp-type-numbers-2
   type: IANA
   primary: true
-- id: IGMP-TYPE-NUMBERS/IGMP-TYPE-NUMBERS-2
-  type: IANA
-  scope: anchor
 docnumber: igmp-type-numbers/igmp-type-numbers-2
 date:
 - type: created

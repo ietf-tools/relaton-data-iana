@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/local_if-tlv
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/LOCAL_IF-TLV
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/local_if-tlv
 date:
 - type: created

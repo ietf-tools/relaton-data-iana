@@ -11,9 +11,6 @@ docid:
 - id: IANA sip-parameters
   type: IANA
   primary: true
-- id: SIP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: sip-parameters
 date:
 - type: created

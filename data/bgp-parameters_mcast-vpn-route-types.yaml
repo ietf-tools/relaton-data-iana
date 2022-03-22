@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-parameters/mcast-vpn-route-types
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/MCAST-VPN-ROUTE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: bgp-parameters/mcast-vpn-route-types
 date:
 - type: updated

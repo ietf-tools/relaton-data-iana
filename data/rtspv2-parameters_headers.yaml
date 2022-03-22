@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/headers
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/HEADERS
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/headers
 date:
 - type: created

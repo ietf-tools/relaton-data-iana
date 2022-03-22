@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/mpr-tlv-bit
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/MPR-TLV-BIT
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/mpr-tlv-bit
 date:
 - type: created

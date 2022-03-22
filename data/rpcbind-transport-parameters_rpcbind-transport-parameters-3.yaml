@@ -11,9 +11,6 @@ docid:
 - id: IANA rpcbind-transport-parameters/rpcbind-transport-parameters-3
   type: IANA
   primary: true
-- id: RPCBIND-TRANSPORT-PARAMETERS/RPCBIND-TRANSPORT-PARAMETERS-3
-  type: IANA
-  scope: anchor
 docnumber: rpcbind-transport-parameters/rpcbind-transport-parameters-3
 date:
 - type: created

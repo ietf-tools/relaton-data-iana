@@ -11,9 +11,6 @@ docid:
 - id: IANA iscsi-parameters/management-function-response
   type: IANA
   primary: true
-- id: ISCSI-PARAMETERS/MANAGEMENT-FUNCTION-RESPONSE
-  type: IANA
-  scope: anchor
 docnumber: iscsi-parameters/management-function-response
 date:
 - type: created

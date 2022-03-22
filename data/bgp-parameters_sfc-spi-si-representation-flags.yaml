@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-parameters/sfc-spi-si-representation-flags
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/SFC-SPI-SI-REPRESENTATION-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: bgp-parameters/sfc-spi-si-representation-flags
 date:
 - type: updated

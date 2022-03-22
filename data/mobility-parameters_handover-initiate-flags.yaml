@@ -11,9 +11,6 @@ docid:
 - id: IANA mobility-parameters/handover-initiate-flags
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/HANDOVER-INITIATE-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: mobility-parameters/handover-initiate-flags
 date:
 - type: created

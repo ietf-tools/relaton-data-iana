@@ -11,9 +11,6 @@ docid:
 - id: IANA vcdiff-comp-ids
   type: IANA
   primary: true
-- id: VCDIFF-COMP-IDS
-  type: IANA
-  scope: anchor
 docnumber: vcdiff-comp-ids
 date:
 - type: created

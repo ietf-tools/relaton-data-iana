@@ -11,9 +11,6 @@ docid:
 - id: IANA vnc-uri/connection-channel-types
   type: IANA
   primary: true
-- id: VNC-URI/CONNECTION-CHANNEL-TYPES
-  type: IANA
-  scope: anchor
 docnumber: vnc-uri/connection-channel-types
 date:
 - type: created

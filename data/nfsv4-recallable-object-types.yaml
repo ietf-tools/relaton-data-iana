@@ -11,9 +11,6 @@ docid:
 - id: IANA nfsv4-recallable-object-types
   type: IANA
   primary: true
-- id: NFSV4-RECALLABLE-OBJECT-TYPES
-  type: IANA
-  scope: anchor
 docnumber: nfsv4-recallable-object-types
 date:
 - type: created

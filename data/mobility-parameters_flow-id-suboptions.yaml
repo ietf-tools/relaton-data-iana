@@ -11,9 +11,6 @@ docid:
 - id: IANA mobility-parameters/flow-id-suboptions
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/FLOW-ID-SUBOPTIONS
-  type: IANA
-  scope: anchor
 docnumber: mobility-parameters/flow-id-suboptions
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA nsh/optional-variable-length-metadata-types
   type: IANA
   primary: true
-- id: NSH/OPTIONAL-VARIABLE-LENGTH-METADATA-TYPES
-  type: IANA
-  scope: anchor
 docnumber: nsh/optional-variable-length-metadata-types
 date:
 - type: created

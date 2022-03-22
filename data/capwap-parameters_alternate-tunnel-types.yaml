@@ -11,9 +11,6 @@ docid:
 - id: IANA capwap-parameters/alternate-tunnel-types
   type: IANA
   primary: true
-- id: CAPWAP-PARAMETERS/ALTERNATE-TUNNEL-TYPES
-  type: IANA
-  scope: anchor
 docnumber: capwap-parameters/alternate-tunnel-types
 date:
 - type: created

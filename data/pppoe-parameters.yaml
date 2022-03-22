@@ -11,9 +11,6 @@ docid:
 - id: IANA pppoe-parameters
   type: IANA
   primary: true
-- id: PPPOE-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: pppoe-parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA icmpv6-parameters/pvd-option-flags
   type: IANA
   primary: true
-- id: ICMPV6-PARAMETERS/PVD-OPTION-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: icmpv6-parameters/pvd-option-flags
 date:
 - type: updated

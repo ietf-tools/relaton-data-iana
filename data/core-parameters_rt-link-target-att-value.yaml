@@ -11,9 +11,6 @@ docid:
 - id: IANA core-parameters/rt-link-target-att-value
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/RT-LINK-TARGET-ATT-VALUE
-  type: IANA
-  scope: anchor
 docnumber: core-parameters/rt-link-target-att-value
 date:
 - type: created

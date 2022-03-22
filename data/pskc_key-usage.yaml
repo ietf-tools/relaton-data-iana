@@ -11,9 +11,6 @@ docid:
 - id: IANA pskc/key-usage
   type: IANA
   primary: true
-- id: PSKC/KEY-USAGE
-  type: IANA
-  scope: anchor
 docnumber: pskc/key-usage
 date:
 - type: created

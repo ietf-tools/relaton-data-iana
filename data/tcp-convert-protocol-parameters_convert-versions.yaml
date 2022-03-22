@@ -11,9 +11,6 @@ docid:
 - id: IANA tcp-convert-protocol-parameters/convert-versions
   type: IANA
   primary: true
-- id: TCP-CONVERT-PROTOCOL-PARAMETERS/CONVERT-VERSIONS
-  type: IANA
-  scope: anchor
 docnumber: tcp-convert-protocol-parameters/convert-versions
 date:
 - type: created

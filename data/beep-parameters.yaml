@@ -11,9 +11,6 @@ docid:
 - id: IANA beep-parameters
   type: IANA
   primary: true
-- id: BEEP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: beep-parameters
 date:
 - type: created

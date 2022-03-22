@@ -11,9 +11,6 @@ docid:
 - id: IANA imap-capabilities
   type: IANA
   primary: true
-- id: IMAP-CAPABILITIES
-  type: IANA
-  scope: anchor
 docnumber: imap-capabilities
 date:
 - type: updated

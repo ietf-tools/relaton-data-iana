@@ -11,9 +11,6 @@ docid:
 - id: IANA ipv6-routeralert-values/ipv6-routeralert-values-1
   type: IANA
   primary: true
-- id: IPV6-ROUTERALERT-VALUES/IPV6-ROUTERALERT-VALUES-1
-  type: IANA
-  scope: anchor
 docnumber: ipv6-routeralert-values/ipv6-routeralert-values-1
 date:
 - type: created

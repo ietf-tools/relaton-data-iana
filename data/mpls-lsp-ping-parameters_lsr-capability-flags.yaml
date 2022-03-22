@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/lsr-capability-flags
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/LSR-CAPABILITY-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/lsr-capability-flags
 date:
 - type: created

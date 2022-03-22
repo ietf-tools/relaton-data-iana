@@ -11,9 +11,6 @@ docid:
 - id: IANA rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
   type: IANA
   primary: true
-- id: RPC-AUTHENTICATION-NUMBERS/RPCSEC_GSS-STRUCTURED-PRIVILEGE-NAMES
-  type: IANA
-  scope: anchor
 docnumber: rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
 date:
 - type: created

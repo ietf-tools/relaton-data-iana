@@ -11,9 +11,6 @@ docid:
 - id: IANA named-information/hash-alg
   type: IANA
   primary: true
-- id: NAMED-INFORMATION/HASH-ALG
-  type: IANA
-  scope: anchor
 docnumber: named-information/hash-alg
 date:
 - type: created

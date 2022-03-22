@@ -11,9 +11,6 @@ docid:
 - id: IANA acme/acme-error-types
   type: IANA
   primary: true
-- id: ACME/ACME-ERROR-TYPES
-  type: IANA
-  scope: anchor
 docnumber: acme/acme-error-types
 date:
 - type: created

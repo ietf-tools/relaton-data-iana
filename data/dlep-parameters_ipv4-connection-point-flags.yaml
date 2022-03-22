@@ -11,9 +11,6 @@ docid:
 - id: IANA dlep-parameters/ipv4-connection-point-flags
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/IPV4-CONNECTION-POINT-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: dlep-parameters/ipv4-connection-point-flags
 date:
 - type: created

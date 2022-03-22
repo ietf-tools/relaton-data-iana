@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/metadata-id
   type: IANA
   primary: true
-- id: FORCES/METADATA-ID
-  type: IANA
-  scope: anchor
 docnumber: forces/metadata-id
 date:
 - type: created

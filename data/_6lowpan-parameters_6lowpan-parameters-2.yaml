@@ -11,9 +11,6 @@ docid:
 - id: IANA _6lowpan-parameters/_6lowpan-parameters-2
   type: IANA
   primary: true
-- id: _6LOWPAN-PARAMETERS/_6LOWPAN-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: _6lowpan-parameters/_6lowpan-parameters-2
 date:
 - type: created

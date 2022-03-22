@@ -11,9 +11,6 @@ docid:
 - id: IANA paws
   type: IANA
   primary: true
-- id: PAWS
-  type: IANA
-  scope: anchor
 docnumber: paws
 date:
 - type: created

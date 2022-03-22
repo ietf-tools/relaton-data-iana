@@ -11,9 +11,6 @@ docid:
 - id: IANA uaddr-formats
   type: IANA
   primary: true
-- id: UADDR-FORMATS
-  type: IANA
-  scope: anchor
 docnumber: uaddr-formats
 date:
 - type: created

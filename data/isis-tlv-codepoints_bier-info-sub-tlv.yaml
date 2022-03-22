@@ -11,9 +11,6 @@ docid:
 - id: IANA isis-tlv-codepoints/bier-info-sub-tlv
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/BIER-INFO-SUB-TLV
-  type: IANA
-  scope: anchor
 docnumber: isis-tlv-codepoints/bier-info-sub-tlv
 date:
 - type: created

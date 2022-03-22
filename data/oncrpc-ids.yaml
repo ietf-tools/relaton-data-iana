@@ -11,9 +11,6 @@ docid:
 - id: IANA oncrpc-ids
   type: IANA
   primary: true
-- id: ONCRPC-IDS
-  type: IANA
-  scope: anchor
 docnumber: oncrpc-ids
 date:
 - type: created

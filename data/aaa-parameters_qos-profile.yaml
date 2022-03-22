@@ -11,9 +11,6 @@ docid:
 - id: IANA aaa-parameters/qos-profile
   type: IANA
   primary: true
-- id: AAA-PARAMETERS/QOS-PROFILE
-  type: IANA
-  scope: anchor
 docnumber: aaa-parameters/qos-profile
 date:
 - type: created

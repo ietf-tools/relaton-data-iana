@@ -11,9 +11,6 @@ docid:
 - id: IANA http-parameters
   type: IANA
   primary: true
-- id: HTTP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: http-parameters
 date:
 - type: updated

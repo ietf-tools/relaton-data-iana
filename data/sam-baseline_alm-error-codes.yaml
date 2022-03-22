@@ -11,9 +11,6 @@ docid:
 - id: IANA sam-baseline/alm-error-codes
   type: IANA
   primary: true
-- id: SAM-BASELINE/ALM-ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: sam-baseline/alm-error-codes
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA babel/sub-tlv-types
   type: IANA
   primary: true
-- id: BABEL/SUB-TLV-TYPES
-  type: IANA
-  scope: anchor
 docnumber: babel/sub-tlv-types
 date:
 - type: created

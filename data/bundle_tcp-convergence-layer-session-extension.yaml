@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/tcp-convergence-layer-session-extension
   type: IANA
   primary: true
-- id: BUNDLE/TCP-CONVERGENCE-LAYER-SESSION-EXTENSION
-  type: IANA
-  scope: anchor
 docnumber: bundle/tcp-convergence-layer-session-extension
 date:
 - type: created

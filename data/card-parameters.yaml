@@ -11,9 +11,6 @@ docid:
 - id: IANA card-parameters
   type: IANA
   primary: true
-- id: CARD-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: card-parameters
 date:
 - type: created

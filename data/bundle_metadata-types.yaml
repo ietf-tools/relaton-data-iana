@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/metadata-types
   type: IANA
   primary: true
-- id: BUNDLE/METADATA-TYPES
-  type: IANA
-  scope: anchor
 docnumber: bundle/metadata-types
 date:
 - type: created

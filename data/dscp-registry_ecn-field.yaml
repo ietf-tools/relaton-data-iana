@@ -11,9 +11,6 @@ docid:
 - id: IANA dscp-registry/ecn-field
   type: IANA
   primary: true
-- id: DSCP-REGISTRY/ECN-FIELD
-  type: IANA
-  scope: anchor
 docnumber: dscp-registry/ecn-field
 date:
 - type: updated

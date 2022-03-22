@@ -11,9 +11,6 @@ docid:
 - id: IANA gnss
   type: IANA
   primary: true
-- id: GNSS
-  type: IANA
-  scope: anchor
 docnumber: gnss
 date:
 - type: created

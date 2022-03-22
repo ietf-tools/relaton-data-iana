@@ -11,9 +11,6 @@ docid:
 - id: IANA rsvp-te-parameters/rtm_set-object-sub-object-types
   type: IANA
   primary: true
-- id: RSVP-TE-PARAMETERS/RTM_SET-OBJECT-SUB-OBJECT-TYPES
-  type: IANA
-  scope: anchor
 docnumber: rsvp-te-parameters/rtm_set-object-sub-object-types
 date:
 - type: created

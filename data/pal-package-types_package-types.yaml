@@ -11,9 +11,6 @@ docid:
 - id: IANA pal-package-types/package-types
   type: IANA
   primary: true
-- id: PAL-PACKAGE-TYPES/PACKAGE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: pal-package-types/package-types
 date:
 - type: created

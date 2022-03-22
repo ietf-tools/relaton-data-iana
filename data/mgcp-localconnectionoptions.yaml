@@ -11,9 +11,6 @@ docid:
 - id: IANA mgcp-localconnectionoptions
   type: IANA
   primary: true
-- id: MGCP-LOCALCONNECTIONOPTIONS
-  type: IANA
-  scope: anchor
 docnumber: mgcp-localconnectionoptions
 date:
 - type: created

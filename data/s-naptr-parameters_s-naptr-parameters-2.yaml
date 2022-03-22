@@ -11,9 +11,6 @@ docid:
 - id: IANA s-naptr-parameters/s-naptr-parameters-2
   type: IANA
   primary: true
-- id: S-NAPTR-PARAMETERS/S-NAPTR-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: s-naptr-parameters/s-naptr-parameters-2
 date:
 - type: created

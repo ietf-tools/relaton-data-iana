@@ -11,9 +11,6 @@ docid:
 - id: IANA icalendar/resource-types
   type: IANA
   primary: true
-- id: ICALENDAR/RESOURCE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: icalendar/resource-types
 date:
 - type: created

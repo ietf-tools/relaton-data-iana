@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/extendedresult-tlv
   type: IANA
   primary: true
-- id: FORCES/EXTENDEDRESULT-TLV
-  type: IANA
-  scope: anchor
 docnumber: forces/extendedresult-tlv
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA dcep-parameters
   type: IANA
   primary: true
-- id: DCEP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: dcep-parameters
 date:
 - type: created

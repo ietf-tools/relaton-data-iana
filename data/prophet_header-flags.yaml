@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/header-flags
   type: IANA
   primary: true
-- id: PROPHET/HEADER-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: prophet/header-flags
 date:
 - type: created

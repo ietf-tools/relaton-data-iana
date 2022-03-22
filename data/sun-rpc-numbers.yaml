@@ -11,9 +11,6 @@ docid:
 - id: IANA sun-rpc-numbers
   type: IANA
   primary: true
-- id: SUN-RPC-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: sun-rpc-numbers
 date:
 - type: updated

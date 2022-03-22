@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/ciphersuite-parameters
   type: IANA
   primary: true
-- id: BUNDLE/CIPHERSUITE-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: bundle/ciphersuite-parameters
 date:
 - type: created

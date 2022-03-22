@@ -11,9 +11,6 @@ docid:
 - id: IANA flute-parameters/encoding-algs
   type: IANA
   primary: true
-- id: FLUTE-PARAMETERS/ENCODING-ALGS
-  type: IANA
-  scope: anchor
 docnumber: flute-parameters/encoding-algs
 date:
 - type: created

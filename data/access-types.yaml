@@ -11,9 +11,6 @@ docid:
 - id: IANA access-types
   type: IANA
   primary: true
-- id: ACCESS-TYPES
-  type: IANA
-  scope: anchor
 docnumber: access-types
 date:
 - type: updated

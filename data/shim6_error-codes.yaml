@@ -11,9 +11,6 @@ docid:
 - id: IANA shim6/error-codes
   type: IANA
   primary: true
-- id: SHIM6/ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: shim6/error-codes
 date:
 - type: created

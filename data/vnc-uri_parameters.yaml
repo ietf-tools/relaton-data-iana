@@ -11,9 +11,6 @@ docid:
 - id: IANA vnc-uri/parameters
   type: IANA
   primary: true
-- id: VNC-URI/PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: vnc-uri/parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA core-parameters/signaling-codes
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/SIGNALING-CODES
-  type: IANA
-  scope: anchor
 docnumber: core-parameters/signaling-codes
 date:
 - type: created

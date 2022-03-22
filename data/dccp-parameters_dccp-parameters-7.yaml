@@ -11,9 +11,6 @@ docid:
 - id: IANA dccp-parameters/dccp-parameters-7
   type: IANA
   primary: true
-- id: DCCP-PARAMETERS/DCCP-PARAMETERS-7
-  type: IANA
-  scope: anchor
 docnumber: dccp-parameters/dccp-parameters-7
 date:
 - type: created

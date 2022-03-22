@@ -11,9 +11,6 @@ docid:
 - id: IANA ip-parameters/ip-parameters-2
   type: IANA
   primary: true
-- id: IP-PARAMETERS/IP-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: ip-parameters/ip-parameters-2
 date:
 - type: updated

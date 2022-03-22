@@ -11,9 +11,6 @@ docid:
 - id: IANA ipfix/ipfix-information-elements
   type: IANA
   primary: true
-- id: IPFIX/IPFIX-INFORMATION-ELEMENTS
-  type: IANA
-  scope: anchor
 docnumber: ipfix/ipfix-information-elements
 date:
 - type: created

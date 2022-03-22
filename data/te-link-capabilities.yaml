@@ -11,9 +11,6 @@ docid:
 - id: IANA te-link-capabilities
   type: IANA
   primary: true
-- id: TE-LINK-CAPABILITIES
-  type: IANA
-  scope: anchor
 docnumber: te-link-capabilities
 date:
 - type: created

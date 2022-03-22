@@ -11,9 +11,6 @@ docid:
 - id: IANA idna-tables-9.0.0
   type: IANA
   primary: true
-- id: IDNA-TABLES-9.0.0
-  type: IANA
-  scope: anchor
 docnumber: idna-tables-9.0.0
 date:
 - type: created

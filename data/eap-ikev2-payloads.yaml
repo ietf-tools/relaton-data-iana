@@ -12,9 +12,6 @@ docid:
 - id: IANA eap-ikev2-payloads
   type: IANA
   primary: true
-- id: EAP-IKEV2-PAYLOADS
-  type: IANA
-  scope: anchor
 docnumber: eap-ikev2-payloads
 date:
 - type: created

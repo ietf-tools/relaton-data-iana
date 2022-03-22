@@ -11,9 +11,6 @@ docid:
 - id: IANA spi-numbers
   type: IANA
   primary: true
-- id: SPI-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: spi-numbers
 date:
 - type: updated

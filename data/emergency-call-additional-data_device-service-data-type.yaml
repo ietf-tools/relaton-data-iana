@@ -11,9 +11,6 @@ docid:
 - id: IANA emergency-call-additional-data/device-service-data-type
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-ADDITIONAL-DATA/DEVICE-SERVICE-DATA-TYPE
-  type: IANA
-  scope: anchor
 docnumber: emergency-call-additional-data/device-service-data-type
 date:
 - type: created

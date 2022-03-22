@@ -11,9 +11,6 @@ docid:
 - id: IANA xml-security-uris
   type: IANA
   primary: true
-- id: XML-SECURITY-URIS
-  type: IANA
-  scope: anchor
 docnumber: xml-security-uris
 date:
 - type: created

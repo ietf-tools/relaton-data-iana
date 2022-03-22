@@ -11,9 +11,6 @@ docid:
 - id: IANA gdoi-payloads/gdoi-doi-exchange-types
   type: IANA
   primary: true
-- id: GDOI-PAYLOADS/GDOI-DOI-EXCHANGE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: gdoi-payloads/gdoi-doi-exchange-types
 date:
 - type: created

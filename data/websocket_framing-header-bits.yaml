@@ -11,9 +11,6 @@ docid:
 - id: IANA websocket/framing-header-bits
   type: IANA
   primary: true
-- id: WEBSOCKET/FRAMING-HEADER-BITS
-  type: IANA
-  scope: anchor
 docnumber: websocket/framing-header-bits
 date:
 - type: created

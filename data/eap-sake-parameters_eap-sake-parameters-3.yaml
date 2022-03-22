@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-sake-parameters/eap-sake-parameters-3
   type: IANA
   primary: true
-- id: EAP-SAKE-PARAMETERS/EAP-SAKE-PARAMETERS-3
-  type: IANA
-  scope: anchor
 docnumber: eap-sake-parameters/eap-sake-parameters-3
 date:
 - type: created

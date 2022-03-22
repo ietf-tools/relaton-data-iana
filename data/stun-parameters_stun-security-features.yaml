@@ -11,9 +11,6 @@ docid:
 - id: IANA stun-parameters/stun-security-features
   type: IANA
   primary: true
-- id: STUN-PARAMETERS/STUN-SECURITY-FEATURES
-  type: IANA
-  scope: anchor
 docnumber: stun-parameters/stun-security-features
 date:
 - type: created

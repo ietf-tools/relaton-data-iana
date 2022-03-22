@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/measurement-timestamp
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/MEASUREMENT-TIMESTAMP
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/measurement-timestamp
 date:
 - type: created

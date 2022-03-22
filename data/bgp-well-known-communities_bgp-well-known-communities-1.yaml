@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-well-known-communities/bgp-well-known-communities-1
   type: IANA
   primary: true
-- id: BGP-WELL-KNOWN-COMMUNITIES/BGP-WELL-KNOWN-COMMUNITIES-1
-  type: IANA
-  scope: anchor
 docnumber: bgp-well-known-communities/bgp-well-known-communities-1
 date:
 - type: created

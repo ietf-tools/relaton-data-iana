@@ -11,9 +11,6 @@ docid:
 - id: IANA icalendar/display-types
   type: IANA
   primary: true
-- id: ICALENDAR/DISPLAY-TYPES
-  type: IANA
-  scope: anchor
 docnumber: icalendar/display-types
 date:
 - type: created

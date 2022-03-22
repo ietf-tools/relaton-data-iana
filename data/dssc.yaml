@@ -12,9 +12,6 @@ docid:
 - id: IANA dssc
   type: IANA
   primary: true
-- id: DSSC
-  type: IANA
-  scope: anchor
 docnumber: dssc
 date:
 - type: created

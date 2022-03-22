@@ -11,9 +11,6 @@ docid:
 - id: IANA ospfv3-authentication-trailer-options
   type: IANA
   primary: true
-- id: OSPFV3-AUTHENTICATION-TRAILER-OPTIONS
-  type: IANA
-  scope: anchor
 docnumber: ospfv3-authentication-trailer-options
 date:
 - type: created

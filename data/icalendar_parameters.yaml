@@ -11,9 +11,6 @@ docid:
 - id: IANA icalendar/parameters
   type: IANA
   primary: true
-- id: ICALENDAR/PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: icalendar/parameters
 date:
 - type: created

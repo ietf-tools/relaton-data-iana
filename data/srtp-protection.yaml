@@ -12,9 +12,6 @@ docid:
 - id: IANA srtp-protection
   type: IANA
   primary: true
-- id: SRTP-PROTECTION
-  type: IANA
-  scope: anchor
 docnumber: srtp-protection
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA multicast-addresses/multicast-addresses-10
   type: IANA
   primary: true
-- id: MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-10
-  type: IANA
-  scope: anchor
 docnumber: multicast-addresses/multicast-addresses-10
 date:
 - type: updated

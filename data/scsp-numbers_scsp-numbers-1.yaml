@@ -11,9 +11,6 @@ docid:
 - id: IANA scsp-numbers/scsp-numbers-1
   type: IANA
   primary: true
-- id: SCSP-NUMBERS/SCSP-NUMBERS-1
-  type: IANA
-  scope: anchor
 docnumber: scsp-numbers/scsp-numbers-1
 date:
 - type: updated

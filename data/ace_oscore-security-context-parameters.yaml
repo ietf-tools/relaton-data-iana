@@ -11,9 +11,6 @@ docid:
 - id: IANA ace/oscore-security-context-parameters
   type: IANA
   primary: true
-- id: ACE/OSCORE-SECURITY-CONTEXT-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: ace/oscore-security-context-parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA media-type-structured-suffix
   type: IANA
   primary: true
-- id: MEDIA-TYPE-STRUCTURED-SUFFIX
-  type: IANA
-  scope: anchor
 docnumber: media-type-structured-suffix
 date:
 - type: created

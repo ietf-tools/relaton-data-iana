@@ -11,9 +11,6 @@ docid:
 - id: IANA imap-metadata
   type: IANA
   primary: true
-- id: IMAP-METADATA
-  type: IANA
-  scope: anchor
 docnumber: imap-metadata
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA acp/acp-address-type
   type: IANA
   primary: true
-- id: ACP/ACP-ADDRESS-TYPE
-  type: IANA
-  scope: anchor
 docnumber: acp/acp-address-type
 date:
 - type: created

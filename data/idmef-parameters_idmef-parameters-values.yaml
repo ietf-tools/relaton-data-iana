@@ -11,9 +11,6 @@ docid:
 - id: IANA idmef-parameters/idmef-parameters-values
   type: IANA
   primary: true
-- id: IDMEF-PARAMETERS/IDMEF-PARAMETERS-VALUES
-  type: IANA
-  scope: anchor
 docnumber: idmef-parameters/idmef-parameters-values
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1
   type: IANA
   primary: true
-- id: SVRLOC-CRYPTOGRAPHIC-BSD/SVRLOC-CRYPTOGRAPHIC-BSD-1
-  type: IANA
-  scope: anchor
 docnumber: svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1
 date:
 - type: created

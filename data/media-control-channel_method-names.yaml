@@ -11,9 +11,6 @@ docid:
 - id: IANA media-control-channel/method-names
   type: IANA
   primary: true
-- id: MEDIA-CONTROL-CHANNEL/METHOD-NAMES
-  type: IANA
-  scope: anchor
 docnumber: media-control-channel/method-names
 date:
 - type: created

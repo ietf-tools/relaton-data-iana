@@ -11,9 +11,6 @@ docid:
 - id: IANA ianagmplstc-mib
   type: IANA
   primary: true
-- id: IANAGMPLSTC-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianagmplstc-mib
 date:
 - type: created

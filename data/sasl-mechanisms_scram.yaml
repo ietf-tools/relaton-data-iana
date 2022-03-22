@@ -11,9 +11,6 @@ docid:
 - id: IANA sasl-mechanisms/scram
   type: IANA
   primary: true
-- id: SASL-MECHANISMS/SCRAM
-  type: IANA
-  scope: anchor
 docnumber: sasl-mechanisms/scram
 date:
 - type: updated

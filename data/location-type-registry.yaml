@@ -11,9 +11,6 @@ docid:
 - id: IANA location-type-registry
   type: IANA
   primary: true
-- id: LOCATION-TYPE-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: location-type-registry
 date:
 - type: created

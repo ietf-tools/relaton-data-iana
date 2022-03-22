@@ -11,9 +11,6 @@ docid:
 - id: IANA ancp/joint-version
   type: IANA
   primary: true
-- id: ANCP/JOINT-VERSION
-  type: IANA
-  scope: anchor
 docnumber: ancp/joint-version
 date:
 - type: created

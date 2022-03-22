@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-parameters/bfd-mode
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BFD-MODE
-  type: IANA
-  scope: anchor
 docnumber: bgp-parameters/bfd-mode
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA http2-parameters/frame-type
   type: IANA
   primary: true
-- id: HTTP2-PARAMETERS/FRAME-TYPE
-  type: IANA
-  scope: anchor
 docnumber: http2-parameters/frame-type
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA _6tisch
   type: IANA
   primary: true
-- id: _6TISCH
-  type: IANA
-  scope: anchor
 docnumber: _6tisch
 date:
 - type: created

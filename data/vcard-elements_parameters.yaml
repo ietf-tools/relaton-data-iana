@@ -11,9 +11,6 @@ docid:
 - id: IANA vcard-elements/parameters
   type: IANA
   primary: true
-- id: VCARD-ELEMENTS/PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: vcard-elements/parameters
 date:
 - type: created

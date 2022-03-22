@@ -11,9 +11,6 @@ docid:
 - id: IANA ice
   type: IANA
   primary: true
-- id: ICE
-  type: IANA
-  scope: anchor
 docnumber: ice
 date:
 - type: created

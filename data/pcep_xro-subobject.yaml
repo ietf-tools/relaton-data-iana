@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/xro-subobject
   type: IANA
   primary: true
-- id: PCEP/XRO-SUBOBJECT
-  type: IANA
-  scope: anchor
 docnumber: pcep/xro-subobject
 date:
 - type: created

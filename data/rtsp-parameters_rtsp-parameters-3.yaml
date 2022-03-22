@@ -11,9 +11,6 @@ docid:
 - id: IANA rtsp-parameters/rtsp-parameters-3
   type: IANA
   primary: true
-- id: RTSP-PARAMETERS/RTSP-PARAMETERS-3
-  type: IANA
-  scope: anchor
 docnumber: rtsp-parameters/rtsp-parameters-3
 date:
 - type: created

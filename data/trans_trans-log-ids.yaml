@@ -11,9 +11,6 @@ docid:
 - id: IANA trans/trans-log-ids
   type: IANA
   primary: true
-- id: TRANS/TRANS-LOG-IDS
-  type: IANA
-  scope: anchor
 docnumber: trans/trans-log-ids
 date:
 - type: created

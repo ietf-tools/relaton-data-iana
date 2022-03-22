@@ -11,9 +11,6 @@ docid:
 - id: IANA qspec/qspec-version
   type: IANA
   primary: true
-- id: QSPEC/QSPEC-VERSION
-  type: IANA
-  scope: anchor
 docnumber: qspec/qspec-version
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/lspa-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/LSPA-OBJECT-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/lspa-object-flag-field
 date:
 - type: created

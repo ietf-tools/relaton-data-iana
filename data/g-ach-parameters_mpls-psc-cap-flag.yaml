@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/mpls-psc-cap-flag
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/MPLS-PSC-CAP-FLAG
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/mpls-psc-cap-flag
 date:
 - type: created

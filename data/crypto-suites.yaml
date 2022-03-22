@@ -11,9 +11,6 @@ docid:
 - id: IANA crypto-suites
   type: IANA
   primary: true
-- id: CRYPTO-SUITES
-  type: IANA
-  scope: anchor
 docnumber: crypto-suites
 date:
 - type: created

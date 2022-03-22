@@ -11,9 +11,6 @@ docid:
 - id: IANA precis-parameters/profiles
   type: IANA
   primary: true
-- id: PRECIS-PARAMETERS/PROFILES
-  type: IANA
-  scope: anchor
 docnumber: precis-parameters/profiles
 date:
 - type: created

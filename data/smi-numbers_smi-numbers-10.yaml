@@ -11,9 +11,6 @@ docid:
 - id: IANA smi-numbers/smi-numbers-10
   type: IANA
   primary: true
-- id: SMI-NUMBERS/SMI-NUMBERS-10
-  type: IANA
-  scope: anchor
 docnumber: smi-numbers/smi-numbers-10
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/custody-signal-reason
   type: IANA
   primary: true
-- id: BUNDLE/CUSTODY-SIGNAL-REASON
-  type: IANA
-  scope: anchor
 docnumber: bundle/custody-signal-reason
 date:
 - type: created

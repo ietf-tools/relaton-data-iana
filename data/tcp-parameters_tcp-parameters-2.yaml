@@ -11,9 +11,6 @@ docid:
 - id: IANA tcp-parameters/tcp-parameters-2
   type: IANA
   primary: true
-- id: TCP-PARAMETERS/TCP-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: tcp-parameters/tcp-parameters-2
 date:
 - type: updated

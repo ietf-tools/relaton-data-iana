@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/transport-modes
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/TRANSPORT-MODES
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/transport-modes
 date:
 - type: created

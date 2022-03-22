@@ -11,9 +11,6 @@ docid:
 - id: IANA multicast-ping
   type: IANA
   primary: true
-- id: MULTICAST-PING
-  type: IANA
-  scope: anchor
 docnumber: multicast-ping
 date:
 - type: created

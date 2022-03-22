@@ -11,9 +11,6 @@ docid:
 - id: IANA remote-direct-data-placement
   type: IANA
   primary: true
-- id: REMOTE-DIRECT-DATA-PLACEMENT
-  type: IANA
-  scope: anchor
 docnumber: remote-direct-data-placement
 date:
 - type: created

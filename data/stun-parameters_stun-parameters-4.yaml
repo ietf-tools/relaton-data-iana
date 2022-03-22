@@ -11,9 +11,6 @@ docid:
 - id: IANA stun-parameters/stun-parameters-4
   type: IANA
   primary: true
-- id: STUN-PARAMETERS/STUN-PARAMETERS-4
-  type: IANA
-  scope: anchor
 docnumber: stun-parameters/stun-parameters-4
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/gach-application
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/GACH-APPLICATION
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/gach-application
 date:
 - type: created

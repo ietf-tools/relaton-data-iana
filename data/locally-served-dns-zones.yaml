@@ -11,9 +11,6 @@ docid:
 - id: IANA locally-served-dns-zones
   type: IANA
   primary: true
-- id: LOCALLY-SERVED-DNS-ZONES
-  type: IANA
-  scope: anchor
 docnumber: locally-served-dns-zones
 date:
 - type: created

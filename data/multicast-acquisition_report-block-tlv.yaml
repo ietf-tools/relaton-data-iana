@@ -11,9 +11,6 @@ docid:
 - id: IANA multicast-acquisition/report-block-tlv
   type: IANA
   primary: true
-- id: MULTICAST-ACQUISITION/REPORT-BLOCK-TLV
-  type: IANA
-  scope: anchor
 docnumber: multicast-acquisition/report-block-tlv
 date:
 - type: created

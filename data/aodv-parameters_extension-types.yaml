@@ -11,9 +11,6 @@ docid:
 - id: IANA aodv-parameters/extension-types
   type: IANA
   primary: true
-- id: AODV-PARAMETERS/EXTENSION-TYPES
-  type: IANA
-  scope: anchor
 docnumber: aodv-parameters/extension-types
 date:
 - type: created

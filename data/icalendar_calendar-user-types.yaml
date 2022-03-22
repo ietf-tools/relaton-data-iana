@@ -11,9 +11,6 @@ docid:
 - id: IANA icalendar/calendar-user-types
   type: IANA
   primary: true
-- id: ICALENDAR/CALENDAR-USER-TYPES
-  type: IANA
-  scope: anchor
 docnumber: icalendar/calendar-user-types
 date:
 - type: created

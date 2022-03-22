@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/bulkobservable-type
   type: IANA
   primary: true
-- id: IODEF2/BULKOBSERVABLE-TYPE
-  type: IANA
-  scope: anchor
 docnumber: iodef2/bulkobservable-type
 date:
 - type: created

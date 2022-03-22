@@ -11,9 +11,6 @@ docid:
 - id: IANA pnfs-layout-types
   type: IANA
   primary: true
-- id: PNFS-LAYOUT-TYPES
-  type: IANA
-  scope: anchor
 docnumber: pnfs-layout-types
 date:
 - type: created

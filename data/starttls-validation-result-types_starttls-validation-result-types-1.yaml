@@ -11,9 +11,6 @@ docid:
 - id: IANA starttls-validation-result-types/starttls-validation-result-types-1
   type: IANA
   primary: true
-- id: STARTTLS-VALIDATION-RESULT-TYPES/STARTTLS-VALIDATION-RESULT-TYPES-1
-  type: IANA
-  scope: anchor
 docnumber: starttls-validation-result-types/starttls-validation-result-types-1
 date:
 - type: created

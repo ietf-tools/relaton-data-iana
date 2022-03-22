@@ -11,9 +11,6 @@ docid:
 - id: IANA iana-tunnel-type
   type: IANA
   primary: true
-- id: IANA-TUNNEL-TYPE
-  type: IANA
-  scope: anchor
 docnumber: iana-tunnel-type
 date:
 - type: created

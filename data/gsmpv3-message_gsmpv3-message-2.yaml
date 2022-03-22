@@ -11,9 +11,6 @@ docid:
 - id: IANA gsmpv3-message/gsmpv3-message-2
   type: IANA
   primary: true
-- id: GSMPV3-MESSAGE/GSMPV3-MESSAGE-2
-  type: IANA
-  scope: anchor
 docnumber: gsmpv3-message/gsmpv3-message-2
 date:
 - type: created

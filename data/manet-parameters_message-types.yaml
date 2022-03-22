@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/message-types
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/MESSAGE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/message-types
 date:
 - type: created

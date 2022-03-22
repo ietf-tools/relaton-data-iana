@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-parameters/route-refresh-subcodes
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/ROUTE-REFRESH-SUBCODES
-  type: IANA
-  scope: anchor
 docnumber: bgp-parameters/route-refresh-subcodes
 date:
 - type: updated

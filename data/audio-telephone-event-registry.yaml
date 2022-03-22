@@ -11,9 +11,6 @@ docid:
 - id: IANA audio-telephone-event-registry
   type: IANA
   primary: true
-- id: AUDIO-TELEPHONE-EVENT-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: audio-telephone-event-registry
 date:
 - type: updated

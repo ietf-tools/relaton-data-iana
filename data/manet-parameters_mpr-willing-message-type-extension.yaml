@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/mpr-willing-message-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/MPR-WILLING-MESSAGE-TYPE-EXTENSION
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/mpr-willing-message-type-extension
 date:
 - type: created

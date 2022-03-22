@@ -11,9 +11,6 @@ docid:
 - id: IANA content-security-policy-directives
   type: IANA
   primary: true
-- id: CONTENT-SECURITY-POLICY-DIRECTIVES
-  type: IANA
-  scope: anchor
 docnumber: content-security-policy-directives
 date:
 - type: created

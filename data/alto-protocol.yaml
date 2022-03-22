@@ -11,9 +11,6 @@ docid:
 - id: IANA alto-protocol
   type: IANA
   primary: true
-- id: ALTO-PROTOCOL
-  type: IANA
-  scope: anchor
 docnumber: alto-protocol
 date:
 - type: created

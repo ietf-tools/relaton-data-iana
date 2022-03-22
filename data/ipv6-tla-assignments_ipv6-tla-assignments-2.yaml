@@ -11,9 +11,6 @@ docid:
 - id: IANA ipv6-tla-assignments/ipv6-tla-assignments-2
   type: IANA
   primary: true
-- id: IPV6-TLA-ASSIGNMENTS/IPV6-TLA-ASSIGNMENTS-2
-  type: IANA
-  scope: anchor
 docnumber: ipv6-tla-assignments/ipv6-tla-assignments-2
 date:
 - type: updated

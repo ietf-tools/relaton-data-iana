@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-extended-communities/df-election-capabilities
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/DF-ELECTION-CAPABILITIES
-  type: IANA
-  scope: anchor
 docnumber: bgp-extended-communities/df-election-capabilities
 date:
 - type: created

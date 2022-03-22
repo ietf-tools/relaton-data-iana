@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/terminate-reason-params
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/TERMINATE-REASON-PARAMS
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/terminate-reason-params
 date:
 - type: created

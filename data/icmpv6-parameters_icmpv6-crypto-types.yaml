@@ -11,9 +11,6 @@ docid:
 - id: IANA icmpv6-parameters/icmpv6-crypto-types
   type: IANA
   primary: true
-- id: ICMPV6-PARAMETERS/ICMPV6-CRYPTO-TYPES
-  type: IANA
-  scope: anchor
 docnumber: icmpv6-parameters/icmpv6-crypto-types
 date:
 - type: updated

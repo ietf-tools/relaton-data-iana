@@ -11,9 +11,6 @@ docid:
 - id: IANA ianaiprouteprotocol-mib
   type: IANA
   primary: true
-- id: IANAIPROUTEPROTOCOL-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianaiprouteprotocol-mib
 date:
 - type: created

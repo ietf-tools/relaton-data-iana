@@ -11,9 +11,6 @@ docid:
 - id: IANA security-label-format-selection
   type: IANA
   primary: true
-- id: SECURITY-LABEL-FORMAT-SELECTION
-  type: IANA
-  scope: anchor
 docnumber: security-label-format-selection
 date:
 - type: created

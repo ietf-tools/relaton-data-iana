@@ -11,9 +11,6 @@ docid:
 - id: IANA cisco-sla-protocol/measurement
   type: IANA
   primary: true
-- id: CISCO-SLA-PROTOCOL/MEASUREMENT
-  type: IANA
-  scope: anchor
 docnumber: cisco-sla-protocol/measurement
 date:
 - type: created

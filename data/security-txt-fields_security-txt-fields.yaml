@@ -11,9 +11,6 @@ docid:
 - id: IANA security-txt-fields/security-txt-fields
   type: IANA
   primary: true
-- id: SECURITY-TXT-FIELDS/SECURITY-TXT-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: security-txt-fields/security-txt-fields
 date:
 - type: created

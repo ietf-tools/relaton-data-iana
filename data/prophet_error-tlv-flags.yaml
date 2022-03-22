@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/error-tlv-flags
   type: IANA
   primary: true
-- id: PROPHET/ERROR-TLV-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: prophet/error-tlv-flags
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA enum-services
   type: IANA
   primary: true
-- id: ENUM-SERVICES
-  type: IANA
-  scope: anchor
 docnumber: enum-services
 date:
 - type: created

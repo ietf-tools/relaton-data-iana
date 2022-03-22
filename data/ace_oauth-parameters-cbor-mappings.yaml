@@ -11,9 +11,6 @@ docid:
 - id: IANA ace/oauth-parameters-cbor-mappings
   type: IANA
   primary: true
-- id: ACE/OAUTH-PARAMETERS-CBOR-MAPPINGS
-  type: IANA
-  scope: anchor
 docnumber: ace/oauth-parameters-cbor-mappings
 date:
 - type: created

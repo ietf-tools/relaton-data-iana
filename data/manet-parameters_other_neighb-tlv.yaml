@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/other_neighb-tlv
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/OTHER_NEIGHB-TLV
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/other_neighb-tlv
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-data-collection-communities-std
   type: IANA
   primary: true
-- id: BGP-DATA-COLLECTION-COMMUNITIES-STD
-  type: IANA
-  scope: anchor
 docnumber: bgp-data-collection-communities-std
 date:
 - type: created

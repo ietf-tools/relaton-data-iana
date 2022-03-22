@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/no-path-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/NO-PATH-OBJECT-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/no-path-object-flag-field
 date:
 - type: created

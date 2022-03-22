@@ -11,9 +11,6 @@ docid:
 - id: IANA gmpls-sig-parameters/granularities
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/GRANULARITIES
-  type: IANA
-  scope: anchor
 docnumber: gmpls-sig-parameters/granularities
 date:
 - type: created

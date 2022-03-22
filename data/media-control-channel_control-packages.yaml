@@ -11,9 +11,6 @@ docid:
 - id: IANA media-control-channel/control-packages
   type: IANA
   primary: true
-- id: MEDIA-CONTROL-CHANNEL/CONTROL-PACKAGES
-  type: IANA
-  scope: anchor
 docnumber: media-control-channel/control-packages
 date:
 - type: created

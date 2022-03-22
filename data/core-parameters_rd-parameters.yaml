@@ -11,9 +11,6 @@ docid:
 - id: IANA core-parameters/rd-parameters
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/RD-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: core-parameters/rd-parameters
 date:
 - type: created

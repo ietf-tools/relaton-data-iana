@@ -11,9 +11,6 @@ docid:
 - id: IANA preemption-namespace/preemption-namespace-1
   type: IANA
   primary: true
-- id: PREEMPTION-NAMESPACE/PREEMPTION-NAMESPACE-1
-  type: IANA
-  scope: anchor
 docnumber: preemption-namespace/preemption-namespace-1
 date:
 - type: created

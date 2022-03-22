@@ -11,9 +11,6 @@ docid:
 - id: IANA sigtran-adapt/sigtran-adapt-3
   type: IANA
   primary: true
-- id: SIGTRAN-ADAPT/SIGTRAN-ADAPT-3
-  type: IANA
-  scope: anchor
 docnumber: sigtran-adapt/sigtran-adapt-3
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA radius-types/radius-types-13
   type: IANA
   primary: true
-- id: RADIUS-TYPES/RADIUS-TYPES-13
-  type: IANA
-  scope: anchor
 docnumber: radius-types/radius-types-13
 date:
 - type: updated

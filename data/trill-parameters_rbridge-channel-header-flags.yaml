@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/rbridge-channel-header-flags
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/RBRIDGE-CHANNEL-HEADER-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/rbridge-channel-header-flags
 date:
 - type: created

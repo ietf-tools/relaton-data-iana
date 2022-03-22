@@ -11,9 +11,6 @@ docid:
 - id: IANA rolie/rolie-urn-parameters
   type: IANA
   primary: true
-- id: ROLIE/ROLIE-URN-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: rolie/rolie-urn-parameters
 date:
 - type: created

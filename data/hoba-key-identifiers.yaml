@@ -11,9 +11,6 @@ docid:
 - id: IANA hoba-key-identifiers
   type: IANA
   primary: true
-- id: HOBA-KEY-IDENTIFIERS
-  type: IANA
-  scope: anchor
 docnumber: hoba-key-identifiers
 date:
 - type: created

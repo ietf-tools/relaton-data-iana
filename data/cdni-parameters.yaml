@@ -11,9 +11,6 @@ docid:
 - id: IANA cdni-parameters
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: cdni-parameters
 date:
 - type: created

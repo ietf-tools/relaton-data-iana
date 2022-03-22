@@ -11,9 +11,6 @@ docid:
 - id: IANA ldp-namespaces
   type: IANA
   primary: true
-- id: LDP-NAMESPACES
-  type: IANA
-  scope: anchor
 docnumber: ldp-namespaces
 date:
 - type: updated

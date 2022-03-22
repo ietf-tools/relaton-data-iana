@@ -11,9 +11,6 @@ docid:
 - id: IANA vot
   type: IANA
   primary: true
-- id: VOT
-  type: IANA
-  scope: anchor
 docnumber: vot
 date:
 - type: created

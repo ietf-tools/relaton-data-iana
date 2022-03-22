@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/telephone-type
   type: IANA
   primary: true
-- id: IODEF2/TELEPHONE-TYPE
-  type: IANA
-  scope: anchor
 docnumber: iodef2/telephone-type
 date:
 - type: created

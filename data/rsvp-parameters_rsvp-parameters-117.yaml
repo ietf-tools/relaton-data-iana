@@ -11,9 +11,6 @@ docid:
 - id: IANA rsvp-parameters/rsvp-parameters-117
   type: IANA
   primary: true
-- id: RSVP-PARAMETERS/RSVP-PARAMETERS-117
-  type: IANA
-  scope: anchor
 docnumber: rsvp-parameters/rsvp-parameters-117
 date:
 - type: updated

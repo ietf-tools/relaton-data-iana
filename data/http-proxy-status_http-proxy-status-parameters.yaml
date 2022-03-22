@@ -11,9 +11,6 @@ docid:
 - id: IANA http-proxy-status/http-proxy-status-parameters
   type: IANA
   primary: true
-- id: HTTP-PROXY-STATUS/HTTP-PROXY-STATUS-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: http-proxy-status/http-proxy-status-parameters
 date:
 - type: created

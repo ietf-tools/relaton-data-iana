@@ -11,9 +11,6 @@ docid:
 - id: IANA pwe3-parameters/l2vpn-pe-stack
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/L2VPN-PE-STACK
-  type: IANA
-  scope: anchor
 docnumber: pwe3-parameters/l2vpn-pe-stack
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/block-types
   type: IANA
   primary: true
-- id: BUNDLE/BLOCK-TYPES
-  type: IANA
-  scope: anchor
 docnumber: bundle/block-types
 date:
 - type: created

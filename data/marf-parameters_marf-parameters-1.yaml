@@ -11,9 +11,6 @@ docid:
 - id: IANA marf-parameters/marf-parameters-1
   type: IANA
   primary: true
-- id: MARF-PARAMETERS/MARF-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: marf-parameters/marf-parameters-1
 date:
 - type: created

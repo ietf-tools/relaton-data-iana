@@ -11,9 +11,6 @@ docid:
 - id: IANA tesla-parameters/tesla-parameters-4
   type: IANA
   primary: true
-- id: TESLA-PARAMETERS/TESLA-PARAMETERS-4
-  type: IANA
-  scope: anchor
 docnumber: tesla-parameters/tesla-parameters-4
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA iana-ipv4-special-registry
   type: IANA
   primary: true
-- id: IANA-IPV4-SPECIAL-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: iana-ipv4-special-registry
 date:
 - type: created

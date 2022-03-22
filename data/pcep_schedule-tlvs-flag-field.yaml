@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/schedule-tlvs-flag-field
   type: IANA
   primary: true
-- id: PCEP/SCHEDULE-TLVS-FLAG-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/schedule-tlvs-flag-field
 date:
 - type: created

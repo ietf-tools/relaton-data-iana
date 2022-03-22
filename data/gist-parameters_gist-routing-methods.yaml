@@ -11,9 +11,6 @@ docid:
 - id: IANA gist-parameters/gist-routing-methods
   type: IANA
   primary: true
-- id: GIST-PARAMETERS/GIST-ROUTING-METHODS
-  type: IANA
-  scope: anchor
 docnumber: gist-parameters/gist-routing-methods
 date:
 - type: created

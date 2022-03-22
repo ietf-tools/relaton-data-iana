@@ -11,9 +11,6 @@ docid:
 - id: IANA pkix-parameters
   type: IANA
   primary: true
-- id: PKIX-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: pkix-parameters
 date:
 - type: created

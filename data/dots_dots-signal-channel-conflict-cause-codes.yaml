@@ -11,9 +11,6 @@ docid:
 - id: IANA dots/dots-signal-channel-conflict-cause-codes
   type: IANA
   primary: true
-- id: DOTS/DOTS-SIGNAL-CHANNEL-CONFLICT-CAUSE-CODES
-  type: IANA
-  scope: anchor
 docnumber: dots/dots-signal-channel-conflict-cause-codes
 date:
 - type: created

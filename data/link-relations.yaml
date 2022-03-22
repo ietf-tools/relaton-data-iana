@@ -11,9 +11,6 @@ docid:
 - id: IANA link-relations
   type: IANA
   primary: true
-- id: LINK-RELATIONS
-  type: IANA
-  scope: anchor
 docnumber: link-relations
 date:
 - type: created

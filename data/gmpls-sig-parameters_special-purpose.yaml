@@ -11,9 +11,6 @@ docid:
 - id: IANA gmpls-sig-parameters/special-purpose
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/SPECIAL-PURPOSE
-  type: IANA
-  scope: anchor
 docnumber: gmpls-sig-parameters/special-purpose
 date:
 - type: created

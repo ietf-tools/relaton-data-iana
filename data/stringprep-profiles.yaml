@@ -11,9 +11,6 @@ docid:
 - id: IANA stringprep-profiles
   type: IANA
   primary: true
-- id: STRINGPREP-PROFILES
-  type: IANA
-  scope: anchor
 docnumber: stringprep-profiles
 date:
 - type: created

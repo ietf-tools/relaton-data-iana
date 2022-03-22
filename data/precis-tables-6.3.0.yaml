@@ -11,9 +11,6 @@ docid:
 - id: IANA precis-tables-6.3.0
   type: IANA
   primary: true
-- id: PRECIS-TABLES-6.3.0
-  type: IANA
-  scope: anchor
 docnumber: precis-tables-6.3.0
 date:
 - type: created

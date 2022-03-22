@@ -11,9 +11,6 @@ docid:
 - id: IANA novell-sap-numbers
   type: IANA
   primary: true
-- id: NOVELL-SAP-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: novell-sap-numbers
 date:
 - type: updated

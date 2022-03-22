@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/protocol-version
   type: IANA
   primary: true
-- id: PROPHET/PROTOCOL-VERSION
-  type: IANA
-  scope: anchor
 docnumber: prophet/protocol-version
 date:
 - type: created

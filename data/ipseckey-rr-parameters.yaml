@@ -11,9 +11,6 @@ docid:
 - id: IANA ipseckey-rr-parameters
   type: IANA
   primary: true
-- id: IPSECKEY-RR-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: ipseckey-rr-parameters
 date:
 - type: created

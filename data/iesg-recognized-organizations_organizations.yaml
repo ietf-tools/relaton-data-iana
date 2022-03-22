@@ -12,9 +12,6 @@ docid:
 - id: IANA iesg-recognized-organizations/organizations
   type: IANA
   primary: true
-- id: IESG-RECOGNIZED-ORGANIZATIONS/ORGANIZATIONS
-  type: IANA
-  scope: anchor
 docnumber: iesg-recognized-organizations/organizations
 date:
 - type: created

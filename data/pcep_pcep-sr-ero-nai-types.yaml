@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/pcep-sr-ero-nai-types
   type: IANA
   primary: true
-- id: PCEP/PCEP-SR-ERO-NAI-TYPES
-  type: IANA
-  scope: anchor
 docnumber: pcep/pcep-sr-ero-nai-types
 date:
 - type: created

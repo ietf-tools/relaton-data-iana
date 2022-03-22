@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/tcpcl-message
   type: IANA
   primary: true
-- id: BUNDLE/TCPCL-MESSAGE
-  type: IANA
-  scope: anchor
 docnumber: bundle/tcpcl-message
 date:
 - type: created

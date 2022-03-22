@@ -11,9 +11,6 @@ docid:
 - id: IANA pa-tnc-parameters/pa-tnc-parameters-1
   type: IANA
   primary: true
-- id: PA-TNC-PARAMETERS/PA-TNC-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: pa-tnc-parameters/pa-tnc-parameters-1
 date:
 - type: created

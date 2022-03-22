@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl-routing-metric-constraint/node-type
   type: IANA
   primary: true
-- id: RPL-ROUTING-METRIC-CONSTRAINT/NODE-TYPE
-  type: IANA
-  scope: anchor
 docnumber: rpl-routing-metric-constraint/node-type
 date:
 - type: updated

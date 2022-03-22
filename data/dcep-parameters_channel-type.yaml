@@ -11,9 +11,6 @@ docid:
 - id: IANA dcep-parameters/channel-type
   type: IANA
   primary: true
-- id: DCEP-PARAMETERS/CHANNEL-TYPE
-  type: IANA
-  scope: anchor
 docnumber: dcep-parameters/channel-type
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA tsig-algorithm-names
   type: IANA
   primary: true
-- id: TSIG-ALGORITHM-NAMES
-  type: IANA
-  scope: anchor
 docnumber: tsig-algorithm-names
 date:
 - type: created

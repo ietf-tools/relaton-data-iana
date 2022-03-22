@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/header-flags
   type: IANA
   primary: true
-- id: FORCES/HEADER-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: forces/header-flags
 date:
 - type: created

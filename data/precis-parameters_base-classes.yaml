@@ -11,9 +11,6 @@ docid:
 - id: IANA precis-parameters/base-classes
   type: IANA
   primary: true
-- id: PRECIS-PARAMETERS/BASE-CLASSES
-  type: IANA
-  scope: anchor
 docnumber: precis-parameters/base-classes
 date:
 - type: created

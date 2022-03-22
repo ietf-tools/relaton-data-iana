@@ -11,9 +11,6 @@ docid:
 - id: IANA prophet/tlv-type
   type: IANA
   primary: true
-- id: PROPHET/TLV-TYPE
-  type: IANA
-  scope: anchor
 docnumber: prophet/tlv-type
 date:
 - type: created

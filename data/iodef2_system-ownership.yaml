@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/system-ownership
   type: IANA
   primary: true
-- id: IODEF2/SYSTEM-OWNERSHIP
-  type: IANA
-  scope: anchor
 docnumber: iodef2/system-ownership
 date:
 - type: created

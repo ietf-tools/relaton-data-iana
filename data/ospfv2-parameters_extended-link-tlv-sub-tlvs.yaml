@@ -11,9 +11,6 @@ docid:
 - id: IANA ospfv2-parameters/extended-link-tlv-sub-tlvs
   type: IANA
   primary: true
-- id: OSPFV2-PARAMETERS/EXTENDED-LINK-TLV-SUB-TLVS
-  type: IANA
-  scope: anchor
 docnumber: ospfv2-parameters/extended-link-tlv-sub-tlvs
 date:
 - type: created

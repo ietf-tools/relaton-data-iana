@@ -11,9 +11,6 @@ docid:
 - id: IANA cose/header-algorithm-parameters
   type: IANA
   primary: true
-- id: COSE/HEADER-ALGORITHM-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: cose/header-algorithm-parameters
 date:
 - type: created

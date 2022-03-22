@@ -11,9 +11,6 @@ docid:
 - id: IANA urn-namespaces/urn-namespaces-1
   type: IANA
   primary: true
-- id: URN-NAMESPACES/URN-NAMESPACES-1
-  type: IANA
-  scope: anchor
 docnumber: urn-namespaces/urn-namespaces-1
 date:
 - type: updated

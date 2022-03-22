@@ -11,9 +11,6 @@ docid:
 - id: IANA tzdist-actions/actions
   type: IANA
   primary: true
-- id: TZDIST-ACTIONS/ACTIONS
-  type: IANA
-  scope: anchor
 docnumber: tzdist-actions/actions
 date:
 - type: created

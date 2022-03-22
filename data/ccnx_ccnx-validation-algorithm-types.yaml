@@ -11,9 +11,6 @@ docid:
 - id: IANA ccnx/ccnx-validation-algorithm-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-VALIDATION-ALGORITHM-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ccnx/ccnx-validation-algorithm-types
 date:
 - type: created

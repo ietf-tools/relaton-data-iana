@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/admin-record-types
   type: IANA
   primary: true
-- id: BUNDLE/ADMIN-RECORD-TYPES
-  type: IANA
-  scope: anchor
 docnumber: bundle/admin-record-types
 date:
 - type: created

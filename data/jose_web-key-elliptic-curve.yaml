@@ -11,9 +11,6 @@ docid:
 - id: IANA jose/web-key-elliptic-curve
   type: IANA
   primary: true
-- id: JOSE/WEB-KEY-ELLIPTIC-CURVE
-  type: IANA
-  scope: anchor
 docnumber: jose/web-key-elliptic-curve
 date:
 - type: created

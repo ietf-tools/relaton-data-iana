@@ -11,9 +11,6 @@ docid:
 - id: IANA ips-protocols/ips-protocols-2
   type: IANA
   primary: true
-- id: IPS-PROTOCOLS/IPS-PROTOCOLS-2
-  type: IANA
-  scope: anchor
 docnumber: ips-protocols/ips-protocols-2
 date:
 - type: created

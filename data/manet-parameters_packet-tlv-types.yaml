@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/packet-tlv-types
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/PACKET-TLV-TYPES
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/packet-tlv-types
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA sasl-mechanisms/sasl-mechanisms-1
   type: IANA
   primary: true
-- id: SASL-MECHANISMS/SASL-MECHANISMS-1
-  type: IANA
-  scope: anchor
 docnumber: sasl-mechanisms/sasl-mechanisms-1
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA ecmlv2-parameters
   type: IANA
   primary: true
-- id: ECMLV2-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: ecmlv2-parameters
 date:
 - type: created

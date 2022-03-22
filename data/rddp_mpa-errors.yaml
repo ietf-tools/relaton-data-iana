@@ -11,9 +11,6 @@ docid:
 - id: IANA rddp/mpa-errors
   type: IANA
   primary: true
-- id: RDDP/MPA-ERRORS
-  type: IANA
-  scope: anchor
 docnumber: rddp/mpa-errors
 date:
 - type: created

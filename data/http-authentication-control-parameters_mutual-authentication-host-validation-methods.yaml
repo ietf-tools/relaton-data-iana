@@ -11,9 +11,6 @@ docid:
 - id: IANA http-authentication-control-parameters/mutual-authentication-host-validation-methods
   type: IANA
   primary: true
-- id: HTTP-AUTHENTICATION-CONTROL-PARAMETERS/MUTUAL-AUTHENTICATION-HOST-VALIDATION-METHODS
-  type: IANA
-  scope: anchor
 docnumber: http-authentication-control-parameters/mutual-authentication-host-validation-methods
 date:
 - type: created

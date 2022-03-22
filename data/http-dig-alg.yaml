@@ -11,9 +11,6 @@ docid:
 - id: IANA http-dig-alg
   type: IANA
   primary: true
-- id: HTTP-DIG-ALG
-  type: IANA
-  scope: anchor
 docnumber: http-dig-alg
 date:
 - type: created

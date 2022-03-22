@@ -11,9 +11,6 @@ docid:
 - id: IANA webfinger/properties
   type: IANA
   primary: true
-- id: WEBFINGER/PROPERTIES
-  type: IANA
-  scope: anchor
 docnumber: webfinger/properties
 date:
 - type: created

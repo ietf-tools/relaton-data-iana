@@ -11,9 +11,6 @@ docid:
 - id: IANA battery-technologies
   type: IANA
   primary: true
-- id: BATTERY-TECHNOLOGIES
-  type: IANA
-  scope: anchor
 docnumber: battery-technologies
 date:
 - type: created

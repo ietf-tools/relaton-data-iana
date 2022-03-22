@@ -11,9 +11,6 @@ docid:
 - id: IANA gmpls-sig-parameters/hierarchy
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/HIERARCHY
-  type: IANA
-  scope: anchor
 docnumber: gmpls-sig-parameters/hierarchy
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/contact-type
   type: IANA
   primary: true
-- id: IODEF2/CONTACT-TYPE
-  type: IANA
-  scope: anchor
 docnumber: iodef2/contact-type
 date:
 - type: created

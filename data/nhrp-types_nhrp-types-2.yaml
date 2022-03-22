@@ -11,9 +11,6 @@ docid:
 - id: IANA nhrp-types/nhrp-types-2
   type: IANA
   primary: true
-- id: NHRP-TYPES/NHRP-TYPES-2
-  type: IANA
-  scope: anchor
 docnumber: nhrp-types/nhrp-types-2
 date:
 - type: updated

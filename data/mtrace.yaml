@@ -11,9 +11,6 @@ docid:
 - id: IANA mtrace
   type: IANA
   primary: true
-- id: MTRACE
-  type: IANA
-  scope: anchor
 docnumber: mtrace
 date:
 - type: created

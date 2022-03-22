@@ -11,9 +11,6 @@ docid:
 - id: IANA ianaentity-mib
   type: IANA
   primary: true
-- id: IANAENTITY-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianaentity-mib
 date:
 - type: created

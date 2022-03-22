@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-parameters/extended-dns-error-codes
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/EXTENDED-DNS-ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: dns-parameters/extended-dns-error-codes
 date:
 - type: updated

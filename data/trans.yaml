@@ -11,9 +11,6 @@ docid:
 - id: IANA trans
   type: IANA
   primary: true
-- id: TRANS
-  type: IANA
-  scope: anchor
 docnumber: trans
 date:
 - type: created

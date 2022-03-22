@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-parameters/bgp-graceful-restart-flags
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BGP-GRACEFUL-RESTART-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: bgp-parameters/bgp-graceful-restart-flags
 date:
 - type: updated

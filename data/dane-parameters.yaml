@@ -11,9 +11,6 @@ docid:
 - id: IANA dane-parameters
   type: IANA
   primary: true
-- id: DANE-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: dane-parameters
 date:
 - type: created

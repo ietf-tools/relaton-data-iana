@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/hash-functions
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/HASH-FUNCTIONS
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/hash-functions
 date:
 - type: created

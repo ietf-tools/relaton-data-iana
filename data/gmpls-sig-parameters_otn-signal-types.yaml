@@ -11,9 +11,6 @@ docid:
 - id: IANA gmpls-sig-parameters/otn-signal-types
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/OTN-SIGNAL-TYPES
-  type: IANA
-  scope: anchor
 docnumber: gmpls-sig-parameters/otn-signal-types
 date:
 - type: created

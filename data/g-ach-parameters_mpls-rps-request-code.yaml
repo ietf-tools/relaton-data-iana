@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/mpls-rps-request-code
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/MPLS-RPS-REQUEST-CODE
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/mpls-rps-request-code
 date:
 - type: created

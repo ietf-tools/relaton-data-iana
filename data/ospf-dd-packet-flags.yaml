@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-dd-packet-flags
   type: IANA
   primary: true
-- id: OSPF-DD-PACKET-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: ospf-dd-packet-flags
 date:
 - type: created

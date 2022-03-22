@@ -11,9 +11,6 @@ docid:
 - id: IANA ospf-sig-alg
   type: IANA
   primary: true
-- id: OSPF-SIG-ALG
-  type: IANA
-  scope: anchor
 docnumber: ospf-sig-alg
 date:
 - type: updated

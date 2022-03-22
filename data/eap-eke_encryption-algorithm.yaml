@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-eke/encryption-algorithm
   type: IANA
   primary: true
-- id: EAP-EKE/ENCRYPTION-ALGORITHM
-  type: IANA
-  scope: anchor
 docnumber: eap-eke/encryption-algorithm
 date:
 - type: created

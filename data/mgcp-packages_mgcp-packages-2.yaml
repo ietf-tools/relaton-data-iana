@@ -11,9 +11,6 @@ docid:
 - id: IANA mgcp-packages/mgcp-packages-2
   type: IANA
   primary: true
-- id: MGCP-PACKAGES/MGCP-PACKAGES-2
-  type: IANA
-  scope: anchor
 docnumber: mgcp-packages/mgcp-packages-2
 date:
 - type: created

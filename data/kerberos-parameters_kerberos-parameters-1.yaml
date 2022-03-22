@@ -11,9 +11,6 @@ docid:
 - id: IANA kerberos-parameters/kerberos-parameters-1
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/KERBEROS-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: kerberos-parameters/kerberos-parameters-1
 date:
 - type: created

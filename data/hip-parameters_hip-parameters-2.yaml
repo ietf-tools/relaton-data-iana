@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/hip-parameters-2
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HIP-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/hip-parameters-2
 date:
 - type: created

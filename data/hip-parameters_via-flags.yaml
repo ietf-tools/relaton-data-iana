@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/via-flags
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/VIA-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/via-flags
 date:
 - type: created

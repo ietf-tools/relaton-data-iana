@@ -11,9 +11,6 @@ docid:
 - id: IANA hip-parameters/hit-suite-id
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HIT-SUITE-ID
-  type: IANA
-  scope: anchor
 docnumber: hip-parameters/hit-suite-id
 date:
 - type: created

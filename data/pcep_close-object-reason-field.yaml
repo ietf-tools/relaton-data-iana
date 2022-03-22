@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/close-object-reason-field
   type: IANA
   primary: true
-- id: PCEP/CLOSE-OBJECT-REASON-FIELD
-  type: IANA
-  scope: anchor
 docnumber: pcep/close-object-reason-field
 date:
 - type: created

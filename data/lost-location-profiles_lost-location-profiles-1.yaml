@@ -11,9 +11,6 @@ docid:
 - id: IANA lost-location-profiles/lost-location-profiles-1
   type: IANA
   primary: true
-- id: LOST-LOCATION-PROFILES/LOST-LOCATION-PROFILES-1
-  type: IANA
-  scope: anchor
 docnumber: lost-location-profiles/lost-location-profiles-1
 date:
 - type: created

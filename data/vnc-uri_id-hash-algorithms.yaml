@@ -11,9 +11,6 @@ docid:
 - id: IANA vnc-uri/id-hash-algorithms
   type: IANA
   primary: true
-- id: VNC-URI/ID-HASH-ALGORITHMS
-  type: IANA
-  scope: anchor
 docnumber: vnc-uri/id-hash-algorithms
 date:
 - type: created

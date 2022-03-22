@@ -11,9 +11,6 @@ docid:
 - id: IANA mrcpv2-parameters/header-fields
   type: IANA
   primary: true
-- id: MRCPV2-PARAMETERS/HEADER-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: mrcpv2-parameters/header-fields
 date:
 - type: created

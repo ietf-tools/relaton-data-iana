@@ -11,9 +11,6 @@ docid:
 - id: IANA address-literal-tags
   type: IANA
   primary: true
-- id: ADDRESS-LITERAL-TAGS
-  type: IANA
-  scope: anchor
 docnumber: address-literal-tags
 date:
 - type: created

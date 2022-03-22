@@ -11,9 +11,6 @@ docid:
 - id: IANA nslp-parameters/protocol-errors
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/PROTOCOL-ERRORS
-  type: IANA
-  scope: anchor
 docnumber: nslp-parameters/protocol-errors
 date:
 - type: created

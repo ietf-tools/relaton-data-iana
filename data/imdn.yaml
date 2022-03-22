@@ -11,9 +11,6 @@ docid:
 - id: IANA imdn
   type: IANA
   primary: true
-- id: IMDN
-  type: IANA
-  scope: anchor
 docnumber: imdn
 date:
 - type: created

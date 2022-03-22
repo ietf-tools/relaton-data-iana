@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/address-category
   type: IANA
   primary: true
-- id: IODEF2/ADDRESS-CATEGORY
-  type: IANA
-  scope: anchor
 docnumber: iodef2/address-category
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA te-types
   type: IANA
   primary: true
-- id: TE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: te-types
 date:
 - type: created

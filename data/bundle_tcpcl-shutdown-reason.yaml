@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/tcpcl-shutdown-reason
   type: IANA
   primary: true
-- id: BUNDLE/TCPCL-SHUTDOWN-REASON
-  type: IANA
-  scope: anchor
 docnumber: bundle/tcpcl-shutdown-reason
 date:
 - type: created

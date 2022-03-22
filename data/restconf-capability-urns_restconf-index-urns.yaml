@@ -11,9 +11,6 @@ docid:
 - id: IANA restconf-capability-urns/restconf-index-urns
   type: IANA
   primary: true
-- id: RESTCONF-CAPABILITY-URNS/RESTCONF-INDEX-URNS
-  type: IANA
-  scope: anchor
 docnumber: restconf-capability-urns/restconf-index-urns
 date:
 - type: created

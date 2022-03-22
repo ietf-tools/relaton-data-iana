@@ -11,9 +11,6 @@ docid:
 - id: IANA igp-parameters/igp-algorithm-types
   type: IANA
   primary: true
-- id: IGP-PARAMETERS/IGP-ALGORITHM-TYPES
-  type: IANA
-  scope: anchor
 docnumber: igp-parameters/igp-algorithm-types
 date:
 - type: created

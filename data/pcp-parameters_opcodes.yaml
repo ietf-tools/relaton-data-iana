@@ -11,9 +11,6 @@ docid:
 - id: IANA pcp-parameters/opcodes
   type: IANA
   primary: true
-- id: PCP-PARAMETERS/OPCODES
-  type: IANA
-  scope: anchor
 docnumber: pcp-parameters/opcodes
 date:
 - type: created

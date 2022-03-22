@@ -11,9 +11,6 @@ docid:
 - id: IANA sdxf-parameters/sdxf-parameters-1
   type: IANA
   primary: true
-- id: SDXF-PARAMETERS/SDXF-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: sdxf-parameters/sdxf-parameters-1
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA qspec/object-types
   type: IANA
   primary: true
-- id: QSPEC/OBJECT-TYPES
-  type: IANA
-  scope: anchor
 docnumber: qspec/object-types
 date:
 - type: created

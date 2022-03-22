@@ -11,9 +11,6 @@ docid:
 - id: IANA acme/acme-directory-metadata-fields
   type: IANA
   primary: true
-- id: ACME/ACME-DIRECTORY-METADATA-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: acme/acme-directory-metadata-fields
 date:
 - type: created

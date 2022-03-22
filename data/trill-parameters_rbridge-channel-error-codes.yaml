@@ -11,9 +11,6 @@ docid:
 - id: IANA trill-parameters/rbridge-channel-error-codes
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/RBRIDGE-CHANNEL-ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: trill-parameters/rbridge-channel-error-codes
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA lgr-dispositions/private-dispositions
   type: IANA
   primary: true
-- id: LGR-DISPOSITIONS/PRIVATE-DISPOSITIONS
-  type: IANA
-  scope: anchor
 docnumber: lgr-dispositions/private-dispositions
 date:
 - type: created

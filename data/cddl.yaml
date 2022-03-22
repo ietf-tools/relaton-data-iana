@@ -11,9 +11,6 @@ docid:
 - id: IANA cddl
   type: IANA
   primary: true
-- id: CDDL
-  type: IANA
-  scope: anchor
 docnumber: cddl
 date:
 - type: created

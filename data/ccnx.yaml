@@ -11,9 +11,6 @@ docid:
 - id: IANA ccnx
   type: IANA
   primary: true
-- id: CCNX
-  type: IANA
-  scope: anchor
 docnumber: ccnx
 date:
 - type: created

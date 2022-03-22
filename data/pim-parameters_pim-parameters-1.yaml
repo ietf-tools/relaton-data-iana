@@ -11,9 +11,6 @@ docid:
 - id: IANA pim-parameters/pim-parameters-1
   type: IANA
   primary: true
-- id: PIM-PARAMETERS/PIM-PARAMETERS-1
-  type: IANA
-  scope: anchor
 docnumber: pim-parameters/pim-parameters-1
 date:
 - type: updated

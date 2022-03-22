@@ -11,9 +11,6 @@ docid:
 - id: IANA msrp-parameters
   type: IANA
   primary: true
-- id: MSRP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: msrp-parameters
 date:
 - type: created

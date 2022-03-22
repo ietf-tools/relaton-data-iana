@@ -11,9 +11,6 @@ docid:
 - id: IANA dhcpv6-parameters/processor-architecture
   type: IANA
   primary: true
-- id: DHCPV6-PARAMETERS/PROCESSOR-ARCHITECTURE
-  type: IANA
-  scope: anchor
 docnumber: dhcpv6-parameters/processor-architecture
 date:
 - type: created

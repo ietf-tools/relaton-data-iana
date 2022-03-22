@@ -11,9 +11,6 @@ docid:
 - id: IANA well-known-uris
   type: IANA
   primary: true
-- id: WELL-KNOWN-URIS
-  type: IANA
-  scope: anchor
 docnumber: well-known-uris
 date:
 - type: created

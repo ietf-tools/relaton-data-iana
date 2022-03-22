@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/message-types
   type: IANA
   primary: true
-- id: FORCES/MESSAGE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: forces/message-types
 date:
 - type: created

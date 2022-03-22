@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/cci-object-flag-field-mpls-label
   type: IANA
   primary: true
-- id: PCEP/CCI-OBJECT-FLAG-FIELD-MPLS-LABEL
-  type: IANA
-  scope: anchor
 docnumber: pcep/cci-object-flag-field-mpls-label
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA tls-parameters/tls-pskkeyexchangemode
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/TLS-PSKKEYEXCHANGEMODE
-  type: IANA
-  scope: anchor
 docnumber: tls-parameters/tls-pskkeyexchangemode
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters/measurement-timestamp
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/MEASUREMENT-TIMESTAMP
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters/measurement-timestamp
 date:
 - type: created

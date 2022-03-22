@@ -11,9 +11,6 @@ docid:
 - id: IANA rmt-fec-parameters/rmt-fec-parameters-2
   type: IANA
   primary: true
-- id: RMT-FEC-PARAMETERS/RMT-FEC-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: rmt-fec-parameters/rmt-fec-parameters-2
 date:
 - type: created

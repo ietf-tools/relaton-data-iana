@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-extended-communities/non-trans-opaque
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/NON-TRANS-OPAQUE
-  type: IANA
-  scope: anchor
 docnumber: bgp-extended-communities/non-trans-opaque
 date:
 - type: created

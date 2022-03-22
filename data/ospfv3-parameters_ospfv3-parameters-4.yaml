@@ -11,9 +11,6 @@ docid:
 - id: IANA ospfv3-parameters/ospfv3-parameters-4
   type: IANA
   primary: true
-- id: OSPFV3-PARAMETERS/OSPFV3-PARAMETERS-4
-  type: IANA
-  scope: anchor
 docnumber: ospfv3-parameters/ospfv3-parameters-4
 date:
 - type: created

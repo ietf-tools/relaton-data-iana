@@ -11,9 +11,6 @@ docid:
 - id: IANA params/urn-subnamespaces
   type: IANA
   primary: true
-- id: PARAMS/URN-SUBNAMESPACES
-  type: IANA
-  scope: anchor
 docnumber: params/urn-subnamespaces
 date:
 - type: created

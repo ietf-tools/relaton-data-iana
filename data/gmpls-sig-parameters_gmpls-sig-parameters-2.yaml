@@ -11,9 +11,6 @@ docid:
 - id: IANA gmpls-sig-parameters/gmpls-sig-parameters-2
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/GMPLS-SIG-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: gmpls-sig-parameters/gmpls-sig-parameters-2
 date:
 - type: created

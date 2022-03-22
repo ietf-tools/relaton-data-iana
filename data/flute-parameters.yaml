@@ -11,9 +11,6 @@ docid:
 - id: IANA flute-parameters
   type: IANA
   primary: true
-- id: FLUTE-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: flute-parameters
 date:
 - type: created

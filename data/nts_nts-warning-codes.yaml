@@ -11,9 +11,6 @@ docid:
 - id: IANA nts/nts-warning-codes
   type: IANA
   primary: true
-- id: NTS/NTS-WARNING-CODES
-  type: IANA
-  scope: anchor
 docnumber: nts/nts-warning-codes
 date:
 - type: created

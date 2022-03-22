@@ -11,9 +11,6 @@ docid:
 - id: IANA kerberos-parameters/pre-authentication
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/PRE-AUTHENTICATION
-  type: IANA
-  scope: anchor
 docnumber: kerberos-parameters/pre-authentication
 date:
 - type: created

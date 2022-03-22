@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-extended-communities/generic-transitive-experimental-part2
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/GENERIC-TRANSITIVE-EXPERIMENTAL-PART2
-  type: IANA
-  scope: anchor
 docnumber: bgp-extended-communities/generic-transitive-experimental-part2
 date:
 - type: created

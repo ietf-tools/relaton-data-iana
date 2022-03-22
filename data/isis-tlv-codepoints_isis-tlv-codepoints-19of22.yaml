@@ -12,9 +12,6 @@ docid:
 - id: IANA isis-tlv-codepoints/isis-tlv-codepoints-19of22
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/ISIS-TLV-CODEPOINTS-19OF22
-  type: IANA
-  scope: anchor
 docnumber: isis-tlv-codepoints/isis-tlv-codepoints-19of22
 date:
 - type: created

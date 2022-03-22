@@ -11,9 +11,6 @@ docid:
 - id: IANA forces/result-tlv
   type: IANA
   primary: true
-- id: FORCES/RESULT-TLV
-  type: IANA
-  scope: anchor
 docnumber: forces/result-tlv
 date:
 - type: created

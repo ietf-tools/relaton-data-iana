@@ -11,9 +11,6 @@ docid:
 - id: IANA capability-codes
   type: IANA
   primary: true
-- id: CAPABILITY-CODES
-  type: IANA
-  scope: anchor
 docnumber: capability-codes
 date:
 - type: updated

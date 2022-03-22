@@ -11,9 +11,6 @@ docid:
 - id: IANA reload/access-control
   type: IANA
   primary: true
-- id: RELOAD/ACCESS-CONTROL
-  type: IANA
-  scope: anchor
 docnumber: reload/access-control
 date:
 - type: created

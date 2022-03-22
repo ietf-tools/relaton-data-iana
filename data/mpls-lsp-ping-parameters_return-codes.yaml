@@ -11,9 +11,6 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/return-codes
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/RETURN-CODES
-  type: IANA
-  scope: anchor
 docnumber: mpls-lsp-ping-parameters/return-codes
 date:
 - type: created

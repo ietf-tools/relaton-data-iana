@@ -11,9 +11,6 @@ docid:
 - id: IANA mrt-parameters/mrt-profile-registry
   type: IANA
   primary: true
-- id: MRT-PARAMETERS/MRT-PROFILE-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: mrt-parameters/mrt-profile-registry
 date:
 - type: created

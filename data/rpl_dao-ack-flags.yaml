@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/dao-ack-flags
   type: IANA
   primary: true
-- id: RPL/DAO-ACK-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: rpl/dao-ack-flags
 date:
 - type: created

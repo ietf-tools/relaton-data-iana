@@ -11,9 +11,6 @@ docid:
 - id: IANA passport/passport-rph-types
   type: IANA
   primary: true
-- id: PASSPORT/PASSPORT-RPH-TYPES
-  type: IANA
-  scope: anchor
 docnumber: passport/passport-rph-types
 date:
 - type: created

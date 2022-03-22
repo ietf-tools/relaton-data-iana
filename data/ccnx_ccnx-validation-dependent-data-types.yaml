@@ -11,9 +11,6 @@ docid:
 - id: IANA ccnx/ccnx-validation-dependent-data-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-VALIDATION-DEPENDENT-DATA-TYPES
-  type: IANA
-  scope: anchor
 docnumber: ccnx/ccnx-validation-dependent-data-types
 date:
 - type: created

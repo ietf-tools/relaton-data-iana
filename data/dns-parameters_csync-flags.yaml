@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-parameters/csync-flags
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/CSYNC-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: dns-parameters/csync-flags
 date:
 - type: updated

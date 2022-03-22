@@ -11,9 +11,6 @@ docid:
 - id: IANA reload/message-extensions
   type: IANA
   primary: true
-- id: RELOAD/MESSAGE-EXTENSIONS
-  type: IANA
-  scope: anchor
 docnumber: reload/message-extensions
 date:
 - type: created

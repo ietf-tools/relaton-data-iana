@@ -11,9 +11,6 @@ docid:
 - id: IANA protocol-numbers
   type: IANA
   primary: true
-- id: PROTOCOL-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: protocol-numbers
 date:
 - type: updated

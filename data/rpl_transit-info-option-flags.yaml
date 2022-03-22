@@ -11,9 +11,6 @@ docid:
 - id: IANA rpl/transit-info-option-flags
   type: IANA
   primary: true
-- id: RPL/TRANSIT-INFO-OPTION-FLAGS
-  type: IANA
-  scope: anchor
 docnumber: rpl/transit-info-option-flags
 date:
 - type: created

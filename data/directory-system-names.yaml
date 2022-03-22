@@ -11,9 +11,6 @@ docid:
 - id: IANA directory-system-names
   type: IANA
   primary: true
-- id: DIRECTORY-SYSTEM-NAMES
-  type: IANA
-  scope: anchor
 docnumber: directory-system-names
 date:
 - type: updated

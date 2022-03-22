@@ -11,9 +11,6 @@ docid:
 - id: IANA icalendar/value-data-types
   type: IANA
   primary: true
-- id: ICALENDAR/VALUE-DATA-TYPES
-  type: IANA
-  scope: anchor
 docnumber: icalendar/value-data-types
 date:
 - type: created

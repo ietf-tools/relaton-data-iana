@@ -11,9 +11,6 @@ docid:
 - id: IANA vcard-elements/property-values
   type: IANA
   primary: true
-- id: VCARD-ELEMENTS/PROPERTY-VALUES
-  type: IANA
-  scope: anchor
 docnumber: vcard-elements/property-values
 date:
 - type: created

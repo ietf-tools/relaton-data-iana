@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/auto-bandwidth-attributes-sub-tlv
   type: IANA
   primary: true
-- id: PCEP/AUTO-BANDWIDTH-ATTRIBUTES-SUB-TLV
-  type: IANA
-  scope: anchor
 docnumber: pcep/auto-bandwidth-attributes-sub-tlv
 date:
 - type: created

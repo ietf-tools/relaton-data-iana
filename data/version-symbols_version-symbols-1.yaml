@@ -11,9 +11,6 @@ docid:
 - id: IANA version-symbols/version-symbols-1
   type: IANA
   primary: true
-- id: VERSION-SYMBOLS/VERSION-SYMBOLS-1
-  type: IANA
-  scope: anchor
 docnumber: version-symbols/version-symbols-1
 date:
 - type: created

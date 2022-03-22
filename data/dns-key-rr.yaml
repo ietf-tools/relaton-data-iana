@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-key-rr
   type: IANA
   primary: true
-- id: DNS-KEY-RR
-  type: IANA
-  scope: anchor
 docnumber: dns-key-rr
 date:
 - type: created

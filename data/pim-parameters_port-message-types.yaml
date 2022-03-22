@@ -11,9 +11,6 @@ docid:
 - id: IANA pim-parameters/port-message-types
   type: IANA
   primary: true
-- id: PIM-PARAMETERS/PORT-MESSAGE-TYPES
-  type: IANA
-  scope: anchor
 docnumber: pim-parameters/port-message-types
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-noob
   type: IANA
   primary: true
-- id: EAP-NOOB
-  type: IANA
-  scope: anchor
 docnumber: eap-noob
 date:
 - type: created

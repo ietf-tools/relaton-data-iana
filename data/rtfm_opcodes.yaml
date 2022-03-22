@@ -11,9 +11,6 @@ docid:
 - id: IANA rtfm/opcodes
   type: IANA
   primary: true
-- id: RTFM/OPCODES
-  type: IANA
-  scope: anchor
 docnumber: rtfm/opcodes
 date:
 - type: created

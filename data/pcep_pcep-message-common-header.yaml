@@ -11,9 +11,6 @@ docid:
 - id: IANA pcep/pcep-message-common-header
   type: IANA
   primary: true
-- id: PCEP/PCEP-MESSAGE-COMMON-HEADER
-  type: IANA
-  scope: anchor
 docnumber: pcep/pcep-message-common-header
 date:
 - type: created

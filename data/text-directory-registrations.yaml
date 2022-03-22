@@ -11,9 +11,6 @@ docid:
 - id: IANA text-directory-registrations
   type: IANA
   primary: true
-- id: TEXT-DIRECTORY-REGISTRATIONS
-  type: IANA
-  scope: anchor
 docnumber: text-directory-registrations
 date:
 - type: created

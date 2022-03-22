@@ -11,9 +11,6 @@ docid:
 - id: IANA nts
   type: IANA
   primary: true
-- id: NTS
-  type: IANA
-  scope: anchor
 docnumber: nts
 date:
 - type: created

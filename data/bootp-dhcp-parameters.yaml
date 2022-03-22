@@ -12,9 +12,6 @@ docid:
 - id: IANA bootp-dhcp-parameters
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: bootp-dhcp-parameters
 date:
 - type: updated

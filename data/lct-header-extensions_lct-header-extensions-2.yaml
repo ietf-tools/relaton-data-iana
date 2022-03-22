@@ -11,9 +11,6 @@ docid:
 - id: IANA lct-header-extensions/lct-header-extensions-2
   type: IANA
   primary: true
-- id: LCT-HEADER-EXTENSIONS/LCT-HEADER-EXTENSIONS-2
-  type: IANA
-  scope: anchor
 docnumber: lct-header-extensions/lct-header-extensions-2
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA iodef2/indicatorexpression-operator
   type: IANA
   primary: true
-- id: IODEF2/INDICATOREXPRESSION-OPERATOR
-  type: IANA
-  scope: anchor
 docnumber: iodef2/indicatorexpression-operator
 date:
 - type: created

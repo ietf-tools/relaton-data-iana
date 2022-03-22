@@ -11,9 +11,6 @@ docid:
 - id: IANA g-ach-parameters
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: g-ach-parameters
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA jms-uri-variants
   type: IANA
   primary: true
-- id: JMS-URI-VARIANTS
-  type: IANA
-  scope: anchor
 docnumber: jms-uri-variants
 date:
 - type: created

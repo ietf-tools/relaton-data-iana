@@ -11,9 +11,6 @@ docid:
 - id: IANA mobility-parameters
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: mobility-parameters
 date:
 - type: created

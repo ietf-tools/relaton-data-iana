@@ -11,9 +11,6 @@ docid:
 - id: IANA gstn-extensions/gstn-extensions-2
   type: IANA
   primary: true
-- id: GSTN-EXTENSIONS/GSTN-EXTENSIONS-2
-  type: IANA
-  scope: anchor
 docnumber: gstn-extensions/gstn-extensions-2
 date:
 - type: updated

@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-tunnel-encapsulation
   type: IANA
   primary: true
-- id: BGP-TUNNEL-ENCAPSULATION
-  type: IANA
-  scope: anchor
 docnumber: bgp-tunnel-encapsulation
 date:
 - type: updated

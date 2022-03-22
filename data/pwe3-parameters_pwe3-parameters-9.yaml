@@ -11,9 +11,6 @@ docid:
 - id: IANA pwe3-parameters/pwe3-parameters-9
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/PWE3-PARAMETERS-9
-  type: IANA
-  scope: anchor
 docnumber: pwe3-parameters/pwe3-parameters-9
 date:
 - type: created

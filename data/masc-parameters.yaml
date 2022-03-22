@@ -11,9 +11,6 @@ docid:
 - id: IANA masc-parameters
   type: IANA
   primary: true
-- id: MASC-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: masc-parameters
 date:
 - type: created

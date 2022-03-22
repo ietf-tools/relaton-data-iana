@@ -11,9 +11,6 @@ docid:
 - id: IANA dane-parameters/certificate-usages
   type: IANA
   primary: true
-- id: DANE-PARAMETERS/CERTIFICATE-USAGES
-  type: IANA
-  scope: anchor
 docnumber: dane-parameters/certificate-usages
 date:
 - type: created

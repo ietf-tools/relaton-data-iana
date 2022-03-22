@@ -11,9 +11,6 @@ docid:
 - id: IANA profile-uris/profile
   type: IANA
   primary: true
-- id: PROFILE-URIS/PROFILE
-  type: IANA
-  scope: anchor
 docnumber: profile-uris/profile
 date:
 - type: created

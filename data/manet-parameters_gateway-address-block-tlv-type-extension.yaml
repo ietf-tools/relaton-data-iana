@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/gateway-address-block-tlv-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/GATEWAY-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/gateway-address-block-tlv-type-extension
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA opes
   type: IANA
   primary: true
-- id: OPES
-  type: IANA
-  scope: anchor
 docnumber: opes
 date:
 - type: updated

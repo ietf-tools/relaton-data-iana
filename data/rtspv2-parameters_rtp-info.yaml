@@ -11,9 +11,6 @@ docid:
 - id: IANA rtspv2-parameters/rtp-info
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/RTP-INFO
-  type: IANA
-  scope: anchor
 docnumber: rtspv2-parameters/rtp-info
 date:
 - type: created

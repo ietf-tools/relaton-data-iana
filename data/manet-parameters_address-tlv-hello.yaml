@@ -11,9 +11,6 @@ docid:
 - id: IANA manet-parameters/address-tlv-hello
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/ADDRESS-TLV-HELLO
-  type: IANA
-  scope: anchor
 docnumber: manet-parameters/address-tlv-hello
 date:
 - type: created

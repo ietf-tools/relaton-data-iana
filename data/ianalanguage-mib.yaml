@@ -11,9 +11,6 @@ docid:
 - id: IANA ianalanguage-mib
   type: IANA
   primary: true
-- id: IANALANGUAGE-MIB
-  type: IANA
-  scope: anchor
 docnumber: ianalanguage-mib
 date:
 - type: created

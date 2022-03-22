@@ -11,9 +11,6 @@ docid:
 - id: IANA machine-names
   type: IANA
   primary: true
-- id: MACHINE-NAMES
-  type: IANA
-  scope: anchor
 docnumber: machine-names
 date:
 - type: updated

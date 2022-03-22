@@ -11,9 +11,6 @@ docid:
 - id: IANA webauthn/webauthn-attestation-statement-format-ids
   type: IANA
   primary: true
-- id: WEBAUTHN/WEBAUTHN-ATTESTATION-STATEMENT-FORMAT-IDS
-  type: IANA
-  scope: anchor
 docnumber: webauthn/webauthn-attestation-statement-format-ids
 date:
 - type: created

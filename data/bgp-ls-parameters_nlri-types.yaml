@@ -11,9 +11,6 @@ docid:
 - id: IANA bgp-ls-parameters/nlri-types
   type: IANA
   primary: true
-- id: BGP-LS-PARAMETERS/NLRI-TYPES
-  type: IANA
-  scope: anchor
 docnumber: bgp-ls-parameters/nlri-types
 date:
 - type: created

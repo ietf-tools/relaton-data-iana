@@ -11,9 +11,6 @@ docid:
 - id: IANA dncp-registry
   type: IANA
   primary: true
-- id: DNCP-REGISTRY
-  type: IANA
-  scope: anchor
 docnumber: dncp-registry
 date:
 - type: created

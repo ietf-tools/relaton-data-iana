@@ -11,9 +11,6 @@ docid:
 - id: IANA ipsec-registry/ipsec-registry-12
   type: IANA
   primary: true
-- id: IPSEC-REGISTRY/IPSEC-REGISTRY-12
-  type: IANA
-  scope: anchor
 docnumber: ipsec-registry/ipsec-registry-12
 date:
 - type: updated

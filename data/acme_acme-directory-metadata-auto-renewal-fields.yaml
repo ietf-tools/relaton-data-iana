@@ -11,9 +11,6 @@ docid:
 - id: IANA acme/acme-directory-metadata-auto-renewal-fields
   type: IANA
   primary: true
-- id: ACME/ACME-DIRECTORY-METADATA-AUTO-RENEWAL-FIELDS
-  type: IANA
-  scope: anchor
 docnumber: acme/acme-directory-metadata-auto-renewal-fields
 date:
 - type: created

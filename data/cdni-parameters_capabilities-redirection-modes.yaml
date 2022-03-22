@@ -11,9 +11,6 @@ docid:
 - id: IANA cdni-parameters/capabilities-redirection-modes
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/CAPABILITIES-REDIRECTION-MODES
-  type: IANA
-  scope: anchor
 docnumber: cdni-parameters/capabilities-redirection-modes
 date:
 - type: created

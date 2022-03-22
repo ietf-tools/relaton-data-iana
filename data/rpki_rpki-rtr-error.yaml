@@ -11,9 +11,6 @@ docid:
 - id: IANA rpki/rpki-rtr-error
   type: IANA
   primary: true
-- id: RPKI/RPKI-RTR-ERROR
-  type: IANA
-  scope: anchor
 docnumber: rpki/rpki-rtr-error
 date:
 - type: created

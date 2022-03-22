@@ -11,9 +11,6 @@ docid:
 - id: IANA http-authschemes/mutual-authentication-algorithms
   type: IANA
   primary: true
-- id: HTTP-AUTHSCHEMES/MUTUAL-AUTHENTICATION-ALGORITHMS
-  type: IANA
-  scope: anchor
 docnumber: http-authschemes/mutual-authentication-algorithms
 date:
 - type: created

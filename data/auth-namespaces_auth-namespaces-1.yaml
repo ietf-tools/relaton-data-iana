@@ -11,9 +11,6 @@ docid:
 - id: IANA auth-namespaces/auth-namespaces-1
   type: IANA
   primary: true
-- id: AUTH-NAMESPACES/AUTH-NAMESPACES-1
-  type: IANA
-  scope: anchor
 docnumber: auth-namespaces/auth-namespaces-1
 date:
 - type: created

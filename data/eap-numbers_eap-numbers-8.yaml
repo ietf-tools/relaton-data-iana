@@ -11,9 +11,6 @@ docid:
 - id: IANA eap-numbers/eap-numbers-8
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-NUMBERS-8
-  type: IANA
-  scope: anchor
 docnumber: eap-numbers/eap-numbers-8
 date:
 - type: created

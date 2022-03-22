@@ -11,9 +11,6 @@ docid:
 - id: IANA dns-parameters/dns-parameters-2
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/DNS-PARAMETERS-2
-  type: IANA
-  scope: anchor
 docnumber: dns-parameters/dns-parameters-2
 date:
 - type: updated

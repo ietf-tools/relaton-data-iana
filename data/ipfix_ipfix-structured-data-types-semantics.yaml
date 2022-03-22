@@ -11,9 +11,6 @@ docid:
 - id: IANA ipfix/ipfix-structured-data-types-semantics
   type: IANA
   primary: true
-- id: IPFIX/IPFIX-STRUCTURED-DATA-TYPES-SEMANTICS
-  type: IANA
-  scope: anchor
 docnumber: ipfix/ipfix-structured-data-types-semantics
 date:
 - type: created

@@ -11,9 +11,6 @@ docid:
 - id: IANA qspec/y1541
   type: IANA
   primary: true
-- id: QSPEC/Y1541
-  type: IANA
-  scope: anchor
 docnumber: qspec/y1541
 date:
 - type: created

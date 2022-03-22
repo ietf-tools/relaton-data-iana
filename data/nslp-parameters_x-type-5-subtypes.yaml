@@ -11,9 +11,6 @@ docid:
 - id: IANA nslp-parameters/x-type-5-subtypes
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/X-TYPE-5-SUBTYPES
-  type: IANA
-  scope: anchor
 docnumber: nslp-parameters/x-type-5-subtypes
 date:
 - type: created

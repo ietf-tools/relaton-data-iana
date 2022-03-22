@@ -11,9 +11,6 @@ docid:
 - id: IANA cont-disp/cont-disp-3
   type: IANA
   primary: true
-- id: CONT-DISP/CONT-DISP-3
-  type: IANA
-  scope: anchor
 docnumber: cont-disp/cont-disp-3
 date:
 - type: updated

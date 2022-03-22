@@ -11,9 +11,6 @@ docid:
 - id: IANA bundle/cbhe-node-numbers
   type: IANA
   primary: true
-- id: BUNDLE/CBHE-NODE-NUMBERS
-  type: IANA
-  scope: anchor
 docnumber: bundle/cbhe-node-numbers
 date:
 - type: created

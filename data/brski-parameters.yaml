@@ -11,9 +11,6 @@ docid:
 - id: IANA brski-parameters
   type: IANA
   primary: true
-- id: BRSKI-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: brski-parameters
 date:
 - type: created

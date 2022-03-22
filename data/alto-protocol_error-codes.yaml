@@ -11,9 +11,6 @@ docid:
 - id: IANA alto-protocol/error-codes
   type: IANA
   primary: true
-- id: ALTO-PROTOCOL/ERROR-CODES
-  type: IANA
-  scope: anchor
 docnumber: alto-protocol/error-codes
 date:
 - type: created

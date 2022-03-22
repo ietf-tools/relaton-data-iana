@@ -11,9 +11,6 @@ docid:
 - id: IANA pt-tls-parameters
   type: IANA
   primary: true
-- id: PT-TLS-PARAMETERS
-  type: IANA
-  scope: anchor
 docnumber: pt-tls-parameters
 date:
 - type: created

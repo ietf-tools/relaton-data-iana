@@ -11,9 +11,6 @@ docid:
 - id: IANA oauth-parameters/authorization-server-metadata
   type: IANA
   primary: true
-- id: OAUTH-PARAMETERS/AUTHORIZATION-SERVER-METADATA
-  type: IANA
-  scope: anchor
 docnumber: oauth-parameters/authorization-server-metadata
 date:
 - type: created
