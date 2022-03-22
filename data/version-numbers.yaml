@@ -11,6 +11,9 @@ docid:
 - id: IANA version-numbers
   type: IANA
   primary: true
+- id: VERSION-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: version-numbers
 date:
 - type: updated

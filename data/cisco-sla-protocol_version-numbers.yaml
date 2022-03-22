@@ -11,6 +11,9 @@ docid:
 - id: IANA cisco-sla-protocol/version-numbers
   type: IANA
   primary: true
+- id: CISCO-SLA-PROTOCOL/VERSION-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: cisco-sla-protocol/version-numbers
 date:
 - type: created

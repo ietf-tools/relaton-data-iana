@@ -11,6 +11,9 @@ docid:
 - id: IANA ppp-numbers/ppp-numbers-25
   type: IANA
   primary: true
+- id: PPP-NUMBERS/PPP-NUMBERS-25
+  type: IANA
+  scope: anchor
 docnumber: ppp-numbers/ppp-numbers-25
 date:
 - type: updated

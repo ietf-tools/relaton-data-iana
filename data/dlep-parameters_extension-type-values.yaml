@@ -11,6 +11,9 @@ docid:
 - id: IANA dlep-parameters/extension-type-values
   type: IANA
   primary: true
+- id: DLEP-PARAMETERS/EXTENSION-TYPE-VALUES
+  type: IANA
+  scope: anchor
 docnumber: dlep-parameters/extension-type-values
 date:
 - type: created

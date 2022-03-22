@@ -11,6 +11,9 @@ docid:
 - id: IANA brski-parameters/pledge-brski-status-telemetry-attributes
   type: IANA
   primary: true
+- id: BRSKI-PARAMETERS/PLEDGE-BRSKI-STATUS-TELEMETRY-ATTRIBUTES
+  type: IANA
+  scope: anchor
 docnumber: brski-parameters/pledge-brski-status-telemetry-attributes
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA pvds
   type: IANA
   primary: true
+- id: PVDS
+  type: IANA
+  scope: anchor
 docnumber: pvds
 date:
 - type: created

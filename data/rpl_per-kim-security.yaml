@@ -11,6 +11,9 @@ docid:
 - id: IANA rpl/per-kim-security
   type: IANA
   primary: true
+- id: RPL/PER-KIM-SECURITY
+  type: IANA
+  scope: anchor
 docnumber: rpl/per-kim-security
 date:
 - type: created

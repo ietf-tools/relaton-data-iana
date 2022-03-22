@@ -11,6 +11,9 @@ docid:
 - id: IANA gmpls-wson/interface-label-stack-address-type
   type: IANA
   primary: true
+- id: GMPLS-WSON/INTERFACE-LABEL-STACK-ADDRESS-TYPE
+  type: IANA
+  scope: anchor
 docnumber: gmpls-wson/interface-label-stack-address-type
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA teap-parameters/trusted-server-root
   type: IANA
   primary: true
+- id: TEAP-PARAMETERS/TRUSTED-SERVER-ROOT
+  type: IANA
+  scope: anchor
 docnumber: teap-parameters/trusted-server-root
 date:
 - type: created

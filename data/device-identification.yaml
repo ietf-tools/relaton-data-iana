@@ -11,6 +11,9 @@ docid:
 - id: IANA device-identification
   type: IANA
   primary: true
+- id: DEVICE-IDENTIFICATION
+  type: IANA
+  scope: anchor
 docnumber: device-identification
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA rdap-json-values
   type: IANA
   primary: true
+- id: RDAP-JSON-VALUES
+  type: IANA
+  scope: anchor
 docnumber: rdap-json-values
 date:
 - type: created

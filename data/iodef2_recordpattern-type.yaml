@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/recordpattern-type
   type: IANA
   primary: true
+- id: IODEF2/RECORDPATTERN-TYPE
+  type: IANA
+  scope: anchor
 docnumber: iodef2/recordpattern-type
 date:
 - type: created

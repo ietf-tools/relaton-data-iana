@@ -11,6 +11,9 @@ docid:
 - id: IANA ds-rr-types
   type: IANA
   primary: true
+- id: DS-RR-TYPES
+  type: IANA
+  scope: anchor
 docnumber: ds-rr-types
 date:
 - type: created

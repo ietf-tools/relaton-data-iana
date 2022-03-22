@@ -11,6 +11,9 @@ docid:
 - id: IANA ip-xns-mapping
   type: IANA
   primary: true
+- id: IP-XNS-MAPPING
+  type: IANA
+  scope: anchor
 docnumber: ip-xns-mapping
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA mrcpv2-parameters/vendor-specific
   type: IANA
   primary: true
+- id: MRCPV2-PARAMETERS/VENDOR-SPECIFIC
+  type: IANA
+  scope: anchor
 docnumber: mrcpv2-parameters/vendor-specific
 date:
 - type: created

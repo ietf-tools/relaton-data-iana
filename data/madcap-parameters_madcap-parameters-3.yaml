@@ -11,6 +11,9 @@ docid:
 - id: IANA madcap-parameters/madcap-parameters-3
   type: IANA
   primary: true
+- id: MADCAP-PARAMETERS/MADCAP-PARAMETERS-3
+  type: IANA
+  scope: anchor
 docnumber: madcap-parameters/madcap-parameters-3
 date:
 - type: updated

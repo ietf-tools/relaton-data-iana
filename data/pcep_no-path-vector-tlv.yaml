@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/no-path-vector-tlv
   type: IANA
   primary: true
+- id: PCEP/NO-PATH-VECTOR-TLV
+  type: IANA
+  scope: anchor
 docnumber: pcep/no-path-vector-tlv
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA pskc/alg-profiles
   type: IANA
   primary: true
+- id: PSKC/ALG-PROFILES
+  type: IANA
+  scope: anchor
 docnumber: pskc/alg-profiles
 date:
 - type: created

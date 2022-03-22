@@ -11,6 +11,9 @@ docid:
 - id: IANA message-headers/perm-headers
   type: IANA
   primary: true
+- id: MESSAGE-HEADERS/PERM-HEADERS
+  type: IANA
+  scope: anchor
 docnumber: message-headers/perm-headers
 date:
 - type: updated

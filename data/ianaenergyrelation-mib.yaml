@@ -11,6 +11,9 @@ docid:
 - id: IANA ianaenergyrelation-mib
   type: IANA
   primary: true
+- id: IANAENERGYRELATION-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianaenergyrelation-mib
 date:
 - type: created

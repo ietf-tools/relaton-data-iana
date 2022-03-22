@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/auto-bandwidth-capability-tlv-flag-field
   type: IANA
   primary: true
+- id: PCEP/AUTO-BANDWIDTH-CAPABILITY-TLV-FLAG-FIELD
+  type: IANA
+  scope: anchor
 docnumber: pcep/auto-bandwidth-capability-tlv-flag-field
 date:
 - type: created

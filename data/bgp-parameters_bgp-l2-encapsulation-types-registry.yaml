@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-parameters/bgp-l2-encapsulation-types-registry
   type: IANA
   primary: true
+- id: BGP-PARAMETERS/BGP-L2-ENCAPSULATION-TYPES-REGISTRY
+  type: IANA
+  scope: anchor
 docnumber: bgp-parameters/bgp-l2-encapsulation-types-registry
 date:
 - type: updated

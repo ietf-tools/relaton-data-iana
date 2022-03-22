@@ -11,6 +11,9 @@ docid:
 - id: IANA xml-ns-provided-by
   type: IANA
   primary: true
+- id: XML-NS-PROVIDED-BY
+  type: IANA
+  scope: anchor
 docnumber: xml-ns-provided-by
 date:
 - type: updated

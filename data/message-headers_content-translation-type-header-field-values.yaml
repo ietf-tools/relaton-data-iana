@@ -11,6 +11,9 @@ docid:
 - id: IANA message-headers/content-translation-type-header-field-values
   type: IANA
   primary: true
+- id: MESSAGE-HEADERS/CONTENT-TRANSLATION-TYPE-HEADER-FIELD-VALUES
+  type: IANA
+  scope: anchor
 docnumber: message-headers/content-translation-type-header-field-values
 date:
 - type: updated

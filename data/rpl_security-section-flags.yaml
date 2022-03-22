@@ -11,6 +11,9 @@ docid:
 - id: IANA rpl/security-section-flags
   type: IANA
   primary: true
+- id: RPL/SECURITY-SECTION-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: rpl/security-section-flags
 date:
 - type: created

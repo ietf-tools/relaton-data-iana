@@ -11,6 +11,9 @@ docid:
 - id: IANA ianacharset-mib
   type: IANA
   primary: true
+- id: IANACHARSET-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianacharset-mib
 date:
 - type: created

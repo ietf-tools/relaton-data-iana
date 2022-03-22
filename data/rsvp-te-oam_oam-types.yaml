@@ -11,6 +11,9 @@ docid:
 - id: IANA rsvp-te-oam/oam-types
   type: IANA
   primary: true
+- id: RSVP-TE-OAM/OAM-TYPES
+  type: IANA
+  scope: anchor
 docnumber: rsvp-te-oam/oam-types
 date:
 - type: created

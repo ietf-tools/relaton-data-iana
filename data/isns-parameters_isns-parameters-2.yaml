@@ -11,6 +11,9 @@ docid:
 - id: IANA isns-parameters/isns-parameters-2
   type: IANA
   primary: true
+- id: ISNS-PARAMETERS/ISNS-PARAMETERS-2
+  type: IANA
+  scope: anchor
 docnumber: isns-parameters/isns-parameters-2
 date:
 - type: created

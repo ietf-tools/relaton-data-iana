@@ -11,6 +11,9 @@ docid:
 - id: IANA trailer-types
   type: IANA
   primary: true
+- id: TRAILER-TYPES
+  type: IANA
+  scope: anchor
 docnumber: trailer-types
 date:
 - type: created

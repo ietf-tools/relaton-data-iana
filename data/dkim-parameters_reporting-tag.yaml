@@ -11,6 +11,9 @@ docid:
 - id: IANA dkim-parameters/reporting-tag
   type: IANA
   primary: true
+- id: DKIM-PARAMETERS/REPORTING-TAG
+  type: IANA
+  scope: anchor
 docnumber: dkim-parameters/reporting-tag
 date:
 - type: created

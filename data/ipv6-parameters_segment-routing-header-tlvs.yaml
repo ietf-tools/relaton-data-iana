@@ -11,6 +11,9 @@ docid:
 - id: IANA ipv6-parameters/segment-routing-header-tlvs
   type: IANA
   primary: true
+- id: IPV6-PARAMETERS/SEGMENT-ROUTING-HEADER-TLVS
+  type: IANA
+  scope: anchor
 docnumber: ipv6-parameters/segment-routing-header-tlvs
 date:
 - type: updated

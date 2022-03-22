@@ -11,6 +11,9 @@ docid:
 - id: IANA abfab-parameters/urn-parameters
   type: IANA
   primary: true
+- id: ABFAB-PARAMETERS/URN-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: abfab-parameters/urn-parameters
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA inst-man-values
   type: IANA
   primary: true
+- id: INST-MAN-VALUES
+  type: IANA
+  scope: anchor
 docnumber: inst-man-values
 date:
 - type: created

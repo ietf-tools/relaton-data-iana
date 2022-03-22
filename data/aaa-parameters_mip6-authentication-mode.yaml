@@ -11,6 +11,9 @@ docid:
 - id: IANA aaa-parameters/mip6-authentication-mode
   type: IANA
   primary: true
+- id: AAA-PARAMETERS/MIP6-AUTHENTICATION-MODE
+  type: IANA
+  scope: anchor
 docnumber: aaa-parameters/mip6-authentication-mode
 date:
 - type: created

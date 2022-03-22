@@ -11,6 +11,9 @@ docid:
 - id: IANA civic-address-types-registry/rltypes
   type: IANA
   primary: true
+- id: CIVIC-ADDRESS-TYPES-REGISTRY/RLTYPES
+  type: IANA
+  scope: anchor
 docnumber: civic-address-types-registry/rltypes
 date:
 - type: created

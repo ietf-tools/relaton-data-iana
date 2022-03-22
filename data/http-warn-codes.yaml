@@ -11,6 +11,9 @@ docid:
 - id: IANA http-warn-codes
   type: IANA
   primary: true
+- id: HTTP-WARN-CODES
+  type: IANA
+  scope: anchor
 docnumber: http-warn-codes
 date:
 - type: created

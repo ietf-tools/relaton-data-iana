@@ -11,6 +11,9 @@ docid:
 - id: IANA mrcpv2-parameters/methods-events
   type: IANA
   primary: true
+- id: MRCPV2-PARAMETERS/METHODS-EVENTS
+  type: IANA
+  scope: anchor
 docnumber: mrcpv2-parameters/methods-events
 date:
 - type: created

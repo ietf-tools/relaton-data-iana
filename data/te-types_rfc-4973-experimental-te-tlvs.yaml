@@ -11,6 +11,9 @@ docid:
 - id: IANA te-types/rfc-4973-experimental-te-tlvs
   type: IANA
   primary: true
+- id: TE-TYPES/RFC-4973-EXPERIMENTAL-TE-TLVS
+  type: IANA
+  scope: anchor
 docnumber: te-types/rfc-4973-experimental-te-tlvs
 date:
 - type: created

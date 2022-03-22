@@ -11,6 +11,9 @@ docid:
 - id: IANA spf-parameters
   type: IANA
   primary: true
+- id: SPF-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: spf-parameters
 date:
 - type: created

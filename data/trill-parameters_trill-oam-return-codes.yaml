@@ -11,6 +11,9 @@ docid:
 - id: IANA trill-parameters/trill-oam-return-codes
   type: IANA
   primary: true
+- id: TRILL-PARAMETERS/TRILL-OAM-RETURN-CODES
+  type: IANA
+  scope: anchor
 docnumber: trill-parameters/trill-oam-return-codes
 date:
 - type: created

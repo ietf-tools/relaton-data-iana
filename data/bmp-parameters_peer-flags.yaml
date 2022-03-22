@@ -11,6 +11,9 @@ docid:
 - id: IANA bmp-parameters/peer-flags
   type: IANA
   primary: true
+- id: BMP-PARAMETERS/PEER-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: bmp-parameters/peer-flags
 date:
 - type: created

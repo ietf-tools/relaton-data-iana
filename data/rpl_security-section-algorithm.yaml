@@ -11,6 +11,9 @@ docid:
 - id: IANA rpl/security-section-algorithm
   type: IANA
   primary: true
+- id: RPL/SECURITY-SECTION-ALGORITHM
+  type: IANA
+  scope: anchor
 docnumber: rpl/security-section-algorithm
 date:
 - type: created

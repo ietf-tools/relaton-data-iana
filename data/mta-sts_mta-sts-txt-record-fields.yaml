@@ -11,6 +11,9 @@ docid:
 - id: IANA mta-sts/mta-sts-txt-record-fields
   type: IANA
   primary: true
+- id: MTA-STS/MTA-STS-TXT-RECORD-FIELDS
+  type: IANA
+  scope: anchor
 docnumber: mta-sts/mta-sts-txt-record-fields
 date:
 - type: created

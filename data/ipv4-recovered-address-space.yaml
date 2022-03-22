@@ -11,6 +11,9 @@ docid:
 - id: IANA ipv4-recovered-address-space
   type: IANA
   primary: true
+- id: IPV4-RECOVERED-ADDRESS-SPACE
+  type: IANA
+  scope: anchor
 docnumber: ipv4-recovered-address-space
 date:
 - type: updated

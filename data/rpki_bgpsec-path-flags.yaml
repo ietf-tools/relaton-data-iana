@@ -11,6 +11,9 @@ docid:
 - id: IANA rpki/bgpsec-path-flags
   type: IANA
   primary: true
+- id: RPKI/BGPSEC-PATH-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: rpki/bgpsec-path-flags
 date:
 - type: created

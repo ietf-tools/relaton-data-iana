@@ -11,6 +11,9 @@ docid:
 - id: IANA paws/ruleset-id
   type: IANA
   primary: true
+- id: PAWS/RULESET-ID
+  type: IANA
+  scope: anchor
 docnumber: paws/ruleset-id
 date:
 - type: created

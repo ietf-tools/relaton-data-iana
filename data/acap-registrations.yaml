@@ -11,6 +11,9 @@ docid:
 - id: IANA acap-registrations
   type: IANA
   primary: true
+- id: ACAP-REGISTRATIONS
+  type: IANA
+  scope: anchor
 docnumber: acap-registrations
 date:
 - type: updated

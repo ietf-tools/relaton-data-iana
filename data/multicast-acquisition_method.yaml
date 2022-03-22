@@ -11,6 +11,9 @@ docid:
 - id: IANA multicast-acquisition/method
   type: IANA
   primary: true
+- id: MULTICAST-ACQUISITION/METHOD
+  type: IANA
+  scope: anchor
 docnumber: multicast-acquisition/method
 date:
 - type: created

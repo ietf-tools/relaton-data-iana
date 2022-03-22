@@ -12,6 +12,9 @@ docid:
 - id: IANA eappotp-identifiers
   type: IANA
   primary: true
+- id: EAPPOTP-IDENTIFIERS
+  type: IANA
+  scope: anchor
 docnumber: eappotp-identifiers
 date:
 - type: created

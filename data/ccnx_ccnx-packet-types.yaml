@@ -11,6 +11,9 @@ docid:
 - id: IANA ccnx/ccnx-packet-types
   type: IANA
   primary: true
+- id: CCNX/CCNX-PACKET-TYPES
+  type: IANA
+  scope: anchor
 docnumber: ccnx/ccnx-packet-types
 date:
 - type: created

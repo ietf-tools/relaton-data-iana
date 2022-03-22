@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-fast-parameters/eap-fast-parameters-4
   type: IANA
   primary: true
+- id: EAP-FAST-PARAMETERS/EAP-FAST-PARAMETERS-4
+  type: IANA
+  scope: anchor
 docnumber: eap-fast-parameters/eap-fast-parameters-4
 date:
 - type: created

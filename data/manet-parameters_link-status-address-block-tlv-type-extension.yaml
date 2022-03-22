@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/link-status-address-block-tlv-type-extension
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/LINK-STATUS-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/link-status-address-block-tlv-type-extension
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA sip-parameters/uui-content
   type: IANA
   primary: true
+- id: SIP-PARAMETERS/UUI-CONTENT
+  type: IANA
+  scope: anchor
 docnumber: sip-parameters/uui-content
 date:
 - type: created

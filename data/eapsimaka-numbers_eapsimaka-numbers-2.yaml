@@ -11,6 +11,9 @@ docid:
 - id: IANA eapsimaka-numbers/eapsimaka-numbers-2
   type: IANA
   primary: true
+- id: EAPSIMAKA-NUMBERS/EAPSIMAKA-NUMBERS-2
+  type: IANA
+  scope: anchor
 docnumber: eapsimaka-numbers/eapsimaka-numbers-2
 date:
 - type: created

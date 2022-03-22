@@ -11,6 +11,9 @@ docid:
 - id: IANA prophet/dtn-routing-protocol-number
   type: IANA
   primary: true
+- id: PROPHET/DTN-ROUTING-PROTOCOL-NUMBER
+  type: IANA
+  scope: anchor
 docnumber: prophet/dtn-routing-protocol-number
 date:
 - type: created

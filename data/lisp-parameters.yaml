@@ -11,6 +11,9 @@ docid:
 - id: IANA lisp-parameters
   type: IANA
   primary: true
+- id: LISP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: lisp-parameters
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA scep/scep-message-types
   type: IANA
   primary: true
+- id: SCEP/SCEP-MESSAGE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: scep/scep-message-types
 date:
 - type: created

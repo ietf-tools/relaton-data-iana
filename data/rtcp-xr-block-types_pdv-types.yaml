@@ -11,6 +11,9 @@ docid:
 - id: IANA rtcp-xr-block-types/pdv-types
   type: IANA
   primary: true
+- id: RTCP-XR-BLOCK-TYPES/PDV-TYPES
+  type: IANA
+  scope: anchor
 docnumber: rtcp-xr-block-types/pdv-types
 date:
 - type: created

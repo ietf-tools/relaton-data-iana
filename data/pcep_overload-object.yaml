@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/overload-object
   type: IANA
   primary: true
+- id: PCEP/OVERLOAD-OBJECT
+  type: IANA
+  scope: anchor
 docnumber: pcep/overload-object
 date:
 - type: created

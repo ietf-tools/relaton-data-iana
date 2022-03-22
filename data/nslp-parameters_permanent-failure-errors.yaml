@@ -11,6 +11,9 @@ docid:
 - id: IANA nslp-parameters/permanent-failure-errors
   type: IANA
   primary: true
+- id: NSLP-PARAMETERS/PERMANENT-FAILURE-ERRORS
+  type: IANA
+  scope: anchor
 docnumber: nslp-parameters/permanent-failure-errors
 date:
 - type: created

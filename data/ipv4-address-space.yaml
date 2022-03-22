@@ -11,6 +11,9 @@ docid:
 - id: IANA ipv4-address-space
   type: IANA
   primary: true
+- id: IPV4-ADDRESS-SPACE
+  type: IANA
+  scope: anchor
 docnumber: ipv4-address-space
 date:
 - type: updated

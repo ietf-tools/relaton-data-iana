@@ -11,6 +11,9 @@ docid:
 - id: IANA http2-parameters/settings
   type: IANA
   primary: true
+- id: HTTP2-PARAMETERS/SETTINGS
+  type: IANA
+  scope: anchor
 docnumber: http2-parameters/settings
 date:
 - type: created

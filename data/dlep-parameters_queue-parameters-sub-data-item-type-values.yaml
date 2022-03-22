@@ -11,6 +11,9 @@ docid:
 - id: IANA dlep-parameters/queue-parameters-sub-data-item-type-values
   type: IANA
   primary: true
+- id: DLEP-PARAMETERS/QUEUE-PARAMETERS-SUB-DATA-ITEM-TYPE-VALUES
+  type: IANA
+  scope: anchor
 docnumber: dlep-parameters/queue-parameters-sub-data-item-type-values
 date:
 - type: created

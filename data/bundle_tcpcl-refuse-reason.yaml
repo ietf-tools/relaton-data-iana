@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/tcpcl-refuse-reason
   type: IANA
   primary: true
+- id: BUNDLE/TCPCL-REFUSE-REASON
+  type: IANA
+  scope: anchor
 docnumber: bundle/tcpcl-refuse-reason
 date:
 - type: created

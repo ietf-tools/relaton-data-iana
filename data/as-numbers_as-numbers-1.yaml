@@ -11,6 +11,9 @@ docid:
 - id: IANA as-numbers/as-numbers-1
   type: IANA
   primary: true
+- id: AS-NUMBERS/AS-NUMBERS-1
+  type: IANA
+  scope: anchor
 docnumber: as-numbers/as-numbers-1
 date:
 - type: updated

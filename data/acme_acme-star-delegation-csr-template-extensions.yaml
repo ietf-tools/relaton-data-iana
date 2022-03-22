@@ -11,6 +11,9 @@ docid:
 - id: IANA acme/acme-star-delegation-csr-template-extensions
   type: IANA
   primary: true
+- id: ACME/ACME-STAR-DELEGATION-CSR-TEMPLATE-EXTENSIONS
+  type: IANA
+  scope: anchor
 docnumber: acme/acme-star-delegation-csr-template-extensions
 date:
 - type: created

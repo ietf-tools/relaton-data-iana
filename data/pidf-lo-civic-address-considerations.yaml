@@ -11,6 +11,9 @@ docid:
 - id: IANA pidf-lo-civic-address-considerations
   type: IANA
   primary: true
+- id: PIDF-LO-CIVIC-ADDRESS-CONSIDERATIONS
+  type: IANA
+  scope: anchor
 docnumber: pidf-lo-civic-address-considerations
 date:
 - type: created

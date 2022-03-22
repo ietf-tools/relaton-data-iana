@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/businessimpact-type
   type: IANA
   primary: true
+- id: IODEF2/BUSINESSIMPACT-TYPE
+  type: IANA
+  scope: anchor
 docnumber: iodef2/businessimpact-type
 date:
 - type: created

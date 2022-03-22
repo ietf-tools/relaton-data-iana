@@ -11,6 +11,9 @@ docid:
 - id: IANA snmp-number-spaces
   type: IANA
   primary: true
+- id: SNMP-NUMBER-SPACES
+  type: IANA
+  scope: anchor
 docnumber: snmp-number-spaces
 date:
 - type: updated

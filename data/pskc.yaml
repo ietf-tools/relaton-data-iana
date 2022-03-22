@@ -11,6 +11,9 @@ docid:
 - id: IANA pskc
   type: IANA
   primary: true
+- id: PSKC
+  type: IANA
+  scope: anchor
 docnumber: pskc
 date:
 - type: created

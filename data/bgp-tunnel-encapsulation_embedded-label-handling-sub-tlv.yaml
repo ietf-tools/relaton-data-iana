@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv
   type: IANA
   primary: true
+- id: BGP-TUNNEL-ENCAPSULATION/EMBEDDED-LABEL-HANDLING-SUB-TLV
+  type: IANA
+  scope: anchor
 docnumber: bgp-tunnel-encapsulation/embedded-label-handling-sub-tlv
 date:
 - type: updated

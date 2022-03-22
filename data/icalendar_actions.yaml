@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/actions
   type: IANA
   primary: true
+- id: ICALENDAR/ACTIONS
+  type: IANA
+  scope: anchor
 docnumber: icalendar/actions
 date:
 - type: created

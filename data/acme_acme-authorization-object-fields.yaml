@@ -11,6 +11,9 @@ docid:
 - id: IANA acme/acme-authorization-object-fields
   type: IANA
   primary: true
+- id: ACME/ACME-AUTHORIZATION-OBJECT-FIELDS
+  type: IANA
+  scope: anchor
 docnumber: acme/acme-authorization-object-fields
 date:
 - type: created

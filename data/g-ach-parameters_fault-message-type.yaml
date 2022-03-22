@@ -11,6 +11,9 @@ docid:
 - id: IANA g-ach-parameters/fault-message-type
   type: IANA
   primary: true
+- id: G-ACH-PARAMETERS/FAULT-MESSAGE-TYPE
+  type: IANA
+  scope: anchor
 docnumber: g-ach-parameters/fault-message-type
 date:
 - type: created

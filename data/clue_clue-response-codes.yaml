@@ -11,6 +11,9 @@ docid:
 - id: IANA clue/clue-response-codes
   type: IANA
   primary: true
+- id: CLUE/CLUE-RESPONSE-CODES
+  type: IANA
+  scope: anchor
 docnumber: clue/clue-response-codes
 date:
 - type: created

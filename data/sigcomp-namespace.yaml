@@ -11,6 +11,9 @@ docid:
 - id: IANA sigcomp-namespace
   type: IANA
   primary: true
+- id: SIGCOMP-NAMESPACE
+  type: IANA
+  scope: anchor
 docnumber: sigcomp-namespace
 date:
 - type: created

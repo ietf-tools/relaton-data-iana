@@ -11,6 +11,9 @@ docid:
 - id: IANA comp-meth-ids/comp-meth-ids-2
   type: IANA
   primary: true
+- id: COMP-METH-IDS/COMP-METH-IDS-2
+  type: IANA
+  scope: anchor
 docnumber: comp-meth-ids/comp-meth-ids-2
 date:
 - type: created

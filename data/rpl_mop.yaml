@@ -11,6 +11,9 @@ docid:
 - id: IANA rpl/mop
   type: IANA
   primary: true
+- id: RPL/MOP
+  type: IANA
+  scope: anchor
 docnumber: rpl/mop
 date:
 - type: created

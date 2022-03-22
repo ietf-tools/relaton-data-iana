@@ -11,6 +11,9 @@ docid:
 - id: IANA iotp-codes/iotp-codes-9
   type: IANA
   primary: true
+- id: IOTP-CODES/IOTP-CODES-9
+  type: IANA
+  scope: anchor
 docnumber: iotp-codes/iotp-codes-9
 date:
 - type: created

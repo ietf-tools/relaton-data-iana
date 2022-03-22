@@ -11,6 +11,9 @@ docid:
 - id: IANA urn-serviceid-labels
   type: IANA
   primary: true
+- id: URN-SERVICEID-LABELS
+  type: IANA
+  scope: anchor
 docnumber: urn-serviceid-labels
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA s-pmsi-parameters
   type: IANA
   primary: true
+- id: S-PMSI-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: s-pmsi-parameters
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA service-names-port-numbers
   type: IANA
   primary: true
+- id: SERVICE-NAMES-PORT-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: service-names-port-numbers
 date:
 - type: updated

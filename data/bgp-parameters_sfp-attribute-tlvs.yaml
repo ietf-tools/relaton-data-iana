@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-parameters/sfp-attribute-tlvs
   type: IANA
   primary: true
+- id: BGP-PARAMETERS/SFP-ATTRIBUTE-TLVS
+  type: IANA
+  scope: anchor
 docnumber: bgp-parameters/sfp-attribute-tlvs
 date:
 - type: updated

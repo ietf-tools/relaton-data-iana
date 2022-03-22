@@ -11,6 +11,9 @@ docid:
 - id: IANA nsh/md-types
   type: IANA
   primary: true
+- id: NSH/MD-TYPES
+  type: IANA
+  scope: anchor
 docnumber: nsh/md-types
 date:
 - type: created

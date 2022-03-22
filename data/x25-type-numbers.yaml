@@ -11,6 +11,9 @@ docid:
 - id: IANA x25-type-numbers
   type: IANA
   primary: true
+- id: X25-TYPE-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: x25-type-numbers
 date:
 - type: updated

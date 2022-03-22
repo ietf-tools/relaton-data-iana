@@ -11,6 +11,9 @@ docid:
 - id: IANA yang-geographic-location
   type: IANA
   primary: true
+- id: YANG-GEOGRAPHIC-LOCATION
+  type: IANA
+  scope: anchor
 docnumber: yang-geographic-location
 date:
 - type: created

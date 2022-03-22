@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/sr-capability-flag-field
   type: IANA
   primary: true
+- id: PCEP/SR-CAPABILITY-FLAG-FIELD
+  type: IANA
+  scope: anchor
 docnumber: pcep/sr-capability-flag-field
 date:
 - type: created

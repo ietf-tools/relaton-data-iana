@@ -11,6 +11,9 @@ docid:
 - id: IANA mpls-label-values/extended
   type: IANA
   primary: true
+- id: MPLS-LABEL-VALUES/EXTENDED
+  type: IANA
+  scope: anchor
 docnumber: mpls-label-values/extended
 date:
 - type: created

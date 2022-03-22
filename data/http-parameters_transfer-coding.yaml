@@ -11,6 +11,9 @@ docid:
 - id: IANA http-parameters/transfer-coding
   type: IANA
   primary: true
+- id: HTTP-PARAMETERS/TRANSFER-CODING
+  type: IANA
+  scope: anchor
 docnumber: http-parameters/transfer-coding
 date:
 - type: updated

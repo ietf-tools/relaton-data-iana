@@ -11,6 +11,9 @@ docid:
 - id: IANA sieve-environment-items
   type: IANA
   primary: true
+- id: SIEVE-ENVIRONMENT-ITEMS
+  type: IANA
+  scope: anchor
 docnumber: sieve-environment-items
 date:
 - type: created

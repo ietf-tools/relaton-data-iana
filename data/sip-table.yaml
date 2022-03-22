@@ -12,6 +12,9 @@ docid:
 - id: IANA sip-table
   type: IANA
   primary: true
+- id: SIP-TABLE
+  type: IANA
+  scope: anchor
 docnumber: sip-table
 date:
 - type: created

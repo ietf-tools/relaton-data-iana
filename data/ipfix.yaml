@@ -11,6 +11,9 @@ docid:
 - id: IANA ipfix
   type: IANA
   primary: true
+- id: IPFIX
+  type: IANA
+  scope: anchor
 docnumber: ipfix
 date:
 - type: created

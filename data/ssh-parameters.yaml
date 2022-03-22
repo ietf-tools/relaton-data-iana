@@ -11,6 +11,9 @@ docid:
 - id: IANA ssh-parameters
   type: IANA
   primary: true
+- id: SSH-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: ssh-parameters
 date:
 - type: created

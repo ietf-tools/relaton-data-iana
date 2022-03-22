@@ -11,6 +11,9 @@ docid:
 - id: IANA c-dns/c-dns-response-flags
   type: IANA
   primary: true
+- id: C-DNS/C-DNS-RESPONSE-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: c-dns/c-dns-response-flags
 date:
 - type: created

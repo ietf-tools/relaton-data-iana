@@ -11,6 +11,9 @@ docid:
 - id: IANA yang-module-tags
   type: IANA
   primary: true
+- id: YANG-MODULE-TAGS
+  type: IANA
+  scope: anchor
 docnumber: yang-module-tags
 date:
 - type: created

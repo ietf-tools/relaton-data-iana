@@ -11,6 +11,9 @@ docid:
 - id: IANA milnet-parameters/milnet-parameters-2
   type: IANA
   primary: true
+- id: MILNET-PARAMETERS/MILNET-PARAMETERS-2
+  type: IANA
+  scope: anchor
 docnumber: milnet-parameters/milnet-parameters-2
 date:
 - type: updated

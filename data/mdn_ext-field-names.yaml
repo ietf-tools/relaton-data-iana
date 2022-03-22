@@ -11,6 +11,9 @@ docid:
 - id: IANA mdn/ext-field-names
   type: IANA
   primary: true
+- id: MDN/EXT-FIELD-NAMES
+  type: IANA
+  scope: anchor
 docnumber: mdn/ext-field-names
 date:
 - type: updated

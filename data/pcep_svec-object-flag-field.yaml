@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/svec-object-flag-field
   type: IANA
   primary: true
+- id: PCEP/SVEC-OBJECT-FLAG-FIELD
+  type: IANA
+  scope: anchor
 docnumber: pcep/svec-object-flag-field
 date:
 - type: created

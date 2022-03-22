@@ -11,6 +11,9 @@ docid:
 - id: IANA norm-parameters/norm-stream-control
   type: IANA
   primary: true
+- id: NORM-PARAMETERS/NORM-STREAM-CONTROL
+  type: IANA
+  scope: anchor
 docnumber: norm-parameters/norm-stream-control
 date:
 - type: created

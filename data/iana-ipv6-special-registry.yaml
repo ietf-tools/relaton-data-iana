@@ -11,6 +11,9 @@ docid:
 - id: IANA iana-ipv6-special-registry
   type: IANA
   primary: true
+- id: IANA-IPV6-SPECIAL-REGISTRY
+  type: IANA
+  scope: anchor
 docnumber: iana-ipv6-special-registry
 date:
 - type: created

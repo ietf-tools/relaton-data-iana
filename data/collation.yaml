@@ -11,6 +11,9 @@ docid:
 - id: IANA collation
   type: IANA
   primary: true
+- id: COLLATION
+  type: IANA
+  scope: anchor
 docnumber: collation
 date:
 - type: updated

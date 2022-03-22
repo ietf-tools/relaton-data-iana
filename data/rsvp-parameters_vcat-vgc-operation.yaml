@@ -11,6 +11,9 @@ docid:
 - id: IANA rsvp-parameters/vcat-vgc-operation
   type: IANA
   primary: true
+- id: RSVP-PARAMETERS/VCAT-VGC-OPERATION
+  type: IANA
+  scope: anchor
 docnumber: rsvp-parameters/vcat-vgc-operation
 date:
 - type: updated

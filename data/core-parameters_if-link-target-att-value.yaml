@@ -11,6 +11,9 @@ docid:
 - id: IANA core-parameters/if-link-target-att-value
   type: IANA
   primary: true
+- id: CORE-PARAMETERS/IF-LINK-TARGET-ATT-VALUE
+  type: IANA
+  scope: anchor
 docnumber: core-parameters/if-link-target-att-value
 date:
 - type: created

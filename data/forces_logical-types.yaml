@@ -11,6 +11,9 @@ docid:
 - id: IANA forces/logical-types
   type: IANA
   primary: true
+- id: FORCES/LOGICAL-TYPES
+  type: IANA
+  scope: anchor
 docnumber: forces/logical-types
 date:
 - type: created

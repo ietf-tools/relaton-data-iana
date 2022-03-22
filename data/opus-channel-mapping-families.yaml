@@ -11,6 +11,9 @@ docid:
 - id: IANA opus-channel-mapping-families
   type: IANA
   primary: true
+- id: OPUS-CHANNEL-MAPPING-FAMILIES
+  type: IANA
+  scope: anchor
 docnumber: opus-channel-mapping-families
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA cdni-parameters/payload-types
   type: IANA
   primary: true
+- id: CDNI-PARAMETERS/PAYLOAD-TYPES
+  type: IANA
+  scope: anchor
 docnumber: cdni-parameters/payload-types
 date:
 - type: created

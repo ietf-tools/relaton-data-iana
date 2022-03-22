@@ -11,6 +11,9 @@ docid:
 - id: IANA cbor-tags
   type: IANA
   primary: true
+- id: CBOR-TAGS
+  type: IANA
+  scope: anchor
 docnumber: cbor-tags
 date:
 - type: created

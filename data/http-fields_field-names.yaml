@@ -11,6 +11,9 @@ docid:
 - id: IANA http-fields/field-names
   type: IANA
   primary: true
+- id: HTTP-FIELDS/FIELD-NAMES
+  type: IANA
+  scope: anchor
 docnumber: http-fields/field-names
 date:
 - type: created

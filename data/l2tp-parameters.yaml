@@ -11,6 +11,9 @@ docid:
 - id: IANA l2tp-parameters
   type: IANA
   primary: true
+- id: L2TP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: l2tp-parameters
 date:
 - type: created

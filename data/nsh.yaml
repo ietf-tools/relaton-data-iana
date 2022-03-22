@@ -11,6 +11,9 @@ docid:
 - id: IANA nsh
   type: IANA
   primary: true
+- id: NSH
+  type: IANA
+  scope: anchor
 docnumber: nsh
 date:
 - type: created

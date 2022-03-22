@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/counter-unit
   type: IANA
   primary: true
+- id: IODEF2/COUNTER-UNIT
+  type: IANA
+  scope: anchor
 docnumber: iodef2/counter-unit
 date:
 - type: created

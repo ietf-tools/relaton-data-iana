@@ -11,6 +11,9 @@ docid:
 - id: IANA special-registry/special-registry-1
   type: IANA
   primary: true
+- id: SPECIAL-REGISTRY/SPECIAL-REGISTRY-1
+  type: IANA
+  scope: anchor
 docnumber: special-registry/special-registry-1
 date:
 - type: created

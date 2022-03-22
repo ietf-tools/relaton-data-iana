@@ -11,6 +11,9 @@ docid:
 - id: IANA http-parameters/range-units
   type: IANA
   primary: true
+- id: HTTP-PARAMETERS/RANGE-UNITS
+  type: IANA
+  scope: anchor
 docnumber: http-parameters/range-units
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA dccp-ccid3-parameters/dccp-ccid3-parameters-3
   type: IANA
   primary: true
+- id: DCCP-CCID3-PARAMETERS/DCCP-CCID3-PARAMETERS-3
+  type: IANA
+  scope: anchor
 docnumber: dccp-ccid3-parameters/dccp-ccid3-parameters-3
 date:
 - type: created

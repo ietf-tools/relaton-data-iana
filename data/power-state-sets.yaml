@@ -11,6 +11,9 @@ docid:
 - id: IANA power-state-sets
   type: IANA
   primary: true
+- id: POWER-STATE-SETS
+  type: IANA
+  scope: anchor
 docnumber: power-state-sets
 date:
 - type: created

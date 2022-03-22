@@ -11,6 +11,9 @@ docid:
 - id: IANA grasp-parameters/messages-and-options
   type: IANA
   primary: true
+- id: GRASP-PARAMETERS/MESSAGES-AND-OPTIONS
+  type: IANA
+  scope: anchor
 docnumber: grasp-parameters/messages-and-options
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA fcast
   type: IANA
   primary: true
+- id: FCAST
+  type: IANA
+  scope: anchor
 docnumber: fcast
 date:
 - type: created

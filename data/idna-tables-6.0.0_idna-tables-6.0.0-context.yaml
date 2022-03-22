@@ -11,6 +11,9 @@ docid:
 - id: IANA idna-tables-6.0.0/idna-tables-6.0.0-context
   type: IANA
   primary: true
+- id: IDNA-TABLES-6.0.0/IDNA-TABLES-6.0.0-CONTEXT
+  type: IANA
+  scope: anchor
 docnumber: idna-tables-6.0.0/idna-tables-6.0.0-context
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA method-tokens
   type: IANA
   primary: true
+- id: METHOD-TOKENS
+  type: IANA
+  scope: anchor
 docnumber: method-tokens
 date:
 - type: created

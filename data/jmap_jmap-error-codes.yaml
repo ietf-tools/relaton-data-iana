@@ -11,6 +11,9 @@ docid:
 - id: IANA jmap/jmap-error-codes
   type: IANA
   primary: true
+- id: JMAP/JMAP-ERROR-CODES
+  type: IANA
+  scope: anchor
 docnumber: jmap/jmap-error-codes
 date:
 - type: created

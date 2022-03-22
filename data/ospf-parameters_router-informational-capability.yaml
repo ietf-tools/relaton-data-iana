@@ -11,6 +11,9 @@ docid:
 - id: IANA ospf-parameters/router-informational-capability
   type: IANA
   primary: true
+- id: OSPF-PARAMETERS/ROUTER-INFORMATIONAL-CAPABILITY
+  type: IANA
+  scope: anchor
 docnumber: ospf-parameters/router-informational-capability
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA netnews-parameters/cancel-lock-hash-algorithms
   type: IANA
   primary: true
+- id: NETNEWS-PARAMETERS/CANCEL-LOCK-HASH-ALGORITHMS
+  type: IANA
+  scope: anchor
 docnumber: netnews-parameters/cancel-lock-hash-algorithms
 date:
 - type: created

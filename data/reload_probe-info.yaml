@@ -11,6 +11,9 @@ docid:
 - id: IANA reload/probe-info
   type: IANA
   primary: true
+- id: RELOAD/PROBE-INFO
+  type: IANA
+  scope: anchor
 docnumber: reload/probe-info
 date:
 - type: created

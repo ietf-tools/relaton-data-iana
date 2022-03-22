@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/upn-reasons
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/UPN-REASONS
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/upn-reasons
 date:
 - type: created

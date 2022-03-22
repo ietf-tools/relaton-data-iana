@@ -11,6 +11,9 @@ docid:
 - id: IANA stun-parameters/turn-channel
   type: IANA
   primary: true
+- id: STUN-PARAMETERS/TURN-CHANNEL
+  type: IANA
+  scope: anchor
 docnumber: stun-parameters/turn-channel
 date:
 - type: created

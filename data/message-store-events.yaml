@@ -11,6 +11,9 @@ docid:
 - id: IANA message-store-events
   type: IANA
   primary: true
+- id: MESSAGE-STORE-EVENTS
+  type: IANA
+  scope: anchor
 docnumber: message-store-events
 date:
 - type: created

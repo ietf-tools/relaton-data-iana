@@ -11,6 +11,9 @@ docid:
 - id: IANA lgr-dispositions
   type: IANA
   primary: true
+- id: LGR-DISPOSITIONS
+  type: IANA
+  scope: anchor
 docnumber: lgr-dispositions
 date:
 - type: created

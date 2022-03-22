@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/mobile-node-group-id-type
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/MOBILE-NODE-GROUP-ID-TYPE
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/mobile-node-group-id-type
 date:
 - type: created

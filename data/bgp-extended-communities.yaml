@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-extended-communities
   type: IANA
   primary: true
+- id: BGP-EXTENDED-COMMUNITIES
+  type: IANA
+  scope: anchor
 docnumber: bgp-extended-communities
 date:
 - type: created

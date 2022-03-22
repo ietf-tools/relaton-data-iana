@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/home-address-reply
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/HOME-ADDRESS-REPLY
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/home-address-reply
 date:
 - type: created

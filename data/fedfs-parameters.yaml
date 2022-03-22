@@ -11,6 +11,9 @@ docid:
 - id: IANA fedfs-parameters
   type: IANA
   primary: true
+- id: FEDFS-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: fedfs-parameters
 date:
 - type: created

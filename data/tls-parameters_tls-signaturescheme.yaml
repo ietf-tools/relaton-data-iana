@@ -11,6 +11,9 @@ docid:
 - id: IANA tls-parameters/tls-signaturescheme
   type: IANA
   primary: true
+- id: TLS-PARAMETERS/TLS-SIGNATURESCHEME
+  type: IANA
+  scope: anchor
 docnumber: tls-parameters/tls-signaturescheme
 date:
 - type: created

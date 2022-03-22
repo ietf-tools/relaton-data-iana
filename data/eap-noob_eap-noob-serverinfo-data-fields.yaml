@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-noob/eap-noob-serverinfo-data-fields
   type: IANA
   primary: true
+- id: EAP-NOOB/EAP-NOOB-SERVERINFO-DATA-FIELDS
+  type: IANA
+  scope: anchor
 docnumber: eap-noob/eap-noob-serverinfo-data-fields
 date:
 - type: created

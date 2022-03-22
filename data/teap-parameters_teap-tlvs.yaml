@@ -11,6 +11,9 @@ docid:
 - id: IANA teap-parameters/teap-tlvs
   type: IANA
   primary: true
+- id: TEAP-PARAMETERS/TEAP-TLVS
+  type: IANA
+  scope: anchor
 docnumber: teap-parameters/teap-tlvs
 date:
 - type: created

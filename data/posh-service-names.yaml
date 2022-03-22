@@ -11,6 +11,9 @@ docid:
 - id: IANA posh-service-names
   type: IANA
   primary: true
+- id: POSH-SERVICE-NAMES
+  type: IANA
+  scope: anchor
 docnumber: posh-service-names
 date:
 - type: created

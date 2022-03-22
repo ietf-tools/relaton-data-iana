@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/tcp-convergence-layer-message
   type: IANA
   primary: true
+- id: BUNDLE/TCP-CONVERGENCE-LAYER-MESSAGE
+  type: IANA
+  scope: anchor
 docnumber: bundle/tcp-convergence-layer-message
 date:
 - type: created

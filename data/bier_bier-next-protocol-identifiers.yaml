@@ -11,6 +11,9 @@ docid:
 - id: IANA bier/bier-next-protocol-identifiers
   type: IANA
   primary: true
+- id: BIER/BIER-NEXT-PROTOCOL-IDENTIFIERS
+  type: IANA
+  scope: anchor
 docnumber: bier/bier-next-protocol-identifiers
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA cisco-sla-protocol/status
   type: IANA
   primary: true
+- id: CISCO-SLA-PROTOCOL/STATUS
+  type: IANA
+  scope: anchor
 docnumber: cisco-sla-protocol/status
 date:
 - type: created

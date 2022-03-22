@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/flow-binding-ack-status
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/FLOW-BINDING-ACK-STATUS
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/flow-binding-ack-status
 date:
 - type: created

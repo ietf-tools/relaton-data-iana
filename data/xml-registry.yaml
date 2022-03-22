@@ -11,6 +11,9 @@ docid:
 - id: IANA xml-registry
   type: IANA
   primary: true
+- id: XML-REGISTRY
+  type: IANA
+  scope: anchor
 docnumber: xml-registry
 date:
 - type: updated

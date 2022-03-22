@@ -11,6 +11,9 @@ docid:
 - id: IANA paws/error-codes
   type: IANA
   primary: true
+- id: PAWS/ERROR-CODES
+  type: IANA
+  scope: anchor
 docnumber: paws/error-codes
 date:
 - type: created

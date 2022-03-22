@@ -11,6 +11,9 @@ docid:
 - id: IANA shim6/verification
   type: IANA
   primary: true
+- id: SHIM6/VERIFICATION
+  type: IANA
+  scope: anchor
 docnumber: shim6/verification
 date:
 - type: created

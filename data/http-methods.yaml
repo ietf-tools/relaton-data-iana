@@ -11,6 +11,9 @@ docid:
 - id: IANA http-methods
   type: IANA
   primary: true
+- id: HTTP-METHODS
+  type: IANA
+  scope: anchor
 docnumber: http-methods
 date:
 - type: created

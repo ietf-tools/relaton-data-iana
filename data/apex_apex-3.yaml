@@ -11,6 +11,9 @@ docid:
 - id: IANA apex/apex-3
   type: IANA
   primary: true
+- id: APEX/APEX-3
+  type: IANA
+  scope: anchor
 docnumber: apex/apex-3
 date:
 - type: updated

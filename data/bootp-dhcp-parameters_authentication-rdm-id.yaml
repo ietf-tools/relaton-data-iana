@@ -12,6 +12,9 @@ docid:
 - id: IANA bootp-dhcp-parameters/authentication-rdm-id
   type: IANA
   primary: true
+- id: BOOTP-DHCP-PARAMETERS/AUTHENTICATION-RDM-ID
+  type: IANA
+  scope: anchor
 docnumber: bootp-dhcp-parameters/authentication-rdm-id
 date:
 - type: updated

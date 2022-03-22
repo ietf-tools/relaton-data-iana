@@ -11,6 +11,9 @@ docid:
 - id: IANA mta-sts
   type: IANA
   primary: true
+- id: MTA-STS
+  type: IANA
+  scope: anchor
 docnumber: mta-sts
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA gdoi-payloads/iec62351-9-confidentiality-values
   type: IANA
   primary: true
+- id: GDOI-PAYLOADS/IEC62351-9-CONFIDENTIALITY-VALUES
+  type: IANA
+  scope: anchor
 docnumber: gdoi-payloads/iec62351-9-confidentiality-values
 date:
 - type: created

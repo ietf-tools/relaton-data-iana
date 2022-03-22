@@ -11,6 +11,9 @@ docid:
 - id: IANA nhrp-types
   type: IANA
   primary: true
+- id: NHRP-TYPES
+  type: IANA
+  scope: anchor
 docnumber: nhrp-types
 date:
 - type: updated

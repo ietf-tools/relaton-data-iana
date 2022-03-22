@@ -11,6 +11,9 @@ docid:
 - id: IANA service-codes
   type: IANA
   primary: true
+- id: SERVICE-CODES
+  type: IANA
+  scope: anchor
 docnumber: service-codes
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA mikey-payloads/mikey-payloads-7
   type: IANA
   primary: true
+- id: MIKEY-PAYLOADS/MIKEY-PAYLOADS-7
+  type: IANA
+  scope: anchor
 docnumber: mikey-payloads/mikey-payloads-7
 date:
 - type: created

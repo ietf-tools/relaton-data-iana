@@ -11,6 +11,9 @@ docid:
 - id: IANA message-headers/prov-headers
   type: IANA
   primary: true
+- id: MESSAGE-HEADERS/PROV-HEADERS
+  type: IANA
+  scope: anchor
 docnumber: message-headers/prov-headers
 date:
 - type: updated

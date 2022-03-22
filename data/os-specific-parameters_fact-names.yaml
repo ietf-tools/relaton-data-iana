@@ -11,6 +11,9 @@ docid:
 - id: IANA os-specific-parameters/fact-names
   type: IANA
   primary: true
+- id: OS-SPECIFIC-PARAMETERS/FACT-NAMES
+  type: IANA
+  scope: anchor
 docnumber: os-specific-parameters/fact-names
 date:
 - type: created

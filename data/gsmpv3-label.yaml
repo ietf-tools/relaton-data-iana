@@ -11,6 +11,9 @@ docid:
 - id: IANA gsmpv3-label
   type: IANA
   primary: true
+- id: GSMPV3-LABEL
+  type: IANA
+  scope: anchor
 docnumber: gsmpv3-label
 date:
 - type: created

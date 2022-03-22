@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/icv-address-tlv-types
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/ICV-ADDRESS-TLV-TYPES
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/icv-address-tlv-types
 date:
 - type: created

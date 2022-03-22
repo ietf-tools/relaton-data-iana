@@ -11,6 +11,9 @@ docid:
 - id: IANA gdoi-payloads/gdoi-payloads-2
   type: IANA
   primary: true
+- id: GDOI-PAYLOADS/GDOI-PAYLOADS-2
+  type: IANA
+  scope: anchor
 docnumber: gdoi-payloads/gdoi-payloads-2
 date:
 - type: created

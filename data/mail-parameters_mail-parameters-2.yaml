@@ -11,6 +11,9 @@ docid:
 - id: IANA mail-parameters/mail-parameters-2
   type: IANA
   primary: true
+- id: MAIL-PARAMETERS/MAIL-PARAMETERS-2
+  type: IANA
+  scope: anchor
 docnumber: mail-parameters/mail-parameters-2
 date:
 - type: updated

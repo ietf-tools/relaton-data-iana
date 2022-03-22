@@ -11,6 +11,9 @@ docid:
 - id: IANA evpn
   type: IANA
   primary: true
+- id: EVPN
+  type: IANA
+  scope: anchor
 docnumber: evpn
 date:
 - type: created

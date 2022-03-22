@@ -11,6 +11,9 @@ docid:
 - id: IANA jose/web-key-types
   type: IANA
   primary: true
+- id: JOSE/WEB-KEY-TYPES
+  type: IANA
+  scope: anchor
 docnumber: jose/web-key-types
 date:
 - type: created

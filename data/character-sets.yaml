@@ -11,6 +11,9 @@ docid:
 - id: IANA character-sets
   type: IANA
   primary: true
+- id: CHARACTER-SETS
+  type: IANA
+  scope: anchor
 docnumber: character-sets
 date:
 - type: updated

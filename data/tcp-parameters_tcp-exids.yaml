@@ -11,6 +11,9 @@ docid:
 - id: IANA tcp-parameters/tcp-exids
   type: IANA
   primary: true
+- id: TCP-PARAMETERS/TCP-EXIDS
+  type: IANA
+  scope: anchor
 docnumber: tcp-parameters/tcp-exids
 date:
 - type: updated

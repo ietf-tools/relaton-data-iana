@@ -11,6 +11,9 @@ docid:
 - id: IANA dhcpv6-parameters/radius-option-attributes
   type: IANA
   primary: true
+- id: DHCPV6-PARAMETERS/RADIUS-OPTION-ATTRIBUTES
+  type: IANA
+  scope: anchor
 docnumber: dhcpv6-parameters/radius-option-attributes
 date:
 - type: created

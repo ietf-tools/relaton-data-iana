@@ -11,6 +11,9 @@ docid:
 - id: IANA dhcpv6-parameters/option-codes-s46-priority-option
   type: IANA
   primary: true
+- id: DHCPV6-PARAMETERS/OPTION-CODES-S46-PRIORITY-OPTION
+  type: IANA
+  scope: anchor
 docnumber: dhcpv6-parameters/option-codes-s46-priority-option
 date:
 - type: created

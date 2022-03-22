@@ -11,6 +11,9 @@ docid:
 - id: IANA locally-served-dns-zones/transport-independent
   type: IANA
   primary: true
+- id: LOCALLY-SERVED-DNS-ZONES/TRANSPORT-INDEPENDENT
+  type: IANA
+  scope: anchor
 docnumber: locally-served-dns-zones/transport-independent
 date:
 - type: created

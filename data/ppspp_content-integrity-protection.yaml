@@ -11,6 +11,9 @@ docid:
 - id: IANA ppspp/content-integrity-protection
   type: IANA
   primary: true
+- id: PPSPP/CONTENT-INTEGRITY-PROTECTION
+  type: IANA
+  scope: anchor
 docnumber: ppspp/content-integrity-protection
 date:
 - type: created

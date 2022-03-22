@@ -11,6 +11,9 @@ docid:
 - id: IANA ianaolsrv2linkmetrictype-mib
   type: IANA
   primary: true
+- id: IANAOLSRV2LINKMETRICTYPE-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianaolsrv2linkmetrictype-mib
 date:
 - type: created

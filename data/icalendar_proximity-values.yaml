@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/proximity-values
   type: IANA
   primary: true
+- id: ICALENDAR/PROXIMITY-VALUES
+  type: IANA
+  scope: anchor
 docnumber: icalendar/proximity-values
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA reload/message-codes
   type: IANA
   primary: true
+- id: RELOAD/MESSAGE-CODES
+  type: IANA
+  scope: anchor
 docnumber: reload/message-codes
 date:
 - type: created

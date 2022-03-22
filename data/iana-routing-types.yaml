@@ -11,6 +11,9 @@ docid:
 - id: IANA iana-routing-types
   type: IANA
   primary: true
+- id: IANA-ROUTING-TYPES
+  type: IANA
+  scope: anchor
 docnumber: iana-routing-types
 date:
 - type: created

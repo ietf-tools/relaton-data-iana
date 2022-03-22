@@ -11,6 +11,9 @@ docid:
 - id: IANA gsmpv3-result/gsmpv3-result-1
   type: IANA
   primary: true
+- id: GSMPV3-RESULT/GSMPV3-RESULT-1
+  type: IANA
+  scope: anchor
 docnumber: gsmpv3-result/gsmpv3-result-1
 date:
 - type: created

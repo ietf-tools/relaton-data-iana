@@ -11,6 +11,9 @@ docid:
 - id: IANA ospf-parameters/tunnel-parameter-tlv
   type: IANA
   primary: true
+- id: OSPF-PARAMETERS/TUNNEL-PARAMETER-TLV
+  type: IANA
+  scope: anchor
 docnumber: ospf-parameters/tunnel-parameter-tlv
 date:
 - type: created

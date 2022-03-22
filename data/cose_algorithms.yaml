@@ -11,6 +11,9 @@ docid:
 - id: IANA cose/algorithms
   type: IANA
   primary: true
+- id: COSE/ALGORITHMS
+  type: IANA
+  scope: anchor
 docnumber: cose/algorithms
 date:
 - type: created

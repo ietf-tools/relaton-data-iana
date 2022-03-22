@@ -11,6 +11,9 @@ docid:
 - id: IANA rpl-routing-metric-constraint/rmc-type
   type: IANA
   primary: true
+- id: RPL-ROUTING-METRIC-CONSTRAINT/RMC-TYPE
+  type: IANA
+  scope: anchor
 docnumber: rpl-routing-metric-constraint/rmc-type
 date:
 - type: updated

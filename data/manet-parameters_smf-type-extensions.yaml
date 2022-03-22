@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/smf-type-extensions
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/SMF-TYPE-EXTENSIONS
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/smf-type-extensions
 date:
 - type: created

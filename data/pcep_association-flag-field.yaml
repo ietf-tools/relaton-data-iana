@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/association-flag-field
   type: IANA
   primary: true
+- id: PCEP/ASSOCIATION-FLAG-FIELD
+  type: IANA
+  scope: anchor
 docnumber: pcep/association-flag-field
 date:
 - type: created

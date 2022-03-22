@@ -11,6 +11,9 @@ docid:
 - id: IANA sieve-extensions/sieve-extensions-2
   type: IANA
   primary: true
+- id: SIEVE-EXTENSIONS/SIEVE-EXTENSIONS-2
+  type: IANA
+  scope: anchor
 docnumber: sieve-extensions/sieve-extensions-2
 date:
 - type: created

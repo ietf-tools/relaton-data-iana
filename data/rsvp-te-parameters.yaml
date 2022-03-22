@@ -11,6 +11,9 @@ docid:
 - id: IANA rsvp-te-parameters
   type: IANA
   primary: true
+- id: RSVP-TE-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: rsvp-te-parameters
 date:
 - type: created

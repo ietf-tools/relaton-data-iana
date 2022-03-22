@@ -11,6 +11,9 @@ docid:
 - id: IANA rid/xml-schemas
   type: IANA
   primary: true
+- id: RID/XML-SCHEMAS
+  type: IANA
+  scope: anchor
 docnumber: rid/xml-schemas
 date:
 - type: created

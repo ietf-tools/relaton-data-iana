@@ -11,6 +11,9 @@ docid:
 - id: IANA c-dns/c-dns-address-event-types
   type: IANA
   primary: true
+- id: C-DNS/C-DNS-ADDRESS-EVENT-TYPES
+  type: IANA
+  scope: anchor
 docnumber: c-dns/c-dns-address-event-types
 date:
 - type: created

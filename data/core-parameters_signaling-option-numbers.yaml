@@ -11,6 +11,9 @@ docid:
 - id: IANA core-parameters/signaling-option-numbers
   type: IANA
   primary: true
+- id: CORE-PARAMETERS/SIGNALING-OPTION-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: core-parameters/signaling-option-numbers
 date:
 - type: created

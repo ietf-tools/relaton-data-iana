@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-parameters/pmsi-tunnel-attributes
   type: IANA
   primary: true
+- id: BGP-PARAMETERS/PMSI-TUNNEL-ATTRIBUTES
+  type: IANA
+  scope: anchor
 docnumber: bgp-parameters/pmsi-tunnel-attributes
 date:
 - type: updated

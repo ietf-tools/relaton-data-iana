@@ -11,6 +11,9 @@ docid:
 - id: IANA ospf-traffic-eng-tlvs/wson-lsc-scsi-sub-tlv
   type: IANA
   primary: true
+- id: OSPF-TRAFFIC-ENG-TLVS/WSON-LSC-SCSI-SUB-TLV
+  type: IANA
+  scope: anchor
 docnumber: ospf-traffic-eng-tlvs/wson-lsc-scsi-sub-tlv
 date:
 - type: created

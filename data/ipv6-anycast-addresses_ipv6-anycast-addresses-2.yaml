@@ -11,6 +11,9 @@ docid:
 - id: IANA ipv6-anycast-addresses/ipv6-anycast-addresses-2
   type: IANA
   primary: true
+- id: IPV6-ANYCAST-ADDRESSES/IPV6-ANYCAST-ADDRESSES-2
+  type: IANA
+  scope: anchor
 docnumber: ipv6-anycast-addresses/ipv6-anycast-addresses-2
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/cbhe-service-numbers
   type: IANA
   primary: true
+- id: BUNDLE/CBHE-SERVICE-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: bundle/cbhe-service-numbers
 date:
 - type: created

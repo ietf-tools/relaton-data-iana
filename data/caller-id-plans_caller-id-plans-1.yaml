@@ -11,6 +11,9 @@ docid:
 - id: IANA caller-id-plans/caller-id-plans-1
   type: IANA
   primary: true
+- id: CALLER-ID-PLANS/CALLER-ID-PLANS-1
+  type: IANA
+  scope: anchor
 docnumber: caller-id-plans/caller-id-plans-1
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA rip-types
   type: IANA
   primary: true
+- id: RIP-TYPES
+  type: IANA
+  scope: anchor
 docnumber: rip-types
 date:
 - type: updated

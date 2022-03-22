@@ -11,6 +11,9 @@ docid:
 - id: IANA kink-parameters
   type: IANA
   primary: true
+- id: KINK-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: kink-parameters
 date:
 - type: created

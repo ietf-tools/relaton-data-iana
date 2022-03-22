@@ -11,6 +11,9 @@ docid:
 - id: IANA amtrelay-resource-record
   type: IANA
   primary: true
+- id: AMTRELAY-RESOURCE-RECORD
+  type: IANA
+  scope: anchor
 docnumber: amtrelay-resource-record
 date:
 - type: created

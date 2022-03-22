@@ -11,6 +11,9 @@ docid:
 - id: IANA transfer-encodings
   type: IANA
   primary: true
+- id: TRANSFER-ENCODINGS
+  type: IANA
+  scope: anchor
 docnumber: transfer-encodings
 date:
 - type: updated

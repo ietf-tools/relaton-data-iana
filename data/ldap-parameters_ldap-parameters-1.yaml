@@ -11,6 +11,9 @@ docid:
 - id: IANA ldap-parameters/ldap-parameters-1
   type: IANA
   primary: true
+- id: LDAP-PARAMETERS/LDAP-PARAMETERS-1
+  type: IANA
+  scope: anchor
 docnumber: ldap-parameters/ldap-parameters-1
 date:
 - type: created

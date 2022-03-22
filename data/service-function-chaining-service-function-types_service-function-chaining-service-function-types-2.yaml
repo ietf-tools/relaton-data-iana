@@ -11,6 +11,9 @@ docid:
 - id: IANA service-function-chaining-service-function-types/service-function-chaining-service-function-types-2
   type: IANA
   primary: true
+- id: SERVICE-FUNCTION-CHAINING-SERVICE-FUNCTION-TYPES/SERVICE-FUNCTION-CHAINING-SERVICE-FUNCTION-TYPES-2
+  type: IANA
+  scope: anchor
 docnumber: service-function-chaining-service-function-types/service-function-chaining-service-function-types-2
 date:
 - type: updated

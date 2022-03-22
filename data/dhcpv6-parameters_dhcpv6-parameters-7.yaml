@@ -11,6 +11,9 @@ docid:
 - id: IANA dhcpv6-parameters/dhcpv6-parameters-7
   type: IANA
   primary: true
+- id: DHCPV6-PARAMETERS/DHCPV6-PARAMETERS-7
+  type: IANA
+  scope: anchor
 docnumber: dhcpv6-parameters/dhcpv6-parameters-7
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA ianaaddressfamilynumbers-mib
   type: IANA
   primary: true
+- id: IANAADDRESSFAMILYNUMBERS-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianaaddressfamilynumbers-mib
 date:
 - type: created

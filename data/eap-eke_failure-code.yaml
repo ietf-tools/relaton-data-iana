@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-eke/failure-code
   type: IANA
   primary: true
+- id: EAP-EKE/FAILURE-CODE
+  type: IANA
+  scope: anchor
 docnumber: eap-eke/failure-code
 date:
 - type: created

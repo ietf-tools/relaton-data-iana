@@ -11,6 +11,9 @@ docid:
 - id: IANA rid
   type: IANA
   primary: true
+- id: RID
+  type: IANA
+  scope: anchor
 docnumber: rid
 date:
 - type: created

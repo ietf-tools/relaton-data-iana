@@ -11,6 +11,9 @@ docid:
 - id: IANA gsmpv3-event
   type: IANA
   primary: true
+- id: GSMPV3-EVENT
+  type: IANA
+  scope: anchor
 docnumber: gsmpv3-event
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-psk-parameters
   type: IANA
   primary: true
+- id: EAP-PSK-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: eap-psk-parameters
 date:
 - type: created

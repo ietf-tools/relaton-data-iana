@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/timestamp-message-tlv-types
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/TIMESTAMP-MESSAGE-TLV-TYPES
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/timestamp-message-tlv-types
 date:
 - type: created

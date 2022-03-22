@@ -11,6 +11,9 @@ docid:
 - id: IANA teap-parameters/pac-attribute-type-code
   type: IANA
   primary: true
+- id: TEAP-PARAMETERS/PAC-ATTRIBUTE-TYPE-CODE
+  type: IANA
+  scope: anchor
 docnumber: teap-parameters/pac-attribute-type-code
 date:
 - type: created

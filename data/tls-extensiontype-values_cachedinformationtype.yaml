@@ -11,6 +11,9 @@ docid:
 - id: IANA tls-extensiontype-values/cachedinformationtype
   type: IANA
   primary: true
+- id: TLS-EXTENSIONTYPE-VALUES/CACHEDINFORMATIONTYPE
+  type: IANA
+  scope: anchor
 docnumber: tls-extensiontype-values/cachedinformationtype
 date:
 - type: created

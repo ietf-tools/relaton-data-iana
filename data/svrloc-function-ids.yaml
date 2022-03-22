@@ -11,6 +11,9 @@ docid:
 - id: IANA svrloc-function-ids
   type: IANA
   primary: true
+- id: SVRLOC-FUNCTION-IDS
+  type: IANA
+  scope: anchor
 docnumber: svrloc-function-ids
 date:
 - type: created

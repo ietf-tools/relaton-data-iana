@@ -11,6 +11,9 @@ docid:
 - id: IANA gmpls-sig-parameters/cwdm-channel-spacing
   type: IANA
   primary: true
+- id: GMPLS-SIG-PARAMETERS/CWDM-CHANNEL-SPACING
+  type: IANA
+  scope: anchor
 docnumber: gmpls-sig-parameters/cwdm-channel-spacing
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA core-parameters
   type: IANA
   primary: true
+- id: CORE-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: core-parameters
 date:
 - type: created

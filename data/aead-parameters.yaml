@@ -11,6 +11,9 @@ docid:
 - id: IANA aead-parameters
   type: IANA
   primary: true
+- id: AEAD-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: aead-parameters
 date:
 - type: created

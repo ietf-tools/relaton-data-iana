@@ -11,6 +11,9 @@ docid:
 - id: IANA rpki/name-schemes
   type: IANA
   primary: true
+- id: RPKI/NAME-SCHEMES
+  type: IANA
+  scope: anchor
 docnumber: rpki/name-schemes
 date:
 - type: created

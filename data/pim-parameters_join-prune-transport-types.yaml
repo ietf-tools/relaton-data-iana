@@ -11,6 +11,9 @@ docid:
 - id: IANA pim-parameters/join-prune-transport-types
   type: IANA
   primary: true
+- id: PIM-PARAMETERS/JOIN-PRUNE-TRANSPORT-TYPES
+  type: IANA
+  scope: anchor
 docnumber: pim-parameters/join-prune-transport-types
 date:
 - type: updated

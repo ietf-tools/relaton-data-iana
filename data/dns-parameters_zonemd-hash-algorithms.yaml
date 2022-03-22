@@ -11,6 +11,9 @@ docid:
 - id: IANA dns-parameters/zonemd-hash-algorithms
   type: IANA
   primary: true
+- id: DNS-PARAMETERS/ZONEMD-HASH-ALGORITHMS
+  type: IANA
+  scope: anchor
 docnumber: dns-parameters/zonemd-hash-algorithms
 date:
 - type: updated

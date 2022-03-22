@@ -11,6 +11,9 @@ docid:
 - id: IANA mtrace/mtrace2-tlv-types
   type: IANA
   primary: true
+- id: MTRACE/MTRACE2-TLV-TYPES
+  type: IANA
+  scope: anchor
 docnumber: mtrace/mtrace2-tlv-types
 date:
 - type: created

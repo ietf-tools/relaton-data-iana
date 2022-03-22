@@ -12,6 +12,9 @@ docid:
 - id: IANA prophet
   type: IANA
   primary: true
+- id: PROPHET
+  type: IANA
+  scope: anchor
 docnumber: prophet
 date:
 - type: created

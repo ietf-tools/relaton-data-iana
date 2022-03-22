@@ -11,6 +11,9 @@ docid:
 - id: IANA nslp-parameters/messages
   type: IANA
   primary: true
+- id: NSLP-PARAMETERS/MESSAGES
+  type: IANA
+  scope: anchor
 docnumber: nslp-parameters/messages
 date:
 - type: created

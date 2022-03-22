@@ -11,6 +11,9 @@ docid:
 - id: IANA psamp-parameters
   type: IANA
   primary: true
+- id: PSAMP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: psamp-parameters
 date:
 - type: created

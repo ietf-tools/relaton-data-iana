@@ -11,6 +11,9 @@ docid:
 - id: IANA nfsv4-named-attributes/nfsv4-named-attributes-1
   type: IANA
   primary: true
+- id: NFSV4-NAMED-ATTRIBUTES/NFSV4-NAMED-ATTRIBUTES-1
+  type: IANA
+  scope: anchor
 docnumber: nfsv4-named-attributes/nfsv4-named-attributes-1
 date:
 - type: created

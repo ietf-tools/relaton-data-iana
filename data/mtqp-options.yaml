@@ -11,6 +11,9 @@ docid:
 - id: IANA mtqp-options
   type: IANA
   primary: true
+- id: MTQP-OPTIONS
+  type: IANA
+  scope: anchor
 docnumber: mtqp-options
 date:
 - type: created

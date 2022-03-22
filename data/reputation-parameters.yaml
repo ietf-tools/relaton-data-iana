@@ -11,6 +11,9 @@ docid:
 - id: IANA reputation-parameters
   type: IANA
   primary: true
+- id: REPUTATION-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: reputation-parameters
 date:
 - type: created

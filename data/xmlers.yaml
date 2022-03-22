@@ -11,6 +11,9 @@ docid:
 - id: IANA xmlers
   type: IANA
   primary: true
+- id: XMLERS
+  type: IANA
+  scope: anchor
 docnumber: xmlers
 date:
 - type: created

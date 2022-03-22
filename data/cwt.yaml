@@ -11,6 +11,9 @@ docid:
 - id: IANA cwt
   type: IANA
   primary: true
+- id: CWT
+  type: IANA
+  scope: anchor
 docnumber: cwt
 date:
 - type: created

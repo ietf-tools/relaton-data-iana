@@ -11,6 +11,9 @@ docid:
 - id: IANA dnskey-flags
   type: IANA
   primary: true
+- id: DNSKEY-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: dnskey-flags
 date:
 - type: created

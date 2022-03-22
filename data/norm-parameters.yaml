@@ -11,6 +11,9 @@ docid:
 - id: IANA norm-parameters
   type: IANA
   primary: true
+- id: NORM-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: norm-parameters
 date:
 - type: created

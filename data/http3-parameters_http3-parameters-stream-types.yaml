@@ -11,6 +11,9 @@ docid:
 - id: IANA http3-parameters/http3-parameters-stream-types
   type: IANA
   primary: true
+- id: HTTP3-PARAMETERS/HTTP3-PARAMETERS-STREAM-TYPES
+  type: IANA
+  scope: anchor
 docnumber: http3-parameters/http3-parameters-stream-types
 date:
 - type: created

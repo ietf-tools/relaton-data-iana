@@ -11,6 +11,9 @@ docid:
 - id: IANA radius-types/option-codes-softwire46-priority-attribute
   type: IANA
   primary: true
+- id: RADIUS-TYPES/OPTION-CODES-SOFTWIRE46-PRIORITY-ATTRIBUTE
+  type: IANA
+  scope: anchor
 docnumber: radius-types/option-codes-softwire46-priority-attribute
 date:
 - type: updated

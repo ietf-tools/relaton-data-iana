@@ -11,6 +11,9 @@ docid:
 - id: IANA grasp-parameters/objective-names
   type: IANA
   primary: true
+- id: GRASP-PARAMETERS/OBJECTIVE-NAMES
+  type: IANA
+  scope: anchor
 docnumber: grasp-parameters/objective-names
 date:
 - type: created

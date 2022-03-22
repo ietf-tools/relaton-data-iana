@@ -11,6 +11,9 @@ docid:
 - id: IANA http-authentication-control-parameters/authentication-control-parameters
   type: IANA
   primary: true
+- id: HTTP-AUTHENTICATION-CONTROL-PARAMETERS/AUTHENTICATION-CONTROL-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: http-authentication-control-parameters/authentication-control-parameters
 date:
 - type: created

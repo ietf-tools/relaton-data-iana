@@ -11,6 +11,9 @@ docid:
 - id: IANA yang-geographic-location/geodetic-system-values
   type: IANA
   primary: true
+- id: YANG-GEOGRAPHIC-LOCATION/GEODETIC-SYSTEM-VALUES
+  type: IANA
+  scope: anchor
 docnumber: yang-geographic-location/geodetic-system-values
 date:
 - type: created

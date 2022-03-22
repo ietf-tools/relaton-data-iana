@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-noob/eap-noob-cryptosuites
   type: IANA
   primary: true
+- id: EAP-NOOB/EAP-NOOB-CRYPTOSUITES
+  type: IANA
+  scope: anchor
 docnumber: eap-noob/eap-noob-cryptosuites
 date:
 - type: created

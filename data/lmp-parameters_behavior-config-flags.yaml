@@ -11,6 +11,9 @@ docid:
 - id: IANA lmp-parameters/behavior-config-flags
   type: IANA
   primary: true
+- id: LMP-PARAMETERS/BEHAVIOR-CONFIG-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: lmp-parameters/behavior-config-flags
 date:
 - type: updated

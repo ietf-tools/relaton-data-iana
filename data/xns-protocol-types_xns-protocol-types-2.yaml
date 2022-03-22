@@ -11,6 +11,9 @@ docid:
 - id: IANA xns-protocol-types/xns-protocol-types-2
   type: IANA
   primary: true
+- id: XNS-PROTOCOL-TYPES/XNS-PROTOCOL-TYPES-2
+  type: IANA
+  scope: anchor
 docnumber: xns-protocol-types/xns-protocol-types-2
 date:
 - type: updated

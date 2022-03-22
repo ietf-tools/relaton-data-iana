@@ -11,6 +11,9 @@ docid:
 - id: IANA pop3-extension-mechanism
   type: IANA
   primary: true
+- id: POP3-EXTENSION-MECHANISM
+  type: IANA
+  scope: anchor
 docnumber: pop3-extension-mechanism
 date:
 - type: updated

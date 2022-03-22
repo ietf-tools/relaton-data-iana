@@ -11,6 +11,9 @@ docid:
 - id: IANA public-data-network-numbers
   type: IANA
   primary: true
+- id: PUBLIC-DATA-NETWORK-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: public-data-network-numbers
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA core-parameters/option-numbers
   type: IANA
   primary: true
+- id: CORE-PARAMETERS/OPTION-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: core-parameters/option-numbers
 date:
 - type: created

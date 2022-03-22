@@ -11,6 +11,9 @@ docid:
 - id: IANA mtrace/mtrace2-forwarding-codes
   type: IANA
   primary: true
+- id: MTRACE/MTRACE2-FORWARDING-CODES
+  type: IANA
+  scope: anchor
 docnumber: mtrace/mtrace2-forwarding-codes
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA rpki-signed-objects
   type: IANA
   primary: true
+- id: RPKI-SIGNED-OBJECTS
+  type: IANA
+  scope: anchor
 docnumber: rpki-signed-objects
 contributor:
 - organization:

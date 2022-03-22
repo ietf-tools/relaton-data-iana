@@ -11,6 +11,9 @@ docid:
 - id: IANA rsvp-te-oam/mpls-oam-sub-tlvs
   type: IANA
   primary: true
+- id: RSVP-TE-OAM/MPLS-OAM-SUB-TLVS
+  type: IANA
+  scope: anchor
 docnumber: rsvp-te-oam/mpls-oam-sub-tlvs
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA terminal-type-names
   type: IANA
   primary: true
+- id: TERMINAL-TYPE-NAMES
+  type: IANA
+  scope: anchor
 docnumber: terminal-type-names
 date:
 - type: updated

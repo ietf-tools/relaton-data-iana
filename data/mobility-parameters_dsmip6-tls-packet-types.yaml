@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/dsmip6-tls-packet-types
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/DSMIP6-TLS-PACKET-TYPES
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/dsmip6-tls-packet-types
 date:
 - type: created

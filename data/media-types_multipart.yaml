@@ -11,6 +11,9 @@ docid:
 - id: IANA media-types/multipart
   type: IANA
   primary: true
+- id: MEDIA-TYPES/MULTIPART
+  type: IANA
+  scope: anchor
 docnumber: media-types/multipart
 date:
 - type: updated

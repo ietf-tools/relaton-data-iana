@@ -11,6 +11,9 @@ docid:
 - id: IANA shim6/options
   type: IANA
   primary: true
+- id: SHIM6/OPTIONS
+  type: IANA
+  scope: anchor
 docnumber: shim6/options
 date:
 - type: created

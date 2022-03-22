@@ -11,6 +11,9 @@ docid:
 - id: IANA webpush-parameters/vapid-authentication-scheme-parameters
   type: IANA
   primary: true
+- id: WEBPUSH-PARAMETERS/VAPID-AUTHENTICATION-SCHEME-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: webpush-parameters/vapid-authentication-scheme-parameters
 date:
 - type: created

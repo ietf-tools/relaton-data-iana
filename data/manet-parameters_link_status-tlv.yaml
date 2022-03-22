@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/link_status-tlv
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/LINK_STATUS-TLV
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/link_status-tlv
 date:
 - type: created

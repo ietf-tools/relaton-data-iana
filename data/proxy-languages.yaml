@@ -11,6 +11,9 @@ docid:
 - id: IANA proxy-languages
   type: IANA
   primary: true
+- id: PROXY-LANGUAGES
+  type: IANA
+  scope: anchor
 docnumber: proxy-languages
 date:
 - type: created

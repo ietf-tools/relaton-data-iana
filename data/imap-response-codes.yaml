@@ -11,6 +11,9 @@ docid:
 - id: IANA imap-response-codes
   type: IANA
   primary: true
+- id: IMAP-RESPONSE-CODES
+  type: IANA
+  scope: anchor
 docnumber: imap-response-codes
 date:
 - type: created

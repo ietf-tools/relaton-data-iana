@@ -11,6 +11,9 @@ docid:
 - id: IANA channel-binding-types
   type: IANA
   primary: true
+- id: CHANNEL-BINDING-TYPES
+  type: IANA
+  scope: anchor
 docnumber: channel-binding-types
 date:
 - type: updated

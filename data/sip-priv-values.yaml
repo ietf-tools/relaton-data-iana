@@ -11,6 +11,9 @@ docid:
 - id: IANA sip-priv-values
   type: IANA
   primary: true
+- id: SIP-PRIV-VALUES
+  type: IANA
+  scope: anchor
 docnumber: sip-priv-values
 date:
 - type: created

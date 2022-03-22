@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/block-processing-control
   type: IANA
   primary: true
+- id: BUNDLE/BLOCK-PROCESSING-CONTROL
+  type: IANA
+  scope: anchor
 docnumber: bundle/block-processing-control
 date:
 - type: created

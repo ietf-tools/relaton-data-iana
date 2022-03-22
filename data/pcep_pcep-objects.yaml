@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/pcep-objects
   type: IANA
   primary: true
+- id: PCEP/PCEP-OBJECTS
+  type: IANA
+  scope: anchor
 docnumber: pcep/pcep-objects
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA dskpp/keys
   type: IANA
   primary: true
+- id: DSKPP/KEYS
+  type: IANA
+  scope: anchor
 docnumber: dskpp/keys
 date:
 - type: created

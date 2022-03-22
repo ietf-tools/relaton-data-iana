@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/key-registryaction
   type: IANA
   primary: true
+- id: IODEF2/KEY-REGISTRYACTION
+  type: IANA
+  scope: anchor
 docnumber: iodef2/key-registryaction
 date:
 - type: created

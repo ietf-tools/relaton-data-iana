@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/system-category
   type: IANA
   primary: true
+- id: IODEF2/SYSTEM-CATEGORY
+  type: IANA
+  scope: anchor
 docnumber: iodef2/system-category
 date:
 - type: created

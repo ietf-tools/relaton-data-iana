@@ -11,6 +11,9 @@ docid:
 - id: IANA ikev2-parameters/ikev2-post-quantum-preshared-key-id-types
   type: IANA
   primary: true
+- id: IKEV2-PARAMETERS/IKEV2-POST-QUANTUM-PRESHARED-KEY-ID-TYPES
+  type: IANA
+  scope: anchor
 docnumber: ikev2-parameters/ikev2-post-quantum-preshared-key-id-types
 date:
 - type: created

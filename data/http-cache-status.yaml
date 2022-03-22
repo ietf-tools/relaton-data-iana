@@ -11,6 +11,9 @@ docid:
 - id: IANA http-cache-status
   type: IANA
   primary: true
+- id: HTTP-CACHE-STATUS
+  type: IANA
+  scope: anchor
 docnumber: http-cache-status
 date:
 - type: created

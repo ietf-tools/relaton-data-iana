@@ -11,6 +11,9 @@ docid:
 - id: IANA telnet-options/telnet-options-10
   type: IANA
   primary: true
+- id: TELNET-OPTIONS/TELNET-OPTIONS-10
+  type: IANA
+  scope: anchor
 docnumber: telnet-options/telnet-options-10
 date:
 - type: updated

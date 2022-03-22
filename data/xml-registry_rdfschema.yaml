@@ -11,6 +11,9 @@ docid:
 - id: IANA xml-registry/rdfschema
   type: IANA
   primary: true
+- id: XML-REGISTRY/RDFSCHEMA
+  type: IANA
+  scope: anchor
 docnumber: xml-registry/rdfschema
 date:
 - type: updated

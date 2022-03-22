@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/participation-roles
   type: IANA
   primary: true
+- id: ICALENDAR/PARTICIPATION-ROLES
+  type: IANA
+  scope: anchor
 docnumber: icalendar/participation-roles
 date:
 - type: created

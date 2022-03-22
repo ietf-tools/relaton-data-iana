@@ -11,6 +11,9 @@ docid:
 - id: IANA teap-parameters/error
   type: IANA
   primary: true
+- id: TEAP-PARAMETERS/ERROR
+  type: IANA
+  scope: anchor
 docnumber: teap-parameters/error
 date:
 - type: created

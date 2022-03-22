@@ -11,6 +11,9 @@ docid:
 - id: IANA captive-portals/api-keys
   type: IANA
   primary: true
+- id: CAPTIVE-PORTALS/API-KEYS
+  type: IANA
+  scope: anchor
 docnumber: captive-portals/api-keys
 date:
 - type: created

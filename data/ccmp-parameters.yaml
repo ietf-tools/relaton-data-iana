@@ -11,6 +11,9 @@ docid:
 - id: IANA ccmp-parameters
   type: IANA
   primary: true
+- id: CCMP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: ccmp-parameters
 date:
 - type: created
