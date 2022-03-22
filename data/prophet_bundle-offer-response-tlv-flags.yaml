@@ -11,6 +11,9 @@ docid:
 - id: IANA prophet/bundle-offer-response-tlv-flags
   type: IANA
   primary: true
+- id: PROPHET/BUNDLE-OFFER-RESPONSE-TLV-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: prophet/bundle-offer-response-tlv-flags
 date:
 - type: created

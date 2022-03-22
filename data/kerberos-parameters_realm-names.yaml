@@ -11,6 +11,9 @@ docid:
 - id: IANA kerberos-parameters/realm-names
   type: IANA
   primary: true
+- id: KERBEROS-PARAMETERS/REALM-NAMES
+  type: IANA
+  scope: anchor
 docnumber: kerberos-parameters/realm-names
 date:
 - type: created

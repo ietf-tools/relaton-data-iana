@@ -11,6 +11,9 @@ docid:
 - id: IANA smi-numbers/private-enterprise-numbers
   type: IANA
   primary: true
+- id: SMI-NUMBERS/PRIVATE-ENTERPRISE-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: smi-numbers/private-enterprise-numbers
 date:
 - type: updated

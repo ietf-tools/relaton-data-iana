@@ -11,6 +11,9 @@ docid:
 - id: IANA rpc-authentication-numbers
   type: IANA
   primary: true
+- id: RPC-AUTHENTICATION-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: rpc-authentication-numbers
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA multicast-addresses/glop
   type: IANA
   primary: true
+- id: MULTICAST-ADDRESSES/GLOP
+  type: IANA
+  scope: anchor
 docnumber: multicast-addresses/glop
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA rdap-extensions
   type: IANA
   primary: true
+- id: RDAP-EXTENSIONS
+  type: IANA
+  scope: anchor
 docnumber: rdap-extensions
 date:
 - type: created

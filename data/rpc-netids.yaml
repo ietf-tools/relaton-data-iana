@@ -11,6 +11,9 @@ docid:
 - id: IANA rpc-netids
   type: IANA
   primary: true
+- id: RPC-NETIDS
+  type: IANA
+  scope: anchor
 docnumber: rpc-netids
 date:
 - type: created

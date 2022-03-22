@@ -11,6 +11,9 @@ docid:
 - id: IANA nfsv4-path-variables
   type: IANA
   primary: true
+- id: NFSV4-PATH-VARIABLES
+  type: IANA
+  scope: anchor
 docnumber: nfsv4-path-variables
 date:
 - type: created

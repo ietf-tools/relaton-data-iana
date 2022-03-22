@@ -11,6 +11,9 @@ docid:
 - id: IANA gsakmp-parameters/gsakmp-parameters-10
   type: IANA
   primary: true
+- id: GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-10
+  type: IANA
+  scope: anchor
 docnumber: gsakmp-parameters/gsakmp-parameters-10
 date:
 - type: created

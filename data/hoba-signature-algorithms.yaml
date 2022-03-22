@@ -11,6 +11,9 @@ docid:
 - id: IANA hoba-signature-algorithms
   type: IANA
   primary: true
+- id: HOBA-SIGNATURE-ALGORITHMS
+  type: IANA
+  scope: anchor
 docnumber: hoba-signature-algorithms
 date:
 - type: created

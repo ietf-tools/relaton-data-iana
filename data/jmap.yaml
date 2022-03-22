@@ -11,6 +11,9 @@ docid:
 - id: IANA jmap
   type: IANA
   primary: true
+- id: JMAP
+  type: IANA
+  scope: anchor
 docnumber: jmap
 date:
 - type: created

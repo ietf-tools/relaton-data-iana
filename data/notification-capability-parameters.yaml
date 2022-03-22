@@ -11,6 +11,9 @@ docid:
 - id: IANA notification-capability-parameters
   type: IANA
   primary: true
+- id: NOTIFICATION-CAPABILITY-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: notification-capability-parameters
 date:
 - type: created

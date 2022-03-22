@@ -11,6 +11,9 @@ docid:
 - id: IANA mta-sts/mta-sts-policy-fields
   type: IANA
   primary: true
+- id: MTA-STS/MTA-STS-POLICY-FIELDS
+  type: IANA
+  scope: anchor
 docnumber: mta-sts/mta-sts-policy-fields
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA ex-mobility-subtypes
   type: IANA
   primary: true
+- id: EX-MOBILITY-SUBTYPES
+  type: IANA
+  scope: anchor
 docnumber: ex-mobility-subtypes
 date:
 - type: created

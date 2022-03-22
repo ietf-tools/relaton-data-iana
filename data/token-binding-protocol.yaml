@@ -11,6 +11,9 @@ docid:
 - id: IANA token-binding-protocol
   type: IANA
   primary: true
+- id: TOKEN-BINDING-PROTOCOL
+  type: IANA
+  scope: anchor
 docnumber: token-binding-protocol
 date:
 - type: created

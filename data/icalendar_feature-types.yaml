@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/feature-types
   type: IANA
   primary: true
+- id: ICALENDAR/FEATURE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: icalendar/feature-types
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA ace/oauth-grant-type-cbor-mappings
   type: IANA
   primary: true
+- id: ACE/OAUTH-GRANT-TYPE-CBOR-MAPPINGS
+  type: IANA
+  scope: anchor
 docnumber: ace/oauth-grant-type-cbor-mappings
 date:
 - type: created

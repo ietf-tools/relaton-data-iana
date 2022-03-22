@@ -11,6 +11,9 @@ docid:
 - id: IANA acme/acme-resource-types
   type: IANA
   primary: true
+- id: ACME/ACME-RESOURCE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: acme/acme-resource-types
 date:
 - type: created

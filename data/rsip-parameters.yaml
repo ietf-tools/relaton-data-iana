@@ -11,6 +11,9 @@ docid:
 - id: IANA rsip-parameters
   type: IANA
   primary: true
+- id: RSIP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: rsip-parameters
 date:
 - type: created

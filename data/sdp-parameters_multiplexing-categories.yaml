@@ -11,6 +11,9 @@ docid:
 - id: IANA sdp-parameters/multiplexing-categories
   type: IANA
   primary: true
+- id: SDP-PARAMETERS/MULTIPLEXING-CATEGORIES
+  type: IANA
+  scope: anchor
 docnumber: sdp-parameters/multiplexing-categories
 date:
 - type: created

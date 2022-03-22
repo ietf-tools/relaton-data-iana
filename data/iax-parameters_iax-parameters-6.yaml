@@ -11,6 +11,9 @@ docid:
 - id: IANA iax-parameters/iax-parameters-6
   type: IANA
   primary: true
+- id: IAX-PARAMETERS/IAX-PARAMETERS-6
+  type: IANA
+  scope: anchor
 docnumber: iax-parameters/iax-parameters-6
 date:
 - type: created

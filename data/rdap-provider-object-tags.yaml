@@ -11,6 +11,9 @@ docid:
 - id: IANA rdap-provider-object-tags
   type: IANA
   primary: true
+- id: RDAP-PROVIDER-OBJECT-TAGS
+  type: IANA
+  scope: anchor
 docnumber: rdap-provider-object-tags
 date:
 - type: created

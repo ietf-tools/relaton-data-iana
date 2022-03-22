@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/extensiontype-dtype
   type: IANA
   primary: true
+- id: IODEF2/EXTENSIONTYPE-DTYPE
+  type: IANA
+  scope: anchor
 docnumber: iodef2/extensiontype-dtype
 date:
 - type: created

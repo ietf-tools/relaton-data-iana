@@ -11,6 +11,9 @@ docid:
 - id: IANA dcap-parameters
   type: IANA
   primary: true
+- id: DCAP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: dcap-parameters
 date:
 - type: created

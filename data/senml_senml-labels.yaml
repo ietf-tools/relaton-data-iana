@@ -11,6 +11,9 @@ docid:
 - id: IANA senml/senml-labels
   type: IANA
   primary: true
+- id: SENML/SENML-LABELS
+  type: IANA
+  scope: anchor
 docnumber: senml/senml-labels
 date:
 - type: created

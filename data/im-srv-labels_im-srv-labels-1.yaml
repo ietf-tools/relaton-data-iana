@@ -11,6 +11,9 @@ docid:
 - id: IANA im-srv-labels/im-srv-labels-1
   type: IANA
   primary: true
+- id: IM-SRV-LABELS/IM-SRV-LABELS-1
+  type: IANA
+  scope: anchor
 docnumber: im-srv-labels/im-srv-labels-1
 date:
 - type: created

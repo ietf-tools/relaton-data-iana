@@ -11,6 +11,9 @@ docid:
 - id: IANA scim/data-resources
   type: IANA
   primary: true
+- id: SCIM/DATA-RESOURCES
+  type: IANA
+  scope: anchor
 docnumber: scim/data-resources
 date:
 - type: created

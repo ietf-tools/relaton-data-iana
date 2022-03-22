@@ -11,6 +11,9 @@ docid:
 - id: IANA dcap-parameters/frame-codes
   type: IANA
   primary: true
+- id: DCAP-PARAMETERS/FRAME-CODES
+  type: IANA
+  scope: anchor
 docnumber: dcap-parameters/frame-codes
 date:
 - type: created

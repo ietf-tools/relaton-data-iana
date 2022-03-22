@@ -11,6 +11,9 @@ docid:
 - id: IANA twamp-parameters/twamp-parameters-1
   type: IANA
   primary: true
+- id: TWAMP-PARAMETERS/TWAMP-PARAMETERS-1
+  type: IANA
+  scope: anchor
 docnumber: twamp-parameters/twamp-parameters-1
 date:
 - type: created

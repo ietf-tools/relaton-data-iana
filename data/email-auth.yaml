@@ -11,6 +11,9 @@ docid:
 - id: IANA email-auth
   type: IANA
   primary: true
+- id: EMAIL-AUTH
+  type: IANA
+  scope: anchor
 docnumber: email-auth
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA rserpool-parameters
   type: IANA
   primary: true
+- id: RSERPOOL-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: rserpool-parameters
 date:
 - type: created

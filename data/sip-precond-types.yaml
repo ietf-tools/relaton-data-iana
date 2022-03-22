@@ -11,6 +11,9 @@ docid:
 - id: IANA sip-precond-types
   type: IANA
   primary: true
+- id: SIP-PRECOND-TYPES
+  type: IANA
+  scope: anchor
 docnumber: sip-precond-types
 date:
 - type: created

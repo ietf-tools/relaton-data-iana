@@ -11,6 +11,9 @@ docid:
 - id: IANA qspec/qspec-procedure
   type: IANA
   primary: true
+- id: QSPEC/QSPEC-PROCEDURE
+  type: IANA
+  scope: anchor
 docnumber: qspec/qspec-procedure
 date:
 - type: created

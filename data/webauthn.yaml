@@ -11,6 +11,9 @@ docid:
 - id: IANA webauthn
   type: IANA
   primary: true
+- id: WEBAUTHN
+  type: IANA
+  scope: anchor
 docnumber: webauthn
 date:
 - type: created

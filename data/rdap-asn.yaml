@@ -11,6 +11,9 @@ docid:
 - id: IANA rdap-asn
   type: IANA
   primary: true
+- id: RDAP-ASN
+  type: IANA
+  scope: anchor
 docnumber: rdap-asn
 date:
 - type: created

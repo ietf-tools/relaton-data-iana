@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/revocation-trigger-values
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/REVOCATION-TRIGGER-VALUES
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/revocation-trigger-values
 date:
 - type: created

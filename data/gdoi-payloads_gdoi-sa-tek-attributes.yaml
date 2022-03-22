@@ -11,6 +11,9 @@ docid:
 - id: IANA gdoi-payloads/gdoi-sa-tek-attributes
   type: IANA
   primary: true
+- id: GDOI-PAYLOADS/GDOI-SA-TEK-ATTRIBUTES
+  type: IANA
+  scope: anchor
 docnumber: gdoi-payloads/gdoi-sa-tek-attributes
 date:
 - type: created

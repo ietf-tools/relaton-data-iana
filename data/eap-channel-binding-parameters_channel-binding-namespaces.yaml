@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-channel-binding-parameters/channel-binding-namespaces
   type: IANA
   primary: true
+- id: EAP-CHANNEL-BINDING-PARAMETERS/CHANNEL-BINDING-NAMESPACES
+  type: IANA
+  scope: anchor
 docnumber: eap-channel-binding-parameters/channel-binding-namespaces
 date:
 - type: created

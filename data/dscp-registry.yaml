@@ -11,6 +11,9 @@ docid:
 - id: IANA dscp-registry
   type: IANA
   primary: true
+- id: DSCP-REGISTRY
+  type: IANA
+  scope: anchor
 docnumber: dscp-registry
 date:
 - type: updated

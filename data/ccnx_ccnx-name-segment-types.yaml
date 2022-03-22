@@ -11,6 +11,9 @@ docid:
 - id: IANA ccnx/ccnx-name-segment-types
   type: IANA
   primary: true
+- id: CCNX/CCNX-NAME-SEGMENT-TYPES
+  type: IANA
+  scope: anchor
 docnumber: ccnx/ccnx-name-segment-types
 date:
 - type: created

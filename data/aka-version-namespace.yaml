@@ -11,6 +11,9 @@ docid:
 - id: IANA aka-version-namespace
   type: IANA
   primary: true
+- id: AKA-VERSION-NAMESPACE
+  type: IANA
+  scope: anchor
 docnumber: aka-version-namespace
 date:
 - type: created

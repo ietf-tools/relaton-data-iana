@@ -11,6 +11,9 @@ docid:
 - id: IANA icmp-parameters
   type: IANA
   primary: true
+- id: ICMP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: icmp-parameters
 date:
 - type: updated

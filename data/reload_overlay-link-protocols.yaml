@@ -11,6 +11,9 @@ docid:
 - id: IANA reload/overlay-link-protocols
   type: IANA
   primary: true
+- id: RELOAD/OVERLAY-LINK-PROTOCOLS
+  type: IANA
+  scope: anchor
 docnumber: reload/overlay-link-protocols
 date:
 - type: created

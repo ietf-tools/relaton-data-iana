@@ -11,6 +11,9 @@ docid:
 - id: IANA lisp-parameters/lisp-packet-types
   type: IANA
   primary: true
+- id: LISP-PARAMETERS/LISP-PACKET-TYPES
+  type: IANA
+  scope: anchor
 docnumber: lisp-parameters/lisp-packet-types
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA pgp-parameters/pgp-parameters-4
   type: IANA
   primary: true
+- id: PGP-PARAMETERS/PGP-PARAMETERS-4
+  type: IANA
+  scope: anchor
 docnumber: pgp-parameters/pgp-parameters-4
 date:
 - type: created

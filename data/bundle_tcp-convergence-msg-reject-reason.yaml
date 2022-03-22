@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/tcp-convergence-msg-reject-reason
   type: IANA
   primary: true
+- id: BUNDLE/TCP-CONVERGENCE-MSG-REJECT-REASON
+  type: IANA
+  scope: anchor
 docnumber: bundle/tcp-convergence-msg-reject-reason
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA markdown-variants
   type: IANA
   primary: true
+- id: MARKDOWN-VARIANTS
+  type: IANA
+  scope: anchor
 docnumber: markdown-variants
 date:
 - type: created

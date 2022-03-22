@@ -11,6 +11,9 @@ docid:
 - id: IANA dskpp/status-codes
   type: IANA
   primary: true
+- id: DSKPP/STATUS-CODES
+  type: IANA
+  scope: anchor
 docnumber: dskpp/status-codes
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA rpki
   type: IANA
   primary: true
+- id: RPKI
+  type: IANA
+  scope: anchor
 docnumber: rpki
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA rsvp-te-oam/performance-monitoring-sub-tlvs
   type: IANA
   primary: true
+- id: RSVP-TE-OAM/PERFORMANCE-MONITORING-SUB-TLVS
+  type: IANA
+  scope: anchor
 docnumber: rsvp-te-oam/performance-monitoring-sub-tlvs
 date:
 - type: created

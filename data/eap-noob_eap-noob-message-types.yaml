@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-noob/eap-noob-message-types
   type: IANA
   primary: true
+- id: EAP-NOOB/EAP-NOOB-MESSAGE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: eap-noob/eap-noob-message-types
 date:
 - type: created

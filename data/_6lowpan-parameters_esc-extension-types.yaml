@@ -11,6 +11,9 @@ docid:
 - id: IANA _6lowpan-parameters/esc-extension-types
   type: IANA
   primary: true
+- id: _6LOWPAN-PARAMETERS/ESC-EXTENSION-TYPES
+  type: IANA
+  scope: anchor
 docnumber: _6lowpan-parameters/esc-extension-types
 date:
 - type: created

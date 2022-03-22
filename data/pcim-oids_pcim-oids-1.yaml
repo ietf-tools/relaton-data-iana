@@ -11,6 +11,9 @@ docid:
 - id: IANA pcim-oids/pcim-oids-1
   type: IANA
   primary: true
+- id: PCIM-OIDS/PCIM-OIDS-1
+  type: IANA
+  scope: anchor
 docnumber: pcim-oids/pcim-oids-1
 date:
 - type: created

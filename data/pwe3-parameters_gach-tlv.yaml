@@ -11,6 +11,9 @@ docid:
 - id: IANA pwe3-parameters/gach-tlv
   type: IANA
   primary: true
+- id: PWE3-PARAMETERS/GACH-TLV
+  type: IANA
+  scope: anchor
 docnumber: pwe3-parameters/gach-tlv
 date:
 - type: created

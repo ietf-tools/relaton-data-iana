@@ -11,6 +11,9 @@ docid:
 - id: IANA emergency-call-metadata-control-data
   type: IANA
   primary: true
+- id: EMERGENCY-CALL-METADATA-CONTROL-DATA
+  type: IANA
+  scope: anchor
 docnumber: emergency-call-metadata-control-data
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA provisional-standard-media-types
   type: IANA
   primary: true
+- id: PROVISIONAL-STANDARD-MEDIA-TYPES
+  type: IANA
+  scope: anchor
 docnumber: provisional-standard-media-types
 date:
 - type: created

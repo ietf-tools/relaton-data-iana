@@ -11,6 +11,9 @@ docid:
 - id: IANA alto-protocol/endpoint-property-types
   type: IANA
   primary: true
+- id: ALTO-PROTOCOL/ENDPOINT-PROPERTY-TYPES
+  type: IANA
+  scope: anchor
 docnumber: alto-protocol/endpoint-property-types
 date:
 - type: created

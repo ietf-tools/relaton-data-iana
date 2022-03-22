@@ -11,6 +11,9 @@ docid:
 - id: IANA xcap-parameters
   type: IANA
   primary: true
+- id: XCAP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: xcap-parameters
 date:
 - type: created

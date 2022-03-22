@@ -11,6 +11,9 @@ docid:
 - id: IANA rsvp-te-parameters/wson-processing-hop-sub-tlv
   type: IANA
   primary: true
+- id: RSVP-TE-PARAMETERS/WSON-PROCESSING-HOP-SUB-TLV
+  type: IANA
+  scope: anchor
 docnumber: rsvp-te-parameters/wson-processing-hop-sub-tlv
 date:
 - type: created

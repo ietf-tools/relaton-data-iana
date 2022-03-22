@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-parameters/bgp-parameters-4
   type: IANA
   primary: true
+- id: BGP-PARAMETERS/BGP-PARAMETERS-4
+  type: IANA
+  scope: anchor
 docnumber: bgp-parameters/bgp-parameters-4
 date:
 - type: updated

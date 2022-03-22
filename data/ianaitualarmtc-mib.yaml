@@ -11,6 +11,9 @@ docid:
 - id: IANA ianaitualarmtc-mib
   type: IANA
   primary: true
+- id: IANAITUALARMTC-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianaitualarmtc-mib
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA charset-info
   type: IANA
   primary: true
+- id: CHARSET-INFO
+  type: IANA
+  scope: anchor
 docnumber: charset-info
 date:
 - type: updated

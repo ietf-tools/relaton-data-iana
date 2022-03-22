@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/domaindata-domain-status
   type: IANA
   primary: true
+- id: IODEF2/DOMAINDATA-DOMAIN-STATUS
+  type: IANA
+  scope: anchor
 docnumber: iodef2/domaindata-domain-status
 date:
 - type: created

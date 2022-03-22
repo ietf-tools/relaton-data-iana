@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-gpsk-parameters/eap-gpsk-parameters-4
   type: IANA
   primary: true
+- id: EAP-GPSK-PARAMETERS/EAP-GPSK-PARAMETERS-4
+  type: IANA
+  scope: anchor
 docnumber: eap-gpsk-parameters/eap-gpsk-parameters-4
 date:
 - type: created

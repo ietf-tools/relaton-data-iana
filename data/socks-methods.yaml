@@ -11,6 +11,9 @@ docid:
 - id: IANA socks-methods
   type: IANA
   primary: true
+- id: SOCKS-METHODS
+  type: IANA
+  scope: anchor
 docnumber: socks-methods
 date:
 - type: updated

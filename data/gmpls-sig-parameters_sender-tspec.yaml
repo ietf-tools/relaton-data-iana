@@ -11,6 +11,9 @@ docid:
 - id: IANA gmpls-sig-parameters/sender-tspec
   type: IANA
   primary: true
+- id: GMPLS-SIG-PARAMETERS/SENDER-TSPEC
+  type: IANA
+  scope: anchor
 docnumber: gmpls-sig-parameters/sender-tspec
 date:
 - type: created

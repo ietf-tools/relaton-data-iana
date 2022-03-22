@@ -11,6 +11,9 @@ docid:
 - id: IANA lisp-parameters/lisp-crypto-cipher-suite
   type: IANA
   primary: true
+- id: LISP-PARAMETERS/LISP-CRYPTO-CIPHER-SUITE
+  type: IANA
+  scope: anchor
 docnumber: lisp-parameters/lisp-crypto-cipher-suite
 date:
 - type: created

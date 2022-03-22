@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/validity-time-address-block-tlv-type-extension
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/VALIDITY-TIME-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/validity-time-address-block-tlv-type-extension
 date:
 - type: created

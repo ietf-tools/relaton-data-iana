@@ -11,6 +11,9 @@ docid:
 - id: IANA forces/setup
   type: IANA
   primary: true
+- id: FORCES/SETUP
+  type: IANA
+  scope: anchor
 docnumber: forces/setup
 date:
 - type: created

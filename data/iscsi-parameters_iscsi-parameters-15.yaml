@@ -11,6 +11,9 @@ docid:
 - id: IANA iscsi-parameters/iscsi-parameters-15
   type: IANA
   primary: true
+- id: ISCSI-PARAMETERS/ISCSI-PARAMETERS-15
+  type: IANA
+  scope: anchor
 docnumber: iscsi-parameters/iscsi-parameters-15
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA gmpls-sig-parameters/grid
   type: IANA
   primary: true
+- id: GMPLS-SIG-PARAMETERS/GRID
+  type: IANA
+  scope: anchor
 docnumber: gmpls-sig-parameters/grid
 date:
 - type: created

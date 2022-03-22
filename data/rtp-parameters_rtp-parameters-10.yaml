@@ -11,6 +11,9 @@ docid:
 - id: IANA rtp-parameters/rtp-parameters-10
   type: IANA
   primary: true
+- id: RTP-PARAMETERS/RTP-PARAMETERS-10
+  type: IANA
+  scope: anchor
 docnumber: rtp-parameters/rtp-parameters-10
 date:
 - type: updated

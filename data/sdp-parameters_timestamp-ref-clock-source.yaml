@@ -11,6 +11,9 @@ docid:
 - id: IANA sdp-parameters/timestamp-ref-clock-source
   type: IANA
   primary: true
+- id: SDP-PARAMETERS/TIMESTAMP-REF-CLOCK-SOURCE
+  type: IANA
+  scope: anchor
 docnumber: sdp-parameters/timestamp-ref-clock-source
 date:
 - type: created

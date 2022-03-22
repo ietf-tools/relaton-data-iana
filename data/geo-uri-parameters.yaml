@@ -11,6 +11,9 @@ docid:
 - id: IANA geo-uri-parameters
   type: IANA
   primary: true
+- id: GEO-URI-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: geo-uri-parameters
 date:
 - type: created

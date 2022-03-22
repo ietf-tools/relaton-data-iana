@@ -11,6 +11,9 @@ docid:
 - id: IANA ppspp/options
   type: IANA
   primary: true
+- id: PPSPP/OPTIONS
+  type: IANA
+  scope: anchor
 docnumber: ppspp/options
 date:
 - type: created

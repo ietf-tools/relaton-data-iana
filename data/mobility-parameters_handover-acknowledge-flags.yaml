@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/handover-acknowledge-flags
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/HANDOVER-ACKNOWLEDGE-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/handover-acknowledge-flags
 date:
 - type: created

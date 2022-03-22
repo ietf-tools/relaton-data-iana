@@ -11,6 +11,9 @@ docid:
 - id: IANA kerberos-parameters/principal-names
   type: IANA
   primary: true
+- id: KERBEROS-PARAMETERS/PRINCIPAL-NAMES
+  type: IANA
+  scope: anchor
 docnumber: kerberos-parameters/principal-names
 date:
 - type: created

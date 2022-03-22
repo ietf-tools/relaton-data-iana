@@ -11,6 +11,9 @@ docid:
 - id: IANA rddp/rdmap-message-atomic
   type: IANA
   primary: true
+- id: RDDP/RDMAP-MESSAGE-ATOMIC
+  type: IANA
+  scope: anchor
 docnumber: rddp/rdmap-message-atomic
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA nts/nts-next-protocols
   type: IANA
   primary: true
+- id: NTS/NTS-NEXT-PROTOCOLS
+  type: IANA
+  scope: anchor
 docnumber: nts/nts-next-protocols
 date:
 - type: created

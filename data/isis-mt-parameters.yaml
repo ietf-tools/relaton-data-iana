@@ -11,6 +11,9 @@ docid:
 - id: IANA isis-mt-parameters
   type: IANA
   primary: true
+- id: ISIS-MT-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: isis-mt-parameters
 date:
 - type: created

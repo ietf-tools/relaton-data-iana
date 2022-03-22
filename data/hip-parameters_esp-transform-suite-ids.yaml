@@ -11,6 +11,9 @@ docid:
 - id: IANA hip-parameters/esp-transform-suite-ids
   type: IANA
   primary: true
+- id: HIP-PARAMETERS/ESP-TRANSFORM-SUITE-IDS
+  type: IANA
+  scope: anchor
 docnumber: hip-parameters/esp-transform-suite-ids
 date:
 - type: created

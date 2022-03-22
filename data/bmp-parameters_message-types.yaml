@@ -11,6 +11,9 @@ docid:
 - id: IANA bmp-parameters/message-types
   type: IANA
   primary: true
+- id: BMP-PARAMETERS/MESSAGE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: bmp-parameters/message-types
 date:
 - type: created

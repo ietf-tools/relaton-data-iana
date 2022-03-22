@@ -11,6 +11,9 @@ docid:
 - id: IANA safi-namespace
   type: IANA
   primary: true
+- id: SAFI-NAMESPACE
+  type: IANA
+  scope: anchor
 docnumber: safi-namespace
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA ace/ace-authorization-server-request-creation-hints
   type: IANA
   primary: true
+- id: ACE/ACE-AUTHORIZATION-SERVER-REQUEST-CREATION-HINTS
+  type: IANA
+  scope: anchor
 docnumber: ace/ace-authorization-server-request-creation-hints
 date:
 - type: created

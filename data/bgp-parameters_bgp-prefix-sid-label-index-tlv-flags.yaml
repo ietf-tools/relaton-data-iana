@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-parameters/bgp-prefix-sid-label-index-tlv-flags
   type: IANA
   primary: true
+- id: BGP-PARAMETERS/BGP-PREFIX-SID-LABEL-INDEX-TLV-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: bgp-parameters/bgp-prefix-sid-label-index-tlv-flags
 date:
 - type: updated

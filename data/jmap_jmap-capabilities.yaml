@@ -11,6 +11,9 @@ docid:
 - id: IANA jmap/jmap-capabilities
   type: IANA
   primary: true
+- id: JMAP/JMAP-CAPABILITIES
+  type: IANA
+  scope: anchor
 docnumber: jmap/jmap-capabilities
 date:
 - type: created

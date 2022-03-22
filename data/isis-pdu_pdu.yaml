@@ -11,6 +11,9 @@ docid:
 - id: IANA isis-pdu/pdu
   type: IANA
   primary: true
+- id: ISIS-PDU/PDU
+  type: IANA
+  scope: anchor
 docnumber: isis-pdu/pdu
 date:
 - type: created

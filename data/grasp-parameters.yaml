@@ -11,6 +11,9 @@ docid:
 - id: IANA grasp-parameters
   type: IANA
   primary: true
+- id: GRASP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: grasp-parameters
 date:
 - type: created

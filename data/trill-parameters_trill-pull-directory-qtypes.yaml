@@ -11,6 +11,9 @@ docid:
 - id: IANA trill-parameters/trill-pull-directory-qtypes
   type: IANA
   primary: true
+- id: TRILL-PARAMETERS/TRILL-PULL-DIRECTORY-QTYPES
+  type: IANA
+  scope: anchor
 docnumber: trill-parameters/trill-pull-directory-qtypes
 date:
 - type: created

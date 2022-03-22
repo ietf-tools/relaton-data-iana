@@ -11,6 +11,9 @@ docid:
 - id: IANA pvds/pvd-option-flags
   type: IANA
   primary: true
+- id: PVDS/PVD-OPTION-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: pvds/pvd-option-flags
 date:
 - type: created

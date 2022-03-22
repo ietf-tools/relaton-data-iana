@@ -11,6 +11,9 @@ docid:
 - id: IANA smi-numbers/smi-numbers-59
   type: IANA
   primary: true
+- id: SMI-NUMBERS/SMI-NUMBERS-59
+  type: IANA
+  scope: anchor
 docnumber: smi-numbers/smi-numbers-59
 date:
 - type: updated

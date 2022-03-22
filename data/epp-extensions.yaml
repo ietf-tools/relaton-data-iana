@@ -11,6 +11,9 @@ docid:
 - id: IANA epp-extensions
   type: IANA
   primary: true
+- id: EPP-EXTENSIONS
+  type: IANA
+  scope: anchor
 docnumber: epp-extensions
 date:
 - type: created

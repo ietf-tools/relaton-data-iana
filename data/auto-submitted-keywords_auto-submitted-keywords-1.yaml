@@ -11,6 +11,9 @@ docid:
 - id: IANA auto-submitted-keywords/auto-submitted-keywords-1
   type: IANA
   primary: true
+- id: AUTO-SUBMITTED-KEYWORDS/AUTO-SUBMITTED-KEYWORDS-1
+  type: IANA
+  scope: anchor
 docnumber: auto-submitted-keywords/auto-submitted-keywords-1
 date:
 - type: created

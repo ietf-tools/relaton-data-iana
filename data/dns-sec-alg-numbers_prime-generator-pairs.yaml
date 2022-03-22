@@ -11,6 +11,9 @@ docid:
 - id: IANA dns-sec-alg-numbers/prime-generator-pairs
   type: IANA
   primary: true
+- id: DNS-SEC-ALG-NUMBERS/PRIME-GENERATOR-PAIRS
+  type: IANA
+  scope: anchor
 docnumber: dns-sec-alg-numbers/prime-generator-pairs
 date:
 - type: created

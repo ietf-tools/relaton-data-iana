@@ -11,6 +11,9 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/protocol-label-stack-sub-tlv-downstream-detailed-mapping-tlv
   type: IANA
   primary: true
+- id: MPLS-LSP-PING-PARAMETERS/PROTOCOL-LABEL-STACK-SUB-TLV-DOWNSTREAM-DETAILED-MAPPING-TLV
+  type: IANA
+  scope: anchor
 docnumber: mpls-lsp-ping-parameters/protocol-label-stack-sub-tlv-downstream-detailed-mapping-tlv
 date:
 - type: created

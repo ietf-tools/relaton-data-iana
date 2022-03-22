@@ -11,6 +11,9 @@ docid:
 - id: IANA mpls-id-type
   type: IANA
   primary: true
+- id: MPLS-ID-TYPE
+  type: IANA
+  scope: anchor
 docnumber: mpls-id-type
 date:
 - type: created

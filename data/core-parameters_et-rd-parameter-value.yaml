@@ -11,6 +11,9 @@ docid:
 - id: IANA core-parameters/et-rd-parameter-value
   type: IANA
   primary: true
+- id: CORE-PARAMETERS/ET-RD-PARAMETER-VALUE
+  type: IANA
+  scope: anchor
 docnumber: core-parameters/et-rd-parameter-value
 date:
 - type: created

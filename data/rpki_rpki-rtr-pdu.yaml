@@ -11,6 +11,9 @@ docid:
 - id: IANA rpki/rpki-rtr-pdu
   type: IANA
   primary: true
+- id: RPKI/RPKI-RTR-PDU
+  type: IANA
+  scope: anchor
 docnumber: rpki/rpki-rtr-pdu
 date:
 - type: created

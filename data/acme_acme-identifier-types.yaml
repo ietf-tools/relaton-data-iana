@@ -11,6 +11,9 @@ docid:
 - id: IANA acme/acme-identifier-types
   type: IANA
   primary: true
+- id: ACME/ACME-IDENTIFIER-TYPES
+  type: IANA
+  scope: anchor
 docnumber: acme/acme-identifier-types
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA jose
   type: IANA
   primary: true
+- id: JOSE
+  type: IANA
+  scope: anchor
 docnumber: jose
 date:
 - type: created

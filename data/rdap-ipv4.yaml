@@ -11,6 +11,9 @@ docid:
 - id: IANA rdap-ipv4
   type: IANA
   primary: true
+- id: RDAP-IPV4
+  type: IANA
+  scope: anchor
 docnumber: rdap-ipv4
 date:
 - type: created

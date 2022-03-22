@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-ls-parameters
   type: IANA
   primary: true
+- id: BGP-LS-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: bgp-ls-parameters
 date:
 - type: created

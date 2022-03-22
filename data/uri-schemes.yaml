@@ -11,6 +11,9 @@ docid:
 - id: IANA uri-schemes
   type: IANA
   primary: true
+- id: URI-SCHEMES
+  type: IANA
+  scope: anchor
 docnumber: uri-schemes
 date:
 - type: updated

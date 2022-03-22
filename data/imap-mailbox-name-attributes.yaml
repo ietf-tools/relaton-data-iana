@@ -11,6 +11,9 @@ docid:
 - id: IANA imap-mailbox-name-attributes
   type: IANA
   primary: true
+- id: IMAP-MAILBOX-NAME-ATTRIBUTES
+  type: IANA
+  scope: anchor
 docnumber: imap-mailbox-name-attributes
 date:
 - type: created

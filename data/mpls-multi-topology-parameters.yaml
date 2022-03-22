@@ -11,6 +11,9 @@ docid:
 - id: IANA mpls-multi-topology-parameters
   type: IANA
   primary: true
+- id: MPLS-MULTI-TOPOLOGY-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: mpls-multi-topology-parameters
 date:
 - type: created

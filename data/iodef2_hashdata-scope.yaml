@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/hashdata-scope
   type: IANA
   primary: true
+- id: IODEF2/HASHDATA-SCOPE
+  type: IANA
+  scope: anchor
 docnumber: iodef2/hashdata-scope
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA geopriv-identifiers
   type: IANA
   primary: true
+- id: GEOPRIV-IDENTIFIERS
+  type: IANA
+  scope: anchor
 docnumber: geopriv-identifiers
 date:
 - type: created

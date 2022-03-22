@@ -11,6 +11,9 @@ docid:
 - id: IANA email-auth/email-auth-methods
   type: IANA
   primary: true
+- id: EMAIL-AUTH/EMAIL-AUTH-METHODS
+  type: IANA
+  scope: anchor
 docnumber: email-auth/email-auth-methods
 date:
 - type: created

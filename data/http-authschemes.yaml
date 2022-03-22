@@ -11,6 +11,9 @@ docid:
 - id: IANA http-authschemes
   type: IANA
   primary: true
+- id: HTTP-AUTHSCHEMES
+  type: IANA
+  scope: anchor
 docnumber: http-authschemes
 date:
 - type: created

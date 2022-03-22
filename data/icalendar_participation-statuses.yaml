@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/participation-statuses
   type: IANA
   primary: true
+- id: ICALENDAR/PARTICIPATION-STATUSES
+  type: IANA
+  scope: anchor
 docnumber: icalendar/participation-statuses
 date:
 - type: created

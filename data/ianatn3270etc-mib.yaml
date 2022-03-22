@@ -11,6 +11,9 @@ docid:
 - id: IANA ianatn3270etc-mib
   type: IANA
   primary: true
+- id: IANATN3270ETC-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianatn3270etc-mib
 date:
 - type: created

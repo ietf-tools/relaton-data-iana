@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/message-tlv-types
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/MESSAGE-TLV-TYPES
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/message-tlv-types
 date:
 - type: created

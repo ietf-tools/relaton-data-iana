@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/tcpcl-version
   type: IANA
   primary: true
+- id: BUNDLE/TCPCL-VERSION
+  type: IANA
+  scope: anchor
 docnumber: bundle/tcpcl-version
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA isis-pdu/lsp-flooding-scoped-id
   type: IANA
   primary: true
+- id: ISIS-PDU/LSP-FLOODING-SCOPED-ID
+  type: IANA
+  scope: anchor
 docnumber: isis-pdu/lsp-flooding-scoped-id
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA aaa-parameters/aaa-parameters-46
   type: IANA
   primary: true
+- id: AAA-PARAMETERS/AAA-PARAMETERS-46
+  type: IANA
+  scope: anchor
 docnumber: aaa-parameters/aaa-parameters-46
 date:
 - type: created

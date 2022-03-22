@@ -11,6 +11,9 @@ docid:
 - id: IANA ip-over-IEEE1394
   type: IANA
   primary: true
+- id: IP-OVER-IEEE1394
+  type: IANA
+  scope: anchor
 docnumber: ip-over-IEEE1394
 date:
 - type: created

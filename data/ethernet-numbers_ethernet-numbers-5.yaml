@@ -11,6 +11,9 @@ docid:
 - id: IANA ethernet-numbers/ethernet-numbers-5
   type: IANA
   primary: true
+- id: ETHERNET-NUMBERS/ETHERNET-NUMBERS-5
+  type: IANA
+  scope: anchor
 docnumber: ethernet-numbers/ethernet-numbers-5
 date:
 - type: updated

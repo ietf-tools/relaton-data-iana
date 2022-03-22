@@ -11,6 +11,9 @@ docid:
 - id: IANA dlep-parameters/peer-type-flags
   type: IANA
   primary: true
+- id: DLEP-PARAMETERS/PEER-TYPE-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: dlep-parameters/peer-type-flags
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA qspec/y2171
   type: IANA
   primary: true
+- id: QSPEC/Y2171
+  type: IANA
+  scope: anchor
 docnumber: qspec/y2171
 date:
 - type: created

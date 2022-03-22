@@ -11,6 +11,9 @@ docid:
 - id: IANA sigtran-adapt
   type: IANA
   primary: true
+- id: SIGTRAN-ADAPT
+  type: IANA
+  scope: anchor
 docnumber: sigtran-adapt
 date:
 - type: created

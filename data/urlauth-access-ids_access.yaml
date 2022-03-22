@@ -11,6 +11,9 @@ docid:
 - id: IANA urlauth-access-ids/access
   type: IANA
   primary: true
+- id: URLAUTH-ACCESS-IDS/ACCESS
+  type: IANA
+  scope: anchor
 docnumber: urlauth-access-ids/access
 date:
 - type: created

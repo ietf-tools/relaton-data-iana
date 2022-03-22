@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/request-status
   type: IANA
   primary: true
+- id: ICALENDAR/REQUEST-STATUS
+  type: IANA
+  scope: anchor
 docnumber: icalendar/request-status
 date:
 - type: created

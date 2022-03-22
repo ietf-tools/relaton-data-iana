@@ -11,6 +11,9 @@ docid:
 - id: IANA tel-uri-parameters
   type: IANA
   primary: true
+- id: TEL-URI-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: tel-uri-parameters
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA _6tisch/_6tisch-cojp-unsupported-configuration-codes
   type: IANA
   primary: true
+- id: _6TISCH/_6TISCH-COJP-UNSUPPORTED-CONFIGURATION-CODES
+  type: IANA
+  scope: anchor
 docnumber: _6tisch/_6tisch-cojp-unsupported-configuration-codes
 date:
 - type: created

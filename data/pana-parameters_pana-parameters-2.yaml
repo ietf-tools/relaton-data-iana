@@ -11,6 +11,9 @@ docid:
 - id: IANA pana-parameters/pana-parameters-2
   type: IANA
   primary: true
+- id: PANA-PARAMETERS/PANA-PARAMETERS-2
+  type: IANA
+  scope: anchor
 docnumber: pana-parameters/pana-parameters-2
 date:
 - type: created

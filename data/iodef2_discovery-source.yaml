@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/discovery-source
   type: IANA
   primary: true
+- id: IODEF2/DISCOVERY-SOURCE
+  type: IANA
+  scope: anchor
 docnumber: iodef2/discovery-source
 date:
 - type: created

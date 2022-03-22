@@ -11,6 +11,9 @@ docid:
 - id: IANA rolie/information-type
   type: IANA
   primary: true
+- id: ROLIE/INFORMATION-TYPE
+  type: IANA
+  scope: anchor
 docnumber: rolie/information-type
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA iana-hardware
   type: IANA
   primary: true
+- id: IANA-HARDWARE
+  type: IANA
+  scope: anchor
 docnumber: iana-hardware
 date:
 - type: created

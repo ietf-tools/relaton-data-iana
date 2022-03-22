@@ -11,6 +11,9 @@ docid:
 - id: IANA owamp-parameters/owamp-modes
   type: IANA
   primary: true
+- id: OWAMP-PARAMETERS/OWAMP-MODES
+  type: IANA
+  scope: anchor
 docnumber: owamp-parameters/owamp-modes
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA oauth-parameters/extensions-error
   type: IANA
   primary: true
+- id: OAUTH-PARAMETERS/EXTENSIONS-ERROR
+  type: IANA
+  scope: anchor
 docnumber: oauth-parameters/extensions-error
 date:
 - type: created

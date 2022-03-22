@@ -11,6 +11,9 @@ docid:
 - id: IANA mdn
   type: IANA
   primary: true
+- id: MDN
+  type: IANA
+  scope: anchor
 docnumber: mdn
 date:
 - type: updated

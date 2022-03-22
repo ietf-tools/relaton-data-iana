@@ -11,6 +11,9 @@ docid:
 - id: IANA capwap-parameters/capwap-parameters-9
   type: IANA
   primary: true
+- id: CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-9
+  type: IANA
+  scope: anchor
 docnumber: capwap-parameters/capwap-parameters-9
 date:
 - type: created

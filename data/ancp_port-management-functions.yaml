@@ -11,6 +11,9 @@ docid:
 - id: IANA ancp/port-management-functions
   type: IANA
   primary: true
+- id: ANCP/PORT-MANAGEMENT-FUNCTIONS
+  type: IANA
+  scope: anchor
 docnumber: ancp/port-management-functions
 date:
 - type: created

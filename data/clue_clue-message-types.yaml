@@ -11,6 +11,9 @@ docid:
 - id: IANA clue/clue-message-types
   type: IANA
   primary: true
+- id: CLUE/CLUE-MESSAGE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: clue/clue-message-types
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA ancp/technology-types
   type: IANA
   primary: true
+- id: ANCP/TECHNOLOGY-TYPES
+  type: IANA
+  scope: anchor
 docnumber: ancp/technology-types
 date:
 - type: created

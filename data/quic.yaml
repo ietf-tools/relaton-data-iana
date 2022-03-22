@@ -11,6 +11,9 @@ docid:
 - id: IANA quic
   type: IANA
   primary: true
+- id: QUIC
+  type: IANA
+  scope: anchor
 docnumber: quic
 date:
 - type: created

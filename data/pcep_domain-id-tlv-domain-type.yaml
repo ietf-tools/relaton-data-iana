@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/domain-id-tlv-domain-type
   type: IANA
   primary: true
+- id: PCEP/DOMAIN-ID-TLV-DOMAIN-TYPE
+  type: IANA
+  scope: anchor
 docnumber: pcep/domain-id-tlv-domain-type
 date:
 - type: created

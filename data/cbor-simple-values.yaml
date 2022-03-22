@@ -11,6 +11,9 @@ docid:
 - id: IANA cbor-simple-values
   type: IANA
   primary: true
+- id: CBOR-SIMPLE-VALUES
+  type: IANA
+  scope: anchor
 docnumber: cbor-simple-values
 date:
 - type: created

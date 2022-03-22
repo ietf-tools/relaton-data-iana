@@ -11,6 +11,9 @@ docid:
 - id: IANA alert-urns/identifiers
   type: IANA
   primary: true
+- id: ALERT-URNS/IDENTIFIERS
+  type: IANA
+  scope: anchor
 docnumber: alert-urns/identifiers
 date:
 - type: created

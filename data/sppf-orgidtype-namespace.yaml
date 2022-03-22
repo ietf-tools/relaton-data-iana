@@ -11,6 +11,9 @@ docid:
 - id: IANA sppf-orgidtype-namespace
   type: IANA
   primary: true
+- id: SPPF-ORGIDTYPE-NAMESPACE
+  type: IANA
+  scope: anchor
 docnumber: sppf-orgidtype-namespace
 date:
 - type: created

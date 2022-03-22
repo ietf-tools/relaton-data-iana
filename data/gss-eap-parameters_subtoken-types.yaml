@@ -11,6 +11,9 @@ docid:
 - id: IANA gss-eap-parameters/subtoken-types
   type: IANA
   primary: true
+- id: GSS-EAP-PARAMETERS/SUBTOKEN-TYPES
+  type: IANA
+  scope: anchor
 docnumber: gss-eap-parameters/subtoken-types
 date:
 - type: created

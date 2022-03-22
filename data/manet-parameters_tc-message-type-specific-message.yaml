@@ -11,6 +11,9 @@ docid:
 - id: IANA manet-parameters/tc-message-type-specific-message
   type: IANA
   primary: true
+- id: MANET-PARAMETERS/TC-MESSAGE-TYPE-SPECIFIC-MESSAGE
+  type: IANA
+  scope: anchor
 docnumber: manet-parameters/tc-message-type-specific-message
 date:
 - type: created

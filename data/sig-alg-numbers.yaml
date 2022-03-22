@@ -11,6 +11,9 @@ docid:
 - id: IANA sig-alg-numbers
   type: IANA
   primary: true
+- id: SIG-ALG-NUMBERS
+  type: IANA
+  scope: anchor
 docnumber: sig-alg-numbers
 date:
 - type: updated

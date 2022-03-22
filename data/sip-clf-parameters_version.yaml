@@ -11,6 +11,9 @@ docid:
 - id: IANA sip-clf-parameters/version
   type: IANA
   primary: true
+- id: SIP-CLF-PARAMETERS/VERSION
+  type: IANA
+  scope: anchor
 docnumber: sip-clf-parameters/version
 date:
 - type: created

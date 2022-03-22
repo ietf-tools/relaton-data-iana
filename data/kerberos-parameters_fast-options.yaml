@@ -11,6 +11,9 @@ docid:
 - id: IANA kerberos-parameters/fast-options
   type: IANA
   primary: true
+- id: KERBEROS-PARAMETERS/FAST-OPTIONS
+  type: IANA
+  scope: anchor
 docnumber: kerberos-parameters/fast-options
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA emsk-parameters
   type: IANA
   primary: true
+- id: EMSK-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: emsk-parameters
 date:
 - type: created

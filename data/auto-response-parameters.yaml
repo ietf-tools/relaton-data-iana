@@ -11,6 +11,9 @@ docid:
 - id: IANA auto-response-parameters
   type: IANA
   primary: true
+- id: AUTO-RESPONSE-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: auto-response-parameters
 date:
 - type: created

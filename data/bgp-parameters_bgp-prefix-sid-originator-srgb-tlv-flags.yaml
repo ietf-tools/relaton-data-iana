@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
   type: IANA
   primary: true
+- id: BGP-PARAMETERS/BGP-PREFIX-SID-ORIGINATOR-SRGB-TLV-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: bgp-parameters/bgp-prefix-sid-originator-srgb-tlv-flags
 date:
 - type: updated

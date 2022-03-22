@@ -11,6 +11,9 @@ docid:
 - id: IANA rtcp-xr-block-types/rtcp-xr-block-types-1
   type: IANA
   primary: true
+- id: RTCP-XR-BLOCK-TYPES/RTCP-XR-BLOCK-TYPES-1
+  type: IANA
+  scope: anchor
 docnumber: rtcp-xr-block-types/rtcp-xr-block-types-1
 date:
 - type: created

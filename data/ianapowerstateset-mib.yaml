@@ -11,6 +11,9 @@ docid:
 - id: IANA ianapowerstateset-mib
   type: IANA
   primary: true
+- id: IANAPOWERSTATESET-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianapowerstateset-mib
 date:
 - type: created

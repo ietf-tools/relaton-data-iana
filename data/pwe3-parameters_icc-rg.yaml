@@ -11,6 +11,9 @@ docid:
 - id: IANA pwe3-parameters/icc-rg
   type: IANA
   primary: true
+- id: PWE3-PARAMETERS/ICC-RG
+  type: IANA
+  scope: anchor
 docnumber: pwe3-parameters/icc-rg
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA managesieve/response
   type: IANA
   primary: true
+- id: MANAGESIEVE/RESPONSE
+  type: IANA
+  scope: anchor
 docnumber: managesieve/response
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA building-blocks
   type: IANA
   primary: true
+- id: BUILDING-BLOCKS
+  type: IANA
+  scope: anchor
 docnumber: building-blocks
 date:
 - type: created

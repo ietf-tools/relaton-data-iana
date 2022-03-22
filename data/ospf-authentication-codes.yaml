@@ -11,6 +11,9 @@ docid:
 - id: IANA ospf-authentication-codes
   type: IANA
   primary: true
+- id: OSPF-AUTHENTICATION-CODES
+  type: IANA
+  scope: anchor
 docnumber: ospf-authentication-codes
 date:
 - type: updated

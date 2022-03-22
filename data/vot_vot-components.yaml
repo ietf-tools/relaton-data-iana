@@ -11,6 +11,9 @@ docid:
 - id: IANA vot/vot-components
   type: IANA
   primary: true
+- id: VOT/VOT-COMPONENTS
+  type: IANA
+  scope: anchor
 docnumber: vot/vot-components
 date:
 - type: created

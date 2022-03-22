@@ -11,6 +11,9 @@ docid:
 - id: IANA bgp-extended-communities/arp-nd-extended-community-flags
   type: IANA
   primary: true
+- id: BGP-EXTENDED-COMMUNITIES/ARP-ND-EXTENDED-COMMUNITY-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: bgp-extended-communities/arp-nd-extended-community-flags
 date:
 - type: created

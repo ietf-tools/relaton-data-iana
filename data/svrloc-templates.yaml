@@ -11,6 +11,9 @@ docid:
 - id: IANA svrloc-templates
   type: IANA
   primary: true
+- id: SVRLOC-TEMPLATES
+  type: IANA
+  scope: anchor
 docnumber: svrloc-templates
 date:
 - type: updated

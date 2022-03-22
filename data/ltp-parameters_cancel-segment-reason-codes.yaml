@@ -11,6 +11,9 @@ docid:
 - id: IANA ltp-parameters/cancel-segment-reason-codes
   type: IANA
   primary: true
+- id: LTP-PARAMETERS/CANCEL-SEGMENT-REASON-CODES
+  type: IANA
+  scope: anchor
 docnumber: ltp-parameters/cancel-segment-reason-codes
 date:
 - type: created

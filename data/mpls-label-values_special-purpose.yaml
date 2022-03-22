@@ -11,6 +11,9 @@ docid:
 - id: IANA mpls-label-values/special-purpose
   type: IANA
   primary: true
+- id: MPLS-LABEL-VALUES/SPECIAL-PURPOSE
+  type: IANA
+  scope: anchor
 docnumber: mpls-label-values/special-purpose
 date:
 - type: created

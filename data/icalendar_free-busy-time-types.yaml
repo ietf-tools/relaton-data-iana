@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/free-busy-time-types
   type: IANA
   primary: true
+- id: ICALENDAR/FREE-BUSY-TIME-TYPES
+  type: IANA
+  scope: anchor
 docnumber: icalendar/free-busy-time-types
 date:
 - type: created

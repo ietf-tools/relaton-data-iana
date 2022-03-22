@@ -11,6 +11,9 @@ docid:
 - id: IANA trip-parameters/trip-parameters-2
   type: IANA
   primary: true
+- id: TRIP-PARAMETERS/TRIP-PARAMETERS-2
+  type: IANA
+  scope: anchor
 docnumber: trip-parameters/trip-parameters-2
 date:
 - type: created

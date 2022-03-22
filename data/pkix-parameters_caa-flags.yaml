@@ -11,6 +11,9 @@ docid:
 - id: IANA pkix-parameters/caa-flags
   type: IANA
   primary: true
+- id: PKIX-PARAMETERS/CAA-FLAGS
+  type: IANA
+  scope: anchor
 docnumber: pkix-parameters/caa-flags
 date:
 - type: created

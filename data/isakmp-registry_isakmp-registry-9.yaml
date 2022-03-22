@@ -11,6 +11,9 @@ docid:
 - id: IANA isakmp-registry/isakmp-registry-9
   type: IANA
   primary: true
+- id: ISAKMP-REGISTRY/ISAKMP-REGISTRY-9
+  type: IANA
+  scope: anchor
 docnumber: isakmp-registry/isakmp-registry-9
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA mrt/subtype-codes
   type: IANA
   primary: true
+- id: MRT/SUBTYPE-CODES
+  type: IANA
+  scope: anchor
 docnumber: mrt/subtype-codes
 date:
 - type: created

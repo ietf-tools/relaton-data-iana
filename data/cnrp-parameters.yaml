@@ -11,6 +11,9 @@ docid:
 - id: IANA cnrp-parameters
   type: IANA
   primary: true
+- id: CNRP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: cnrp-parameters
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/classifications
   type: IANA
   primary: true
+- id: ICALENDAR/CLASSIFICATIONS
+  type: IANA
+  scope: anchor
 docnumber: icalendar/classifications
 date:
 - type: created

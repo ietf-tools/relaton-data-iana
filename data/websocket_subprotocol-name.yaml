@@ -11,6 +11,9 @@ docid:
 - id: IANA websocket/subprotocol-name
   type: IANA
   primary: true
+- id: WEBSOCKET/SUBPROTOCOL-NAME
+  type: IANA
+  scope: anchor
 docnumber: websocket/subprotocol-name
 date:
 - type: created

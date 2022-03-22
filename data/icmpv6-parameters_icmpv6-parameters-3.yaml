@@ -11,6 +11,9 @@ docid:
 - id: IANA icmpv6-parameters/icmpv6-parameters-3
   type: IANA
   primary: true
+- id: ICMPV6-PARAMETERS/ICMPV6-PARAMETERS-3
+  type: IANA
+  scope: anchor
 docnumber: icmpv6-parameters/icmpv6-parameters-3
 date:
 - type: updated

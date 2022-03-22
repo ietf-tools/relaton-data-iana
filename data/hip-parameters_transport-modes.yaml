@@ -11,6 +11,9 @@ docid:
 - id: IANA hip-parameters/transport-modes
   type: IANA
   primary: true
+- id: HIP-PARAMETERS/TRANSPORT-MODES
+  type: IANA
+  scope: anchor
 docnumber: hip-parameters/transport-modes
 date:
 - type: created

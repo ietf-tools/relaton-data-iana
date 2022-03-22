@@ -11,6 +11,9 @@ docid:
 - id: IANA ieee-802-numbers/ieee-802-numbers-2
   type: IANA
   primary: true
+- id: IEEE-802-NUMBERS/IEEE-802-NUMBERS-2
+  type: IANA
+  scope: anchor
 docnumber: ieee-802-numbers/ieee-802-numbers-2
 date:
 - type: updated

@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/tcp-convergence-xfer-refuse-reason
   type: IANA
   primary: true
+- id: BUNDLE/TCP-CONVERGENCE-XFER-REFUSE-REASON
+  type: IANA
+  scope: anchor
 docnumber: bundle/tcp-convergence-xfer-refuse-reason
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA gist-parameters/error-codes
   type: IANA
   primary: true
+- id: GIST-PARAMETERS/ERROR-CODES
+  type: IANA
+  scope: anchor
 docnumber: gist-parameters/error-codes
 date:
 - type: created

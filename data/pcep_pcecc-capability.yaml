@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/pcecc-capability
   type: IANA
   primary: true
+- id: PCEP/PCECC-CAPABILITY
+  type: IANA
+  scope: anchor
 docnumber: pcep/pcecc-capability
 date:
 - type: created

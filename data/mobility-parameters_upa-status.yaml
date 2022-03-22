@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/upa-status
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/UPA-STATUS
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/upa-status
 date:
 - type: created

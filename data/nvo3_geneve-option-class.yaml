@@ -11,6 +11,9 @@ docid:
 - id: IANA nvo3/geneve-option-class
   type: IANA
   primary: true
+- id: NVO3/GENEVE-OPTION-CLASS
+  type: IANA
+  scope: anchor
 docnumber: nvo3/geneve-option-class
 date:
 - type: created

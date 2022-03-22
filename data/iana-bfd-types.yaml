@@ -11,6 +11,9 @@ docid:
 - id: IANA iana-bfd-types
   type: IANA
   primary: true
+- id: IANA-BFD-TYPES
+  type: IANA
+  scope: anchor
 docnumber: iana-bfd-types
 date:
 - type: created

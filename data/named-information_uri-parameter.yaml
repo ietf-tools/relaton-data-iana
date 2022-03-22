@@ -11,6 +11,9 @@ docid:
 - id: IANA named-information/uri-parameter
   type: IANA
   primary: true
+- id: NAMED-INFORMATION/URI-PARAMETER
+  type: IANA
+  scope: anchor
 docnumber: named-information/uri-parameter
 date:
 - type: created

@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/bpsec-bib-hmac-sha2-integrity-scope
   type: IANA
   primary: true
+- id: BUNDLE/BPSEC-BIB-HMAC-SHA2-INTEGRITY-SCOPE
+  type: IANA
+  scope: anchor
 docnumber: bundle/bpsec-bib-hmac-sha2-integrity-scope
 date:
 - type: created

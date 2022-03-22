@@ -11,6 +11,9 @@ docid:
 - id: IANA iana-if-type
   type: IANA
   primary: true
+- id: IANA-IF-TYPE
+  type: IANA
+  scope: anchor
 docnumber: iana-if-type
 date:
 - type: created

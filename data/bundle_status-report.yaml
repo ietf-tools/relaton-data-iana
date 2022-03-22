@@ -11,6 +11,9 @@ docid:
 - id: IANA bundle/status-report
   type: IANA
   primary: true
+- id: BUNDLE/STATUS-REPORT
+  type: IANA
+  scope: anchor
 docnumber: bundle/status-report
 date:
 - type: created

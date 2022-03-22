@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/close-object-flag-field
   type: IANA
   primary: true
+- id: PCEP/CLOSE-OBJECT-FLAG-FIELD
+  type: IANA
+  scope: anchor
 docnumber: pcep/close-object-flag-field
 date:
 - type: created

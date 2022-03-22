@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/sched-pd-lsp-attribute-tlv-opt-field
   type: IANA
   primary: true
+- id: PCEP/SCHED-PD-LSP-ATTRIBUTE-TLV-OPT-FIELD
+  type: IANA
+  scope: anchor
 docnumber: pcep/sched-pd-lsp-attribute-tlv-opt-field
 date:
 - type: created

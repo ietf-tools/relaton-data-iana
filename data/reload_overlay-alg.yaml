@@ -11,6 +11,9 @@ docid:
 - id: IANA reload/overlay-alg
   type: IANA
   primary: true
+- id: RELOAD/OVERLAY-ALG
+  type: IANA
+  scope: anchor
 docnumber: reload/overlay-alg
 date:
 - type: created

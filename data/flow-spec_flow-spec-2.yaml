@@ -11,6 +11,9 @@ docid:
 - id: IANA flow-spec/flow-spec-2
   type: IANA
   primary: true
+- id: FLOW-SPEC/FLOW-SPEC-2
+  type: IANA
+  scope: anchor
 docnumber: flow-spec/flow-spec-2
 date:
 - type: created

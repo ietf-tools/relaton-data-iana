@@ -11,6 +11,9 @@ docid:
 - id: IANA iodef2/incident-purpose
   type: IANA
   primary: true
+- id: IODEF2/INCIDENT-PURPOSE
+  type: IANA
+  scope: anchor
 docnumber: iodef2/incident-purpose
 date:
 - type: created

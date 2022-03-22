@@ -11,6 +11,9 @@ docid:
 - id: IANA ieee-802-numbers/iana-lldp-tlv-subtypes
   type: IANA
   primary: true
+- id: IEEE-802-NUMBERS/IANA-LLDP-TLV-SUBTYPES
+  type: IANA
+  scope: anchor
 docnumber: ieee-802-numbers/iana-lldp-tlv-subtypes
 date:
 - type: updated

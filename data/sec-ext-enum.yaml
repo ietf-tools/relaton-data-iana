@@ -11,6 +11,9 @@ docid:
 - id: IANA sec-ext-enum
   type: IANA
   primary: true
+- id: SEC-EXT-ENUM
+  type: IANA
+  scope: anchor
 docnumber: sec-ext-enum
 date:
 - type: created

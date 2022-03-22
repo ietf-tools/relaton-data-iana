@@ -11,6 +11,9 @@ docid:
 - id: IANA trans/trans-log-artifact-extensions
   type: IANA
   primary: true
+- id: TRANS/TRANS-LOG-ARTIFACT-EXTENSIONS
+  type: IANA
+  scope: anchor
 docnumber: trans/trans-log-artifact-extensions
 date:
 - type: created

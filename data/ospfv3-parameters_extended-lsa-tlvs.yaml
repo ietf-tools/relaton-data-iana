@@ -11,6 +11,9 @@ docid:
 - id: IANA ospfv3-parameters/extended-lsa-tlvs
   type: IANA
   primary: true
+- id: OSPFV3-PARAMETERS/EXTENDED-LSA-TLVS
+  type: IANA
+  scope: anchor
 docnumber: ospfv3-parameters/extended-lsa-tlvs
 date:
 - type: created

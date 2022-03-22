@@ -11,6 +11,9 @@ docid:
 - id: IANA quic/quic-transport
   type: IANA
   primary: true
+- id: QUIC/QUIC-TRANSPORT
+  type: IANA
+  scope: anchor
 docnumber: quic/quic-transport
 date:
 - type: created

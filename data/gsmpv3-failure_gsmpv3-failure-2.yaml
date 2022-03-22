@@ -11,6 +11,9 @@ docid:
 - id: IANA gsmpv3-failure/gsmpv3-failure-2
   type: IANA
   primary: true
+- id: GSMPV3-FAILURE/GSMPV3-FAILURE-2
+  type: IANA
+  scope: anchor
 docnumber: gsmpv3-failure/gsmpv3-failure-2
 date:
 - type: created

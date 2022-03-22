@@ -11,6 +11,9 @@ docid:
 - id: IANA rmt-fec-parameters/fecframe-fec-encoding-ids
   type: IANA
   primary: true
+- id: RMT-FEC-PARAMETERS/FECFRAME-FEC-ENCODING-IDS
+  type: IANA
+  scope: anchor
 docnumber: rmt-fec-parameters/fecframe-fec-encoding-ids
 date:
 - type: created

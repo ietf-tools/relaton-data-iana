@@ -11,6 +11,9 @@ docid:
 - id: IANA bier
   type: IANA
   primary: true
+- id: BIER
+  type: IANA
+  scope: anchor
 docnumber: bier
 date:
 - type: created

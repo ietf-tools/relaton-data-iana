@@ -11,6 +11,9 @@ docid:
 - id: IANA http-parameters/content-coding
   type: IANA
   primary: true
+- id: HTTP-PARAMETERS/CONTENT-CODING
+  type: IANA
+  scope: anchor
 docnumber: http-parameters/content-coding
 date:
 - type: updated

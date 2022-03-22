@@ -11,6 +11,9 @@ docid:
 - id: IANA ianafinisher-mib
   type: IANA
   primary: true
+- id: IANAFINISHER-MIB
+  type: IANA
+  scope: anchor
 docnumber: ianafinisher-mib
 date:
 - type: created

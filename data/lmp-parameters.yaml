@@ -11,6 +11,9 @@ docid:
 - id: IANA lmp-parameters
   type: IANA
   primary: true
+- id: LMP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: lmp-parameters
 date:
 - type: updated

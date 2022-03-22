@@ -11,6 +11,9 @@ docid:
 - id: IANA kerberos-v-gss-api
   type: IANA
   primary: true
+- id: KERBEROS-V-GSS-API
+  type: IANA
+  scope: anchor
 docnumber: kerberos-v-gss-api
 date:
 - type: created

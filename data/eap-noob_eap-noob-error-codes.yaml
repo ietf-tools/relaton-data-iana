@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-noob/eap-noob-error-codes
   type: IANA
   primary: true
+- id: EAP-NOOB/EAP-NOOB-ERROR-CODES
+  type: IANA
+  scope: anchor
 docnumber: eap-noob/eap-noob-error-codes
 date:
 - type: created

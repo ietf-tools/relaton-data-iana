@@ -11,6 +11,9 @@ docid:
 - id: IANA cisco-sla-protocol/roles
   type: IANA
   primary: true
+- id: CISCO-SLA-PROTOCOL/ROLES
+  type: IANA
+  scope: anchor
 docnumber: cisco-sla-protocol/roles
 date:
 - type: created

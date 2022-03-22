@@ -11,6 +11,9 @@ docid:
 - id: IANA tcp-parameters/mptcp-handshake
   type: IANA
   primary: true
+- id: TCP-PARAMETERS/MPTCP-HANDSHAKE
+  type: IANA
+  scope: anchor
 docnumber: tcp-parameters/mptcp-handshake
 date:
 - type: updated

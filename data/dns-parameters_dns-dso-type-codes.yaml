@@ -11,6 +11,9 @@ docid:
 - id: IANA dns-parameters/dns-dso-type-codes
   type: IANA
   primary: true
+- id: DNS-PARAMETERS/DNS-DSO-TYPE-CODES
+  type: IANA
+  scope: anchor
 docnumber: dns-parameters/dns-dso-type-codes
 date:
 - type: updated

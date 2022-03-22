@@ -11,6 +11,9 @@ docid:
 - id: IANA icalendar/participant-types
   type: IANA
   primary: true
+- id: ICALENDAR/PARTICIPANT-TYPES
+  type: IANA
+  scope: anchor
 docnumber: icalendar/participant-types
 date:
 - type: created

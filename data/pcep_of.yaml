@@ -11,6 +11,9 @@ docid:
 - id: IANA pcep/of
   type: IANA
   primary: true
+- id: PCEP/OF
+  type: IANA
+  scope: anchor
 docnumber: pcep/of
 date:
 - type: created

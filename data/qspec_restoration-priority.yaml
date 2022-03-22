@@ -11,6 +11,9 @@ docid:
 - id: IANA qspec/restoration-priority
   type: IANA
   primary: true
+- id: QSPEC/RESTORATION-PRIORITY
+  type: IANA
+  scope: anchor
 docnumber: qspec/restoration-priority
 date:
 - type: created

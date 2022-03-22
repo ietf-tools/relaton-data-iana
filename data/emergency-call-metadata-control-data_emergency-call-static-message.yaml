@@ -11,6 +11,9 @@ docid:
 - id: IANA emergency-call-metadata-control-data/emergency-call-static-message
   type: IANA
   primary: true
+- id: EMERGENCY-CALL-METADATA-CONTROL-DATA/EMERGENCY-CALL-STATIC-MESSAGE
+  type: IANA
+  scope: anchor
 docnumber: emergency-call-metadata-control-data/emergency-call-static-message
 date:
 - type: created

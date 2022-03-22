@@ -11,6 +11,9 @@ docid:
 - id: IANA eap-eke/diffie-hellman
   type: IANA
   primary: true
+- id: EAP-EKE/DIFFIE-HELLMAN
+  type: IANA
+  scope: anchor
 docnumber: eap-eke/diffie-hellman
 date:
 - type: created

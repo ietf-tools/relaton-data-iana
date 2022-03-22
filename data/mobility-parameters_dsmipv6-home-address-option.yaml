@@ -11,6 +11,9 @@ docid:
 - id: IANA mobility-parameters/dsmipv6-home-address-option
   type: IANA
   primary: true
+- id: MOBILITY-PARAMETERS/DSMIPV6-HOME-ADDRESS-OPTION
+  type: IANA
+  scope: anchor
 docnumber: mobility-parameters/dsmipv6-home-address-option
 date:
 - type: created

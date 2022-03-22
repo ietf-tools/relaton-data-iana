@@ -11,6 +11,9 @@ docid:
 - id: IANA mrt
   type: IANA
   primary: true
+- id: MRT
+  type: IANA
+  scope: anchor
 docnumber: mrt
 date:
 - type: created

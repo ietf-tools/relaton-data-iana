@@ -11,6 +11,9 @@ docid:
 - id: IANA lang-subtags-templates/lang-subtags-templates-1
   type: IANA
   primary: true
+- id: LANG-SUBTAGS-TEMPLATES/LANG-SUBTAGS-TEMPLATES-1
+  type: IANA
+  scope: anchor
 docnumber: lang-subtags-templates/lang-subtags-templates-1
 date:
 - type: updated

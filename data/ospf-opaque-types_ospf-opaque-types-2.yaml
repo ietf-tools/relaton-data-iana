@@ -11,6 +11,9 @@ docid:
 - id: IANA ospf-opaque-types/ospf-opaque-types-2
   type: IANA
   primary: true
+- id: OSPF-OPAQUE-TYPES/OSPF-OPAQUE-TYPES-2
+  type: IANA
+  scope: anchor
 docnumber: ospf-opaque-types/ospf-opaque-types-2
 date:
 - type: updated

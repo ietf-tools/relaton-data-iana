@@ -11,6 +11,9 @@ docid:
 - id: IANA os-specific-parameters/filetypes
   type: IANA
   primary: true
+- id: OS-SPECIFIC-PARAMETERS/FILETYPES
+  type: IANA
+  scope: anchor
 docnumber: os-specific-parameters/filetypes
 date:
 - type: created

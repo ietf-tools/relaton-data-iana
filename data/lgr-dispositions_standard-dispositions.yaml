@@ -11,6 +11,9 @@ docid:
 - id: IANA lgr-dispositions/standard-dispositions
   type: IANA
   primary: true
+- id: LGR-DISPOSITIONS/STANDARD-DISPOSITIONS
+  type: IANA
+  scope: anchor
 docnumber: lgr-dispositions/standard-dispositions
 date:
 - type: created

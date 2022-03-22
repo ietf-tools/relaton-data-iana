@@ -11,6 +11,9 @@ docid:
 - id: IANA tls-extensiontype-values/certificate-status
   type: IANA
   primary: true
+- id: TLS-EXTENSIONTYPE-VALUES/CERTIFICATE-STATUS
+  type: IANA
+  scope: anchor
 docnumber: tls-extensiontype-values/certificate-status
 date:
 - type: created

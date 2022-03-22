@@ -11,6 +11,9 @@ docid:
 - id: IANA segment-routing
   type: IANA
   primary: true
+- id: SEGMENT-ROUTING
+  type: IANA
+  scope: anchor
 docnumber: segment-routing
 date:
 - type: created

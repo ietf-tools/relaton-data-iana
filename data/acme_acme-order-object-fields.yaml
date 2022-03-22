@@ -11,6 +11,9 @@ docid:
 - id: IANA acme/acme-order-object-fields
   type: IANA
   primary: true
+- id: ACME/ACME-ORDER-OBJECT-FIELDS
+  type: IANA
+  scope: anchor
 docnumber: acme/acme-order-object-fields
 date:
 - type: created

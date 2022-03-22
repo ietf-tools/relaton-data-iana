@@ -11,6 +11,9 @@ docid:
 - id: IANA cdni-parameters/error-codes
   type: IANA
   primary: true
+- id: CDNI-PARAMETERS/ERROR-CODES
+  type: IANA
+  scope: anchor
 docnumber: cdni-parameters/error-codes
 date:
 - type: created

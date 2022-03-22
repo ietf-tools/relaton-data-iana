@@ -11,6 +11,9 @@ docid:
 - id: IANA ppspp/message-types
   type: IANA
   primary: true
+- id: PPSPP/MESSAGE-TYPES
+  type: IANA
+  scope: anchor
 docnumber: ppspp/message-types
 date:
 - type: created

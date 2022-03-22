@@ -11,6 +11,9 @@ docid:
 - id: IANA cert-rr-types
   type: IANA
   primary: true
+- id: CERT-RR-TYPES
+  type: IANA
+  scope: anchor
 docnumber: cert-rr-types
 date:
 - type: created

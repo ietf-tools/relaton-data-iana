@@ -11,6 +11,9 @@ docid:
 - id: IANA imap-annotate-extension
   type: IANA
   primary: true
+- id: IMAP-ANNOTATE-EXTENSION
+  type: IANA
+  scope: anchor
 docnumber: imap-annotate-extension
 date:
 - type: created

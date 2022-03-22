@@ -11,6 +11,9 @@ docid:
 - id: IANA adsp-parameters
   type: IANA
   primary: true
+- id: ADSP-PARAMETERS
+  type: IANA
+  scope: anchor
 docnumber: adsp-parameters
 date:
 - type: created

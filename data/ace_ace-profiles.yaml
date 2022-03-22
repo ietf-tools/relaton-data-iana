@@ -11,6 +11,9 @@ docid:
 - id: IANA ace/ace-profiles
   type: IANA
   primary: true
+- id: ACE/ACE-PROFILES
+  type: IANA
+  scope: anchor
 docnumber: ace/ace-profiles
 date:
 - type: created
