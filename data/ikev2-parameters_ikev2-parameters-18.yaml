@@ -11,8 +11,8 @@ docid:
 - id: IANA ikev2-parameters/ikev2-parameters-18
   type: IANA
   primary: true
-- id: IKEV2-PARAMETERS/IKEV2-PARAMETERS-18
-  type: IANA
+- id: IKEV2-PARAMETERS__IKEV2-PARAMETERS-18
+  type: IETF
   scope: anchor
 docnumber: ikev2-parameters/ikev2-parameters-18
 date:

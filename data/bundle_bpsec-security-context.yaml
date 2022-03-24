@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/bpsec-security-context
   type: IANA
   primary: true
-- id: BUNDLE/BPSEC-SECURITY-CONTEXT
-  type: IANA
+- id: BUNDLE__BPSEC-SECURITY-CONTEXT
+  type: IETF
   scope: anchor
 docnumber: bundle/bpsec-security-context
 date:

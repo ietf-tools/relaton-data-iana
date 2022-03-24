@@ -11,8 +11,8 @@ docid:
 - id: IANA dlep-parameters/ipv4-address-flags
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/IPV4-ADDRESS-FLAGS
-  type: IANA
+- id: DLEP-PARAMETERS__IPV4-ADDRESS-FLAGS
+  type: IETF
   scope: anchor
 docnumber: dlep-parameters/ipv4-address-flags
 date:

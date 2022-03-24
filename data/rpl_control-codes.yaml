@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/control-codes
   type: IANA
   primary: true
-- id: RPL/CONTROL-CODES
-  type: IANA
+- id: RPL__CONTROL-CODES
+  type: IETF
   scope: anchor
 docnumber: rpl/control-codes
 date:

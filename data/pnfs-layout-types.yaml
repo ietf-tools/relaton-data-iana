@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PNFS-LAYOUT-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pnfs-layout-types
 date:

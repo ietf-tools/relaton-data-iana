@@ -11,8 +11,8 @@ docid:
 - id: IANA aaa-parameters/aaa-parameters-1
   type: IANA
   primary: true
-- id: AAA-PARAMETERS/AAA-PARAMETERS-1
-  type: IANA
+- id: AAA-PARAMETERS__AAA-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: aaa-parameters/aaa-parameters-1
 date:

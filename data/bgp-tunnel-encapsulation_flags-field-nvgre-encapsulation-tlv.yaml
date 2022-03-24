@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-tunnel-encapsulation/flags-field-nvgre-encapsulation-tlv
   type: IANA
   primary: true
-- id: BGP-TUNNEL-ENCAPSULATION/FLAGS-FIELD-NVGRE-ENCAPSULATION-TLV
-  type: IANA
+- id: BGP-TUNNEL-ENCAPSULATION__FLAGS-FIELD-NVGRE-ENCAPSULATION-TLV
+  type: IETF
   scope: anchor
 docnumber: bgp-tunnel-encapsulation/flags-field-nvgre-encapsulation-tlv
 date:

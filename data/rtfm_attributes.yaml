@@ -11,8 +11,8 @@ docid:
 - id: IANA rtfm/attributes
   type: IANA
   primary: true
-- id: RTFM/ATTRIBUTES
-  type: IANA
+- id: RTFM__ATTRIBUTES
+  type: IETF
   scope: anchor
 docnumber: rtfm/attributes
 date:

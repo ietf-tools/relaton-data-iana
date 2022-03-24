@@ -11,8 +11,8 @@ docid:
 - id: IANA pkix-parameters/srv-protocol-labels
   type: IANA
   primary: true
-- id: PKIX-PARAMETERS/SRV-PROTOCOL-LABELS
-  type: IANA
+- id: PKIX-PARAMETERS__SRV-PROTOCOL-LABELS
+  type: IETF
   scope: anchor
 docnumber: pkix-parameters/srv-protocol-labels
 date:

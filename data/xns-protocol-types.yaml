@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: XNS-PROTOCOL-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: xns-protocol-types
 date:

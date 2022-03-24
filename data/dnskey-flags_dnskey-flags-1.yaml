@@ -11,8 +11,8 @@ docid:
 - id: IANA dnskey-flags/dnskey-flags-1
   type: IANA
   primary: true
-- id: DNSKEY-FLAGS/DNSKEY-FLAGS-1
-  type: IANA
+- id: DNSKEY-FLAGS__DNSKEY-FLAGS-1
+  type: IETF
   scope: anchor
 docnumber: dnskey-flags/dnskey-flags-1
 date:

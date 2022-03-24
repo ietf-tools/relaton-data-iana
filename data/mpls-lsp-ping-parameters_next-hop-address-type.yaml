@@ -11,8 +11,8 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/next-hop-address-type
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/NEXT-HOP-ADDRESS-TYPE
-  type: IANA
+- id: MPLS-LSP-PING-PARAMETERS__NEXT-HOP-ADDRESS-TYPE
+  type: IETF
   scope: anchor
 docnumber: mpls-lsp-ping-parameters/next-hop-address-type
 date:

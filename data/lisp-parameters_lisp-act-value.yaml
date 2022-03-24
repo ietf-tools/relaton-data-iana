@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-act-value
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-ACT-VALUE
-  type: IANA
+- id: LISP-PARAMETERS__LISP-ACT-VALUE
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-act-value
 date:

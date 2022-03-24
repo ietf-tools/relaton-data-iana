@@ -11,8 +11,8 @@ docid:
 - id: IANA ccnx/ccnx-hop-by-hop-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-HOP-BY-HOP-TYPES
-  type: IANA
+- id: CCNX__CCNX-HOP-BY-HOP-TYPES
+  type: IETF
   scope: anchor
 docnumber: ccnx/ccnx-hop-by-hop-types
 date:

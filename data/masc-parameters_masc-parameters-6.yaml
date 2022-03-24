@@ -11,8 +11,8 @@ docid:
 - id: IANA masc-parameters/masc-parameters-6
   type: IANA
   primary: true
-- id: MASC-PARAMETERS/MASC-PARAMETERS-6
-  type: IANA
+- id: MASC-PARAMETERS__MASC-PARAMETERS-6
+  type: IETF
   scope: anchor
 docnumber: masc-parameters/masc-parameters-6
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA rtspv2-parameters/status-codes
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/STATUS-CODES
-  type: IANA
+- id: RTSPV2-PARAMETERS__STATUS-CODES
+  type: IETF
   scope: anchor
 docnumber: rtspv2-parameters/status-codes
 date:

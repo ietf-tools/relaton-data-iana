@@ -11,8 +11,8 @@ docid:
 - id: IANA nsh/md-types
   type: IANA
   primary: true
-- id: NSH/MD-TYPES
-  type: IANA
+- id: NSH__MD-TYPES
+  type: IETF
   scope: anchor
 docnumber: nsh/md-types
 date:

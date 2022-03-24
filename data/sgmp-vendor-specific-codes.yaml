@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SGMP-VENDOR-SPECIFIC-CODES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sgmp-vendor-specific-codes
 date:

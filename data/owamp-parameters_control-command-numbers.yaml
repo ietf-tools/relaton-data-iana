@@ -11,8 +11,8 @@ docid:
 - id: IANA owamp-parameters/control-command-numbers
   type: IANA
   primary: true
-- id: OWAMP-PARAMETERS/CONTROL-COMMAND-NUMBERS
-  type: IANA
+- id: OWAMP-PARAMETERS__CONTROL-COMMAND-NUMBERS
+  type: IETF
   scope: anchor
 docnumber: owamp-parameters/control-command-numbers
 date:

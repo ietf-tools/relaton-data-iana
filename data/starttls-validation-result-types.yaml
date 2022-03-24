@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: STARTTLS-VALIDATION-RESULT-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: starttls-validation-result-types
 date:

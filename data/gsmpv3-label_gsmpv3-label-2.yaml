@@ -11,8 +11,8 @@ docid:
 - id: IANA gsmpv3-label/gsmpv3-label-2
   type: IANA
   primary: true
-- id: GSMPV3-LABEL/GSMPV3-LABEL-2
-  type: IANA
+- id: GSMPV3-LABEL__GSMPV3-LABEL-2
+  type: IETF
   scope: anchor
 docnumber: gsmpv3-label/gsmpv3-label-2
 date:

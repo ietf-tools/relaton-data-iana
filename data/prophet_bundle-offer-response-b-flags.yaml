@@ -11,8 +11,8 @@ docid:
 - id: IANA prophet/bundle-offer-response-b-flags
   type: IANA
   primary: true
-- id: PROPHET/BUNDLE-OFFER-RESPONSE-B-FLAGS
-  type: IANA
+- id: PROPHET__BUNDLE-OFFER-RESPONSE-B-FLAGS
+  type: IETF
   scope: anchor
 docnumber: prophet/bundle-offer-response-b-flags
 date:

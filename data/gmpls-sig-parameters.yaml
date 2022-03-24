@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GMPLS-SIG-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gmpls-sig-parameters
 date:

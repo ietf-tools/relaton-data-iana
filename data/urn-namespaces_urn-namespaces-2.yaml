@@ -11,8 +11,8 @@ docid:
 - id: IANA urn-namespaces/urn-namespaces-2
   type: IANA
   primary: true
-- id: URN-NAMESPACES/URN-NAMESPACES-2
-  type: IANA
+- id: URN-NAMESPACES__URN-NAMESPACES-2
+  type: IETF
   scope: anchor
 docnumber: urn-namespaces/urn-namespaces-2
 date:

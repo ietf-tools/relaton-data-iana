@@ -11,8 +11,8 @@ docid:
 - id: IANA tsig-algorithm-names/tsig-algorithm-names-1
   type: IANA
   primary: true
-- id: TSIG-ALGORITHM-NAMES/TSIG-ALGORITHM-NAMES-1
-  type: IANA
+- id: TSIG-ALGORITHM-NAMES__TSIG-ALGORITHM-NAMES-1
+  type: IETF
   scope: anchor
 docnumber: tsig-algorithm-names/tsig-algorithm-names-1
 date:

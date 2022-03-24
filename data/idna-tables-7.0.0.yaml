@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IDNA-TABLES-7.0.0
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: idna-tables-7.0.0
 date:

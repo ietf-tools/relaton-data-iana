@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ECML-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ecml-parameters
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA email-auth/property-types
   type: IANA
   primary: true
-- id: EMAIL-AUTH/PROPERTY-TYPES
-  type: IANA
+- id: EMAIL-AUTH__PROPERTY-TYPES
+  type: IETF
   scope: anchor
 docnumber: email-auth/property-types
 date:

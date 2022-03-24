@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-fast-parameters/eap-fast-parameters-7
   type: IANA
   primary: true
-- id: EAP-FAST-PARAMETERS/EAP-FAST-PARAMETERS-7
-  type: IANA
+- id: EAP-FAST-PARAMETERS__EAP-FAST-PARAMETERS-7
+  type: IETF
   scope: anchor
 docnumber: eap-fast-parameters/eap-fast-parameters-7
 date:

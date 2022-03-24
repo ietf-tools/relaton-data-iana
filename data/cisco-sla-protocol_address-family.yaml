@@ -11,8 +11,8 @@ docid:
 - id: IANA cisco-sla-protocol/address-family
   type: IANA
   primary: true
-- id: CISCO-SLA-PROTOCOL/ADDRESS-FAMILY
-  type: IANA
+- id: CISCO-SLA-PROTOCOL__ADDRESS-FAMILY
+  type: IETF
   scope: anchor
 docnumber: cisco-sla-protocol/address-family
 date:

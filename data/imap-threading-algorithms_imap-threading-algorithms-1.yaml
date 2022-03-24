@@ -11,8 +11,8 @@ docid:
 - id: IANA imap-threading-algorithms/imap-threading-algorithms-1
   type: IANA
   primary: true
-- id: IMAP-THREADING-ALGORITHMS/IMAP-THREADING-ALGORITHMS-1
-  type: IANA
+- id: IMAP-THREADING-ALGORITHMS__IMAP-THREADING-ALGORITHMS-1
+  type: IETF
   scope: anchor
 docnumber: imap-threading-algorithms/imap-threading-algorithms-1
 date:

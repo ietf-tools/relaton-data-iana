@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RSERPOOL-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rserpool-parameters
 date:

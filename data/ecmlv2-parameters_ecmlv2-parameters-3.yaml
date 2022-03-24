@@ -11,8 +11,8 @@ docid:
 - id: IANA ecmlv2-parameters/ecmlv2-parameters-3
   type: IANA
   primary: true
-- id: ECMLV2-PARAMETERS/ECMLV2-PARAMETERS-3
-  type: IANA
+- id: ECMLV2-PARAMETERS__ECMLV2-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: ecmlv2-parameters/ecmlv2-parameters-3
 date:

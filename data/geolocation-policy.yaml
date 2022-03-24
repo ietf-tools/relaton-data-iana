@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GEOLOCATION-POLICY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: geolocation-policy
 date:

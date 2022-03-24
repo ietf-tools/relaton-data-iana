@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/proc-time-object
   type: IANA
   primary: true
-- id: PCEP/PROC-TIME-OBJECT
-  type: IANA
+- id: PCEP__PROC-TIME-OBJECT
+  type: IETF
   scope: anchor
 docnumber: pcep/proc-time-object
 date:

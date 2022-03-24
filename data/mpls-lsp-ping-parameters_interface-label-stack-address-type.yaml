@@ -12,8 +12,8 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/interface-label-stack-address-type
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/INTERFACE-LABEL-STACK-ADDRESS-TYPE
-  type: IANA
+- id: MPLS-LSP-PING-PARAMETERS__INTERFACE-LABEL-STACK-ADDRESS-TYPE
+  type: IETF
   scope: anchor
 docnumber: mpls-lsp-ping-parameters/interface-label-stack-address-type
 date:

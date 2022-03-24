@@ -11,8 +11,8 @@ docid:
 - id: IANA spf-parameters/spf-parameters-modifier-names
   type: IANA
   primary: true
-- id: SPF-PARAMETERS/SPF-PARAMETERS-MODIFIER-NAMES
-  type: IANA
+- id: SPF-PARAMETERS__SPF-PARAMETERS-MODIFIER-NAMES
+  type: IETF
   scope: anchor
 docnumber: spf-parameters/spf-parameters-modifier-names
 date:

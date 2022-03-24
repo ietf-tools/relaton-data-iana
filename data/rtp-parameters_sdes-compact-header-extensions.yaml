@@ -11,8 +11,8 @@ docid:
 - id: IANA rtp-parameters/sdes-compact-header-extensions
   type: IANA
   primary: true
-- id: RTP-PARAMETERS/SDES-COMPACT-HEADER-EXTENSIONS
-  type: IANA
+- id: RTP-PARAMETERS__SDES-COMPACT-HEADER-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: rtp-parameters/sdes-compact-header-extensions
 date:

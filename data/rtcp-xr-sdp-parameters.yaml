@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: RTCP-XR-SDP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rtcp-xr-sdp-parameters
 date:

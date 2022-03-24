@@ -11,8 +11,8 @@ docid:
 - id: IANA isis-tlv-codepoints/tlv-238
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/TLV-238
-  type: IANA
+- id: ISIS-TLV-CODEPOINTS__TLV-238
+  type: IETF
   scope: anchor
 docnumber: isis-tlv-codepoints/tlv-238
 date:

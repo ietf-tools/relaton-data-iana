@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: PROPHET
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: prophet
 date:

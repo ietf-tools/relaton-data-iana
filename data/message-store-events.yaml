@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MESSAGE-STORE-EVENTS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: message-store-events
 date:

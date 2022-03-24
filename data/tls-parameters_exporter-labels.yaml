@@ -11,8 +11,8 @@ docid:
 - id: IANA tls-parameters/exporter-labels
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/EXPORTER-LABELS
-  type: IANA
+- id: TLS-PARAMETERS__EXPORTER-LABELS
+  type: IETF
   scope: anchor
 docnumber: tls-parameters/exporter-labels
 date:

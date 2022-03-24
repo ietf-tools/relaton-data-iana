@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RPCBIND-TRANSPORT-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rpcbind-transport-parameters
 date:

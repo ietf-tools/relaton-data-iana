@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LINK-RELATIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: link-relations
 date:

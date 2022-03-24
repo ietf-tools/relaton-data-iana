@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/rpl-target-option-flags
   type: IANA
   primary: true
-- id: RPL/RPL-TARGET-OPTION-FLAGS
-  type: IANA
+- id: RPL__RPL-TARGET-OPTION-FLAGS
+  type: IETF
   scope: anchor
 docnumber: rpl/rpl-target-option-flags
 date:

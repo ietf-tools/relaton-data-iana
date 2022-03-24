@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/ntp-time-source
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/NTP-TIME-SOURCE
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__NTP-TIME-SOURCE
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/ntp-time-source
 date:

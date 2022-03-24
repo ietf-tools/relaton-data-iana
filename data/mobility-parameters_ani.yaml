@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/ani
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/ANI
-  type: IANA
+- id: MOBILITY-PARAMETERS__ANI
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/ani
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: YANG-GEOGRAPHIC-LOCATION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: yang-geographic-location
 date:

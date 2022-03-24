@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GIST-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gist-parameters
 date:

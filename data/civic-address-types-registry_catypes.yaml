@@ -11,8 +11,8 @@ docid:
 - id: IANA civic-address-types-registry/catypes
   type: IANA
   primary: true
-- id: CIVIC-ADDRESS-TYPES-REGISTRY/CATYPES
-  type: IANA
+- id: CIVIC-ADDRESS-TYPES-REGISTRY__CATYPES
+  type: IETF
   scope: anchor
 docnumber: civic-address-types-registry/catypes
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IP-XNS-MAPPING
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ip-xns-mapping
 date:

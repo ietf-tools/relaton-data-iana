@@ -11,8 +11,8 @@ docid:
 - id: IANA keytable/kdf
   type: IANA
   primary: true
-- id: KEYTABLE/KDF
-  type: IANA
+- id: KEYTABLE__KDF
+  type: IETF
   scope: anchor
 docnumber: keytable/kdf
 date:

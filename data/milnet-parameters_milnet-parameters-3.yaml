@@ -11,8 +11,8 @@ docid:
 - id: IANA milnet-parameters/milnet-parameters-3
   type: IANA
   primary: true
-- id: MILNET-PARAMETERS/MILNET-PARAMETERS-3
-  type: IANA
+- id: MILNET-PARAMETERS__MILNET-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: milnet-parameters/milnet-parameters-3
 date:

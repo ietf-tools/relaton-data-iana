@@ -11,8 +11,8 @@ docid:
 - id: IANA rtspv2-parameters/transport-protocol-id
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/TRANSPORT-PROTOCOL-ID
-  type: IANA
+- id: RTSPV2-PARAMETERS__TRANSPORT-PROTOCOL-ID
+  type: IETF
   scope: anchor
 docnumber: rtspv2-parameters/transport-protocol-id
 date:

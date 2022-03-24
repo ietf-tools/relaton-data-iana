@@ -11,8 +11,8 @@ docid:
 - id: IANA gmpls-sig-parameters/gmpls-sig-parameters-9
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/GMPLS-SIG-PARAMETERS-9
-  type: IANA
+- id: GMPLS-SIG-PARAMETERS__GMPLS-SIG-PARAMETERS-9
+  type: IETF
   scope: anchor
 docnumber: gmpls-sig-parameters/gmpls-sig-parameters-9
 date:

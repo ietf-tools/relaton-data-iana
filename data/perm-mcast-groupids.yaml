@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PERM-MCAST-GROUPIDS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: perm-mcast-groupids
 date:

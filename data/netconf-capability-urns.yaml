@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NETCONF-CAPABILITY-URNS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: netconf-capability-urns
 date:

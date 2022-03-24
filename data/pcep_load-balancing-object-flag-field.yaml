@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/load-balancing-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/LOAD-BALANCING-OBJECT-FLAG-FIELD
-  type: IANA
+- id: PCEP__LOAD-BALANCING-OBJECT-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/load-balancing-object-flag-field
 date:

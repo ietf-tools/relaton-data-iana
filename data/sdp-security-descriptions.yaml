@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SDP-SECURITY-DESCRIPTIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sdp-security-descriptions
 date:

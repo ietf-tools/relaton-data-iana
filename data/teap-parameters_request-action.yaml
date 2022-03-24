@@ -11,8 +11,8 @@ docid:
 - id: IANA teap-parameters/request-action
   type: IANA
   primary: true
-- id: TEAP-PARAMETERS/REQUEST-ACTION
-  type: IANA
+- id: TEAP-PARAMETERS__REQUEST-ACTION
+  type: IETF
   scope: anchor
 docnumber: teap-parameters/request-action
 date:

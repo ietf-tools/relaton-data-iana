@@ -11,8 +11,8 @@ docid:
 - id: IANA dane-parameters/selectors
   type: IANA
   primary: true
-- id: DANE-PARAMETERS/SELECTORS
-  type: IANA
+- id: DANE-PARAMETERS__SELECTORS
+  type: IETF
   scope: anchor
 docnumber: dane-parameters/selectors
 date:

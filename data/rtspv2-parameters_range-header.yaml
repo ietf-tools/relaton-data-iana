@@ -11,8 +11,8 @@ docid:
 - id: IANA rtspv2-parameters/range-header
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/RANGE-HEADER
-  type: IANA
+- id: RTSPV2-PARAMETERS__RANGE-HEADER
+  type: IETF
   scope: anchor
 docnumber: rtspv2-parameters/range-header
 date:

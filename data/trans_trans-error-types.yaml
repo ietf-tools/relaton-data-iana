@@ -11,8 +11,8 @@ docid:
 - id: IANA trans/trans-error-types
   type: IANA
   primary: true
-- id: TRANS/TRANS-ERROR-TYPES
-  type: IANA
+- id: TRANS__TRANS-ERROR-TYPES
+  type: IETF
   scope: anchor
 docnumber: trans/trans-error-types
 date:

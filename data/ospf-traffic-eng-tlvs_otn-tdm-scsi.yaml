@@ -11,8 +11,8 @@ docid:
 - id: IANA ospf-traffic-eng-tlvs/otn-tdm-scsi
   type: IANA
   primary: true
-- id: OSPF-TRAFFIC-ENG-TLVS/OTN-TDM-SCSI
-  type: IANA
+- id: OSPF-TRAFFIC-ENG-TLVS__OTN-TDM-SCSI
+  type: IETF
   scope: anchor
 docnumber: ospf-traffic-eng-tlvs/otn-tdm-scsi
 date:

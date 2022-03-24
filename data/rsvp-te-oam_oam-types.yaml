@@ -11,8 +11,8 @@ docid:
 - id: IANA rsvp-te-oam/oam-types
   type: IANA
   primary: true
-- id: RSVP-TE-OAM/OAM-TYPES
-  type: IANA
+- id: RSVP-TE-OAM__OAM-TYPES
+  type: IETF
   scope: anchor
 docnumber: rsvp-te-oam/oam-types
 date:

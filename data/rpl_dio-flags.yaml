@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/dio-flags
   type: IANA
   primary: true
-- id: RPL/DIO-FLAGS
-  type: IANA
+- id: RPL__DIO-FLAGS
+  type: IETF
   scope: anchor
 docnumber: rpl/dio-flags
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA core-parameters/codes
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/CODES
-  type: IANA
+- id: CORE-PARAMETERS__CODES
+  type: IETF
   scope: anchor
 docnumber: core-parameters/codes
 date:

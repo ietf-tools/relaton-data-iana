@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/xro-subobject
   type: IANA
   primary: true
-- id: PCEP/XRO-SUBOBJECT
-  type: IANA
+- id: PCEP__XRO-SUBOBJECT
+  type: IETF
   scope: anchor
 docnumber: pcep/xro-subobject
 date:

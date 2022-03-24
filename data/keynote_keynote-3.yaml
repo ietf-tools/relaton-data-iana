@@ -11,8 +11,8 @@ docid:
 - id: IANA keynote/keynote-3
   type: IANA
   primary: true
-- id: KEYNOTE/KEYNOTE-3
-  type: IANA
+- id: KEYNOTE__KEYNOTE-3
+  type: IETF
   scope: anchor
 docnumber: keynote/keynote-3
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA mdn/disp-mod
   type: IANA
   primary: true
-- id: MDN/DISP-MOD
-  type: IANA
+- id: MDN__DISP-MOD
+  type: IETF
   scope: anchor
 docnumber: mdn/disp-mod
 date:

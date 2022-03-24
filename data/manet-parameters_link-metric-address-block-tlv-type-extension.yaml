@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/link-metric-address-block-tlv-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/LINK-METRIC-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
-  type: IANA
+- id: MANET-PARAMETERS__LINK-METRIC-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/link-metric-address-block-tlv-type-extension
 date:

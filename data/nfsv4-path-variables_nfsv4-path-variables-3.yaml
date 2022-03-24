@@ -11,8 +11,8 @@ docid:
 - id: IANA nfsv4-path-variables/nfsv4-path-variables-3
   type: IANA
   primary: true
-- id: NFSV4-PATH-VARIABLES/NFSV4-PATH-VARIABLES-3
-  type: IANA
+- id: NFSV4-PATH-VARIABLES__NFSV4-PATH-VARIABLES-3
+  type: IETF
   scope: anchor
 docnumber: nfsv4-path-variables/nfsv4-path-variables-3
 date:

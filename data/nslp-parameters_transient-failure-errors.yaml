@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/transient-failure-errors
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/TRANSIENT-FAILURE-ERRORS
-  type: IANA
+- id: NSLP-PARAMETERS__TRANSIENT-FAILURE-ERRORS
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/transient-failure-errors
 date:

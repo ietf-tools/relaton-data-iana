@@ -11,8 +11,8 @@ docid:
 - id: IANA shim6/options
   type: IANA
   primary: true
-- id: SHIM6/OPTIONS
-  type: IANA
+- id: SHIM6__OPTIONS
+  type: IETF
   scope: anchor
 docnumber: shim6/options
 date:

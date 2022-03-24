@@ -11,8 +11,8 @@ docid:
 - id: IANA sip-parameters/uui-encoding
   type: IANA
   primary: true
-- id: SIP-PARAMETERS/UUI-ENCODING
-  type: IANA
+- id: SIP-PARAMETERS__UUI-ENCODING
+  type: IETF
   scope: anchor
 docnumber: sip-parameters/uui-encoding
 date:

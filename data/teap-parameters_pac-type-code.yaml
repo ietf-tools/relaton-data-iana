@@ -11,8 +11,8 @@ docid:
 - id: IANA teap-parameters/pac-type-code
   type: IANA
   primary: true
-- id: TEAP-PARAMETERS/PAC-TYPE-CODE
-  type: IANA
+- id: TEAP-PARAMETERS__PAC-TYPE-CODE
+  type: IETF
   scope: anchor
 docnumber: teap-parameters/pac-type-code
 date:

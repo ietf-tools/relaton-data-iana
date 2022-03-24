@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/participation-roles
   type: IANA
   primary: true
-- id: ICALENDAR/PARTICIPATION-ROLES
-  type: IANA
+- id: ICALENDAR__PARTICIPATION-ROLES
+  type: IETF
   scope: anchor
 docnumber: icalendar/participation-roles
 date:

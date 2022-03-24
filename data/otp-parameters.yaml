@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OTP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: otp-parameters
 date:

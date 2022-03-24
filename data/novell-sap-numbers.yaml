@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NOVELL-SAP-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: novell-sap-numbers
 date:

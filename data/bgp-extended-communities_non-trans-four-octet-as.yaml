@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-extended-communities/non-trans-four-octet-as
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/NON-TRANS-FOUR-OCTET-AS
-  type: IANA
+- id: BGP-EXTENDED-COMMUNITIES__NON-TRANS-FOUR-OCTET-AS
+  type: IETF
   scope: anchor
 docnumber: bgp-extended-communities/non-trans-four-octet-as
 date:

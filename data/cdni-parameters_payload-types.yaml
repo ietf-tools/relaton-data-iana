@@ -11,8 +11,8 @@ docid:
 - id: IANA cdni-parameters/payload-types
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/PAYLOAD-TYPES
-  type: IANA
+- id: CDNI-PARAMETERS__PAYLOAD-TYPES
+  type: IETF
   scope: anchor
 docnumber: cdni-parameters/payload-types
 date:

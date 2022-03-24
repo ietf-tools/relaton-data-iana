@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: FLUTE-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: flute-parameters
 date:

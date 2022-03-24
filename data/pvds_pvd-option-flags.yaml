@@ -11,8 +11,8 @@ docid:
 - id: IANA pvds/pvd-option-flags
   type: IANA
   primary: true
-- id: PVDS/PVD-OPTION-FLAGS
-  type: IANA
+- id: PVDS__PVD-OPTION-FLAGS
+  type: IETF
   scope: anchor
 docnumber: pvds/pvd-option-flags
 date:

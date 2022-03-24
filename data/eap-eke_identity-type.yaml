@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-eke/identity-type
   type: IANA
   primary: true
-- id: EAP-EKE/IDENTITY-TYPE
-  type: IANA
+- id: EAP-EKE__IDENTITY-TYPE
+  type: IETF
   scope: anchor
 docnumber: eap-eke/identity-type
 date:

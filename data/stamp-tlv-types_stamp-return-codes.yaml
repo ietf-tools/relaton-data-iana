@@ -11,8 +11,8 @@ docid:
 - id: IANA stamp-tlv-types/stamp-return-codes
   type: IANA
   primary: true
-- id: STAMP-TLV-TYPES/STAMP-RETURN-CODES
-  type: IANA
+- id: STAMP-TLV-TYPES__STAMP-RETURN-CODES
+  type: IETF
   scope: anchor
 docnumber: stamp-tlv-types/stamp-return-codes
 date:

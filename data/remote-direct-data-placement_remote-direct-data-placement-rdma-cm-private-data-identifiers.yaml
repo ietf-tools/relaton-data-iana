@@ -11,8 +11,8 @@ docid:
 - id: IANA remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers
   type: IANA
   primary: true
-- id: REMOTE-DIRECT-DATA-PLACEMENT/REMOTE-DIRECT-DATA-PLACEMENT-RDMA-CM-PRIVATE-DATA-IDENTIFIERS
-  type: IANA
+- id: REMOTE-DIRECT-DATA-PLACEMENT__REMOTE-DIRECT-DATA-PLACEMENT-RDMA-CM-PRIVATE-DATA-IDENTIFIERS
+  type: IETF
   scope: anchor
 docnumber: remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers
 date:

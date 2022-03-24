@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: URLAUTH-ACCESS-IDS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: urlauth-access-ids
 date:

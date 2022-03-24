@@ -11,8 +11,8 @@ docid:
 - id: IANA cbor-tags/tags
   type: IANA
   primary: true
-- id: CBOR-TAGS/TAGS
-  type: IANA
+- id: CBOR-TAGS__TAGS
+  type: IETF
   scope: anchor
 docnumber: cbor-tags/tags
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/binding-revocation-status-codes
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/BINDING-REVOCATION-STATUS-CODES
-  type: IANA
+- id: MOBILITY-PARAMETERS__BINDING-REVOCATION-STATUS-CODES
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/binding-revocation-status-codes
 date:

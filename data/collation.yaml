@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: COLLATION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: collation
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANA-AS-NUMBERS-SPECIAL-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: iana-as-numbers-special-registry
 date:

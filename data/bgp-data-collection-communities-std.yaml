@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: BGP-DATA-COLLECTION-COMMUNITIES-STD
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: bgp-data-collection-communities-std
 date:

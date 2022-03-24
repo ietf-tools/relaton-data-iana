@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/type-63-sub-options
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/TYPE-63-SUB-OPTIONS
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__TYPE-63-SUB-OPTIONS
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/type-63-sub-options
 date:

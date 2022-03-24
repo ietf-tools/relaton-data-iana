@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-error-types
   type: IANA
   primary: true
-- id: ACME/ACME-ERROR-TYPES
-  type: IANA
+- id: ACME__ACME-ERROR-TYPES
+  type: IETF
   scope: anchor
 docnumber: acme/acme-error-types
 date:

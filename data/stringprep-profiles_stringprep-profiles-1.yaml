@@ -11,8 +11,8 @@ docid:
 - id: IANA stringprep-profiles/stringprep-profiles-1
   type: IANA
   primary: true
-- id: STRINGPREP-PROFILES/STRINGPREP-PROFILES-1
-  type: IANA
+- id: STRINGPREP-PROFILES__STRINGPREP-PROFILES-1
+  type: IETF
   scope: anchor
 docnumber: stringprep-profiles/stringprep-profiles-1
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA vcard-elements/parameters
   type: IANA
   primary: true
-- id: VCARD-ELEMENTS/PARAMETERS
-  type: IANA
+- id: VCARD-ELEMENTS__PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: vcard-elements/parameters
 date:

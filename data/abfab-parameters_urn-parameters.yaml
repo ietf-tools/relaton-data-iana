@@ -11,8 +11,8 @@ docid:
 - id: IANA abfab-parameters/urn-parameters
   type: IANA
   primary: true
-- id: ABFAB-PARAMETERS/URN-PARAMETERS
-  type: IANA
+- id: ABFAB-PARAMETERS__URN-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: abfab-parameters/urn-parameters
 date:

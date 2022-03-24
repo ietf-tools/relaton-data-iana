@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: REMOTE-DIRECT-DATA-PLACEMENT
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: remote-direct-data-placement
 date:

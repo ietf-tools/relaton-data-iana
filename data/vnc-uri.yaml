@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: VNC-URI
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: vnc-uri
 date:

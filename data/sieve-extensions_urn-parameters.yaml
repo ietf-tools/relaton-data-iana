@@ -11,8 +11,8 @@ docid:
 - id: IANA sieve-extensions/urn-parameters
   type: IANA
   primary: true
-- id: SIEVE-EXTENSIONS/URN-PARAMETERS
-  type: IANA
+- id: SIEVE-EXTENSIONS__URN-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: sieve-extensions/urn-parameters
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/flowspec-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/FLOWSPEC-OBJECT-FLAG-FIELD
-  type: IANA
+- id: PCEP__FLOWSPEC-OBJECT-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/flowspec-object-flag-field
 date:

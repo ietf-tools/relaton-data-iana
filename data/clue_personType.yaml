@@ -11,8 +11,8 @@ docid:
 - id: IANA clue/personType
   type: IANA
   primary: true
-- id: CLUE/PERSONTYPE
-  type: IANA
+- id: CLUE__PERSONTYPE
+  type: IETF
   scope: anchor
 docnumber: clue/personType
 date:

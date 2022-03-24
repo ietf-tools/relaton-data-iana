@@ -11,8 +11,8 @@ docid:
 - id: IANA power-state-sets/eman
   type: IANA
   primary: true
-- id: POWER-STATE-SETS/EMAN
-  type: IANA
+- id: POWER-STATE-SETS__EMAN
+  type: IETF
   scope: anchor
 docnumber: power-state-sets/eman
 date:

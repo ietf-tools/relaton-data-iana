@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MEDIA-TYPE-SUB-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: media-type-sub-parameters
 date:

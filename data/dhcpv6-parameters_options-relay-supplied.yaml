@@ -11,8 +11,8 @@ docid:
 - id: IANA dhcpv6-parameters/options-relay-supplied
   type: IANA
   primary: true
-- id: DHCPV6-PARAMETERS/OPTIONS-RELAY-SUPPLIED
-  type: IANA
+- id: DHCPV6-PARAMETERS__OPTIONS-RELAY-SUPPLIED
+  type: IETF
   scope: anchor
 docnumber: dhcpv6-parameters/options-relay-supplied
 date:

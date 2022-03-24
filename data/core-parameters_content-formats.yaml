@@ -11,8 +11,8 @@ docid:
 - id: IANA core-parameters/content-formats
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/CONTENT-FORMATS
-  type: IANA
+- id: CORE-PARAMETERS__CONTENT-FORMATS
+  type: IETF
   scope: anchor
 docnumber: core-parameters/content-formats
 date:

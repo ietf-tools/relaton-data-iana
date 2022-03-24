@@ -11,8 +11,8 @@ docid:
 - id: IANA mail-parameters/mail-parameters-10
   type: IANA
   primary: true
-- id: MAIL-PARAMETERS/MAIL-PARAMETERS-10
-  type: IANA
+- id: MAIL-PARAMETERS__MAIL-PARAMETERS-10
+  type: IETF
   scope: anchor
 docnumber: mail-parameters/mail-parameters-10
 date:

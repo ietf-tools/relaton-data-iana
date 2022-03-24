@@ -11,8 +11,8 @@ docid:
 - id: IANA http-alt-svc-parameters/alt-svc-parameters
   type: IANA
   primary: true
-- id: HTTP-ALT-SVC-PARAMETERS/ALT-SVC-PARAMETERS
-  type: IANA
+- id: HTTP-ALT-SVC-PARAMETERS__ALT-SVC-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: http-alt-svc-parameters/alt-svc-parameters
 date:

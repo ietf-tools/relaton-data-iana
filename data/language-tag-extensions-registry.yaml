@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LANGUAGE-TAG-EXTENSIONS-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: language-tag-extensions-registry
 contributor:

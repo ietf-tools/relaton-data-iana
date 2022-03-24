@@ -11,8 +11,8 @@ docid:
 - id: IANA hip-parameters/hip-cipher-id
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HIP-CIPHER-ID
-  type: IANA
+- id: HIP-PARAMETERS__HIP-CIPHER-ID
+  type: IETF
   scope: anchor
 docnumber: hip-parameters/hip-cipher-id
 date:

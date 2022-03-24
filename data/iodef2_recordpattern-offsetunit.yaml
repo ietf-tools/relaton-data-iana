@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/recordpattern-offsetunit
   type: IANA
   primary: true
-- id: IODEF2/RECORDPATTERN-OFFSETUNIT
-  type: IANA
+- id: IODEF2__RECORDPATTERN-OFFSETUNIT
+  type: IETF
   scope: anchor
 docnumber: iodef2/recordpattern-offsetunit
 date:

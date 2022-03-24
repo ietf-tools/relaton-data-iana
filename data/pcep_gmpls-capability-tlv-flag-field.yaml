@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/gmpls-capability-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/GMPLS-CAPABILITY-TLV-FLAG-FIELD
-  type: IANA
+- id: PCEP__GMPLS-CAPABILITY-TLV-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/gmpls-capability-tlv-flag-field
 date:

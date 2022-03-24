@@ -11,8 +11,8 @@ docid:
 - id: IANA jose/web-signature-encryption-header-parameters
   type: IANA
   primary: true
-- id: JOSE/WEB-SIGNATURE-ENCRYPTION-HEADER-PARAMETERS
-  type: IANA
+- id: JOSE__WEB-SIGNATURE-ENCRYPTION-HEADER-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: jose/web-signature-encryption-header-parameters
 date:

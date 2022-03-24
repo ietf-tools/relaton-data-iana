@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TELNET-OPTIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: telnet-options
 date:

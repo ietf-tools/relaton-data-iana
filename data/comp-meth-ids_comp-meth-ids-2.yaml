@@ -11,8 +11,8 @@ docid:
 - id: IANA comp-meth-ids/comp-meth-ids-2
   type: IANA
   primary: true
-- id: COMP-METH-IDS/COMP-METH-IDS-2
-  type: IANA
+- id: COMP-METH-IDS__COMP-METH-IDS-2
+  type: IETF
   scope: anchor
 docnumber: comp-meth-ids/comp-meth-ids-2
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA shim6/types
   type: IANA
   primary: true
-- id: SHIM6/TYPES
-  type: IANA
+- id: SHIM6__TYPES
+  type: IETF
   scope: anchor
 docnumber: shim6/types
 date:

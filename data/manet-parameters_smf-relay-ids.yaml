@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/smf-relay-ids
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/SMF-RELAY-IDS
-  type: IANA
+- id: MANET-PARAMETERS__SMF-RELAY-IDS
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/smf-relay-ids
 date:

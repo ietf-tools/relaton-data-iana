@@ -11,8 +11,8 @@ docid:
 - id: IANA oauth-parameters/uri
   type: IANA
   primary: true
-- id: OAUTH-PARAMETERS/URI
-  type: IANA
+- id: OAUTH-PARAMETERS__URI
+  type: IETF
   scope: anchor
 docnumber: oauth-parameters/uri
 date:

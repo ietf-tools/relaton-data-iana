@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: SIP-TABLE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sip-table
 date:

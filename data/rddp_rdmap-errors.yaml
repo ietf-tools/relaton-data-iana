@@ -11,8 +11,8 @@ docid:
 - id: IANA rddp/rdmap-errors
   type: IANA
   primary: true
-- id: RDDP/RDMAP-ERRORS
-  type: IANA
+- id: RDDP__RDMAP-ERRORS
+  type: IETF
   scope: anchor
 docnumber: rddp/rdmap-errors
 date:

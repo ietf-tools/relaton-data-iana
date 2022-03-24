@@ -12,8 +12,8 @@ docid:
 - id: IANA telnet-options/telnet-options-17
   type: IANA
   primary: true
-- id: TELNET-OPTIONS/TELNET-OPTIONS-17
-  type: IANA
+- id: TELNET-OPTIONS__TELNET-OPTIONS-17
+  type: IETF
   scope: anchor
 docnumber: telnet-options/telnet-options-17
 date:

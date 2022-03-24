@@ -11,8 +11,8 @@ docid:
 - id: IANA eapsimaka-numbers/eapsimaka-numbers-2
   type: IANA
   primary: true
-- id: EAPSIMAKA-NUMBERS/EAPSIMAKA-NUMBERS-2
-  type: IANA
+- id: EAPSIMAKA-NUMBERS__EAPSIMAKA-NUMBERS-2
+  type: IETF
   scope: anchor
 docnumber: eapsimaka-numbers/eapsimaka-numbers-2
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA rsvp-te-oam/bfd-sub-tlvs
   type: IANA
   primary: true
-- id: RSVP-TE-OAM/BFD-SUB-TLVS
-  type: IANA
+- id: RSVP-TE-OAM__BFD-SUB-TLVS
+  type: IETF
   scope: anchor
 docnumber: rsvp-te-oam/bfd-sub-tlvs
 date:

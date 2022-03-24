@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: KEYNOTE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: keynote
 date:

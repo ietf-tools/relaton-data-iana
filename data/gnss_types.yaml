@@ -11,8 +11,8 @@ docid:
 - id: IANA gnss/types
   type: IANA
   primary: true
-- id: GNSS/TYPES
-  type: IANA
+- id: GNSS__TYPES
+  type: IETF
   scope: anchor
 docnumber: gnss/types
 date:

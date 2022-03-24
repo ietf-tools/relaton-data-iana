@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/disjointness-configuration-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/DISJOINTNESS-CONFIGURATION-TLV-FLAG-FIELD
-  type: IANA
+- id: PCEP__DISJOINTNESS-CONFIGURATION-TLV-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/disjointness-configuration-tlv-flag-field
 date:

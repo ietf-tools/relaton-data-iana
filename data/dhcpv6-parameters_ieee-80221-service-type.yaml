@@ -11,8 +11,8 @@ docid:
 - id: IANA dhcpv6-parameters/ieee-80221-service-type
   type: IANA
   primary: true
-- id: DHCPV6-PARAMETERS/IEEE-80221-SERVICE-TYPE
-  type: IANA
+- id: DHCPV6-PARAMETERS__IEEE-80221-SERVICE-TYPE
+  type: IETF
   scope: anchor
 docnumber: dhcpv6-parameters/ieee-80221-service-type
 date:

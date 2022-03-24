@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ECMLV2-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ecmlv2-parameters
 date:

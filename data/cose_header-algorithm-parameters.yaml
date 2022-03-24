@@ -11,8 +11,8 @@ docid:
 - id: IANA cose/header-algorithm-parameters
   type: IANA
   primary: true
-- id: COSE/HEADER-ALGORITHM-PARAMETERS
-  type: IANA
+- id: COSE__HEADER-ALGORITHM-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: cose/header-algorithm-parameters
 date:

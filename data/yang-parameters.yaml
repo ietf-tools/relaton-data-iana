@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: YANG-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: yang-parameters
 date:

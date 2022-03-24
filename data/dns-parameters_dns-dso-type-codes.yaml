@@ -11,8 +11,8 @@ docid:
 - id: IANA dns-parameters/dns-dso-type-codes
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/DNS-DSO-TYPE-CODES
-  type: IANA
+- id: DNS-PARAMETERS__DNS-DSO-TYPE-CODES
+  type: IETF
   scope: anchor
 docnumber: dns-parameters/dns-dso-type-codes
 date:

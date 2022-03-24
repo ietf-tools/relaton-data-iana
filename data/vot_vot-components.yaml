@@ -11,8 +11,8 @@ docid:
 - id: IANA vot/vot-components
   type: IANA
   primary: true
-- id: VOT/VOT-COMPONENTS
-  type: IANA
+- id: VOT__VOT-COMPONENTS
+  type: IETF
   scope: anchor
 docnumber: vot/vot-components
 date:

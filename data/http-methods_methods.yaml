@@ -11,8 +11,8 @@ docid:
 - id: IANA http-methods/methods
   type: IANA
   primary: true
-- id: HTTP-METHODS/METHODS
-  type: IANA
+- id: HTTP-METHODS__METHODS
+  type: IETF
   scope: anchor
 docnumber: http-methods/methods
 date:

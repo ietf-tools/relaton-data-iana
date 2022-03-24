@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: EPP-REPOSITORY-IDS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: epp-repository-ids
 date:

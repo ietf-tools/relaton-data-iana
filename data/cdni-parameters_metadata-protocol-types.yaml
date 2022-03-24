@@ -11,8 +11,8 @@ docid:
 - id: IANA cdni-parameters/metadata-protocol-types
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/METADATA-PROTOCOL-TYPES
-  type: IANA
+- id: CDNI-PARAMETERS__METADATA-PROTOCOL-TYPES
+  type: IETF
   scope: anchor
 docnumber: cdni-parameters/metadata-protocol-types
 date:

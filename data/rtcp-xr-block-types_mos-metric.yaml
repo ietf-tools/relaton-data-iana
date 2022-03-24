@@ -11,8 +11,8 @@ docid:
 - id: IANA rtcp-xr-block-types/mos-metric
   type: IANA
   primary: true
-- id: RTCP-XR-BLOCK-TYPES/MOS-METRIC
-  type: IANA
+- id: RTCP-XR-BLOCK-TYPES__MOS-METRIC
+  type: IETF
   scope: anchor
 docnumber: rtcp-xr-block-types/mos-metric
 date:

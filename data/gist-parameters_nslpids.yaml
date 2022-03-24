@@ -11,8 +11,8 @@ docid:
 - id: IANA gist-parameters/nslpids
   type: IANA
   primary: true
-- id: GIST-PARAMETERS/NSLPIDS
-  type: IANA
+- id: GIST-PARAMETERS__NSLPIDS
+  type: IETF
   scope: anchor
 docnumber: gist-parameters/nslpids
 date:

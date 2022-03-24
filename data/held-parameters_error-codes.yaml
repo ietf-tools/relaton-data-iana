@@ -11,8 +11,8 @@ docid:
 - id: IANA held-parameters/error-codes
   type: IANA
   primary: true
-- id: HELD-PARAMETERS/ERROR-CODES
-  type: IANA
+- id: HELD-PARAMETERS__ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: held-parameters/error-codes
 date:

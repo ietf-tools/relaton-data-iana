@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IP-OVER-IEEE1394
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ip-over-IEEE1394
 date:

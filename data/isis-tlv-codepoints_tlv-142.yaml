@@ -11,8 +11,8 @@ docid:
 - id: IANA isis-tlv-codepoints/tlv-142
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/TLV-142
-  type: IANA
+- id: ISIS-TLV-CODEPOINTS__TLV-142
+  type: IETF
   scope: anchor
 docnumber: isis-tlv-codepoints/tlv-142
 date:

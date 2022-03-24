@@ -11,8 +11,8 @@ docid:
 - id: IANA imap-annotate-extension/imap-annotate-extension-attributes
   type: IANA
   primary: true
-- id: IMAP-ANNOTATE-EXTENSION/IMAP-ANNOTATE-EXTENSION-ATTRIBUTES
-  type: IANA
+- id: IMAP-ANNOTATE-EXTENSION__IMAP-ANNOTATE-EXTENSION-ATTRIBUTES
+  type: IETF
   scope: anchor
 docnumber: imap-annotate-extension/imap-annotate-extension-attributes
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/bfd-discriminator-optional-tlv-type
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BFD-DISCRIMINATOR-OPTIONAL-TLV-TYPE
-  type: IANA
+- id: BGP-PARAMETERS__BFD-DISCRIMINATOR-OPTIONAL-TLV-TYPE
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/bfd-discriminator-optional-tlv-type
 date:

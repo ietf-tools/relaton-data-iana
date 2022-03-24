@@ -11,8 +11,8 @@ docid:
 - id: IANA xmlers/crypto-info
   type: IANA
   primary: true
-- id: XMLERS/CRYPTO-INFO
-  type: IANA
+- id: XMLERS__CRYPTO-INFO
+  type: IETF
   scope: anchor
 docnumber: xmlers/crypto-info
 date:

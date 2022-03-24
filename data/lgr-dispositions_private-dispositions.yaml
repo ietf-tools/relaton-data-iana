@@ -11,8 +11,8 @@ docid:
 - id: IANA lgr-dispositions/private-dispositions
   type: IANA
   primary: true
-- id: LGR-DISPOSITIONS/PRIVATE-DISPOSITIONS
-  type: IANA
+- id: LGR-DISPOSITIONS__PRIVATE-DISPOSITIONS
+  type: IETF
   scope: anchor
 docnumber: lgr-dispositions/private-dispositions
 date:

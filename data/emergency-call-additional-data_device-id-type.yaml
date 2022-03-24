@@ -11,8 +11,8 @@ docid:
 - id: IANA emergency-call-additional-data/device-id-type
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-ADDITIONAL-DATA/DEVICE-ID-TYPE
-  type: IANA
+- id: EMERGENCY-CALL-ADDITIONAL-DATA__DEVICE-ID-TYPE
+  type: IETF
   scope: anchor
 docnumber: emergency-call-additional-data/device-id-type
 date:

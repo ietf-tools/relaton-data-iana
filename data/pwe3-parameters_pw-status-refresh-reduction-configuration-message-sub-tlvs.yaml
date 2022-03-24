@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/pw-status-refresh-reduction-configuration-message-sub-tlvs
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/PW-STATUS-REFRESH-REDUCTION-CONFIGURATION-MESSAGE-SUB-TLVS
-  type: IANA
+- id: PWE3-PARAMETERS__PW-STATUS-REFRESH-REDUCTION-CONFIGURATION-MESSAGE-SUB-TLVS
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/pw-status-refresh-reduction-configuration-message-sub-tlvs
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-address-type-codes-registry
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-ADDRESS-TYPE-CODES-REGISTRY
-  type: IANA
+- id: LISP-PARAMETERS__LISP-ADDRESS-TYPE-CODES-REGISTRY
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-address-type-codes-registry
 date:

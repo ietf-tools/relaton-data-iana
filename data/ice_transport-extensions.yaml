@@ -11,8 +11,8 @@ docid:
 - id: IANA ice/transport-extensions
   type: IANA
   primary: true
-- id: ICE/TRANSPORT-EXTENSIONS
-  type: IANA
+- id: ICE__TRANSPORT-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: ice/transport-extensions
 date:

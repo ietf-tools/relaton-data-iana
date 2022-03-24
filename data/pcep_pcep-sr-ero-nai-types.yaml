@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-sr-ero-nai-types
   type: IANA
   primary: true
-- id: PCEP/PCEP-SR-ERO-NAI-TYPES
-  type: IANA
+- id: PCEP__PCEP-SR-ERO-NAI-TYPES
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-sr-ero-nai-types
 date:

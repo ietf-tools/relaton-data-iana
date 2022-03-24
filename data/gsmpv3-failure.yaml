@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: GSMPV3-FAILURE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gsmpv3-failure
 date:

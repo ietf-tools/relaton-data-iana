@@ -11,8 +11,8 @@ docid:
 - id: IANA pt-tls-parameters/error-codes
   type: IANA
   primary: true
-- id: PT-TLS-PARAMETERS/ERROR-CODES
-  type: IANA
+- id: PT-TLS-PARAMETERS__ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: pt-tls-parameters/error-codes
 date:

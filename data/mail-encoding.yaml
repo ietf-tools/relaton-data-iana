@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MAIL-ENCODING
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mail-encoding
 date:

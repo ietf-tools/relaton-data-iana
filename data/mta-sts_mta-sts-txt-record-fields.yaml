@@ -11,8 +11,8 @@ docid:
 - id: IANA mta-sts/mta-sts-txt-record-fields
   type: IANA
   primary: true
-- id: MTA-STS/MTA-STS-TXT-RECORD-FIELDS
-  type: IANA
+- id: MTA-STS__MTA-STS-TXT-RECORD-FIELDS
+  type: IETF
   scope: anchor
 docnumber: mta-sts/mta-sts-txt-record-fields
 date:

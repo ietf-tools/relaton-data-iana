@@ -11,8 +11,8 @@ docid:
 - id: IANA sam-baseline/alm-error-codes
   type: IANA
   primary: true
-- id: SAM-BASELINE/ALM-ERROR-CODES
-  type: IANA
+- id: SAM-BASELINE__ALM-ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: sam-baseline/alm-error-codes
 date:

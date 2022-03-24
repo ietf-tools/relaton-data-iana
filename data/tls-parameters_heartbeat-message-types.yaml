@@ -11,8 +11,8 @@ docid:
 - id: IANA tls-parameters/heartbeat-message-types
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/HEARTBEAT-MESSAGE-TYPES
-  type: IANA
+- id: TLS-PARAMETERS__HEARTBEAT-MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: tls-parameters/heartbeat-message-types
 date:

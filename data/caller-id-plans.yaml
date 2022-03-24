@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CALLER-ID-PLANS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: caller-id-plans
 date:

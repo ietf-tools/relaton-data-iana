@@ -11,8 +11,8 @@ docid:
 - id: IANA dskpp/prf-alg-id
   type: IANA
   primary: true
-- id: DSKPP/PRF-ALG-ID
-  type: IANA
+- id: DSKPP__PRF-ALG-ID
+  type: IETF
   scope: anchor
 docnumber: dskpp/prf-alg-id
 date:

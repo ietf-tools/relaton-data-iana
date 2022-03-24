@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-request
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-PARAMETERS-LISP-CONTROL-PLANE-HEADER-BITS-MAP-REQUEST
-  type: IANA
+- id: LISP-PARAMETERS__LISP-PARAMETERS-LISP-CONTROL-PLANE-HEADER-BITS-MAP-REQUEST
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-request
 date:

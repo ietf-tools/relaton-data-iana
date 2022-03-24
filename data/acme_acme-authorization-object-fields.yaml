@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-authorization-object-fields
   type: IANA
   primary: true
-- id: ACME/ACME-AUTHORIZATION-OBJECT-FIELDS
-  type: IANA
+- id: ACME__ACME-AUTHORIZATION-OBJECT-FIELDS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-authorization-object-fields
 date:

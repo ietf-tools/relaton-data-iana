@@ -11,8 +11,8 @@ docid:
 - id: IANA tel-uri-parameters/tel-uri-parameters-1
   type: IANA
   primary: true
-- id: TEL-URI-PARAMETERS/TEL-URI-PARAMETERS-1
-  type: IANA
+- id: TEL-URI-PARAMETERS__TEL-URI-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: tel-uri-parameters/tel-uri-parameters-1
 date:

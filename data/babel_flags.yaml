@@ -11,8 +11,8 @@ docid:
 - id: IANA babel/flags
   type: IANA
   primary: true
-- id: BABEL/FLAGS
-  type: IANA
+- id: BABEL__FLAGS
+  type: IETF
   scope: anchor
 docnumber: babel/flags
 date:

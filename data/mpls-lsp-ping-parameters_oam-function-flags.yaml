@@ -11,8 +11,8 @@ docid:
 - id: IANA mpls-lsp-ping-parameters/oam-function-flags
   type: IANA
   primary: true
-- id: MPLS-LSP-PING-PARAMETERS/OAM-FUNCTION-FLAGS
-  type: IANA
+- id: MPLS-LSP-PING-PARAMETERS__OAM-FUNCTION-FLAGS
+  type: IETF
   scope: anchor
 docnumber: mpls-lsp-ping-parameters/oam-function-flags
 date:

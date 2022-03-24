@@ -11,8 +11,8 @@ docid:
 - id: IANA posh-service-names/service-names
   type: IANA
   primary: true
-- id: POSH-SERVICE-NAMES/SERVICE-NAMES
-  type: IANA
+- id: POSH-SERVICE-NAMES__SERVICE-NAMES
+  type: IETF
   scope: anchor
 docnumber: posh-service-names/service-names
 date:

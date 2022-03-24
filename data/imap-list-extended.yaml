@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IMAP-LIST-EXTENDED
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: imap-list-extended
 date:

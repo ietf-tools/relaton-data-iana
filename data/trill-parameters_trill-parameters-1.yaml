@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/trill-parameters-1
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/TRILL-PARAMETERS-1
-  type: IANA
+- id: TRILL-PARAMETERS__TRILL-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/trill-parameters-1
 date:

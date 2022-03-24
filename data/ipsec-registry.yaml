@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IPSEC-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ipsec-registry
 date:

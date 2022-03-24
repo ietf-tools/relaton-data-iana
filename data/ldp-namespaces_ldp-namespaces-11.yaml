@@ -11,8 +11,8 @@ docid:
 - id: IANA ldp-namespaces/ldp-namespaces-11
   type: IANA
   primary: true
-- id: LDP-NAMESPACES/LDP-NAMESPACES-11
-  type: IANA
+- id: LDP-NAMESPACES__LDP-NAMESPACES-11
+  type: IETF
   scope: anchor
 docnumber: ldp-namespaces/ldp-namespaces-11
 date:

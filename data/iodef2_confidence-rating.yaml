@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/confidence-rating
   type: IANA
   primary: true
-- id: IODEF2/CONFIDENCE-RATING
-  type: IANA
+- id: IODEF2__CONFIDENCE-RATING
+  type: IETF
   scope: anchor
 docnumber: iodef2/confidence-rating
 date:

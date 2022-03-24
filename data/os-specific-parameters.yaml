@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OS-SPECIFIC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: os-specific-parameters
 date:

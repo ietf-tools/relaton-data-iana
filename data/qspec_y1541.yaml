@@ -11,8 +11,8 @@ docid:
 - id: IANA qspec/y1541
   type: IANA
   primary: true
-- id: QSPEC/Y1541
-  type: IANA
+- id: QSPEC__Y1541
+  type: IETF
   scope: anchor
 docnumber: qspec/y1541
 date:

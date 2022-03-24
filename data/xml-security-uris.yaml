@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: XML-SECURITY-URIS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: xml-security-uris
 date:

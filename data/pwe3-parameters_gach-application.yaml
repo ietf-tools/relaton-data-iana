@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/gach-application
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/GACH-APPLICATION
-  type: IANA
+- id: PWE3-PARAMETERS__GACH-APPLICATION
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/gach-application
 date:

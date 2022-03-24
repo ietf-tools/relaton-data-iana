@@ -11,8 +11,8 @@ docid:
 - id: IANA tcp-parameters/tcp-parameters-3
   type: IANA
   primary: true
-- id: TCP-PARAMETERS/TCP-PARAMETERS-3
-  type: IANA
+- id: TCP-PARAMETERS__TCP-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: tcp-parameters/tcp-parameters-3
 date:

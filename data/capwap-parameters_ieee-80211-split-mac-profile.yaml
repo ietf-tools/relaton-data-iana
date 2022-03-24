@@ -11,8 +11,8 @@ docid:
 - id: IANA capwap-parameters/ieee-80211-split-mac-profile
   type: IANA
   primary: true
-- id: CAPWAP-PARAMETERS/IEEE-80211-SPLIT-MAC-PROFILE
-  type: IANA
+- id: CAPWAP-PARAMETERS__IEEE-80211-SPLIT-MAC-PROFILE
+  type: IETF
   scope: anchor
 docnumber: capwap-parameters/ieee-80211-split-mac-profile
 date:

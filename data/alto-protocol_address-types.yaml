@@ -11,8 +11,8 @@ docid:
 - id: IANA alto-protocol/address-types
   type: IANA
   primary: true
-- id: ALTO-PROTOCOL/ADDRESS-TYPES
-  type: IANA
+- id: ALTO-PROTOCOL__ADDRESS-TYPES
+  type: IETF
   scope: anchor
 docnumber: alto-protocol/address-types
 date:

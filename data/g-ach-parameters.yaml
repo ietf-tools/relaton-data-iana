@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: G-ACH-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters
 date:

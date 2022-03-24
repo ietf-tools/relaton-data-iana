@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: EBML
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ebml
 date:

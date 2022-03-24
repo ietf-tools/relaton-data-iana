@@ -11,8 +11,8 @@ docid:
 - id: IANA clue/sensitivitypattern
   type: IANA
   primary: true
-- id: CLUE/SENSITIVITYPATTERN
-  type: IANA
+- id: CLUE__SENSITIVITYPATTERN
+  type: IETF
   scope: anchor
 docnumber: clue/sensitivitypattern
 date:

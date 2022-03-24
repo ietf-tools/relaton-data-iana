@@ -11,8 +11,8 @@ docid:
 - id: IANA cga-message-types/cga-message-types-3
   type: IANA
   primary: true
-- id: CGA-MESSAGE-TYPES/CGA-MESSAGE-TYPES-3
-  type: IANA
+- id: CGA-MESSAGE-TYPES__CGA-MESSAGE-TYPES-3
+  type: IETF
   scope: anchor
 docnumber: cga-message-types/cga-message-types-3
 date:

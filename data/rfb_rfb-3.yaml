@@ -11,8 +11,8 @@ docid:
 - id: IANA rfb/rfb-3
   type: IANA
   primary: true
-- id: RFB/RFB-3
-  type: IANA
+- id: RFB__RFB-3
+  type: IETF
   scope: anchor
 docnumber: rfb/rfb-3
 date:

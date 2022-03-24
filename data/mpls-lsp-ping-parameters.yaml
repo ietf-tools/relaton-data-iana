@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MPLS-LSP-PING-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mpls-lsp-ping-parameters
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA rsip-parameters/rsip-parameters-9
   type: IANA
   primary: true
-- id: RSIP-PARAMETERS/RSIP-PARAMETERS-9
-  type: IANA
+- id: RSIP-PARAMETERS__RSIP-PARAMETERS-9
+  type: IETF
   scope: anchor
 docnumber: rsip-parameters/rsip-parameters-9
 date:

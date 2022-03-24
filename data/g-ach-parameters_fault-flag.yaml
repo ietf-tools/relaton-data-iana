@@ -11,8 +11,8 @@ docid:
 - id: IANA g-ach-parameters/fault-flag
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/FAULT-FLAG
-  type: IANA
+- id: G-ACH-PARAMETERS__FAULT-FLAG
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/fault-flag
 date:

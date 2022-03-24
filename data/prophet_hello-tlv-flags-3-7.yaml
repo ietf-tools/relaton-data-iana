@@ -11,8 +11,8 @@ docid:
 - id: IANA prophet/hello-tlv-flags-3-7
   type: IANA
   primary: true
-- id: PROPHET/HELLO-TLV-FLAGS-3-7
-  type: IANA
+- id: PROPHET__HELLO-TLV-FLAGS-3-7
+  type: IETF
   scope: anchor
 docnumber: prophet/hello-tlv-flags-3-7
 date:

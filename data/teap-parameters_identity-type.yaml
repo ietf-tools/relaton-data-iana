@@ -11,8 +11,8 @@ docid:
 - id: IANA teap-parameters/identity-type
   type: IANA
   primary: true
-- id: TEAP-PARAMETERS/IDENTITY-TYPE
-  type: IANA
+- id: TEAP-PARAMETERS__IDENTITY-TYPE
+  type: IETF
   scope: anchor
 docnumber: teap-parameters/identity-type
 date:

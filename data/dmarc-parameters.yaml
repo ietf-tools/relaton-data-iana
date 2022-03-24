@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: DMARC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dmarc-parameters
 date:

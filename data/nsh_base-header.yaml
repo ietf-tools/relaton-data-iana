@@ -11,8 +11,8 @@ docid:
 - id: IANA nsh/base-header
   type: IANA
   primary: true
-- id: NSH/BASE-HEADER
-  type: IANA
+- id: NSH__BASE-HEADER
+  type: IETF
   scope: anchor
 docnumber: nsh/base-header
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IGMP-TYPE-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: igmp-type-numbers
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NFSV4-PATH-VARIABLES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: nfsv4-path-variables
 date:

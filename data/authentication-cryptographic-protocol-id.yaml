@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: AUTHENTICATION-CRYPTOGRAPHIC-PROTOCOL-ID
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: authentication-cryptographic-protocol-id
 date:

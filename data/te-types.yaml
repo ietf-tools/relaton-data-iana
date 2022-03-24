@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TE-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: te-types
 date:

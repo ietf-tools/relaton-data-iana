@@ -11,8 +11,8 @@ docid:
 - id: IANA authentication-method-reference-values/amr-values
   type: IANA
   primary: true
-- id: AUTHENTICATION-METHOD-REFERENCE-VALUES/AMR-VALUES
-  type: IANA
+- id: AUTHENTICATION-METHOD-REFERENCE-VALUES__AMR-VALUES
+  type: IETF
   scope: anchor
 docnumber: authentication-method-reference-values/amr-values
 date:

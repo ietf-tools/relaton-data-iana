@@ -11,8 +11,8 @@ docid:
 - id: IANA isis-pdu/pdu
   type: IANA
   primary: true
-- id: ISIS-PDU/PDU
-  type: IANA
+- id: ISIS-PDU__PDU
+  type: IETF
   scope: anchor
 docnumber: isis-pdu/pdu
 date:

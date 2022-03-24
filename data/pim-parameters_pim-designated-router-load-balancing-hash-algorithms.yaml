@@ -11,8 +11,8 @@ docid:
 - id: IANA pim-parameters/pim-designated-router-load-balancing-hash-algorithms
   type: IANA
   primary: true
-- id: PIM-PARAMETERS/PIM-DESIGNATED-ROUTER-LOAD-BALANCING-HASH-ALGORITHMS
-  type: IANA
+- id: PIM-PARAMETERS__PIM-DESIGNATED-ROUTER-LOAD-BALANCING-HASH-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: pim-parameters/pim-designated-router-load-balancing-hash-algorithms
 date:

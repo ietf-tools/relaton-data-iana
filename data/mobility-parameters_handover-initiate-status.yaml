@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/handover-initiate-status
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/HANDOVER-INITIATE-STATUS
-  type: IANA
+- id: MOBILITY-PARAMETERS__HANDOVER-INITIATE-STATUS
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/handover-initiate-status
 date:

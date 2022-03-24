@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/ciphersuite-flags
   type: IANA
   primary: true
-- id: BUNDLE/CIPHERSUITE-FLAGS
-  type: IANA
+- id: BUNDLE__CIPHERSUITE-FLAGS
+  type: IETF
   scope: anchor
 docnumber: bundle/ciphersuite-flags
 date:

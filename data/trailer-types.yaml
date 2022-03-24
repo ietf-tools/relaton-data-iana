@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TRAILER-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: trailer-types
 date:

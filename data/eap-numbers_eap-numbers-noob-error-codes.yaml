@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-numbers/eap-numbers-noob-error-codes
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-NUMBERS-NOOB-ERROR-CODES
-  type: IANA
+- id: EAP-NUMBERS__EAP-NUMBERS-NOOB-ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: eap-numbers/eap-numbers-noob-error-codes
 date:

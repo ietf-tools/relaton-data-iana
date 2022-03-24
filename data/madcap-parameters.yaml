@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MADCAP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: madcap-parameters
 date:

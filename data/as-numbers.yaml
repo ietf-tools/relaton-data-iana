@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: AS-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: as-numbers
 date:

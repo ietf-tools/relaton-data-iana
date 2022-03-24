@@ -11,8 +11,8 @@ docid:
 - id: IANA integ-serv/integ-serv-5
   type: IANA
   primary: true
-- id: INTEG-SERV/INTEG-SERV-5
-  type: IANA
+- id: INTEG-SERV__INTEG-SERV-5
+  type: IETF
   scope: anchor
 docnumber: integ-serv/integ-serv-5
 date:

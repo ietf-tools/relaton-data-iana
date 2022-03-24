@@ -11,8 +11,8 @@ docid:
 - id: IANA rtfm/opcodes
   type: IANA
   primary: true
-- id: RTFM/OPCODES
-  type: IANA
+- id: RTFM__OPCODES
+  type: IETF
   scope: anchor
 docnumber: rtfm/opcodes
 date:

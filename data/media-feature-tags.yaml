@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MEDIA-FEATURE-TAGS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: media-feature-tags
 date:

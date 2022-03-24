@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DSR-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dsr-parameters
 date:

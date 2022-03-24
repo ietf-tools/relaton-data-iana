@@ -11,8 +11,8 @@ docid:
 - id: IANA mrcpv2-parameters/status-codes
   type: IANA
   primary: true
-- id: MRCPV2-PARAMETERS/STATUS-CODES
-  type: IANA
+- id: MRCPV2-PARAMETERS__STATUS-CODES
+  type: IETF
   scope: anchor
 docnumber: mrcpv2-parameters/status-codes
 date:

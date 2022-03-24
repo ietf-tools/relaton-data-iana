@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OAUTH-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: oauth-parameters
 date:

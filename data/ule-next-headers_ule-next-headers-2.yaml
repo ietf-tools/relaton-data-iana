@@ -11,8 +11,8 @@ docid:
 - id: IANA ule-next-headers/ule-next-headers-2
   type: IANA
   primary: true
-- id: ULE-NEXT-HEADERS/ULE-NEXT-HEADERS-2
-  type: IANA
+- id: ULE-NEXT-HEADERS__ULE-NEXT-HEADERS-2
+  type: IETF
   scope: anchor
 docnumber: ule-next-headers/ule-next-headers-2
 date:

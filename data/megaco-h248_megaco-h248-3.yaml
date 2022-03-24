@@ -11,8 +11,8 @@ docid:
 - id: IANA megaco-h248/megaco-h248-3
   type: IANA
   primary: true
-- id: MEGACO-H248/MEGACO-H248-3
-  type: IANA
+- id: MEGACO-H248__MEGACO-H248-3
+  type: IETF
   scope: anchor
 docnumber: megaco-h248/megaco-h248-3
 date:

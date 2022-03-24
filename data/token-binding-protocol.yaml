@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TOKEN-BINDING-PROTOCOL
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: token-binding-protocol
 date:

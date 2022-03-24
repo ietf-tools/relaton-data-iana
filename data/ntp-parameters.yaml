@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NTP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ntp-parameters
 date:

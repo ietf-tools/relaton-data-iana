@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/rpl-rej-status
   type: IANA
   primary: true
-- id: RPL/RPL-REJ-STATUS
-  type: IANA
+- id: RPL__RPL-REJ-STATUS
+  type: IETF
   scope: anchor
 docnumber: rpl/rpl-rej-status
 date:

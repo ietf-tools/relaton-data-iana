@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CCNX
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ccnx
 date:

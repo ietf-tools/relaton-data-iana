@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/association-type-field
   type: IANA
   primary: true
-- id: PCEP/ASSOCIATION-TYPE-FIELD
-  type: IANA
+- id: PCEP__ASSOCIATION-TYPE-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/association-type-field
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA multicast-addresses/unicast-prefix-based
   type: IANA
   primary: true
-- id: MULTICAST-ADDRESSES/UNICAST-PREFIX-BASED
-  type: IANA
+- id: MULTICAST-ADDRESSES__UNICAST-PREFIX-BASED
+  type: IETF
   scope: anchor
 docnumber: multicast-addresses/unicast-prefix-based
 date:

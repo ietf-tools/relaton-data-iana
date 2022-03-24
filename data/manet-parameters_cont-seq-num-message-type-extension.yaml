@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/cont-seq-num-message-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/CONT-SEQ-NUM-MESSAGE-TYPE-EXTENSION
-  type: IANA
+- id: MANET-PARAMETERS__CONT-SEQ-NUM-MESSAGE-TYPE-EXTENSION
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/cont-seq-num-message-type-extension
 date:

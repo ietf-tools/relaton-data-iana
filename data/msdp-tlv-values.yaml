@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MSDP-TLV-VALUES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: msdp-tlv-values
 date:

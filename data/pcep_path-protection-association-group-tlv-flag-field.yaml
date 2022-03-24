@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/path-protection-association-group-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/PATH-PROTECTION-ASSOCIATION-GROUP-TLV-FLAG-FIELD
-  type: IANA
+- id: PCEP__PATH-PROTECTION-ASSOCIATION-GROUP-TLV-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/path-protection-association-group-tlv-flag-field
 date:

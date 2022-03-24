@@ -11,8 +11,8 @@ docid:
 - id: IANA trans/trans-hash-algorithms
   type: IANA
   primary: true
-- id: TRANS/TRANS-HASH-ALGORITHMS
-  type: IANA
+- id: TRANS__TRANS-HASH-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: trans/trans-hash-algorithms
 date:

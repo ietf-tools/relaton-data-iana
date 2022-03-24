@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MEGACO-H248
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: megaco-h248
 date:

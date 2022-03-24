@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ISAKMP-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: isakmp-registry
 date:

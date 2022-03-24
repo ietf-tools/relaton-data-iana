@@ -11,8 +11,8 @@ docid:
 - id: IANA segment-routing/srv6-endpoint-behaviors
   type: IANA
   primary: true
-- id: SEGMENT-ROUTING/SRV6-ENDPOINT-BEHAVIORS
-  type: IANA
+- id: SEGMENT-ROUTING__SRV6-ENDPOINT-BEHAVIORS
+  type: IETF
   scope: anchor
 docnumber: segment-routing/srv6-endpoint-behaviors
 date:

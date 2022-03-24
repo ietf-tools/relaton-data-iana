@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/monitoring-object
   type: IANA
   primary: true
-- id: PCEP/MONITORING-OBJECT
-  type: IANA
+- id: PCEP__MONITORING-OBJECT
+  type: IETF
   scope: anchor
 docnumber: pcep/monitoring-object
 date:

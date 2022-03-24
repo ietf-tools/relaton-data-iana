@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RIP-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rip-types
 date:

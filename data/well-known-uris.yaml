@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: WELL-KNOWN-URIS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: well-known-uris
 date:

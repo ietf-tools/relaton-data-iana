@@ -11,8 +11,8 @@ docid:
 - id: IANA cose/key-type
   type: IANA
   primary: true
-- id: COSE/KEY-TYPE
-  type: IANA
+- id: COSE__KEY-TYPE
+  type: IETF
   scope: anchor
 docnumber: cose/key-type
 date:

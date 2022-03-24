@@ -11,8 +11,8 @@ docid:
 - id: IANA dmarc-parameters/report-format
   type: IANA
   primary: true
-- id: DMARC-PARAMETERS/REPORT-FORMAT
-  type: IANA
+- id: DMARC-PARAMETERS__REPORT-FORMAT
+  type: IETF
   scope: anchor
 docnumber: dmarc-parameters/report-format
 date:

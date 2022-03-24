@@ -11,8 +11,8 @@ docid:
 - id: IANA secevent/secevent-error-codes
   type: IANA
   primary: true
-- id: SECEVENT/SECEVENT-ERROR-CODES
-  type: IANA
+- id: SECEVENT__SECEVENT-ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: secevent/secevent-error-codes
 date:

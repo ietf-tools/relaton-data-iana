@@ -11,8 +11,8 @@ docid:
 - id: IANA fedfs-parameters/oids
   type: IANA
   primary: true
-- id: FEDFS-PARAMETERS/OIDS
-  type: IANA
+- id: FEDFS-PARAMETERS__OIDS
+  type: IETF
   scope: anchor
 docnumber: fedfs-parameters/oids
 date:

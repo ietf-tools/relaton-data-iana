@@ -11,8 +11,8 @@ docid:
 - id: IANA _6tisch/_6tisch-cojp-key-usage
   type: IANA
   primary: true
-- id: _6TISCH/_6TISCH-COJP-KEY-USAGE
-  type: IANA
+- id: _6TISCH___6TISCH-COJP-KEY-USAGE
+  type: IETF
   scope: anchor
 docnumber: _6tisch/_6tisch-cojp-key-usage
 date:

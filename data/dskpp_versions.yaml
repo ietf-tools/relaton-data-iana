@@ -11,8 +11,8 @@ docid:
 - id: IANA dskpp/versions
   type: IANA
   primary: true
-- id: DSKPP/VERSIONS
-  type: IANA
+- id: DSKPP__VERSIONS
+  type: IETF
   scope: anchor
 docnumber: dskpp/versions
 date:

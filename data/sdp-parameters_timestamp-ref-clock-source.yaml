@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/timestamp-ref-clock-source
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/TIMESTAMP-REF-CLOCK-SOURCE
-  type: IANA
+- id: SDP-PARAMETERS__TIMESTAMP-REF-CLOCK-SOURCE
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/timestamp-ref-clock-source
 date:

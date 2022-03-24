@@ -11,8 +11,8 @@ docid:
 - id: IANA geopriv-identifiers/ids
   type: IANA
   primary: true
-- id: GEOPRIV-IDENTIFIERS/IDS
-  type: IANA
+- id: GEOPRIV-IDENTIFIERS__IDS
+  type: IETF
   scope: anchor
 docnumber: geopriv-identifiers/ids
 date:

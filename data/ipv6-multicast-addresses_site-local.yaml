@@ -11,8 +11,8 @@ docid:
 - id: IANA ipv6-multicast-addresses/site-local
   type: IANA
   primary: true
-- id: IPV6-MULTICAST-ADDRESSES/SITE-LOCAL
-  type: IANA
+- id: IPV6-MULTICAST-ADDRESSES__SITE-LOCAL
+  type: IETF
   scope: anchor
 docnumber: ipv6-multicast-addresses/site-local
 date:

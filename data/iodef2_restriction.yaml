@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/restriction
   type: IANA
   primary: true
-- id: IODEF2/RESTRICTION
-  type: IANA
+- id: IODEF2__RESTRICTION
+  type: IETF
   scope: anchor
 docnumber: iodef2/restriction
 date:

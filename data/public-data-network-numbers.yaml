@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PUBLIC-DATA-NETWORK-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: public-data-network-numbers
 date:

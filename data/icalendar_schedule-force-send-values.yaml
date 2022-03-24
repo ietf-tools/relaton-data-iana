@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/schedule-force-send-values
   type: IANA
   primary: true
-- id: ICALENDAR/SCHEDULE-FORCE-SEND-VALUES
-  type: IANA
+- id: ICALENDAR__SCHEDULE-FORCE-SEND-VALUES
+  type: IETF
   scope: anchor
 docnumber: icalendar/schedule-force-send-values
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ccnx/ccnx-hash-function-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-HASH-FUNCTION-TYPES
-  type: IANA
+- id: CCNX__CCNX-HASH-FUNCTION-TYPES
+  type: IETF
   scope: anchor
 docnumber: ccnx/ccnx-hash-function-types
 date:

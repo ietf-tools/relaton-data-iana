@@ -11,8 +11,8 @@ docid:
 - id: IANA dcep-parameters/channel-type
   type: IANA
   primary: true
-- id: DCEP-PARAMETERS/CHANNEL-TYPE
-  type: IANA
+- id: DCEP-PARAMETERS__CHANNEL-TYPE
+  type: IETF
   scope: anchor
 docnumber: dcep-parameters/channel-type
 date:

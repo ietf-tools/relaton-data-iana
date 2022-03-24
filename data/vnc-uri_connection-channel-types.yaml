@@ -11,8 +11,8 @@ docid:
 - id: IANA vnc-uri/connection-channel-types
   type: IANA
   primary: true
-- id: VNC-URI/CONNECTION-CHANNEL-TYPES
-  type: IANA
+- id: VNC-URI__CONNECTION-CHANNEL-TYPES
+  type: IETF
   scope: anchor
 docnumber: vnc-uri/connection-channel-types
 date:

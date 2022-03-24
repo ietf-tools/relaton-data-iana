@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DNSKEY-FLAGS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dnskey-flags
 date:

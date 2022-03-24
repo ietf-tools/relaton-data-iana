@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/bidirectional-lsp-association-group
   type: IANA
   primary: true
-- id: PCEP/BIDIRECTIONAL-LSP-ASSOCIATION-GROUP
-  type: IANA
+- id: PCEP__BIDIRECTIONAL-LSP-ASSOCIATION-GROUP
+  type: IETF
   scope: anchor
 docnumber: pcep/bidirectional-lsp-association-group
 date:

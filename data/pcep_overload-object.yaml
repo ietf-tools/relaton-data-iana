@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/overload-object
   type: IANA
   primary: true
-- id: PCEP/OVERLOAD-OBJECT
-  type: IANA
+- id: PCEP__OVERLOAD-OBJECT
+  type: IETF
   scope: anchor
 docnumber: pcep/overload-object
 date:

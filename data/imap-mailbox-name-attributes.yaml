@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IMAP-MAILBOX-NAME-ATTRIBUTES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: imap-mailbox-name-attributes
 date:

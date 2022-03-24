@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GMPLS-WSON
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gmpls-wson
 date:

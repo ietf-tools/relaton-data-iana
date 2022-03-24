@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: INTEG-SERV
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: integ-serv
 date:

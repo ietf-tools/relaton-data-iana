@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/methods
   type: IANA
   primary: true
-- id: ICALENDAR/METHODS
-  type: IANA
+- id: ICALENDAR__METHODS
+  type: IETF
   scope: anchor
 docnumber: icalendar/methods
 date:

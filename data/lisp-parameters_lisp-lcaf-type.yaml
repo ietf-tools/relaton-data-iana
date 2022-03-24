@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-lcaf-type
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-LCAF-TYPE
-  type: IANA
+- id: LISP-PARAMETERS__LISP-LCAF-TYPE
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-lcaf-type
 date:

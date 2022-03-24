@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RDAP-EXTENSIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rdap-extensions
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA core-parameters/oscore-flag-bits
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/OSCORE-FLAG-BITS
-  type: IANA
+- id: CORE-PARAMETERS__OSCORE-FLAG-BITS
+  type: IETF
   scope: anchor
 docnumber: core-parameters/oscore-flag-bits
 date:

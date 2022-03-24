@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IODEF2
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: iodef2
 date:

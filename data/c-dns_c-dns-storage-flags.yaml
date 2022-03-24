@@ -11,8 +11,8 @@ docid:
 - id: IANA c-dns/c-dns-storage-flags
   type: IANA
   primary: true
-- id: C-DNS/C-DNS-STORAGE-FLAGS
-  type: IANA
+- id: C-DNS__C-DNS-STORAGE-FLAGS
+  type: IETF
   scope: anchor
 docnumber: c-dns/c-dns-storage-flags
 date:

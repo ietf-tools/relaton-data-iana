@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DLEP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dlep-parameters
 date:

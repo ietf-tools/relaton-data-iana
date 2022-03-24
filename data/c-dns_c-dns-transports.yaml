@@ -11,8 +11,8 @@ docid:
 - id: IANA c-dns/c-dns-transports
   type: IANA
   primary: true
-- id: C-DNS/C-DNS-TRANSPORTS
-  type: IANA
+- id: C-DNS__C-DNS-TRANSPORTS
+  type: IETF
   scope: anchor
 docnumber: c-dns/c-dns-transports
 date:

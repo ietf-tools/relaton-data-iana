@@ -11,8 +11,8 @@ docid:
 - id: IANA bmp-parameters/route-mirroring-tlvs
   type: IANA
   primary: true
-- id: BMP-PARAMETERS/ROUTE-MIRRORING-TLVS
-  type: IANA
+- id: BMP-PARAMETERS__ROUTE-MIRRORING-TLVS
+  type: IETF
   scope: anchor
 docnumber: bmp-parameters/route-mirroring-tlvs
 date:

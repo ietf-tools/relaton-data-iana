@@ -11,8 +11,8 @@ docid:
 - id: IANA pkix-parameters/caa-flags
   type: IANA
   primary: true
-- id: PKIX-PARAMETERS/CAA-FLAGS
-  type: IANA
+- id: PKIX-PARAMETERS__CAA-FLAGS
+  type: IETF
   scope: anchor
 docnumber: pkix-parameters/caa-flags
 date:

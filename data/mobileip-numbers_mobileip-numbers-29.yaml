@@ -11,8 +11,8 @@ docid:
 - id: IANA mobileip-numbers/mobileip-numbers-29
   type: IANA
   primary: true
-- id: MOBILEIP-NUMBERS/MOBILEIP-NUMBERS-29
-  type: IANA
+- id: MOBILEIP-NUMBERS__MOBILEIP-NUMBERS-29
+  type: IETF
   scope: anchor
 docnumber: mobileip-numbers/mobileip-numbers-29
 date:

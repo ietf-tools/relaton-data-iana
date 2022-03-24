@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/sfp-association-type
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/SFP-ASSOCIATION-TYPE
-  type: IANA
+- id: BGP-PARAMETERS__SFP-ASSOCIATION-TYPE
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/sfp-association-type
 date:

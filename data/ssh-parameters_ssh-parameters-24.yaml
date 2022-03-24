@@ -11,8 +11,8 @@ docid:
 - id: IANA ssh-parameters/ssh-parameters-24
   type: IANA
   primary: true
-- id: SSH-PARAMETERS/SSH-PARAMETERS-24
-  type: IANA
+- id: SSH-PARAMETERS__SSH-PARAMETERS-24
+  type: IETF
   scope: anchor
 docnumber: ssh-parameters/ssh-parameters-24
 date:

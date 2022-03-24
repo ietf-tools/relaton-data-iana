@@ -11,8 +11,8 @@ docid:
 - id: IANA qspec/extent-of-restoration
   type: IANA
   primary: true
-- id: QSPEC/EXTENT-OF-RESTORATION
-  type: IANA
+- id: QSPEC__EXTENT-OF-RESTORATION
+  type: IETF
   scope: anchor
 docnumber: qspec/extent-of-restoration
 date:

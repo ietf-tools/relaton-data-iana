@@ -11,8 +11,8 @@ docid:
 - id: IANA jscalendar/jscalendar-properties
   type: IANA
   primary: true
-- id: JSCALENDAR/JSCALENDAR-PROPERTIES
-  type: IANA
+- id: JSCALENDAR__JSCALENDAR-PROPERTIES
+  type: IETF
   scope: anchor
 docnumber: jscalendar/jscalendar-properties
 date:

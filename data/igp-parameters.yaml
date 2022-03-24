@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IGP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: igp-parameters
 date:

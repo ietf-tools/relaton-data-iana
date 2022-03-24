@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: GSS-EAP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gss-eap-parameters
 date:

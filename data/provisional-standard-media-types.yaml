@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PROVISIONAL-STANDARD-MEDIA-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: provisional-standard-media-types
 date:

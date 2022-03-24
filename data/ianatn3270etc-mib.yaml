@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANATN3270ETC-MIB
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ianatn3270etc-mib
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA hip-parameters/certificate-types
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/CERTIFICATE-TYPES
-  type: IANA
+- id: HIP-PARAMETERS__CERTIFICATE-TYPES
+  type: IETF
   scope: anchor
 docnumber: hip-parameters/certificate-types
 date:

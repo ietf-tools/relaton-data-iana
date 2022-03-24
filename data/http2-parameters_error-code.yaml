@@ -11,8 +11,8 @@ docid:
 - id: IANA http2-parameters/error-code
   type: IANA
   primary: true
-- id: HTTP2-PARAMETERS/ERROR-CODE
-  type: IANA
+- id: HTTP2-PARAMETERS__ERROR-CODE
+  type: IETF
   scope: anchor
 docnumber: http2-parameters/error-code
 date:

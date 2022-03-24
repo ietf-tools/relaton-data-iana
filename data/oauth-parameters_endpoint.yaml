@@ -11,8 +11,8 @@ docid:
 - id: IANA oauth-parameters/endpoint
   type: IANA
   primary: true
-- id: OAUTH-PARAMETERS/ENDPOINT
-  type: IANA
+- id: OAUTH-PARAMETERS__ENDPOINT
+  type: IETF
   scope: anchor
 docnumber: oauth-parameters/endpoint
 date:

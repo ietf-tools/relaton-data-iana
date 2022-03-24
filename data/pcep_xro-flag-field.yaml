@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/xro-flag-field
   type: IANA
   primary: true
-- id: PCEP/XRO-FLAG-FIELD
-  type: IANA
+- id: PCEP__XRO-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/xro-flag-field
 date:

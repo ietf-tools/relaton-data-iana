@@ -11,8 +11,8 @@ docid:
 - id: IANA dane-parameters/certificate-usages
   type: IANA
   primary: true
-- id: DANE-PARAMETERS/CERTIFICATE-USAGES
-  type: IANA
+- id: DANE-PARAMETERS__CERTIFICATE-USAGES
+  type: IETF
   scope: anchor
 docnumber: dane-parameters/certificate-usages
 date:

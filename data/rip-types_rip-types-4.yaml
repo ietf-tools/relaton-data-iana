@@ -11,8 +11,8 @@ docid:
 - id: IANA rip-types/rip-types-4
   type: IANA
   primary: true
-- id: RIP-TYPES/RIP-TYPES-4
-  type: IANA
+- id: RIP-TYPES__RIP-TYPES-4
+  type: IETF
   scope: anchor
 docnumber: rip-types/rip-types-4
 date:

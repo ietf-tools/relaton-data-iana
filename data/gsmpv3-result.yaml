@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GSMPV3-RESULT
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gsmpv3-result
 date:

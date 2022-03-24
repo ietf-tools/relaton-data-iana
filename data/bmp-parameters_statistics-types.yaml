@@ -11,8 +11,8 @@ docid:
 - id: IANA bmp-parameters/statistics-types
   type: IANA
   primary: true
-- id: BMP-PARAMETERS/STATISTICS-TYPES
-  type: IANA
+- id: BMP-PARAMETERS__STATISTICS-TYPES
+  type: IETF
   scope: anchor
 docnumber: bmp-parameters/statistics-types
 date:

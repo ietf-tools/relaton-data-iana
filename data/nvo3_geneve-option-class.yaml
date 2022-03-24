@@ -11,8 +11,8 @@ docid:
 - id: IANA nvo3/geneve-option-class
   type: IANA
   primary: true
-- id: NVO3/GENEVE-OPTION-CLASS
-  type: IANA
+- id: NVO3__GENEVE-OPTION-CLASS
+  type: IETF
   scope: anchor
 docnumber: nvo3/geneve-option-class
 date:

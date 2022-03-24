@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ICMPV6-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: icmpv6-parameters
 date:

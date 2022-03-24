@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SECURITY-LABEL-FORMAT-SELECTION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: security-label-format-selection
 date:

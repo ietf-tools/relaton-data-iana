@@ -11,8 +11,8 @@ docid:
 - id: IANA rpc-authentication-numbers/status
   type: IANA
   primary: true
-- id: RPC-AUTHENTICATION-NUMBERS/STATUS
-  type: IANA
+- id: RPC-AUTHENTICATION-NUMBERS__STATUS
+  type: IETF
   scope: anchor
 docnumber: rpc-authentication-numbers/status
 date:

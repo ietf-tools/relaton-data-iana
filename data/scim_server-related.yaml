@@ -11,8 +11,8 @@ docid:
 - id: IANA scim/server-related
   type: IANA
   primary: true
-- id: SCIM/SERVER-RELATED
-  type: IANA
+- id: SCIM__SERVER-RELATED
+  type: IETF
   scope: anchor
 docnumber: scim/server-related
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA icmpv6-parameters/icmpv6-adress-registration-option-flags
   type: IANA
   primary: true
-- id: ICMPV6-PARAMETERS/ICMPV6-ADRESS-REGISTRATION-OPTION-FLAGS
-  type: IANA
+- id: ICMPV6-PARAMETERS__ICMPV6-ADRESS-REGISTRATION-OPTION-FLAGS
+  type: IETF
   scope: anchor
 docnumber: icmpv6-parameters/icmpv6-adress-registration-option-flags
 date:

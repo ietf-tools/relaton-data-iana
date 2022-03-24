@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/messages
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/MESSAGES
-  type: IANA
+- id: NSLP-PARAMETERS__MESSAGES
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/messages
 date:

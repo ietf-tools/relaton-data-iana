@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RSVP-TE-OAM
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rsvp-te-oam
 date:

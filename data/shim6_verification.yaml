@@ -11,8 +11,8 @@ docid:
 - id: IANA shim6/verification
   type: IANA
   primary: true
-- id: SHIM6/VERIFICATION
-  type: IANA
+- id: SHIM6__VERIFICATION
+  type: IETF
   scope: anchor
 docnumber: shim6/verification
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IPV6-ADDRESS-SPACE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ipv6-address-space
 date:

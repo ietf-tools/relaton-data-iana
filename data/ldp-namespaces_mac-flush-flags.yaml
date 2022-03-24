@@ -11,8 +11,8 @@ docid:
 - id: IANA ldp-namespaces/mac-flush-flags
   type: IANA
   primary: true
-- id: LDP-NAMESPACES/MAC-FLUSH-FLAGS
-  type: IANA
+- id: LDP-NAMESPACES__MAC-FLUSH-FLAGS
+  type: IETF
   scope: anchor
 docnumber: ldp-namespaces/mac-flush-flags
 date:

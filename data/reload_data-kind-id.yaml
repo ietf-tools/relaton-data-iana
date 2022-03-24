@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/data-kind-id
   type: IANA
   primary: true
-- id: RELOAD/DATA-KIND-ID
-  type: IANA
+- id: RELOAD__DATA-KIND-ID
+  type: IETF
   scope: anchor
 docnumber: reload/data-kind-id
 date:

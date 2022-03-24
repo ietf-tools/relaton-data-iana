@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PIDF-LO-CIVIC-ADDRESS-CONSIDERATION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pidf-lo-civic-address-consideration
 date:

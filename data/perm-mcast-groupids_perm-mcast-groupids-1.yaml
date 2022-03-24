@@ -11,8 +11,8 @@ docid:
 - id: IANA perm-mcast-groupids/perm-mcast-groupids-1
   type: IANA
   primary: true
-- id: PERM-MCAST-GROUPIDS/PERM-MCAST-GROUPIDS-1
-  type: IANA
+- id: PERM-MCAST-GROUPIDS__PERM-MCAST-GROUPIDS-1
+  type: IETF
   scope: anchor
 docnumber: perm-mcast-groupids/perm-mcast-groupids-1
 date:

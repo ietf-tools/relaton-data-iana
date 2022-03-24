@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-path-setup-types
   type: IANA
   primary: true
-- id: PCEP/PCEP-PATH-SETUP-TYPES
-  type: IANA
+- id: PCEP__PCEP-PATH-SETUP-TYPES
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-path-setup-types
 date:

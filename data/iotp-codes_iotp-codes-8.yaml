@@ -11,8 +11,8 @@ docid:
 - id: IANA iotp-codes/iotp-codes-8
   type: IANA
   primary: true
-- id: IOTP-CODES/IOTP-CODES-8
-  type: IANA
+- id: IOTP-CODES__IOTP-CODES-8
+  type: IETF
   scope: anchor
 docnumber: iotp-codes/iotp-codes-8
 date:

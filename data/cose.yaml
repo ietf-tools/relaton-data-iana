@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: COSE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cose
 date:

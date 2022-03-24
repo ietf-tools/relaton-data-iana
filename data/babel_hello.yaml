@@ -11,8 +11,8 @@ docid:
 - id: IANA babel/hello
   type: IANA
   primary: true
-- id: BABEL/HELLO
-  type: IANA
+- id: BABEL__HELLO
+  type: IETF
   scope: anchor
 docnumber: babel/hello
 date:

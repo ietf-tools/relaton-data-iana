@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/block-types
   type: IANA
   primary: true
-- id: BUNDLE/BLOCK-TYPES
-  type: IANA
+- id: BUNDLE__BLOCK-TYPES
+  type: IETF
   scope: anchor
 docnumber: bundle/block-types
 date:

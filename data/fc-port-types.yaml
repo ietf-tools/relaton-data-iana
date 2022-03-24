@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: FC-PORT-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: fc-port-types
 date:

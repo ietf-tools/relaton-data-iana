@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SOCKS-METHODS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: socks-methods
 date:

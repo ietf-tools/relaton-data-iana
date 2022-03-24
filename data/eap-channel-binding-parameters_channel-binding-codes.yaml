@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-channel-binding-parameters/channel-binding-codes
   type: IANA
   primary: true
-- id: EAP-CHANNEL-BINDING-PARAMETERS/CHANNEL-BINDING-CODES
-  type: IANA
+- id: EAP-CHANNEL-BINDING-PARAMETERS__CHANNEL-BINDING-CODES
+  type: IETF
   scope: anchor
 docnumber: eap-channel-binding-parameters/channel-binding-codes
 date:

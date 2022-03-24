@@ -11,8 +11,8 @@ docid:
 - id: IANA bfcp-parameters/bfcp-parameters-3
   type: IANA
   primary: true
-- id: BFCP-PARAMETERS/BFCP-PARAMETERS-3
-  type: IANA
+- id: BFCP-PARAMETERS__BFCP-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: bfcp-parameters/bfcp-parameters-3
 date:

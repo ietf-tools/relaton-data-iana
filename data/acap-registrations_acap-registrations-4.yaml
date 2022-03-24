@@ -11,8 +11,8 @@ docid:
 - id: IANA acap-registrations/acap-registrations-4
   type: IANA
   primary: true
-- id: ACAP-REGISTRATIONS/ACAP-REGISTRATIONS-4
-  type: IANA
+- id: ACAP-REGISTRATIONS__ACAP-REGISTRATIONS-4
+  type: IETF
   scope: anchor
 docnumber: acap-registrations/acap-registrations-4
 date:

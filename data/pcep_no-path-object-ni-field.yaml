@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/no-path-object-ni-field
   type: IANA
   primary: true
-- id: PCEP/NO-PATH-OBJECT-NI-FIELD
-  type: IANA
+- id: PCEP__NO-PATH-OBJECT-NI-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/no-path-object-ni-field
 date:

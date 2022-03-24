@@ -11,8 +11,8 @@ docid:
 - id: IANA scep/scep-ca-capabilities
   type: IANA
   primary: true
-- id: SCEP/SCEP-CA-CAPABILITIES
-  type: IANA
+- id: SCEP__SCEP-CA-CAPABILITIES
+  type: IETF
   scope: anchor
 docnumber: scep/scep-ca-capabilities
 date:

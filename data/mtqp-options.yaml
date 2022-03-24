@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MTQP-OPTIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mtqp-options
 date:

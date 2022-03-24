@@ -11,8 +11,8 @@ docid:
 - id: IANA trans/trans-signature-algorithms
   type: IANA
   primary: true
-- id: TRANS/TRANS-SIGNATURE-ALGORITHMS
-  type: IANA
+- id: TRANS__TRANS-SIGNATURE-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: trans/trans-signature-algorithms
 date:

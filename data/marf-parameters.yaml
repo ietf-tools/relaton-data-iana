@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MARF-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: marf-parameters
 date:

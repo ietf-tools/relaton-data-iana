@@ -11,8 +11,8 @@ docid:
 - id: IANA text-directory-registrations/text-directory-registrations-3
   type: IANA
   primary: true
-- id: TEXT-DIRECTORY-REGISTRATIONS/TEXT-DIRECTORY-REGISTRATIONS-3
-  type: IANA
+- id: TEXT-DIRECTORY-REGISTRATIONS__TEXT-DIRECTORY-REGISTRATIONS-3
+  type: IETF
   scope: anchor
 docnumber: text-directory-registrations/text-directory-registrations-3
 date:

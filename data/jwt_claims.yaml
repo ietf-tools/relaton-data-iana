@@ -11,8 +11,8 @@ docid:
 - id: IANA jwt/claims
   type: IANA
   primary: true
-- id: JWT/CLAIMS
-  type: IANA
+- id: JWT__CLAIMS
+  type: IETF
   scope: anchor
 docnumber: jwt/claims
 date:

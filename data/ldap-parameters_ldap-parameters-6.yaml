@@ -11,8 +11,8 @@ docid:
 - id: IANA ldap-parameters/ldap-parameters-6
   type: IANA
   primary: true
-- id: LDAP-PARAMETERS/LDAP-PARAMETERS-6
-  type: IANA
+- id: LDAP-PARAMETERS__LDAP-PARAMETERS-6
+  type: IETF
   scope: anchor
 docnumber: ldap-parameters/ldap-parameters-6
 date:

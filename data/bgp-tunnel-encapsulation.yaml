@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: BGP-TUNNEL-ENCAPSULATION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: bgp-tunnel-encapsulation
 date:

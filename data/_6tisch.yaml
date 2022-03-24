@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: _6TISCH
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: _6tisch
 date:

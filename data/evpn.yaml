@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: EVPN
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: evpn
 date:

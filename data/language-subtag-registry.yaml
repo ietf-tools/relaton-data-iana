@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LANGUAGE-SUBTAG-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: language-subtag-registry
 contributor:

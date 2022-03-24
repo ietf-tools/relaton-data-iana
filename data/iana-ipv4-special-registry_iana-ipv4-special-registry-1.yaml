@@ -11,8 +11,8 @@ docid:
 - id: IANA iana-ipv4-special-registry/iana-ipv4-special-registry-1
   type: IANA
   primary: true
-- id: IANA-IPV4-SPECIAL-REGISTRY/IANA-IPV4-SPECIAL-REGISTRY-1
-  type: IANA
+- id: IANA-IPV4-SPECIAL-REGISTRY__IANA-IPV4-SPECIAL-REGISTRY-1
+  type: IETF
   scope: anchor
 docnumber: iana-ipv4-special-registry/iana-ipv4-special-registry-1
 date:

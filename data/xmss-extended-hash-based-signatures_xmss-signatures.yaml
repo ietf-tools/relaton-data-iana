@@ -11,8 +11,8 @@ docid:
 - id: IANA xmss-extended-hash-based-signatures/xmss-signatures
   type: IANA
   primary: true
-- id: XMSS-EXTENDED-HASH-BASED-SIGNATURES/XMSS-SIGNATURES
-  type: IANA
+- id: XMSS-EXTENDED-HASH-BASED-SIGNATURES__XMSS-SIGNATURES
+  type: IETF
   scope: anchor
 docnumber: xmss-extended-hash-based-signatures/xmss-signatures
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ULE-NEXT-HEADERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ule-next-headers
 date:

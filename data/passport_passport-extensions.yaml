@@ -11,8 +11,8 @@ docid:
 - id: IANA passport/passport-extensions
   type: IANA
   primary: true
-- id: PASSPORT/PASSPORT-EXTENSIONS
-  type: IANA
+- id: PASSPORT__PASSPORT-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: passport/passport-extensions
 date:

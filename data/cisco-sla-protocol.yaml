@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CISCO-SLA-PROTOCOL
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cisco-sla-protocol
 date:

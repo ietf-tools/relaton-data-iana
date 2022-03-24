@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RDAP-PROVIDER-OBJECT-TAGS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rdap-provider-object-tags
 date:

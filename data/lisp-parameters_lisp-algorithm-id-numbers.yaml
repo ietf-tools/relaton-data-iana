@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-algorithm-id-numbers
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-ALGORITHM-ID-NUMBERS
-  type: IANA
+- id: LISP-PARAMETERS__LISP-ALGORITHM-ID-NUMBERS
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-algorithm-id-numbers
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANAOLSRV2LINKMETRICTYPE-MIB
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ianaolsrv2linkmetrictype-mib
 date:

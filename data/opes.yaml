@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: opes
 date:

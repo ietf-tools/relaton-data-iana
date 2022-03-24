@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/ieee-80221-service-type
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/IEEE-80221-SERVICE-TYPE
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__IEEE-80221-SERVICE-TYPE
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/ieee-80221-service-type
 date:

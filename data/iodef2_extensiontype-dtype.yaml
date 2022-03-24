@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/extensiontype-dtype
   type: IANA
   primary: true
-- id: IODEF2/EXTENSIONTYPE-DTYPE
-  type: IANA
+- id: IODEF2__EXTENSIONTYPE-DTYPE
+  type: IETF
   scope: anchor
 docnumber: iodef2/extensiontype-dtype
 date:

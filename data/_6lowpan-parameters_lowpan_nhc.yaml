@@ -11,8 +11,8 @@ docid:
 - id: IANA _6lowpan-parameters/lowpan_nhc
   type: IANA
   primary: true
-- id: _6LOWPAN-PARAMETERS/LOWPAN_NHC
-  type: IANA
+- id: _6LOWPAN-PARAMETERS__LOWPAN_NHC
+  type: IETF
   scope: anchor
 docnumber: _6lowpan-parameters/lowpan_nhc
 date:

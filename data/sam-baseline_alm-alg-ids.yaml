@@ -11,8 +11,8 @@ docid:
 - id: IANA sam-baseline/alm-alg-ids
   type: IANA
   primary: true
-- id: SAM-BASELINE/ALM-ALG-IDS
-  type: IANA
+- id: SAM-BASELINE__ALM-ALG-IDS
+  type: IETF
   scope: anchor
 docnumber: sam-baseline/alm-alg-ids
 date:

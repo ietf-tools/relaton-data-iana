@@ -11,8 +11,8 @@ docid:
 - id: IANA card-parameters/card-parameters-2
   type: IANA
   primary: true
-- id: CARD-PARAMETERS/CARD-PARAMETERS-2
-  type: IANA
+- id: CARD-PARAMETERS__CARD-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: card-parameters/card-parameters-2
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA twamp-parameters/twamp-modes
   type: IANA
   primary: true
-- id: TWAMP-PARAMETERS/TWAMP-MODES
-  type: IANA
+- id: TWAMP-PARAMETERS__TWAMP-MODES
+  type: IETF
   scope: anchor
 docnumber: twamp-parameters/twamp-modes
 date:

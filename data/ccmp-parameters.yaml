@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CCMP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ccmp-parameters
 date:

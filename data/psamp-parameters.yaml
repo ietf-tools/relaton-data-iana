@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PSAMP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: psamp-parameters
 date:

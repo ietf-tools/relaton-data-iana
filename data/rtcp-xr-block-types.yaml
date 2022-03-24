@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RTCP-XR-BLOCK-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rtcp-xr-block-types
 date:

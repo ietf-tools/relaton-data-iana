@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NFSV4-DEVICE-ID-NOTIFICATIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: nfsv4-device-id-notifications
 date:

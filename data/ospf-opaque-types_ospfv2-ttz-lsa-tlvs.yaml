@@ -11,8 +11,8 @@ docid:
 - id: IANA ospf-opaque-types/ospfv2-ttz-lsa-tlvs
   type: IANA
   primary: true
-- id: OSPF-OPAQUE-TYPES/OSPFV2-TTZ-LSA-TLVS
-  type: IANA
+- id: OSPF-OPAQUE-TYPES__OSPFV2-TTZ-LSA-TLVS
+  type: IETF
   scope: anchor
 docnumber: ospf-opaque-types/ospfv2-ttz-lsa-tlvs
 date:

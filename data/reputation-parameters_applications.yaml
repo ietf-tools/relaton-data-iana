@@ -11,8 +11,8 @@ docid:
 - id: IANA reputation-parameters/applications
   type: IANA
   primary: true
-- id: REPUTATION-PARAMETERS/APPLICATIONS
-  type: IANA
+- id: REPUTATION-PARAMETERS__APPLICATIONS
+  type: IETF
   scope: anchor
 docnumber: reputation-parameters/applications
 date:

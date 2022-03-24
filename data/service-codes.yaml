@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SERVICE-CODES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: service-codes
 date:

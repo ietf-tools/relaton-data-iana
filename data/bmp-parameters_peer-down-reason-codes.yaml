@@ -11,8 +11,8 @@ docid:
 - id: IANA bmp-parameters/peer-down-reason-codes
   type: IANA
   primary: true
-- id: BMP-PARAMETERS/PEER-DOWN-REASON-CODES
-  type: IANA
+- id: BMP-PARAMETERS__PEER-DOWN-REASON-CODES
+  type: IETF
   scope: anchor
 docnumber: bmp-parameters/peer-down-reason-codes
 date:

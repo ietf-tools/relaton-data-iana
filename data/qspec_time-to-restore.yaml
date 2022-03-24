@@ -11,8 +11,8 @@ docid:
 - id: IANA qspec/time-to-restore
   type: IANA
   primary: true
-- id: QSPEC/TIME-TO-RESTORE
-  type: IANA
+- id: QSPEC__TIME-TO-RESTORE
+  type: IETF
   scope: anchor
 docnumber: qspec/time-to-restore
 date:

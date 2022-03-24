@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HTTP3-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: http3-parameters
 date:

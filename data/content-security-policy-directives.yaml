@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CONTENT-SECURITY-POLICY-DIRECTIVES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: content-security-policy-directives
 date:

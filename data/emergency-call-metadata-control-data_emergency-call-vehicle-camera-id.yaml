@@ -11,8 +11,8 @@ docid:
 - id: IANA emergency-call-metadata-control-data/emergency-call-vehicle-camera-id
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-METADATA-CONTROL-DATA/EMERGENCY-CALL-VEHICLE-CAMERA-ID
-  type: IANA
+- id: EMERGENCY-CALL-METADATA-CONTROL-DATA__EMERGENCY-CALL-VEHICLE-CAMERA-ID
+  type: IETF
   scope: anchor
 docnumber: emergency-call-metadata-control-data/emergency-call-vehicle-camera-id
 date:

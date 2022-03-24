@@ -11,8 +11,8 @@ docid:
 - id: IANA leighton-micali-signatures/lm-ots-signatures
   type: IANA
   primary: true
-- id: LEIGHTON-MICALI-SIGNATURES/LM-OTS-SIGNATURES
-  type: IANA
+- id: LEIGHTON-MICALI-SIGNATURES__LM-OTS-SIGNATURES
+  type: IETF
   scope: anchor
 docnumber: leighton-micali-signatures/lm-ots-signatures
 date:

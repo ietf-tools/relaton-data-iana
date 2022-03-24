@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CHARSET-REG
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: charset-reg
 date:

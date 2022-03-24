@@ -11,8 +11,8 @@ docid:
 - id: IANA mud/mud-well-known-urn
   type: IANA
   primary: true
-- id: MUD/MUD-WELL-KNOWN-URN
-  type: IANA
+- id: MUD__MUD-WELL-KNOWN-URN
+  type: IETF
   scope: anchor
 docnumber: mud/mud-well-known-urn
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA jscalendar/jscalendar-enum-values
   type: IANA
   primary: true
-- id: JSCALENDAR/JSCALENDAR-ENUM-VALUES
-  type: IANA
+- id: JSCALENDAR__JSCALENDAR-ENUM-VALUES
+  type: IETF
   scope: anchor
 docnumber: jscalendar/jscalendar-enum-values
 date:

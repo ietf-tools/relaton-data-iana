@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/sdp-att-field
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/SDP-ATT-FIELD
-  type: IANA
+- id: SDP-PARAMETERS__SDP-ATT-FIELD
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/sdp-att-field
 date:

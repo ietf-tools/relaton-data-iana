@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: BGP-WELL-KNOWN-COMMUNITIES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: bgp-well-known-communities
 date:

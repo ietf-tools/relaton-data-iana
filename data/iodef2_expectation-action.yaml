@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/expectation-action
   type: IANA
   primary: true
-- id: IODEF2/EXPECTATION-ACTION
-  type: IANA
+- id: IODEF2__EXPECTATION-ACTION
+  type: IETF
   scope: anchor
 docnumber: iodef2/expectation-action
 date:

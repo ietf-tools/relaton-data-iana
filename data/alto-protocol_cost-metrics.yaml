@@ -11,8 +11,8 @@ docid:
 - id: IANA alto-protocol/cost-metrics
   type: IANA
   primary: true
-- id: ALTO-PROTOCOL/COST-METRICS
-  type: IANA
+- id: ALTO-PROTOCOL__COST-METRICS
+  type: IETF
   scope: anchor
 docnumber: alto-protocol/cost-metrics
 date:

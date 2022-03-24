@@ -11,8 +11,8 @@ docid:
 - id: IANA http-authschemes/authschemes
   type: IANA
   primary: true
-- id: HTTP-AUTHSCHEMES/AUTHSCHEMES
-  type: IANA
+- id: HTTP-AUTHSCHEMES__AUTHSCHEMES
+  type: IETF
   scope: anchor
 docnumber: http-authschemes/authschemes
 date:

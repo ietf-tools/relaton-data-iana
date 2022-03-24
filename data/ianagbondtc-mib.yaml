@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANAGBONDTC-MIB
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ianagbondtc-mib
 date:

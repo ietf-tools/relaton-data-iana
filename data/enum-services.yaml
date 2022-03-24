@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ENUM-SERVICES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: enum-services
 date:

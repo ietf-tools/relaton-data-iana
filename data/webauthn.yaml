@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: WEBAUTHN
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: webauthn
 date:

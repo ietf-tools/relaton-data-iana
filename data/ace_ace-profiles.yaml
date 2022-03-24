@@ -11,8 +11,8 @@ docid:
 - id: IANA ace/ace-profiles
   type: IANA
   primary: true
-- id: ACE/ACE-PROFILES
-  type: IANA
+- id: ACE__ACE-PROFILES
+  type: IETF
   scope: anchor
 docnumber: ace/ace-profiles
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA paws/error-codes
   type: IANA
   primary: true
-- id: PAWS/ERROR-CODES
-  type: IANA
+- id: PAWS__ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: paws/error-codes
 date:

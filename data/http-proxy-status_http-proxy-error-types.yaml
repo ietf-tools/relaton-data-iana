@@ -11,8 +11,8 @@ docid:
 - id: IANA http-proxy-status/http-proxy-error-types
   type: IANA
   primary: true
-- id: HTTP-PROXY-STATUS/HTTP-PROXY-ERROR-TYPES
-  type: IANA
+- id: HTTP-PROXY-STATUS__HTTP-PROXY-ERROR-TYPES
+  type: IETF
   scope: anchor
 docnumber: http-proxy-status/http-proxy-error-types
 date:

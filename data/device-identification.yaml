@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DEVICE-IDENTIFICATION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: device-identification
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA prophet/rib-tlv-flags
   type: IANA
   primary: true
-- id: PROPHET/RIB-TLV-FLAGS
-  type: IANA
+- id: PROPHET__RIB-TLV-FLAGS
+  type: IETF
   scope: anchor
 docnumber: prophet/rib-tlv-flags
 date:

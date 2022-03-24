@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANA-DNS-CLASS-RR-TYPE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: iana-dns-class-rr-type
 date:

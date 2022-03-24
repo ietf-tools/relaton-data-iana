@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: XCAP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: xcap-parameters
 date:

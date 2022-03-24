@@ -11,8 +11,8 @@ docid:
 - id: IANA dns-parameters/underscored-globally-scoped-dns-node-names
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/UNDERSCORED-GLOBALLY-SCOPED-DNS-NODE-NAMES
-  type: IANA
+- id: DNS-PARAMETERS__UNDERSCORED-GLOBALLY-SCOPED-DNS-NODE-NAMES
+  type: IETF
   scope: anchor
 docnumber: dns-parameters/underscored-globally-scoped-dns-node-names
 date:

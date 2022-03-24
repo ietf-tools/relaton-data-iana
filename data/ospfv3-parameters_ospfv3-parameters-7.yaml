@@ -11,8 +11,8 @@ docid:
 - id: IANA ospfv3-parameters/ospfv3-parameters-7
   type: IANA
   primary: true
-- id: OSPFV3-PARAMETERS/OSPFV3-PARAMETERS-7
-  type: IANA
+- id: OSPFV3-PARAMETERS__OSPFV3-PARAMETERS-7
+  type: IETF
   scope: anchor
 docnumber: ospfv3-parameters/ospfv3-parameters-7
 date:

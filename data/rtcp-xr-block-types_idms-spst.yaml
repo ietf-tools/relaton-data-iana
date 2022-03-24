@@ -11,8 +11,8 @@ docid:
 - id: IANA rtcp-xr-block-types/idms-spst
   type: IANA
   primary: true
-- id: RTCP-XR-BLOCK-TYPES/IDMS-SPST
-  type: IANA
+- id: RTCP-XR-BLOCK-TYPES__IDMS-SPST
+  type: IETF
   scope: anchor
 docnumber: rtcp-xr-block-types/idms-spst
 date:

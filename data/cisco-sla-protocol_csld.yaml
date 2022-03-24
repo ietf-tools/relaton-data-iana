@@ -11,8 +11,8 @@ docid:
 - id: IANA cisco-sla-protocol/csld
   type: IANA
   primary: true
-- id: CISCO-SLA-PROTOCOL/CSLD
-  type: IANA
+- id: CISCO-SLA-PROTOCOL__CSLD
+  type: IETF
   scope: anchor
 docnumber: cisco-sla-protocol/csld
 date:

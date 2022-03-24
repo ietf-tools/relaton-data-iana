@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GSS-API-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gss-api-parameters
 date:

@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: GSSAPI-SERVICE-NAMES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gssapi-service-names
 date:

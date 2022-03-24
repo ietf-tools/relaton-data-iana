@@ -11,8 +11,8 @@ docid:
 - id: IANA tcp-parameters/mptcp-mp-tcprst-reason-codes
   type: IANA
   primary: true
-- id: TCP-PARAMETERS/MPTCP-MP-TCPRST-REASON-CODES
-  type: IANA
+- id: TCP-PARAMETERS__MPTCP-MP-TCPRST-REASON-CODES
+  type: IETF
   scope: anchor
 docnumber: tcp-parameters/mptcp-mp-tcprst-reason-codes
 date:

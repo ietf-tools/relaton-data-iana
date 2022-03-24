@@ -11,8 +11,8 @@ docid:
 - id: IANA netnews-parameters/cancel-lock-hash-algorithms
   type: IANA
   primary: true
-- id: NETNEWS-PARAMETERS/CANCEL-LOCK-HASH-ALGORITHMS
-  type: IANA
+- id: NETNEWS-PARAMETERS__CANCEL-LOCK-HASH-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: netnews-parameters/cancel-lock-hash-algorithms
 date:

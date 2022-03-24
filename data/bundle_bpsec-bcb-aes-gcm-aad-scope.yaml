@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/bpsec-bcb-aes-gcm-aad-scope
   type: IANA
   primary: true
-- id: BUNDLE/BPSEC-BCB-AES-GCM-AAD-SCOPE
-  type: IANA
+- id: BUNDLE__BPSEC-BCB-AES-GCM-AAD-SCOPE
+  type: IETF
   scope: anchor
 docnumber: bundle/bpsec-bcb-aes-gcm-aad-scope
 date:

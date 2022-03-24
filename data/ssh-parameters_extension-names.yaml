@@ -11,8 +11,8 @@ docid:
 - id: IANA ssh-parameters/extension-names
   type: IANA
   primary: true
-- id: SSH-PARAMETERS/EXTENSION-NAMES
-  type: IANA
+- id: SSH-PARAMETERS__EXTENSION-NAMES
+  type: IETF
   scope: anchor
 docnumber: ssh-parameters/extension-names
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NAMED-INFORMATION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: named-information
 date:

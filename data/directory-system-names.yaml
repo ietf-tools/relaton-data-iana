@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DIRECTORY-SYSTEM-NAMES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: directory-system-names
 date:

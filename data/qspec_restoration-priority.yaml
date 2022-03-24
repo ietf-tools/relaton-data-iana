@@ -11,8 +11,8 @@ docid:
 - id: IANA qspec/restoration-priority
   type: IANA
   primary: true
-- id: QSPEC/RESTORATION-PRIORITY
-  type: IANA
+- id: QSPEC__RESTORATION-PRIORITY
+  type: IETF
   scope: anchor
 docnumber: qspec/restoration-priority
 date:

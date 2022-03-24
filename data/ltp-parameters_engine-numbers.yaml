@@ -11,8 +11,8 @@ docid:
 - id: IANA ltp-parameters/engine-numbers
   type: IANA
   primary: true
-- id: LTP-PARAMETERS/ENGINE-NUMBERS
-  type: IANA
+- id: LTP-PARAMETERS__ENGINE-NUMBERS
+  type: IETF
   scope: anchor
 docnumber: ltp-parameters/engine-numbers
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA trailer-types/trailer-types-1
   type: IANA
   primary: true
-- id: TRAILER-TYPES/TRAILER-TYPES-1
-  type: IANA
+- id: TRAILER-TYPES__TRAILER-TYPES-1
+  type: IETF
   scope: anchor
 docnumber: trailer-types/trailer-types-1
 date:

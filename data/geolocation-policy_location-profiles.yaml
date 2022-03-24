@@ -11,8 +11,8 @@ docid:
 - id: IANA geolocation-policy/location-profiles
   type: IANA
   primary: true
-- id: GEOLOCATION-POLICY/LOCATION-PROFILES
-  type: IANA
+- id: GEOLOCATION-POLICY__LOCATION-PROFILES
+  type: IETF
   scope: anchor
 docnumber: geolocation-policy/location-profiles
 date:

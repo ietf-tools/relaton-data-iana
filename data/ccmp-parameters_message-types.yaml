@@ -11,8 +11,8 @@ docid:
 - id: IANA ccmp-parameters/message-types
   type: IANA
   primary: true
-- id: CCMP-PARAMETERS/MESSAGE-TYPES
-  type: IANA
+- id: CCMP-PARAMETERS__MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: ccmp-parameters/message-types
 date:

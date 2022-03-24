@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/diagnostic-kind-id
   type: IANA
   primary: true
-- id: RELOAD/DIAGNOSTIC-KIND-ID
-  type: IANA
+- id: RELOAD__DIAGNOSTIC-KIND-ID
+  type: IETF
   scope: anchor
 docnumber: reload/diagnostic-kind-id
 date:

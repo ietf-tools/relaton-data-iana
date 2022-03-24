@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/of
   type: IANA
   primary: true
-- id: PCEP/OF
-  type: IANA
+- id: PCEP__OF
+  type: IETF
   scope: anchor
 docnumber: pcep/of
 date:

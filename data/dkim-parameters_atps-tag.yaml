@@ -11,8 +11,8 @@ docid:
 - id: IANA dkim-parameters/atps-tag
   type: IANA
   primary: true
-- id: DKIM-PARAMETERS/ATPS-TAG
-  type: IANA
+- id: DKIM-PARAMETERS__ATPS-TAG
+  type: IETF
   scope: anchor
 docnumber: dkim-parameters/atps-tag
 date:

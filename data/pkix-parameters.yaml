@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PKIX-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pkix-parameters
 date:

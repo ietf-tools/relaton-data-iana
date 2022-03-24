@@ -11,8 +11,8 @@ docid:
 - id: IANA isis-tlv-codepoints/app-ids-251
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/APP-IDS-251
-  type: IANA
+- id: ISIS-TLV-CODEPOINTS__APP-IDS-251
+  type: IETF
   scope: anchor
 docnumber: isis-tlv-codepoints/app-ids-251
 date:

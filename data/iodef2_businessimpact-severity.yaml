@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/businessimpact-severity
   type: IANA
   primary: true
-- id: IODEF2/BUSINESSIMPACT-SEVERITY
-  type: IANA
+- id: IODEF2__BUSINESSIMPACT-SEVERITY
+  type: IETF
   scope: anchor
 docnumber: iodef2/businessimpact-severity
 date:

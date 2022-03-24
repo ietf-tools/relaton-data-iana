@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TEL-URI-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: tel-uri-parameters
 date:

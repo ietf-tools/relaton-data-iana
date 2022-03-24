@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/hash-functions
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/HASH-FUNCTIONS
-  type: IANA
+- id: MANET-PARAMETERS__HASH-FUNCTIONS
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/hash-functions
 date:

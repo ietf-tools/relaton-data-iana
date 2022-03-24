@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-eke/pseudo-random
   type: IANA
   primary: true
-- id: EAP-EKE/PSEUDO-RANDOM
-  type: IANA
+- id: EAP-EKE__PSEUDO-RANDOM
+  type: IETF
   scope: anchor
 docnumber: eap-eke/pseudo-random
 date:

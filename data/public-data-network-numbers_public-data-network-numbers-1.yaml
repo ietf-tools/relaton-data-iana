@@ -11,8 +11,8 @@ docid:
 - id: IANA public-data-network-numbers/public-data-network-numbers-1
   type: IANA
   primary: true
-- id: PUBLIC-DATA-NETWORK-NUMBERS/PUBLIC-DATA-NETWORK-NUMBERS-1
-  type: IANA
+- id: PUBLIC-DATA-NETWORK-NUMBERS__PUBLIC-DATA-NETWORK-NUMBERS-1
+  type: IETF
   scope: anchor
 docnumber: public-data-network-numbers/public-data-network-numbers-1
 date:

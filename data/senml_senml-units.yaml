@@ -11,8 +11,8 @@ docid:
 - id: IANA senml/senml-units
   type: IANA
   primary: true
-- id: SENML/SENML-UNITS
-  type: IANA
+- id: SENML__SENML-UNITS
+  type: IETF
   scope: anchor
 docnumber: senml/senml-units
 date:

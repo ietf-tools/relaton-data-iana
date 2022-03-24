@@ -11,8 +11,8 @@ docid:
 - id: IANA ip-parameters/ipv4-router-alert-option-values
   type: IANA
   primary: true
-- id: IP-PARAMETERS/IPV4-ROUTER-ALERT-OPTION-VALUES
-  type: IANA
+- id: IP-PARAMETERS__IPV4-ROUTER-ALERT-OPTION-VALUES
+  type: IETF
   scope: anchor
 docnumber: ip-parameters/ipv4-router-alert-option-values
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA xmlers/time-stamp-token
   type: IANA
   primary: true
-- id: XMLERS/TIME-STAMP-TOKEN
-  type: IANA
+- id: XMLERS__TIME-STAMP-TOKEN
+  type: IETF
   scope: anchor
 docnumber: xmlers/time-stamp-token
 date:

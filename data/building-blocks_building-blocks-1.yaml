@@ -11,8 +11,8 @@ docid:
 - id: IANA building-blocks/building-blocks-1
   type: IANA
   primary: true
-- id: BUILDING-BLOCKS/BUILDING-BLOCKS-1
-  type: IANA
+- id: BUILDING-BLOCKS__BUILDING-BLOCKS-1
+  type: IETF
   scope: anchor
 docnumber: building-blocks/building-blocks-1
 date:

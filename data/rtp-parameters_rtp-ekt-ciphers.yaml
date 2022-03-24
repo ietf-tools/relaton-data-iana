@@ -11,8 +11,8 @@ docid:
 - id: IANA rtp-parameters/rtp-ekt-ciphers
   type: IANA
   primary: true
-- id: RTP-PARAMETERS/RTP-EKT-CIPHERS
-  type: IANA
+- id: RTP-PARAMETERS__RTP-EKT-CIPHERS
+  type: IETF
   scope: anchor
 docnumber: rtp-parameters/rtp-ekt-ciphers
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/srp-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/SRP-OBJECT-FLAG-FIELD
-  type: IANA
+- id: PCEP__SRP-OBJECT-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/srp-object-flag-field
 date:

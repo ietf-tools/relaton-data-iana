@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SPI-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: spi-numbers
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANA-CRYPT-HASH
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: iana-crypt-hash
 date:

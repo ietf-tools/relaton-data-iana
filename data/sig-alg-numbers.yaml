@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SIG-ALG-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sig-alg-numbers
 date:

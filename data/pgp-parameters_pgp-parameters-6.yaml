@@ -11,8 +11,8 @@ docid:
 - id: IANA pgp-parameters/pgp-parameters-6
   type: IANA
   primary: true
-- id: PGP-PARAMETERS/PGP-PARAMETERS-6
-  type: IANA
+- id: PGP-PARAMETERS__PGP-PARAMETERS-6
+  type: IETF
   scope: anchor
 docnumber: pgp-parameters/pgp-parameters-6
 date:

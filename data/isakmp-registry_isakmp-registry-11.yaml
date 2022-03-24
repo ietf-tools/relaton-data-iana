@@ -11,8 +11,8 @@ docid:
 - id: IANA isakmp-registry/isakmp-registry-11
   type: IANA
   primary: true
-- id: ISAKMP-REGISTRY/ISAKMP-REGISTRY-11
-  type: IANA
+- id: ISAKMP-REGISTRY__ISAKMP-REGISTRY-11
+  type: IETF
   scope: anchor
 docnumber: isakmp-registry/isakmp-registry-11
 date:

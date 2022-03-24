@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CRYPTO-SUITES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: crypto-suites
 date:

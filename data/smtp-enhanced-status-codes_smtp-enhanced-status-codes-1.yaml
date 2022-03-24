@@ -11,8 +11,8 @@ docid:
 - id: IANA smtp-enhanced-status-codes/smtp-enhanced-status-codes-1
   type: IANA
   primary: true
-- id: SMTP-ENHANCED-STATUS-CODES/SMTP-ENHANCED-STATUS-CODES-1
-  type: IANA
+- id: SMTP-ENHANCED-STATUS-CODES__SMTP-ENHANCED-STATUS-CODES-1
+  type: IETF
   scope: anchor
 docnumber: smtp-enhanced-status-codes/smtp-enhanced-status-codes-1
 date:

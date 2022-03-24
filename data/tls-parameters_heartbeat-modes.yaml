@@ -11,8 +11,8 @@ docid:
 - id: IANA tls-parameters/heartbeat-modes
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/HEARTBEAT-MODES
-  type: IANA
+- id: TLS-PARAMETERS__HEARTBEAT-MODES
+  type: IETF
   scope: anchor
 docnumber: tls-parameters/heartbeat-modes
 date:

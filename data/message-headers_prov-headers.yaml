@@ -11,8 +11,8 @@ docid:
 - id: IANA message-headers/prov-headers
   type: IANA
   primary: true
-- id: MESSAGE-HEADERS/PROV-HEADERS
-  type: IANA
+- id: MESSAGE-HEADERS__PROV-HEADERS
+  type: IETF
   scope: anchor
 docnumber: message-headers/prov-headers
 date:

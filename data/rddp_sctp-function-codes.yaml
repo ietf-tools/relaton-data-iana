@@ -11,8 +11,8 @@ docid:
 - id: IANA rddp/sctp-function-codes
   type: IANA
   primary: true
-- id: RDDP/SCTP-FUNCTION-CODES
-  type: IANA
+- id: RDDP__SCTP-FUNCTION-CODES
+  type: IETF
   scope: anchor
 docnumber: rddp/sctp-function-codes
 date:

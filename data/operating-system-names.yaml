@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OPERATING-SYSTEM-NAMES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: operating-system-names
 date:

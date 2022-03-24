@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-shared-extension-message-type-sub-types
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-SHARED-EXTENSION-MESSAGE-TYPE-SUB-TYPES
-  type: IANA
+- id: LISP-PARAMETERS__LISP-SHARED-EXTENSION-MESSAGE-TYPE-SUB-TYPES
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-shared-extension-message-type-sub-types
 date:

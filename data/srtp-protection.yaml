@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: SRTP-PROTECTION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: srtp-protection
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA rsvp-parameters/rsvp-parameters-119
   type: IANA
   primary: true
-- id: RSVP-PARAMETERS/RSVP-PARAMETERS-119
-  type: IANA
+- id: RSVP-PARAMETERS__RSVP-PARAMETERS-119
+  type: IETF
   scope: anchor
 docnumber: rsvp-parameters/rsvp-parameters-119
 date:

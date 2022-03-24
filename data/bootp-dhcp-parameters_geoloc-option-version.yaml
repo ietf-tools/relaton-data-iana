@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/geoloc-option-version
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/GEOLOC-OPTION-VERSION
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__GEOLOC-OPTION-VERSION
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/geoloc-option-version
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA pnfs-layout-types/pnfs-layout-types-1
   type: IANA
   primary: true
-- id: PNFS-LAYOUT-TYPES/PNFS-LAYOUT-TYPES-1
-  type: IANA
+- id: PNFS-LAYOUT-TYPES__PNFS-LAYOUT-TYPES-1
+  type: IETF
   scope: anchor
 docnumber: pnfs-layout-types/pnfs-layout-types-1
 date:

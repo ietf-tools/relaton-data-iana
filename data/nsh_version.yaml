@@ -11,8 +11,8 @@ docid:
 - id: IANA nsh/version
   type: IANA
   primary: true
-- id: NSH/VERSION
-  type: IANA
+- id: NSH__VERSION
+  type: IETF
   scope: anchor
 docnumber: nsh/version
 date:

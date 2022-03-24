@@ -11,8 +11,8 @@ docid:
 - id: IANA tesla-parameters/tesla-parameters-2
   type: IANA
   primary: true
-- id: TESLA-PARAMETERS/TESLA-PARAMETERS-2
-  type: IANA
+- id: TESLA-PARAMETERS__TESLA-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: tesla-parameters/tesla-parameters-2
 date:

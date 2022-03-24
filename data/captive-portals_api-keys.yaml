@@ -11,8 +11,8 @@ docid:
 - id: IANA captive-portals/api-keys
   type: IANA
   primary: true
-- id: CAPTIVE-PORTALS/API-KEYS
-  type: IANA
+- id: CAPTIVE-PORTALS__API-KEYS
+  type: IETF
   scope: anchor
 docnumber: captive-portals/api-keys
 date:

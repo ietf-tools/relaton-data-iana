@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/datum
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/DATUM
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__DATUM
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/datum
 date:

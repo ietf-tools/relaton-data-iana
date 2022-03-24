@@ -11,8 +11,8 @@ docid:
 - id: IANA hoba-signature-algorithms/algorithm-names
   type: IANA
   primary: true
-- id: HOBA-SIGNATURE-ALGORITHMS/ALGORITHM-NAMES
-  type: IANA
+- id: HOBA-SIGNATURE-ALGORITHMS__ALGORITHM-NAMES
+  type: IETF
   scope: anchor
 docnumber: hoba-signature-algorithms/algorithm-names
 date:

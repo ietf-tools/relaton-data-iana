@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GEO-URI-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: geo-uri-parameters
 date:

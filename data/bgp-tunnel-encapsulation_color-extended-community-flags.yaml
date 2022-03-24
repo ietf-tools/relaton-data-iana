@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-tunnel-encapsulation/color-extended-community-flags
   type: IANA
   primary: true
-- id: BGP-TUNNEL-ENCAPSULATION/COLOR-EXTENDED-COMMUNITY-FLAGS
-  type: IANA
+- id: BGP-TUNNEL-ENCAPSULATION__COLOR-EXTENDED-COMMUNITY-FLAGS
+  type: IETF
   scope: anchor
 docnumber: bgp-tunnel-encapsulation/color-extended-community-flags
 date:

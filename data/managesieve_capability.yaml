@@ -11,8 +11,8 @@ docid:
 - id: IANA managesieve/capability
   type: IANA
   primary: true
-- id: MANAGESIEVE/CAPABILITY
-  type: IANA
+- id: MANAGESIEVE__CAPABILITY
+  type: IETF
   scope: anchor
 docnumber: managesieve/capability
 date:

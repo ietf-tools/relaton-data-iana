@@ -11,8 +11,8 @@ docid:
 - id: IANA media-types/text
   type: IANA
   primary: true
-- id: MEDIA-TYPES/TEXT
-  type: IANA
+- id: MEDIA-TYPES__TEXT
+  type: IETF
   scope: anchor
 docnumber: media-types/text
 date:

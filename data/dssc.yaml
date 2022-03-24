@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: DSSC
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dssc
 date:

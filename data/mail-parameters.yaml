@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MAIL-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mail-parameters
 date:

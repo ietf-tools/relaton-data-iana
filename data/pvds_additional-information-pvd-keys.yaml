@@ -11,8 +11,8 @@ docid:
 - id: IANA pvds/additional-information-pvd-keys
   type: IANA
   primary: true
-- id: PVDS/ADDITIONAL-INFORMATION-PVD-KEYS
-  type: IANA
+- id: PVDS__ADDITIONAL-INFORMATION-PVD-KEYS
+  type: IETF
   scope: anchor
 docnumber: pvds/additional-information-pvd-keys
 date:

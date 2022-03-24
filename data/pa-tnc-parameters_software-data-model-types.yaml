@@ -11,8 +11,8 @@ docid:
 - id: IANA pa-tnc-parameters/software-data-model-types
   type: IANA
   primary: true
-- id: PA-TNC-PARAMETERS/SOFTWARE-DATA-MODEL-TYPES
-  type: IANA
+- id: PA-TNC-PARAMETERS__SOFTWARE-DATA-MODEL-TYPES
+  type: IETF
   scope: anchor
 docnumber: pa-tnc-parameters/software-data-model-types
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SEC-EXT-ENUM
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sec-ext-enum
 date:

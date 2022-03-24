@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/dhcp-support-mode
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/DHCP-SUPPORT-MODE
-  type: IANA
+- id: MOBILITY-PARAMETERS__DHCP-SUPPORT-MODE
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/dhcp-support-mode
 date:

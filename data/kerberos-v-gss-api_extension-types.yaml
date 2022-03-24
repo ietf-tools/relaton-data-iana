@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-v-gss-api/extension-types
   type: IANA
   primary: true
-- id: KERBEROS-V-GSS-API/EXTENSION-TYPES
-  type: IANA
+- id: KERBEROS-V-GSS-API__EXTENSION-TYPES
+  type: IETF
   scope: anchor
 docnumber: kerberos-v-gss-api/extension-types
 date:

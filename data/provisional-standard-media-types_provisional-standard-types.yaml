@@ -11,8 +11,8 @@ docid:
 - id: IANA provisional-standard-media-types/provisional-standard-types
   type: IANA
   primary: true
-- id: PROVISIONAL-STANDARD-MEDIA-TYPES/PROVISIONAL-STANDARD-TYPES
-  type: IANA
+- id: PROVISIONAL-STANDARD-MEDIA-TYPES__PROVISIONAL-STANDARD-TYPES
+  type: IETF
   scope: anchor
 docnumber: provisional-standard-media-types/provisional-standard-types
 date:

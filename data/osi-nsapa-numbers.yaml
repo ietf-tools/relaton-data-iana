@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: OSI-NSAPA-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: osi-nsapa-numbers
 date:

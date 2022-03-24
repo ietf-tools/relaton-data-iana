@@ -11,8 +11,8 @@ docid:
 - id: IANA icmp-parameters/icmp-parameters-codes
   type: IANA
   primary: true
-- id: ICMP-PARAMETERS/ICMP-PARAMETERS-CODES
-  type: IANA
+- id: ICMP-PARAMETERS__ICMP-PARAMETERS-CODES
+  type: IETF
   scope: anchor
 docnumber: icmp-parameters/icmp-parameters-codes
 date:

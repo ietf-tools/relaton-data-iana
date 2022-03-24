@@ -11,8 +11,8 @@ docid:
 - id: IANA dlep-parameters/data-item-type-values
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/DATA-ITEM-TYPE-VALUES
-  type: IANA
+- id: DLEP-PARAMETERS__DATA-ITEM-TYPE-VALUES
+  type: IETF
   scope: anchor
 docnumber: dlep-parameters/data-item-type-values
 date:

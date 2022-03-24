@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/message-extensions
   type: IANA
   primary: true
-- id: RELOAD/MESSAGE-EXTENSIONS
-  type: IANA
+- id: RELOAD__MESSAGE-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: reload/message-extensions
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ppp-numbers/ppp-numbers-32
   type: IANA
   primary: true
-- id: PPP-NUMBERS/PPP-NUMBERS-32
-  type: IANA
+- id: PPP-NUMBERS__PPP-NUMBERS-32
+  type: IETF
   scope: anchor
 docnumber: ppp-numbers/ppp-numbers-32
 date:

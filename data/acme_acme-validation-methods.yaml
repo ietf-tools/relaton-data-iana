@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-validation-methods
   type: IANA
   primary: true
-- id: ACME/ACME-VALIDATION-METHODS
-  type: IANA
+- id: ACME__ACME-VALIDATION-METHODS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-validation-methods
 date:

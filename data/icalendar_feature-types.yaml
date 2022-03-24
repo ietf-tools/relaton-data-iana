@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/feature-types
   type: IANA
   primary: true
-- id: ICALENDAR/FEATURE-TYPES
-  type: IANA
+- id: ICALENDAR__FEATURE-TYPES
+  type: IETF
   scope: anchor
 docnumber: icalendar/feature-types
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/pw-status-refresh-reduction-notification-codes
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/PW-STATUS-REFRESH-REDUCTION-NOTIFICATION-CODES
-  type: IANA
+- id: PWE3-PARAMETERS__PW-STATUS-REFRESH-REDUCTION-NOTIFICATION-CODES
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/pw-status-refresh-reduction-notification-codes
 date:

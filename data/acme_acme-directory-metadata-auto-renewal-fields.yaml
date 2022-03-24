@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-directory-metadata-auto-renewal-fields
   type: IANA
   primary: true
-- id: ACME/ACME-DIRECTORY-METADATA-AUTO-RENEWAL-FIELDS
-  type: IANA
+- id: ACME__ACME-DIRECTORY-METADATA-AUTO-RENEWAL-FIELDS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-directory-metadata-auto-renewal-fields
 date:

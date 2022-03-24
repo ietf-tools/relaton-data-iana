@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: AMTRELAY-RESOURCE-RECORD
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: amtrelay-resource-record
 date:

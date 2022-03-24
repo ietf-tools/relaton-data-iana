@@ -11,8 +11,8 @@ docid:
 - id: IANA tcp-parameters/tcpcrypt-aead-algorithms
   type: IANA
   primary: true
-- id: TCP-PARAMETERS/TCPCRYPT-AEAD-ALGORITHMS
-  type: IANA
+- id: TCP-PARAMETERS__TCPCRYPT-AEAD-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: tcp-parameters/tcpcrypt-aead-algorithms
 date:

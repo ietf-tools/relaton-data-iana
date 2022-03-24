@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CONT-DISP
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cont-disp
 date:

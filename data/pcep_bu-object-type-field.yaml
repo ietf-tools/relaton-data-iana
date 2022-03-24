@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/bu-object-type-field
   type: IANA
   primary: true
-- id: PCEP/BU-OBJECT-TYPE-FIELD
-  type: IANA
+- id: PCEP__BU-OBJECT-TYPE-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/bu-object-type-field
 date:

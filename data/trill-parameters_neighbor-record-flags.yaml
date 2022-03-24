@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/neighbor-record-flags
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/NEIGHBOR-RECORD-FLAGS
-  type: IANA
+- id: TRILL-PARAMETERS__NEIGHBOR-RECORD-FLAGS
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/neighbor-record-flags
 date:

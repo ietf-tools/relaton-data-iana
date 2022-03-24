@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TE-LINK-CAPABILITIES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: te-link-capabilities
 date:

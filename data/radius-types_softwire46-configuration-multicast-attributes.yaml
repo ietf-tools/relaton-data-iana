@@ -11,8 +11,8 @@ docid:
 - id: IANA radius-types/softwire46-configuration-multicast-attributes
   type: IANA
   primary: true
-- id: RADIUS-TYPES/SOFTWIRE46-CONFIGURATION-MULTICAST-ATTRIBUTES
-  type: IANA
+- id: RADIUS-TYPES__SOFTWIRE46-CONFIGURATION-MULTICAST-ATTRIBUTES
+  type: IETF
   scope: anchor
 docnumber: radius-types/softwire46-configuration-multicast-attributes
 date:

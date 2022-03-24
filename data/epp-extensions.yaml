@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: EPP-EXTENSIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: epp-extensions
 date:

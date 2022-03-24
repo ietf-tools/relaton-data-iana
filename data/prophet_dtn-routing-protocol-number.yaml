@@ -11,8 +11,8 @@ docid:
 - id: IANA prophet/dtn-routing-protocol-number
   type: IANA
   primary: true
-- id: PROPHET/DTN-ROUTING-PROTOCOL-NUMBER
-  type: IANA
+- id: PROPHET__DTN-ROUTING-PROTOCOL-NUMBER
+  type: IETF
   scope: anchor
 docnumber: prophet/dtn-routing-protocol-number
 date:

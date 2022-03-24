@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: URI-SCHEMES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: uri-schemes
 date:

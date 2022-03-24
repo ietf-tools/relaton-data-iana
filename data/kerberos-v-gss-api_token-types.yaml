@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-v-gss-api/token-types
   type: IANA
   primary: true
-- id: KERBEROS-V-GSS-API/TOKEN-TYPES
-  type: IANA
+- id: KERBEROS-V-GSS-API__TOKEN-TYPES
+  type: IETF
   scope: anchor
 docnumber: kerberos-v-gss-api/token-types
 date:

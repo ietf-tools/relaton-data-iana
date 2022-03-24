@@ -11,8 +11,8 @@ docid:
 - id: IANA http-cache-status/http-cache-status
   type: IANA
   primary: true
-- id: HTTP-CACHE-STATUS/HTTP-CACHE-STATUS
-  type: IANA
+- id: HTTP-CACHE-STATUS__HTTP-CACHE-STATUS
+  type: IETF
   scope: anchor
 docnumber: http-cache-status/http-cache-status
 date:

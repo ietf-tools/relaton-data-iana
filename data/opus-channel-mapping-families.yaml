@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OPUS-CHANNEL-MAPPING-FAMILIES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: opus-channel-mapping-families
 date:

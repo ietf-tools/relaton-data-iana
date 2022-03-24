@@ -11,8 +11,8 @@ docid:
 - id: IANA smi-numbers/smi-numbers-62
   type: IANA
   primary: true
-- id: SMI-NUMBERS/SMI-NUMBERS-62
-  type: IANA
+- id: SMI-NUMBERS__SMI-NUMBERS-62
+  type: IETF
   scope: anchor
 docnumber: smi-numbers/smi-numbers-62
 date:

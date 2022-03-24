@@ -11,8 +11,8 @@ docid:
 - id: IANA mrcpv2-parameters/resource-types
   type: IANA
   primary: true
-- id: MRCPV2-PARAMETERS/RESOURCE-TYPES
-  type: IANA
+- id: MRCPV2-PARAMETERS__RESOURCE-TYPES
+  type: IETF
   scope: anchor
 docnumber: mrcpv2-parameters/resource-types
 date:

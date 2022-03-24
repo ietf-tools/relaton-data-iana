@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CXTP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cxtp-parameters
 date:

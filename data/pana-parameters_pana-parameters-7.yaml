@@ -11,8 +11,8 @@ docid:
 - id: IANA pana-parameters/pana-parameters-7
   type: IANA
   primary: true
-- id: PANA-PARAMETERS/PANA-PARAMETERS-7
-  type: IANA
+- id: PANA-PARAMETERS__PANA-PARAMETERS-7
+  type: IETF
   scope: anchor
 docnumber: pana-parameters/pana-parameters-7
 date:

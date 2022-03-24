@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-error-object
   type: IANA
   primary: true
-- id: PCEP/PCEP-ERROR-OBJECT
-  type: IANA
+- id: PCEP__PCEP-ERROR-OBJECT
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-error-object
 date:

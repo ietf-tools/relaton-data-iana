@@ -11,8 +11,8 @@ docid:
 - id: IANA g-ach-parameters/loss-delay-measurement-tlv
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/LOSS-DELAY-MEASUREMENT-TLV
-  type: IANA
+- id: G-ACH-PARAMETERS__LOSS-DELAY-MEASUREMENT-TLV
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/loss-delay-measurement-tlv
 date:

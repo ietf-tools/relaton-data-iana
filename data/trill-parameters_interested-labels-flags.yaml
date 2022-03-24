@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/interested-labels-flags
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/INTERESTED-LABELS-FLAGS
-  type: IANA
+- id: TRILL-PARAMETERS__INTERESTED-LABELS-FLAGS
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/interested-labels-flags
 date:

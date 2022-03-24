@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/psn-tunnel-sub-tlv
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/PSN-TUNNEL-SUB-TLV
-  type: IANA
+- id: PWE3-PARAMETERS__PSN-TUNNEL-SUB-TLV
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/psn-tunnel-sub-tlv
 date:

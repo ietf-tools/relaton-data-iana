@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RTP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rtp-parameters
 date:

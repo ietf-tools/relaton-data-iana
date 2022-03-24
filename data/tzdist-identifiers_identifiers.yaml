@@ -11,8 +11,8 @@ docid:
 - id: IANA tzdist-identifiers/identifiers
   type: IANA
   primary: true
-- id: TZDIST-IDENTIFIERS/IDENTIFIERS
-  type: IANA
+- id: TZDIST-IDENTIFIERS__IDENTIFIERS
+  type: IETF
   scope: anchor
 docnumber: tzdist-identifiers/identifiers
 date:

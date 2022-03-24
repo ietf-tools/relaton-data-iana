@@ -11,8 +11,8 @@ docid:
 - id: IANA stun-parameters/turn-channel
   type: IANA
   primary: true
-- id: STUN-PARAMETERS/TURN-CHANNEL
-  type: IANA
+- id: STUN-PARAMETERS__TURN-CHANNEL
+  type: IETF
   scope: anchor
 docnumber: stun-parameters/turn-channel
 date:

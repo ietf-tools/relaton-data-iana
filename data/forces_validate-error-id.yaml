@@ -11,8 +11,8 @@ docid:
 - id: IANA forces/validate-error-id
   type: IANA
   primary: true
-- id: FORCES/VALIDATE-ERROR-ID
-  type: IANA
+- id: FORCES__VALIDATE-ERROR-ID
+  type: IETF
   scope: anchor
 docnumber: forces/validate-error-id
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA rtp-parameters/rtp-parameters-4
   type: IANA
   primary: true
-- id: RTP-PARAMETERS/RTP-PARAMETERS-4
-  type: IANA
+- id: RTP-PARAMETERS__RTP-PARAMETERS-4
+  type: IETF
   scope: anchor
 docnumber: rtp-parameters/rtp-parameters-4
 date:

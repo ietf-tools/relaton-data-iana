@@ -11,8 +11,8 @@ docid:
 - id: IANA cdni-parameters/error-codes
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/ERROR-CODES
-  type: IANA
+- id: CDNI-PARAMETERS__ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: cdni-parameters/error-codes
 date:

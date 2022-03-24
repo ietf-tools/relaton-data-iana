@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RMT-FEC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rmt-fec-parameters
 date:

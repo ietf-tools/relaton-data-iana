@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/relay-agent-sub-options
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/RELAY-AGENT-SUB-OPTIONS
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__RELAY-AGENT-SUB-OPTIONS
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/relay-agent-sub-options
 date:

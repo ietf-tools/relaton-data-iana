@@ -11,8 +11,8 @@ docid:
 - id: IANA websocket/version-number
   type: IANA
   primary: true
-- id: WEBSOCKET/VERSION-NUMBER
-  type: IANA
+- id: WEBSOCKET__VERSION-NUMBER
+  type: IETF
   scope: anchor
 docnumber: websocket/version-number
 date:

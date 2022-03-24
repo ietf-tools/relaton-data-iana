@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LANG-SUBTAGS-TEMPLATES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: lang-subtags-templates
 date:

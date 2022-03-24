@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TZDIST-IDENTIFIERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: tzdist-identifiers
 date:

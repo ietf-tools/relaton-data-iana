@@ -11,8 +11,8 @@ docid:
 - id: IANA fcast/format
   type: IANA
   primary: true
-- id: FCAST/FORMAT
-  type: IANA
+- id: FCAST__FORMAT
+  type: IETF
   scope: anchor
 docnumber: fcast/format
 date:

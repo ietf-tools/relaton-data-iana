@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NFSV4-NAMED-ATTRIBUTES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: nfsv4-named-attributes
 date:

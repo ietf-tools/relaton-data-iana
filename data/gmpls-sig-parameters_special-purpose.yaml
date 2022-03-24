@@ -11,8 +11,8 @@ docid:
 - id: IANA gmpls-sig-parameters/special-purpose
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/SPECIAL-PURPOSE
-  type: IANA
+- id: GMPLS-SIG-PARAMETERS__SPECIAL-PURPOSE
+  type: IETF
   scope: anchor
 docnumber: gmpls-sig-parameters/special-purpose
 date:

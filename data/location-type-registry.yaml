@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LOCATION-TYPE-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: location-type-registry
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: FOOBAR-AF-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: foobar-af-numbers
 date:

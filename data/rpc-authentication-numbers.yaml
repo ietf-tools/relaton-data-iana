@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RPC-AUTHENTICATION-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rpc-authentication-numbers
 date:

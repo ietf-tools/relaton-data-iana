@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: URN-SERVICEID-LABELS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: urn-serviceid-labels
 date:

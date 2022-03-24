@@ -11,8 +11,8 @@ docid:
 - id: IANA eappotp-identifiers/eappotp-identifiers-6
   type: IANA
   primary: true
-- id: EAPPOTP-IDENTIFIERS/EAPPOTP-IDENTIFIERS-6
-  type: IANA
+- id: EAPPOTP-IDENTIFIERS__EAPPOTP-IDENTIFIERS-6
+  type: IETF
   scope: anchor
 docnumber: eappotp-identifiers/eappotp-identifiers-6
 date:

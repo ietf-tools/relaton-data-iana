@@ -11,8 +11,8 @@ docid:
 - id: IANA media-types/font
   type: IANA
   primary: true
-- id: MEDIA-TYPES/FONT
-  type: IANA
+- id: MEDIA-TYPES__FONT
+  type: IETF
   scope: anchor
 docnumber: media-types/font
 date:

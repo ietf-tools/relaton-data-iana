@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MULTICAST-ACQUISITION
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: multicast-acquisition
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HOBA-SIGNATURE-ALGORITHMS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: hoba-signature-algorithms
 date:

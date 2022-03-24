@@ -11,8 +11,8 @@ docid:
 - id: IANA calipso/calipso-2
   type: IANA
   primary: true
-- id: CALIPSO/CALIPSO-2
-  type: IANA
+- id: CALIPSO__CALIPSO-2
+  type: IETF
   scope: anchor
 docnumber: calipso/calipso-2
 date:

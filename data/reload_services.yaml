@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/services
   type: IANA
   primary: true
-- id: RELOAD/SERVICES
-  type: IANA
+- id: RELOAD__SERVICES
+  type: IETF
   scope: anchor
 docnumber: reload/services
 date:

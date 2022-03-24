@@ -11,8 +11,8 @@ docid:
 - id: IANA http-parameters/preferences
   type: IANA
   primary: true
-- id: HTTP-PARAMETERS/PREFERENCES
-  type: IANA
+- id: HTTP-PARAMETERS__PREFERENCES
+  type: IETF
   scope: anchor
 docnumber: http-parameters/preferences
 date:

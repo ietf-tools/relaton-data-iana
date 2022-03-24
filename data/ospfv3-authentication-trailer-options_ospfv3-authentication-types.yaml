@@ -11,8 +11,8 @@ docid:
 - id: IANA ospfv3-authentication-trailer-options/ospfv3-authentication-types
   type: IANA
   primary: true
-- id: OSPFV3-AUTHENTICATION-TRAILER-OPTIONS/OSPFV3-AUTHENTICATION-TYPES
-  type: IANA
+- id: OSPFV3-AUTHENTICATION-TRAILER-OPTIONS__OSPFV3-AUTHENTICATION-TYPES
+  type: IETF
   scope: anchor
 docnumber: ospfv3-authentication-trailer-options/ospfv3-authentication-types
 date:

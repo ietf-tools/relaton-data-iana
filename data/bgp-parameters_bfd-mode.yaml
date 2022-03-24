@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/bfd-mode
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BFD-MODE
-  type: IANA
+- id: BGP-PARAMETERS__BFD-MODE
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/bfd-mode
 date:

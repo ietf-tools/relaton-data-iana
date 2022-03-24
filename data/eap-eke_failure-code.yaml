@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-eke/failure-code
   type: IANA
   primary: true
-- id: EAP-EKE/FAILURE-CODE
-  type: IANA
+- id: EAP-EKE__FAILURE-CODE
+  type: IETF
   scope: anchor
 docnumber: eap-eke/failure-code
 date:

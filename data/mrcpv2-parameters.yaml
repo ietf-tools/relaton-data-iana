@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MRCPV2-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mrcpv2-parameters
 date:

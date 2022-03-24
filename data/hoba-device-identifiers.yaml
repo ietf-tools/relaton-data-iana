@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HOBA-DEVICE-IDENTIFIERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: hoba-device-identifiers
 date:

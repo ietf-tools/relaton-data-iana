@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-parameters/transport-type
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/TRANSPORT-TYPE
-  type: IANA
+- id: KERBEROS-PARAMETERS__TRANSPORT-TYPE
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters/transport-type
 date:

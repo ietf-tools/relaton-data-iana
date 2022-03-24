@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-order-object-fields
   type: IANA
   primary: true
-- id: ACME/ACME-ORDER-OBJECT-FIELDS
-  type: IANA
+- id: ACME__ACME-ORDER-OBJECT-FIELDS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-order-object-fields
 date:

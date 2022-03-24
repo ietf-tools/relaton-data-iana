@@ -11,8 +11,8 @@ docid:
 - id: IANA ltp-parameters/client-service-ids
   type: IANA
   primary: true
-- id: LTP-PARAMETERS/CLIENT-SERVICE-IDS
-  type: IANA
+- id: LTP-PARAMETERS__CLIENT-SERVICE-IDS
+  type: IETF
   scope: anchor
 docnumber: ltp-parameters/client-service-ids
 date:

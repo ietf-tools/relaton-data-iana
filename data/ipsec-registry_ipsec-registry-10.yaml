@@ -11,8 +11,8 @@ docid:
 - id: IANA ipsec-registry/ipsec-registry-10
   type: IANA
   primary: true
-- id: IPSEC-REGISTRY/IPSEC-REGISTRY-10
-  type: IANA
+- id: IPSEC-REGISTRY__IPSEC-REGISTRY-10
+  type: IETF
   scope: anchor
 docnumber: ipsec-registry/ipsec-registry-10
 date:

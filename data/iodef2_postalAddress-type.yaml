@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/postalAddress-type
   type: IANA
   primary: true
-- id: IODEF2/POSTALADDRESS-TYPE
-  type: IANA
+- id: IODEF2__POSTALADDRESS-TYPE
+  type: IETF
   scope: anchor
 docnumber: iodef2/postalAddress-type
 date:

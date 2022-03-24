@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-numbers/eap-lower-layers
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-LOWER-LAYERS
-  type: IANA
+- id: EAP-NUMBERS__EAP-LOWER-LAYERS
+  type: IETF
   scope: anchor
 docnumber: eap-numbers/eap-lower-layers
 date:

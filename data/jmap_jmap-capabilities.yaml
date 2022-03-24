@@ -11,8 +11,8 @@ docid:
 - id: IANA jmap/jmap-capabilities
   type: IANA
   primary: true
-- id: JMAP/JMAP-CAPABILITIES
-  type: IANA
+- id: JMAP__JMAP-CAPABILITIES
+  type: IETF
   scope: anchor
 docnumber: jmap/jmap-capabilities
 date:

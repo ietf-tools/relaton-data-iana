@@ -11,8 +11,8 @@ docid:
 - id: IANA stun-parameters/stun-security-features
   type: IANA
   primary: true
-- id: STUN-PARAMETERS/STUN-SECURITY-FEATURES
-  type: IANA
+- id: STUN-PARAMETERS__STUN-SECURITY-FEATURES
+  type: IETF
   scope: anchor
 docnumber: stun-parameters/stun-security-features
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ccnx/ccnx-message-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-MESSAGE-TYPES
-  type: IANA
+- id: CCNX__CCNX-MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: ccnx/ccnx-message-types
 date:

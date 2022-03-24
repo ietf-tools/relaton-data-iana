@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-pax/eap-pax-3
   type: IANA
   primary: true
-- id: EAP-PAX/EAP-PAX-3
-  type: IANA
+- id: EAP-PAX__EAP-PAX-3
+  type: IETF
   scope: anchor
 docnumber: eap-pax/eap-pax-3
 date:

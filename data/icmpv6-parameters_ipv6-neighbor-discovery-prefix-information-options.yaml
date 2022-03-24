@@ -11,8 +11,8 @@ docid:
 - id: IANA icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
   type: IANA
   primary: true
-- id: ICMPV6-PARAMETERS/IPV6-NEIGHBOR-DISCOVERY-PREFIX-INFORMATION-OPTIONS
-  type: IANA
+- id: ICMPV6-PARAMETERS__IPV6-NEIGHBOR-DISCOVERY-PREFIX-INFORMATION-OPTIONS
+  type: IETF
   scope: anchor
 docnumber: icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
 date:

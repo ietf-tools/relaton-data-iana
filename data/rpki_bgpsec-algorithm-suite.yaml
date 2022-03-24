@@ -11,8 +11,8 @@ docid:
 - id: IANA rpki/bgpsec-algorithm-suite
   type: IANA
   primary: true
-- id: RPKI/BGPSEC-ALGORITHM-SUITE
-  type: IANA
+- id: RPKI__BGPSEC-ALGORITHM-SUITE
+  type: IETF
   scope: anchor
 docnumber: rpki/bgpsec-algorithm-suite
 date:

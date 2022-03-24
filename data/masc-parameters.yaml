@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MASC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: masc-parameters
 date:

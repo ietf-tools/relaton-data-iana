@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/relationship-types
   type: IANA
   primary: true
-- id: ICALENDAR/RELATIONSHIP-TYPES
-  type: IANA
+- id: ICALENDAR__RELATIONSHIP-TYPES
+  type: IETF
   scope: anchor
 docnumber: icalendar/relationship-types
 date:

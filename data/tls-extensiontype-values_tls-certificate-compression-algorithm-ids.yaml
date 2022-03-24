@@ -11,8 +11,8 @@ docid:
 - id: IANA tls-extensiontype-values/tls-certificate-compression-algorithm-ids
   type: IANA
   primary: true
-- id: TLS-EXTENSIONTYPE-VALUES/TLS-CERTIFICATE-COMPRESSION-ALGORITHM-IDS
-  type: IANA
+- id: TLS-EXTENSIONTYPE-VALUES__TLS-CERTIFICATE-COMPRESSION-ALGORITHM-IDS
+  type: IETF
   scope: anchor
 docnumber: tls-extensiontype-values/tls-certificate-compression-algorithm-ids
 date:

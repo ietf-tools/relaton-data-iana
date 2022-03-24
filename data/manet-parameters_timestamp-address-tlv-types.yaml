@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/timestamp-address-tlv-types
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/TIMESTAMP-ADDRESS-TLV-TYPES
-  type: IANA
+- id: MANET-PARAMETERS__TIMESTAMP-ADDRESS-TLV-TYPES
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/timestamp-address-tlv-types
 date:

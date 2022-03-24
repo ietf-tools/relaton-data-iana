@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/primary-version
   type: IANA
   primary: true
-- id: BUNDLE/PRIMARY-VERSION
-  type: IANA
+- id: BUNDLE__PRIMARY-VERSION
+  type: IETF
   scope: anchor
 docnumber: bundle/primary-version
 date:

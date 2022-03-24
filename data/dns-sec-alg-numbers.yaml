@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DNS-SEC-ALG-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dns-sec-alg-numbers
 date:

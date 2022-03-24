@@ -11,8 +11,8 @@ docid:
 - id: IANA hip-parameters/hi-algorithm
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HI-ALGORITHM
-  type: IANA
+- id: HIP-PARAMETERS__HI-ALGORITHM
+  type: IETF
   scope: anchor
 docnumber: hip-parameters/hi-algorithm
 date:

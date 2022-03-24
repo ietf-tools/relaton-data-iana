@@ -11,8 +11,8 @@ docid:
 - id: IANA webpush-parameters/identifiers
   type: IANA
   primary: true
-- id: WEBPUSH-PARAMETERS/IDENTIFIERS
-  type: IANA
+- id: WEBPUSH-PARAMETERS__IDENTIFIERS
+  type: IETF
   scope: anchor
 docnumber: webpush-parameters/identifiers
 date:

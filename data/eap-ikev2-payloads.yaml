@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: EAP-IKEV2-PAYLOADS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: eap-ikev2-payloads
 date:

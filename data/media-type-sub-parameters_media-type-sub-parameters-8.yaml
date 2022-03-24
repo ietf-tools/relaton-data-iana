@@ -11,8 +11,8 @@ docid:
 - id: IANA media-type-sub-parameters/media-type-sub-parameters-8
   type: IANA
   primary: true
-- id: MEDIA-TYPE-SUB-PARAMETERS/MEDIA-TYPE-SUB-PARAMETERS-8
-  type: IANA
+- id: MEDIA-TYPE-SUB-PARAMETERS__MEDIA-TYPE-SUB-PARAMETERS-8
+  type: IETF
   scope: anchor
 docnumber: media-type-sub-parameters/media-type-sub-parameters-8
 date:

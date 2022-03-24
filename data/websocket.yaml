@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: WEBSOCKET
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: websocket
 date:

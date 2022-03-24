@@ -11,8 +11,8 @@ docid:
 - id: IANA xml-registry/ns
   type: IANA
   primary: true
-- id: XML-REGISTRY/NS
-  type: IANA
+- id: XML-REGISTRY__NS
+  type: IETF
   scope: anchor
 docnumber: xml-registry/ns
 date:

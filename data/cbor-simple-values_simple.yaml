@@ -11,8 +11,8 @@ docid:
 - id: IANA cbor-simple-values/simple
   type: IANA
   primary: true
-- id: CBOR-SIMPLE-VALUES/SIMPLE
-  type: IANA
+- id: CBOR-SIMPLE-VALUES__SIMPLE
+  type: IETF
   scope: anchor
 docnumber: cbor-simple-values/simple
 date:

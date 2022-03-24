@@ -11,8 +11,8 @@ docid:
 - id: IANA caller-id-plans/caller-id-plans-1
   type: IANA
   primary: true
-- id: CALLER-ID-PLANS/CALLER-ID-PLANS-1
-  type: IANA
+- id: CALLER-ID-PLANS__CALLER-ID-PLANS-1
+  type: IETF
   scope: anchor
 docnumber: caller-id-plans/caller-id-plans-1
 date:

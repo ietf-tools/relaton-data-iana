@@ -11,8 +11,8 @@ docid:
 - id: IANA rddp/rdmap-message-operation
   type: IANA
   primary: true
-- id: RDDP/RDMAP-MESSAGE-OPERATION
-  type: IANA
+- id: RDDP__RDMAP-MESSAGE-OPERATION
+  type: IETF
   scope: anchor
 docnumber: rddp/rdmap-message-operation
 date:

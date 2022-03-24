@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ROHC-SUB-IDS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rohc-sub-ids
 date:

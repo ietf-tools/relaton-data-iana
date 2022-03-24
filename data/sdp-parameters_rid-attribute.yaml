@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/rid-attribute
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/RID-ATTRIBUTE
-  type: IANA
+- id: SDP-PARAMETERS__RID-ATTRIBUTE
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/rid-attribute
 date:

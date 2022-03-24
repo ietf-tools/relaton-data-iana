@@ -11,8 +11,8 @@ docid:
 - id: IANA mpls-multi-topology-parameters/multi-topology-ids
   type: IANA
   primary: true
-- id: MPLS-MULTI-TOPOLOGY-PARAMETERS/MULTI-TOPOLOGY-IDS
-  type: IANA
+- id: MPLS-MULTI-TOPOLOGY-PARAMETERS__MULTI-TOPOLOGY-IDS
+  type: IETF
   scope: anchor
 docnumber: mpls-multi-topology-parameters/multi-topology-ids
 date:

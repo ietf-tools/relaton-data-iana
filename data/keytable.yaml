@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: KEYTABLE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: keytable
 date:

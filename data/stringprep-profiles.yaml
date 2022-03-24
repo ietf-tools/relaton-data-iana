@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: STRINGPREP-PROFILES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: stringprep-profiles
 date:

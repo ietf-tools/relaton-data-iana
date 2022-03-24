@@ -11,8 +11,8 @@ docid:
 - id: IANA mud/mud-extensions
   type: IANA
   primary: true
-- id: MUD/MUD-EXTENSIONS
-  type: IANA
+- id: MUD__MUD-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: mud/mud-extensions
 date:

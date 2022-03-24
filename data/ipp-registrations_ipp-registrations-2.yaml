@@ -11,8 +11,8 @@ docid:
 - id: IANA ipp-registrations/ipp-registrations-2
   type: IANA
   primary: true
-- id: IPP-REGISTRATIONS/IPP-REGISTRATIONS-2
-  type: IANA
+- id: IPP-REGISTRATIONS__IPP-REGISTRATIONS-2
+  type: IETF
   scope: anchor
 docnumber: ipp-registrations/ipp-registrations-2
 date:

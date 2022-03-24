@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/status-report
   type: IANA
   primary: true
-- id: BUNDLE/STATUS-REPORT
-  type: IANA
+- id: BUNDLE__STATUS-REPORT
+  type: IETF
   scope: anchor
 docnumber: bundle/status-report
 date:

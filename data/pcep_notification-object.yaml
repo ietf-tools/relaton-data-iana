@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/notification-object
   type: IANA
   primary: true
-- id: PCEP/NOTIFICATION-OBJECT
-  type: IANA
+- id: PCEP__NOTIFICATION-OBJECT
+  type: IETF
   scope: anchor
 docnumber: pcep/notification-object
 date:

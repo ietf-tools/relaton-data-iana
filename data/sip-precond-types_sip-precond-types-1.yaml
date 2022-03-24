@@ -11,8 +11,8 @@ docid:
 - id: IANA sip-precond-types/sip-precond-types-1
   type: IANA
   primary: true
-- id: SIP-PRECOND-TYPES/SIP-PRECOND-TYPES-1
-  type: IANA
+- id: SIP-PRECOND-TYPES__SIP-PRECOND-TYPES-1
+  type: IETF
   scope: anchor
 docnumber: sip-precond-types/sip-precond-types-1
 date:

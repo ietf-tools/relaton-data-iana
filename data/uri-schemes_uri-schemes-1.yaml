@@ -11,8 +11,8 @@ docid:
 - id: IANA uri-schemes/uri-schemes-1
   type: IANA
   primary: true
-- id: URI-SCHEMES/URI-SCHEMES-1
-  type: IANA
+- id: URI-SCHEMES__URI-SCHEMES-1
+  type: IETF
   scope: anchor
 docnumber: uri-schemes/uri-schemes-1
 date:

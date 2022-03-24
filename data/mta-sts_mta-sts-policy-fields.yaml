@@ -11,8 +11,8 @@ docid:
 - id: IANA mta-sts/mta-sts-policy-fields
   type: IANA
   primary: true
-- id: MTA-STS/MTA-STS-POLICY-FIELDS
-  type: IANA
+- id: MTA-STS__MTA-STS-POLICY-FIELDS
+  type: IETF
   scope: anchor
 docnumber: mta-sts/mta-sts-policy-fields
 date:

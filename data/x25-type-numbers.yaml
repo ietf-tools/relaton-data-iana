@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: X25-TYPE-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: x25-type-numbers
 date:

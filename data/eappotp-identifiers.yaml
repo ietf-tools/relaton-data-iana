@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: EAPPOTP-IDENTIFIERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: eappotp-identifiers
 date:

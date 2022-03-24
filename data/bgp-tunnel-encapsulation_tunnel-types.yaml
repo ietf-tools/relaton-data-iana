@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-tunnel-encapsulation/tunnel-types
   type: IANA
   primary: true
-- id: BGP-TUNNEL-ENCAPSULATION/TUNNEL-TYPES
-  type: IANA
+- id: BGP-TUNNEL-ENCAPSULATION__TUNNEL-TYPES
+  type: IETF
   scope: anchor
 docnumber: bgp-tunnel-encapsulation/tunnel-types
 date:

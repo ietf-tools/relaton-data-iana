@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/pwe3-parameters-15
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/PWE3-PARAMETERS-15
-  type: IANA
+- id: PWE3-PARAMETERS__PWE3-PARAMETERS-15
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/pwe3-parameters-15
 date:

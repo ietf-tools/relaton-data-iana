@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/metric-object-ni-field
   type: IANA
   primary: true
-- id: PCEP/METRIC-OBJECT-NI-FIELD
-  type: IANA
+- id: PCEP__METRIC-OBJECT-NI-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/metric-object-ni-field
 date:

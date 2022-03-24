@@ -11,8 +11,8 @@ docid:
 - id: IANA xml-ns-provided-by/xml-ns-provided-by-1
   type: IANA
   primary: true
-- id: XML-NS-PROVIDED-BY/XML-NS-PROVIDED-BY-1
-  type: IANA
+- id: XML-NS-PROVIDED-BY__XML-NS-PROVIDED-BY-1
+  type: IETF
   scope: anchor
 docnumber: xml-ns-provided-by/xml-ns-provided-by-1
 date:

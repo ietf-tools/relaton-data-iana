@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-order-auto-renewal-fields
   type: IANA
   primary: true
-- id: ACME/ACME-ORDER-AUTO-RENEWAL-FIELDS
-  type: IANA
+- id: ACME__ACME-ORDER-AUTO-RENEWAL-FIELDS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-order-auto-renewal-fields
 date:

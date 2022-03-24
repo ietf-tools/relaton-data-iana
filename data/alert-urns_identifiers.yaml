@@ -11,8 +11,8 @@ docid:
 - id: IANA alert-urns/identifiers
   type: IANA
   primary: true
-- id: ALERT-URNS/IDENTIFIERS
-  type: IANA
+- id: ALERT-URNS__IDENTIFIERS
+  type: IETF
   scope: anchor
 docnumber: alert-urns/identifiers
 date:

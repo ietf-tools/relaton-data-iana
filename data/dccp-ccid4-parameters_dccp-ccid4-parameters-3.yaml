@@ -11,8 +11,8 @@ docid:
 - id: IANA dccp-ccid4-parameters/dccp-ccid4-parameters-3
   type: IANA
   primary: true
-- id: DCCP-CCID4-PARAMETERS/DCCP-CCID4-PARAMETERS-3
-  type: IANA
+- id: DCCP-CCID4-PARAMETERS__DCCP-CCID4-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: dccp-ccid4-parameters/dccp-ccid4-parameters-3
 date:

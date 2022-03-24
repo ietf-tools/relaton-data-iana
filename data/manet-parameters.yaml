@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MANET-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: manet-parameters
 date:

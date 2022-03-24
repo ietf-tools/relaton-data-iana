@@ -11,8 +11,8 @@ docid:
 - id: IANA ppspp/chunk-addressing
   type: IANA
   primary: true
-- id: PPSPP/CHUNK-ADDRESSING
-  type: IANA
+- id: PPSPP__CHUNK-ADDRESSING
+  type: IETF
   scope: anchor
 docnumber: ppspp/chunk-addressing
 date:

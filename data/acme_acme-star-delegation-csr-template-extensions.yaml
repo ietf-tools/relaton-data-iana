@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-star-delegation-csr-template-extensions
   type: IANA
   primary: true
-- id: ACME/ACME-STAR-DELEGATION-CSR-TEMPLATE-EXTENSIONS
-  type: IANA
+- id: ACME__ACME-STAR-DELEGATION-CSR-TEMPLATE-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-star-delegation-csr-template-extensions
 date:

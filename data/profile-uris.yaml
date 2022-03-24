@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PROFILE-URIS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: profile-uris
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA terminal-type-names/terminal-type-names-1
   type: IANA
   primary: true
-- id: TERMINAL-TYPE-NAMES/TERMINAL-TYPE-NAMES-1
-  type: IANA
+- id: TERMINAL-TYPE-NAMES__TERMINAL-TYPE-NAMES-1
+  type: IETF
   scope: anchor
 docnumber: terminal-type-names/terminal-type-names-1
 date:

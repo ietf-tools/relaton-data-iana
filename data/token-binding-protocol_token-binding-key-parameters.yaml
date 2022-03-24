@@ -11,8 +11,8 @@ docid:
 - id: IANA token-binding-protocol/token-binding-key-parameters
   type: IANA
   primary: true
-- id: TOKEN-BINDING-PROTOCOL/TOKEN-BINDING-KEY-PARAMETERS
-  type: IANA
+- id: TOKEN-BINDING-PROTOCOL__TOKEN-BINDING-KEY-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: token-binding-protocol/token-binding-key-parameters
 date:

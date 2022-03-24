@@ -11,8 +11,8 @@ docid:
 - id: IANA cwt/confirmation-methods
   type: IANA
   primary: true
-- id: CWT/CONFIRMATION-METHODS
-  type: IANA
+- id: CWT__CONFIRMATION-METHODS
+  type: IETF
   scope: anchor
 docnumber: cwt/confirmation-methods
 date:

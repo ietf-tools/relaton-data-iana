@@ -11,8 +11,8 @@ docid:
 - id: IANA cisco-sla-protocol/authenticator-modes
   type: IANA
   primary: true
-- id: CISCO-SLA-PROTOCOL/AUTHENTICATOR-MODES
-  type: IANA
+- id: CISCO-SLA-PROTOCOL__AUTHENTICATOR-MODES
+  type: IETF
   scope: anchor
 docnumber: cisco-sla-protocol/authenticator-modes
 date:

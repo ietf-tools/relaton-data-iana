@@ -11,8 +11,8 @@ docid:
 - id: IANA opus-channel-mapping-families/mapping-families
   type: IANA
   primary: true
-- id: OPUS-CHANNEL-MAPPING-FAMILIES/MAPPING-FAMILIES
-  type: IANA
+- id: OPUS-CHANNEL-MAPPING-FAMILIES__MAPPING-FAMILIES
+  type: IETF
   scope: anchor
 docnumber: opus-channel-mapping-families/mapping-families
 date:

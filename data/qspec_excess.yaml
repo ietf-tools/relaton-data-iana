@@ -11,8 +11,8 @@ docid:
 - id: IANA qspec/excess
   type: IANA
   primary: true
-- id: QSPEC/EXCESS
-  type: IANA
+- id: QSPEC__EXCESS
+  type: IETF
   scope: anchor
 docnumber: qspec/excess
 date:

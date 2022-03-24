@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/probe-info
   type: IANA
   primary: true
-- id: RELOAD/PROBE-INFO
-  type: IANA
+- id: RELOAD__PROBE-INFO
+  type: IETF
   scope: anchor
 docnumber: reload/probe-info
 date:

@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: URLAUTH-AUTHORIZATION-MECHANISM-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: urlauth-authorization-mechanism-registry
 date:

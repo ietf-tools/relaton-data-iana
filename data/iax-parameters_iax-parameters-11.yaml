@@ -11,8 +11,8 @@ docid:
 - id: IANA iax-parameters/iax-parameters-11
   type: IANA
   primary: true
-- id: IAX-PARAMETERS/IAX-PARAMETERS-11
-  type: IANA
+- id: IAX-PARAMETERS__IAX-PARAMETERS-11
+  type: IETF
   scope: anchor
 docnumber: iax-parameters/iax-parameters-11
 date:

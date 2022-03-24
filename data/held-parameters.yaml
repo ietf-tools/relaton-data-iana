@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HELD-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: held-parameters
 date:

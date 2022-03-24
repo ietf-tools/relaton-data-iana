@@ -11,8 +11,8 @@ docid:
 - id: IANA psamp-parameters/psamp-parameters-1
   type: IANA
   primary: true
-- id: PSAMP-PARAMETERS/PSAMP-PARAMETERS-1
-  type: IANA
+- id: PSAMP-PARAMETERS__PSAMP-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: psamp-parameters/psamp-parameters-1
 date:

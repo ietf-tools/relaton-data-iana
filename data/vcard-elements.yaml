@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: VCARD-ELEMENTS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: vcard-elements
 date:

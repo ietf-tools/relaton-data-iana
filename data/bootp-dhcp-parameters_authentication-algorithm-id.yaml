@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/authentication-algorithm-id
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/AUTHENTICATION-ALGORITHM-ID
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__AUTHENTICATION-ALGORITHM-ID
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/authentication-algorithm-id
 date:

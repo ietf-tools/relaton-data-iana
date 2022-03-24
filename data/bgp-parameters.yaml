@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: BGP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters
 date:

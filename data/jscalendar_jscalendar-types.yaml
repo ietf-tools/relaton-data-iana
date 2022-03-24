@@ -11,8 +11,8 @@ docid:
 - id: IANA jscalendar/jscalendar-types
   type: IANA
   primary: true
-- id: JSCALENDAR/JSCALENDAR-TYPES
-  type: IANA
+- id: JSCALENDAR__JSCALENDAR-TYPES
+  type: IETF
   scope: anchor
 docnumber: jscalendar/jscalendar-types
 date:

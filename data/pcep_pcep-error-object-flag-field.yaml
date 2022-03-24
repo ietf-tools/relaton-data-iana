@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-error-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/PCEP-ERROR-OBJECT-FLAG-FIELD
-  type: IANA
+- id: PCEP__PCEP-ERROR-OBJECT-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-error-object-flag-field
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA core-parameters/signaling-codes
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/SIGNALING-CODES
-  type: IANA
+- id: CORE-PARAMETERS__SIGNALING-CODES
+  type: IETF
   scope: anchor
 docnumber: core-parameters/signaling-codes
 date:

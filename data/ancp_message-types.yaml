@@ -11,8 +11,8 @@ docid:
 - id: IANA ancp/message-types
   type: IANA
   primary: true
-- id: ANCP/MESSAGE-TYPES
-  type: IANA
+- id: ANCP__MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: ancp/message-types
 date:

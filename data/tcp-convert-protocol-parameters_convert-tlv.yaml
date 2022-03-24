@@ -11,8 +11,8 @@ docid:
 - id: IANA tcp-convert-protocol-parameters/convert-tlv
   type: IANA
   primary: true
-- id: TCP-CONVERT-PROTOCOL-PARAMETERS/CONVERT-TLV
-  type: IANA
+- id: TCP-CONVERT-PROTOCOL-PARAMETERS__CONVERT-TLV
+  type: IETF
   scope: anchor
 docnumber: tcp-convert-protocol-parameters/convert-tlv
 date:

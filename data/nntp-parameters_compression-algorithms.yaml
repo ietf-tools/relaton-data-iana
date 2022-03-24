@@ -11,8 +11,8 @@ docid:
 - id: IANA nntp-parameters/compression-algorithms
   type: IANA
   primary: true
-- id: NNTP-PARAMETERS/COMPRESSION-ALGORITHMS
-  type: IANA
+- id: NNTP-PARAMETERS__COMPRESSION-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: nntp-parameters/compression-algorithms
 date:

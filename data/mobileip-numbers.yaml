@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MOBILEIP-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mobileip-numbers
 date:

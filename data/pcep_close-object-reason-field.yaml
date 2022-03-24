@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/close-object-reason-field
   type: IANA
   primary: true
-- id: PCEP/CLOSE-OBJECT-REASON-FIELD
-  type: IANA
+- id: PCEP__CLOSE-OBJECT-REASON-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/close-object-reason-field
 date:

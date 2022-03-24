@@ -11,8 +11,8 @@ docid:
 - id: IANA evpn/route-types
   type: IANA
   primary: true
-- id: EVPN/ROUTE-TYPES
-  type: IANA
+- id: EVPN__ROUTE-TYPES
+  type: IETF
   scope: anchor
 docnumber: evpn/route-types
 date:

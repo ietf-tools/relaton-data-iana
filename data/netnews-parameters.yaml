@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NETNEWS-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: netnews-parameters
 date:

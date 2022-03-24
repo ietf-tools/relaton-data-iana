@@ -11,8 +11,8 @@ docid:
 - id: IANA rsvp-parameters/vcat-elementary-signal
   type: IANA
   primary: true
-- id: RSVP-PARAMETERS/VCAT-ELEMENTARY-SIGNAL
-  type: IANA
+- id: RSVP-PARAMETERS__VCAT-ELEMENTARY-SIGNAL
+  type: IETF
   scope: anchor
 docnumber: rsvp-parameters/vcat-elementary-signal
 date:

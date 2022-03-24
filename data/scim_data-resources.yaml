@@ -11,8 +11,8 @@ docid:
 - id: IANA scim/data-resources
   type: IANA
   primary: true
-- id: SCIM/DATA-RESOURCES
-  type: IANA
+- id: SCIM__DATA-RESOURCES
+  type: IETF
   scope: anchor
 docnumber: scim/data-resources
 date:

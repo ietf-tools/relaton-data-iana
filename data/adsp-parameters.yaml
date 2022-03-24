@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ADSP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: adsp-parameters
 date:

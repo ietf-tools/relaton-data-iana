@@ -11,8 +11,8 @@ docid:
 - id: IANA tls-parameters/tls-parameters-18
   type: IANA
   primary: true
-- id: TLS-PARAMETERS/TLS-PARAMETERS-18
-  type: IANA
+- id: TLS-PARAMETERS__TLS-PARAMETERS-18
+  type: IETF
   scope: anchor
 docnumber: tls-parameters/tls-parameters-18
 date:

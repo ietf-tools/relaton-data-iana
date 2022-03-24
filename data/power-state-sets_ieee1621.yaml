@@ -11,8 +11,8 @@ docid:
 - id: IANA power-state-sets/ieee1621
   type: IANA
   primary: true
-- id: POWER-STATE-SETS/IEEE1621
-  type: IANA
+- id: POWER-STATE-SETS__IEEE1621
+  type: IETF
   scope: anchor
 docnumber: power-state-sets/ieee1621
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA notification-capability-parameters/notification-capability-parameters-2
   type: IANA
   primary: true
-- id: NOTIFICATION-CAPABILITY-PARAMETERS/NOTIFICATION-CAPABILITY-PARAMETERS-2
-  type: IANA
+- id: NOTIFICATION-CAPABILITY-PARAMETERS__NOTIFICATION-CAPABILITY-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: notification-capability-parameters/notification-capability-parameters-2
 date:

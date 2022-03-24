@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/cc-cv-mep-id
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/CC-CV-MEP-ID
-  type: IANA
+- id: PWE3-PARAMETERS__CC-CV-MEP-ID
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/cc-cv-mep-id
 date:

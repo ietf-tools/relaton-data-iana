@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-account-object-fields
   type: IANA
   primary: true
-- id: ACME/ACME-ACCOUNT-OBJECT-FIELDS
-  type: IANA
+- id: ACME__ACME-ACCOUNT-OBJECT-FIELDS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-account-object-fields
 date:

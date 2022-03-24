@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-extended-communities/additional-pmsi-tunnel-attribute-flags
   type: IANA
   primary: true
-- id: BGP-EXTENDED-COMMUNITIES/ADDITIONAL-PMSI-TUNNEL-ATTRIBUTE-FLAGS
-  type: IANA
+- id: BGP-EXTENDED-COMMUNITIES__ADDITIONAL-PMSI-TUNNEL-ATTRIBUTE-FLAGS
+  type: IETF
   scope: anchor
 docnumber: bgp-extended-communities/additional-pmsi-tunnel-attribute-flags
 date:

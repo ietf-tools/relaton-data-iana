@@ -11,8 +11,8 @@ docid:
 - id: IANA hoba-device-identifiers/device-identifier-types
   type: IANA
   primary: true
-- id: HOBA-DEVICE-IDENTIFIERS/DEVICE-IDENTIFIER-TYPES
-  type: IANA
+- id: HOBA-DEVICE-IDENTIFIERS__DEVICE-IDENTIFIER-TYPES
+  type: IETF
   scope: anchor
 docnumber: hoba-device-identifiers/device-identifier-types
 date:

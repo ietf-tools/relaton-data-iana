@@ -11,8 +11,8 @@ docid:
 - id: IANA xml-registry/schema
   type: IANA
   primary: true
-- id: XML-REGISTRY/SCHEMA
-  type: IANA
+- id: XML-REGISTRY__SCHEMA
+  type: IETF
   scope: anchor
 docnumber: xml-registry/schema
 date:

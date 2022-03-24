@@ -11,8 +11,8 @@ docid:
 - id: IANA paws/parameters
   type: IANA
   primary: true
-- id: PAWS/PARAMETERS
-  type: IANA
+- id: PAWS__PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: paws/parameters
 date:

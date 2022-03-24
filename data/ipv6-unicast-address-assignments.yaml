@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IPV6-UNICAST-ADDRESS-ASSIGNMENTS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ipv6-unicast-address-assignments
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HASH-FUNCTION-TEXT-NAMES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: hash-function-text-names
 date:

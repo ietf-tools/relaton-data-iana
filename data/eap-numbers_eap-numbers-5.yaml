@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-numbers/eap-numbers-5
   type: IANA
   primary: true
-- id: EAP-NUMBERS/EAP-NUMBERS-5
-  type: IANA
+- id: EAP-NUMBERS__EAP-NUMBERS-5
+  type: IETF
   scope: anchor
 docnumber: eap-numbers/eap-numbers-5
 date:

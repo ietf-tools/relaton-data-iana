@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/tcpcl-message
   type: IANA
   primary: true
-- id: BUNDLE/TCPCL-MESSAGE
-  type: IANA
+- id: BUNDLE__TCPCL-MESSAGE
+  type: IETF
   scope: anchor
 docnumber: bundle/tcpcl-message
 date:

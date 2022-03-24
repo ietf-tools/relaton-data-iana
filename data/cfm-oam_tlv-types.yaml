@@ -11,8 +11,8 @@ docid:
 - id: IANA cfm-oam/tlv-types
   type: IANA
   primary: true
-- id: CFM-OAM/TLV-TYPES
-  type: IANA
+- id: CFM-OAM__TLV-TYPES
+  type: IETF
   scope: anchor
 docnumber: cfm-oam/tlv-types
 date:

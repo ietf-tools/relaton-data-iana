@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CERT-RR-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cert-rr-types
 date:

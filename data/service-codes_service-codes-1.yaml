@@ -11,8 +11,8 @@ docid:
 - id: IANA service-codes/service-codes-1
   type: IANA
   primary: true
-- id: SERVICE-CODES/SERVICE-CODES-1
-  type: IANA
+- id: SERVICE-CODES__SERVICE-CODES-1
+  type: IETF
   scope: anchor
 docnumber: service-codes/service-codes-1
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ppspp/message-types
   type: IANA
   primary: true
-- id: PPSPP/MESSAGE-TYPES
-  type: IANA
+- id: PPSPP__MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: ppspp/message-types
 date:

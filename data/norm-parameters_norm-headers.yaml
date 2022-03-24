@@ -11,8 +11,8 @@ docid:
 - id: IANA norm-parameters/norm-headers
   type: IANA
   primary: true
-- id: NORM-PARAMETERS/NORM-HEADERS
-  type: IANA
+- id: NORM-PARAMETERS__NORM-HEADERS
+  type: IETF
   scope: anchor
 docnumber: norm-parameters/norm-headers
 date:

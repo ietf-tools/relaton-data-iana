@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PROXY-LANGUAGES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: proxy-languages
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: NFSV4-RECALLABLE-OBJECT-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: nfsv4-recallable-object-types
 date:

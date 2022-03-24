@@ -11,8 +11,8 @@ docid:
 - id: IANA ltp-parameters/ltp-parameters-1
   type: IANA
   primary: true
-- id: LTP-PARAMETERS/LTP-PARAMETERS-1
-  type: IANA
+- id: LTP-PARAMETERS__LTP-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: ltp-parameters/ltp-parameters-1
 date:

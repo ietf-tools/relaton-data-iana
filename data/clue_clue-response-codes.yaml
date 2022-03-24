@@ -11,8 +11,8 @@ docid:
 - id: IANA clue/clue-response-codes
   type: IANA
   primary: true
-- id: CLUE/CLUE-RESPONSE-CODES
-  type: IANA
+- id: CLUE__CLUE-RESPONSE-CODES
+  type: IETF
   scope: anchor
 docnumber: clue/clue-response-codes
 date:

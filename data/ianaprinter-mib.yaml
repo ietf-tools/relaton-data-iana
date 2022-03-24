@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANAPRINTER-MIB
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ianaprinter-mib
 date:

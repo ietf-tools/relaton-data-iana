@@ -11,8 +11,8 @@ docid:
 - id: IANA iana-as-numbers-special-registry/special-purpose-as-numbers
   type: IANA
   primary: true
-- id: IANA-AS-NUMBERS-SPECIAL-REGISTRY/SPECIAL-PURPOSE-AS-NUMBERS
-  type: IANA
+- id: IANA-AS-NUMBERS-SPECIAL-REGISTRY__SPECIAL-PURPOSE-AS-NUMBERS
+  type: IETF
   scope: anchor
 docnumber: iana-as-numbers-special-registry/special-purpose-as-numbers
 date:

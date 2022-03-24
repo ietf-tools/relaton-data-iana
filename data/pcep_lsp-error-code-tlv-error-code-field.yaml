@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/lsp-error-code-tlv-error-code-field
   type: IANA
   primary: true
-- id: PCEP/LSP-ERROR-CODE-TLV-ERROR-CODE-FIELD
-  type: IANA
+- id: PCEP__LSP-ERROR-CODE-TLV-ERROR-CODE-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/lsp-error-code-tlv-error-code-field
 date:

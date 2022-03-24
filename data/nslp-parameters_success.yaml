@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/success
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/SUCCESS
-  type: IANA
+- id: NSLP-PARAMETERS__SUCCESS
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/success
 date:

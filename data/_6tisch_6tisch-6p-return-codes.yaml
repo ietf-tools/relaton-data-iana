@@ -11,8 +11,8 @@ docid:
 - id: IANA _6tisch/_6tisch-6p-return-codes
   type: IANA
   primary: true
-- id: _6TISCH/_6TISCH-6P-RETURN-CODES
-  type: IANA
+- id: _6TISCH___6TISCH-6P-RETURN-CODES
+  type: IETF
   scope: anchor
 docnumber: _6tisch/_6tisch-6p-return-codes
 date:

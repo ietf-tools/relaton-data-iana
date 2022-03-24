@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/app-id
   type: IANA
   primary: true
-- id: RELOAD/APP-ID
-  type: IANA
+- id: RELOAD__APP-ID
+  type: IETF
   scope: anchor
 docnumber: reload/app-id
 date:

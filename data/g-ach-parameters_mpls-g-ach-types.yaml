@@ -12,8 +12,8 @@ docid:
 - id: IANA g-ach-parameters/mpls-g-ach-types
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/MPLS-G-ACH-TYPES
-  type: IANA
+- id: G-ACH-PARAMETERS__MPLS-G-ACH-TYPES
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/mpls-g-ach-types
 date:

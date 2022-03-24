@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/trill-pull-directory-qtypes
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/TRILL-PULL-DIRECTORY-QTYPES
-  type: IANA
+- id: TRILL-PARAMETERS__TRILL-PULL-DIRECTORY-QTYPES
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/trill-pull-directory-qtypes
 date:

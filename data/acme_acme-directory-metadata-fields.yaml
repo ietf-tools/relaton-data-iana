@@ -11,8 +11,8 @@ docid:
 - id: IANA acme/acme-directory-metadata-fields
   type: IANA
   primary: true
-- id: ACME/ACME-DIRECTORY-METADATA-FIELDS
-  type: IANA
+- id: ACME__ACME-DIRECTORY-METADATA-FIELDS
+  type: IETF
   scope: anchor
 docnumber: acme/acme-directory-metadata-fields
 date:

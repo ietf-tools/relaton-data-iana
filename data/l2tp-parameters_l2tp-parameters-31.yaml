@@ -11,8 +11,8 @@ docid:
 - id: IANA l2tp-parameters/l2tp-parameters-31
   type: IANA
   primary: true
-- id: L2TP-PARAMETERS/L2TP-PARAMETERS-31
-  type: IANA
+- id: L2TP-PARAMETERS__L2TP-PARAMETERS-31
+  type: IETF
   scope: anchor
 docnumber: l2tp-parameters/l2tp-parameters-31
 date:

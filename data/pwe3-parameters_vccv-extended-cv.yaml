@@ -11,8 +11,8 @@ docid:
 - id: IANA pwe3-parameters/vccv-extended-cv
   type: IANA
   primary: true
-- id: PWE3-PARAMETERS/VCCV-EXTENDED-CV
-  type: IANA
+- id: PWE3-PARAMETERS__VCCV-EXTENDED-CV
+  type: IETF
   scope: anchor
 docnumber: pwe3-parameters/vccv-extended-cv
 date:

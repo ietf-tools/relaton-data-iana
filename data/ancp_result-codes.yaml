@@ -11,8 +11,8 @@ docid:
 - id: IANA ancp/result-codes
   type: IANA
   primary: true
-- id: ANCP/RESULT-CODES
-  type: IANA
+- id: ANCP__RESULT-CODES
+  type: IETF
   scope: anchor
 docnumber: ancp/result-codes
 date:

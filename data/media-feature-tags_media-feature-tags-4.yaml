@@ -11,8 +11,8 @@ docid:
 - id: IANA media-feature-tags/media-feature-tags-4
   type: IANA
   primary: true
-- id: MEDIA-FEATURE-TAGS/MEDIA-FEATURE-TAGS-4
-  type: IANA
+- id: MEDIA-FEATURE-TAGS__MEDIA-FEATURE-TAGS-4
+  type: IETF
   scope: anchor
 docnumber: media-feature-tags/media-feature-tags-4
 date:

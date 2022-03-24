@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OSPF-MT-ROUTING
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ospf-mt-routing
 date:

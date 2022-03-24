@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/traffic-selector
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/TRAFFIC-SELECTOR
-  type: IANA
+- id: MOBILITY-PARAMETERS__TRAFFIC-SELECTOR
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/traffic-selector
 date:

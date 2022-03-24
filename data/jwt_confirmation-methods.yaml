@@ -11,8 +11,8 @@ docid:
 - id: IANA jwt/confirmation-methods
   type: IANA
   primary: true
-- id: JWT/CONFIRMATION-METHODS
-  type: IANA
+- id: JWT__CONFIRMATION-METHODS
+  type: IETF
   scope: anchor
 docnumber: jwt/confirmation-methods
 date:

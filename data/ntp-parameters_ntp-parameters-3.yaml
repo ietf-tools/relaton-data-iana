@@ -11,8 +11,8 @@ docid:
 - id: IANA ntp-parameters/ntp-parameters-3
   type: IANA
   primary: true
-- id: NTP-PARAMETERS/NTP-PARAMETERS-3
-  type: IANA
+- id: NTP-PARAMETERS__NTP-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: ntp-parameters/ntp-parameters-3
 date:

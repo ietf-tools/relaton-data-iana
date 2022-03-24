@@ -11,8 +11,8 @@ docid:
 - id: IANA multicast-acquisition/report-block-tlv
   type: IANA
   primary: true
-- id: MULTICAST-ACQUISITION/REPORT-BLOCK-TLV
-  type: IANA
+- id: MULTICAST-ACQUISITION__REPORT-BLOCK-TLV
+  type: IETF
   scope: anchor
 docnumber: multicast-acquisition/report-block-tlv
 date:

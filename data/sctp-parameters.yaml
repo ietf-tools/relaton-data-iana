@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SCTP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sctp-parameters
 date:

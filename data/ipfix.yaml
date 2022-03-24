@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IPFIX
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ipfix
 date:

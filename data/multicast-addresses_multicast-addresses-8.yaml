@@ -11,8 +11,8 @@ docid:
 - id: IANA multicast-addresses/multicast-addresses-8
   type: IANA
   primary: true
-- id: MULTICAST-ADDRESSES/MULTICAST-ADDRESSES-8
-  type: IANA
+- id: MULTICAST-ADDRESSES__MULTICAST-ADDRESSES-8
+  type: IETF
   scope: anchor
 docnumber: multicast-addresses/multicast-addresses-8
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/schedule-agent-values
   type: IANA
   primary: true
-- id: ICALENDAR/SCHEDULE-AGENT-VALUES
-  type: IANA
+- id: ICALENDAR__SCHEDULE-AGENT-VALUES
+  type: IETF
   scope: anchor
 docnumber: icalendar/schedule-agent-values
 date:

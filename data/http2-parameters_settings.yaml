@@ -11,8 +11,8 @@ docid:
 - id: IANA http2-parameters/settings
   type: IANA
   primary: true
-- id: HTTP2-PARAMETERS/SETTINGS
-  type: IANA
+- id: HTTP2-PARAMETERS__SETTINGS
+  type: IETF
   scope: anchor
 docnumber: http2-parameters/settings
 date:

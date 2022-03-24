@@ -11,8 +11,8 @@ docid:
 - id: IANA msrp-parameters/msrp-parameters-2
   type: IANA
   primary: true
-- id: MSRP-PARAMETERS/MSRP-PARAMETERS-2
-  type: IANA
+- id: MSRP-PARAMETERS__MSRP-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: msrp-parameters/msrp-parameters-2
 date:

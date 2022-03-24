@@ -11,8 +11,8 @@ docid:
 - id: IANA rolie/rolie-urn-parameters
   type: IANA
   primary: true
-- id: ROLIE/ROLIE-URN-PARAMETERS
-  type: IANA
+- id: ROLIE__ROLIE-URN-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: rolie/rolie-urn-parameters
 date:

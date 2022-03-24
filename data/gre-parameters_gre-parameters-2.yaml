@@ -11,8 +11,8 @@ docid:
 - id: IANA gre-parameters/gre-parameters-2
   type: IANA
   primary: true
-- id: GRE-PARAMETERS/GRE-PARAMETERS-2
-  type: IANA
+- id: GRE-PARAMETERS__GRE-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: gre-parameters/gre-parameters-2
 date:

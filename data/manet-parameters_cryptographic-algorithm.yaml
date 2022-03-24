@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/cryptographic-algorithm
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/CRYPTOGRAPHIC-ALGORITHM
-  type: IANA
+- id: MANET-PARAMETERS__CRYPTOGRAPHIC-ALGORITHM
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/cryptographic-algorithm
 date:

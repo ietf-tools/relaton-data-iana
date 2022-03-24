@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OSPFV3-AUTHENTICATION-TRAILER-OPTIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ospfv3-authentication-trailer-options
 date:

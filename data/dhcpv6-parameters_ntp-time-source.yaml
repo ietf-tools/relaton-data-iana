@@ -11,8 +11,8 @@ docid:
 - id: IANA dhcpv6-parameters/ntp-time-source
   type: IANA
   primary: true
-- id: DHCPV6-PARAMETERS/NTP-TIME-SOURCE
-  type: IANA
+- id: DHCPV6-PARAMETERS__NTP-TIME-SOURCE
+  type: IETF
   scope: anchor
 docnumber: dhcpv6-parameters/ntp-time-source
 date:

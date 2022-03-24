@@ -11,8 +11,8 @@ docid:
 - id: IANA cert-rr-types/cert-rr-types-2
   type: IANA
   primary: true
-- id: CERT-RR-TYPES/CERT-RR-TYPES-2
-  type: IANA
+- id: CERT-RR-TYPES__CERT-RR-TYPES-2
+  type: IETF
   scope: anchor
 docnumber: cert-rr-types/cert-rr-types-2
 date:

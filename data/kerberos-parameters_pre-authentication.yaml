@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-parameters/pre-authentication
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/PRE-AUTHENTICATION
-  type: IANA
+- id: KERBEROS-PARAMETERS__PRE-AUTHENTICATION
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters/pre-authentication
 date:

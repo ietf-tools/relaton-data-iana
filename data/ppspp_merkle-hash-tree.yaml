@@ -11,8 +11,8 @@ docid:
 - id: IANA ppspp/merkle-hash-tree
   type: IANA
   primary: true
-- id: PPSPP/MERKLE-HASH-TREE
-  type: IANA
+- id: PPSPP__MERKLE-HASH-TREE
+  type: IETF
   scope: anchor
 docnumber: ppspp/merkle-hash-tree
 date:

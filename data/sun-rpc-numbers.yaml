@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SUN-RPC-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sun-rpc-numbers
 date:

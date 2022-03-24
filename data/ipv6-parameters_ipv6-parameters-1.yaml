@@ -11,8 +11,8 @@ docid:
 - id: IANA ipv6-parameters/ipv6-parameters-1
   type: IANA
   primary: true
-- id: IPV6-PARAMETERS/IPV6-PARAMETERS-1
-  type: IANA
+- id: IPV6-PARAMETERS__IPV6-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: ipv6-parameters/ipv6-parameters-1
 date:

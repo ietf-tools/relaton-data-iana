@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: POP3-EXTENSION-MECHANISM
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pop3-extension-mechanism
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CBOR-SIMPLE-VALUES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cbor-simple-values
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ospfv2-parameters/extended-link-opaque-lsa-tlvs
   type: IANA
   primary: true
-- id: OSPFV2-PARAMETERS/EXTENDED-LINK-OPAQUE-LSA-TLVS
-  type: IANA
+- id: OSPFV2-PARAMETERS__EXTENDED-LINK-OPAQUE-LSA-TLVS
+  type: IETF
   scope: anchor
 docnumber: ospfv2-parameters/extended-link-opaque-lsa-tlvs
 date:

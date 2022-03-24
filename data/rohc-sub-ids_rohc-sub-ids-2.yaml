@@ -11,8 +11,8 @@ docid:
 - id: IANA rohc-sub-ids/rohc-sub-ids-2
   type: IANA
   primary: true
-- id: ROHC-SUB-IDS/ROHC-SUB-IDS-2
-  type: IANA
+- id: ROHC-SUB-IDS__ROHC-SUB-IDS-2
+  type: IETF
   scope: anchor
 docnumber: rohc-sub-ids/rohc-sub-ids-2
 date:

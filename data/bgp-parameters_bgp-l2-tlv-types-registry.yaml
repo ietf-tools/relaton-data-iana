@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/bgp-l2-tlv-types-registry
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BGP-L2-TLV-TYPES-REGISTRY
-  type: IANA
+- id: BGP-PARAMETERS__BGP-L2-TLV-TYPES-REGISTRY
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/bgp-l2-tlv-types-registry
 date:

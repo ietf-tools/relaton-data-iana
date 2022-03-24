@@ -11,8 +11,8 @@ docid:
 - id: IANA http-warn-codes/warn-codes
   type: IANA
   primary: true
-- id: HTTP-WARN-CODES/WARN-CODES
-  type: IANA
+- id: HTTP-WARN-CODES__WARN-CODES
+  type: IETF
   scope: anchor
 docnumber: http-warn-codes/warn-codes
 date:

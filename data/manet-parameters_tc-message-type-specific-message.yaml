@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/tc-message-type-specific-message
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/TC-MESSAGE-TYPE-SPECIFIC-MESSAGE
-  type: IANA
+- id: MANET-PARAMETERS__TC-MESSAGE-TYPE-SPECIFIC-MESSAGE
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/tc-message-type-specific-message
 date:

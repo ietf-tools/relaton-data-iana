@@ -11,8 +11,8 @@ docid:
 - id: IANA sam-baseline/alm-message-codes
   type: IANA
   primary: true
-- id: SAM-BASELINE/ALM-MESSAGE-CODES
-  type: IANA
+- id: SAM-BASELINE__ALM-MESSAGE-CODES
+  type: IETF
   scope: anchor
 docnumber: sam-baseline/alm-message-codes
 date:

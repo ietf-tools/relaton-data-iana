@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/tcp-convergence-sess-term-reason
   type: IANA
   primary: true
-- id: BUNDLE/TCP-CONVERGENCE-SESS-TERM-REASON
-  type: IANA
+- id: BUNDLE__TCP-CONVERGENCE-SESS-TERM-REASON
+  type: IETF
   scope: anchor
 docnumber: bundle/tcp-convergence-sess-term-reason
 date:

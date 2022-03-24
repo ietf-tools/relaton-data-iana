@@ -11,8 +11,8 @@ docid:
 - id: IANA rtspv2-parameters/media-properties
   type: IANA
   primary: true
-- id: RTSPV2-PARAMETERS/MEDIA-PROPERTIES
-  type: IANA
+- id: RTSPV2-PARAMETERS__MEDIA-PROPERTIES
+  type: IETF
   scope: anchor
 docnumber: rtspv2-parameters/media-properties
 date:

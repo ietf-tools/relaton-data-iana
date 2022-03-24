@@ -11,8 +11,8 @@ docid:
 - id: IANA mrt-parameters/mrt-profile-registry
   type: IANA
   primary: true
-- id: MRT-PARAMETERS/MRT-PROFILE-REGISTRY
-  type: IANA
+- id: MRT-PARAMETERS__MRT-PROFILE-REGISTRY
+  type: IETF
   scope: anchor
 docnumber: mrt-parameters/mrt-profile-registry
 date:

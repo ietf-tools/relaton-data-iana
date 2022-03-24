@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: REPUTATION-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: reputation-parameters
 date:

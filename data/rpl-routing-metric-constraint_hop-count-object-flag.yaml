@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl-routing-metric-constraint/hop-count-object-flag
   type: IANA
   primary: true
-- id: RPL-ROUTING-METRIC-CONSTRAINT/HOP-COUNT-OBJECT-FLAG
-  type: IANA
+- id: RPL-ROUTING-METRIC-CONSTRAINT__HOP-COUNT-OBJECT-FLAG
+  type: IETF
   scope: anchor
 docnumber: rpl-routing-metric-constraint/hop-count-object-flag
 date:

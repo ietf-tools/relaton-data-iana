@@ -11,8 +11,8 @@ docid:
 - id: IANA http-parameters/content-coding
   type: IANA
   primary: true
-- id: HTTP-PARAMETERS/CONTENT-CODING
-  type: IANA
+- id: HTTP-PARAMETERS__CONTENT-CODING
+  type: IETF
   scope: anchor
 docnumber: http-parameters/content-coding
 date:

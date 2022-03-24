@@ -11,8 +11,8 @@ docid:
 - id: IANA icmpv6-parameters/address-registration
   type: IANA
   primary: true
-- id: ICMPV6-PARAMETERS/ADDRESS-REGISTRATION
-  type: IANA
+- id: ICMPV6-PARAMETERS__ADDRESS-REGISTRATION
+  type: IETF
   scope: anchor
 docnumber: icmpv6-parameters/address-registration
 date:

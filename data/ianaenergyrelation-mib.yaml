@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANAENERGYRELATION-MIB
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ianaenergyrelation-mib
 date:

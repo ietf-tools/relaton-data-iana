@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: PB-TNC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pb-tnc-parameters
 date:

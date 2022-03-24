@@ -11,8 +11,8 @@ docid:
 - id: IANA nsh/next-protocol
   type: IANA
   primary: true
-- id: NSH/NEXT-PROTOCOL
-  type: IANA
+- id: NSH__NEXT-PROTOCOL
+  type: IETF
   scope: anchor
 docnumber: nsh/next-protocol
 date:

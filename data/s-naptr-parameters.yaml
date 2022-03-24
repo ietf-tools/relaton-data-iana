@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: S-NAPTR-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: s-naptr-parameters
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/trill-pull-directory-errors
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/TRILL-PULL-DIRECTORY-ERRORS
-  type: IANA
+- id: TRILL-PARAMETERS__TRILL-PULL-DIRECTORY-ERRORS
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/trill-pull-directory-errors
 date:

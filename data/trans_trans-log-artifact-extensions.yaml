@@ -11,8 +11,8 @@ docid:
 - id: IANA trans/trans-log-artifact-extensions
   type: IANA
   primary: true
-- id: TRANS/TRANS-LOG-ARTIFACT-EXTENSIONS
-  type: IANA
+- id: TRANS__TRANS-LOG-ARTIFACT-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: trans/trans-log-artifact-extensions
 date:

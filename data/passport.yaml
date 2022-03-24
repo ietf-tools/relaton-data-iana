@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PASSPORT
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: passport
 date:

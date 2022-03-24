@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/overlay-alg
   type: IANA
   primary: true
-- id: RELOAD/OVERLAY-ALG
-  type: IANA
+- id: RELOAD__OVERLAY-ALG
+  type: IETF
   scope: anchor
 docnumber: reload/overlay-alg
 date:

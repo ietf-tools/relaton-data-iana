@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LANG-TAG-APPS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: lang-tag-apps
 date:

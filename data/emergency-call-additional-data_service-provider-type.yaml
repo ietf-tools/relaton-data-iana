@@ -11,8 +11,8 @@ docid:
 - id: IANA emergency-call-additional-data/service-provider-type
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-ADDITIONAL-DATA/SERVICE-PROVIDER-TYPE
-  type: IANA
+- id: EMERGENCY-CALL-ADDITIONAL-DATA__SERVICE-PROVIDER-TYPE
+  type: IETF
   scope: anchor
 docnumber: emergency-call-additional-data/service-provider-type
 date:

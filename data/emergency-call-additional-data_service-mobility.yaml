@@ -11,8 +11,8 @@ docid:
 - id: IANA emergency-call-additional-data/service-mobility
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-ADDITIONAL-DATA/SERVICE-MOBILITY
-  type: IANA
+- id: EMERGENCY-CALL-ADDITIONAL-DATA__SERVICE-MOBILITY
+  type: IETF
   scope: anchor
 docnumber: emergency-call-additional-data/service-mobility
 date:

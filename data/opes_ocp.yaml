@@ -11,8 +11,8 @@ docid:
 - id: IANA opes/ocp
   type: IANA
   primary: true
-- id: OPES/OCP
-  type: IANA
+- id: OPES__OCP
+  type: IETF
   scope: anchor
 docnumber: opes/ocp
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PRECIS-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: precis-parameters
 date:

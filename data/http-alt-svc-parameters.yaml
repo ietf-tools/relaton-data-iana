@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HTTP-ALT-SVC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: http-alt-svc-parameters
 date:

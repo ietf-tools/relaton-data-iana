@@ -11,8 +11,8 @@ docid:
 - id: IANA ebml/ebml-element-id
   type: IANA
   primary: true
-- id: EBML/EBML-ELEMENT-ID
-  type: IANA
+- id: EBML__EBML-ELEMENT-ID
+  type: IETF
   scope: anchor
 docnumber: ebml/ebml-element-id
 date:

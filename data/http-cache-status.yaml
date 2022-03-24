@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: HTTP-CACHE-STATUS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: http-cache-status
 date:

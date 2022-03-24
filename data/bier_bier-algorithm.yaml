@@ -11,8 +11,8 @@ docid:
 - id: IANA bier/bier-algorithm
   type: IANA
   primary: true
-- id: BIER/BIER-ALGORITHM
-  type: IANA
+- id: BIER__BIER-ALGORITHM
+  type: IETF
   scope: anchor
 docnumber: bier/bier-algorithm
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA content-security-policy-directives/directives
   type: IANA
   primary: true
-- id: CONTENT-SECURITY-POLICY-DIRECTIVES/DIRECTIVES
-  type: IANA
+- id: CONTENT-SECURITY-POLICY-DIRECTIVES__DIRECTIVES
+  type: IETF
   scope: anchor
 docnumber: content-security-policy-directives/directives
 date:

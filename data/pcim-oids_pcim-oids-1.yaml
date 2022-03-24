@@ -11,8 +11,8 @@ docid:
 - id: IANA pcim-oids/pcim-oids-1
   type: IANA
   primary: true
-- id: PCIM-OIDS/PCIM-OIDS-1
-  type: IANA
+- id: PCIM-OIDS__PCIM-OIDS-1
+  type: IETF
   scope: anchor
 docnumber: pcim-oids/pcim-oids-1
 date:

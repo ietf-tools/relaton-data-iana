@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: KERBEROS-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters
 date:

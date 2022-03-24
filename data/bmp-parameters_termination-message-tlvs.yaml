@@ -11,8 +11,8 @@ docid:
 - id: IANA bmp-parameters/termination-message-tlvs
   type: IANA
   primary: true
-- id: BMP-PARAMETERS/TERMINATION-MESSAGE-TLVS
-  type: IANA
+- id: BMP-PARAMETERS__TERMINATION-MESSAGE-TLVS
+  type: IETF
   scope: anchor
 docnumber: bmp-parameters/termination-message-tlvs
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA gdoi-payloads/gdoi-payloads-13
   type: IANA
   primary: true
-- id: GDOI-PAYLOADS/GDOI-PAYLOADS-13
-  type: IANA
+- id: GDOI-PAYLOADS__GDOI-PAYLOADS-13
+  type: IETF
   scope: anchor
 docnumber: gdoi-payloads/gdoi-payloads-13
 date:

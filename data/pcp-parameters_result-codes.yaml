@@ -11,8 +11,8 @@ docid:
 - id: IANA pcp-parameters/result-codes
   type: IANA
   primary: true
-- id: PCP-PARAMETERS/RESULT-CODES
-  type: IANA
+- id: PCP-PARAMETERS__RESULT-CODES
+  type: IETF
   scope: anchor
 docnumber: pcp-parameters/result-codes
 date:

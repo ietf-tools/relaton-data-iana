@@ -11,8 +11,8 @@ docid:
 - id: IANA nsh/md-class
   type: IANA
   primary: true
-- id: NSH/MD-CLASS
-  type: IANA
+- id: NSH__MD-CLASS
+  type: IETF
   scope: anchor
 docnumber: nsh/md-class
 date:

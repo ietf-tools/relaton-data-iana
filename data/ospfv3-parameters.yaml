@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: OSPFV3-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ospfv3-parameters
 date:

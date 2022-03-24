@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/access-control-policy
   type: IANA
   primary: true
-- id: RELOAD/ACCESS-CONTROL-POLICY
-  type: IANA
+- id: RELOAD__ACCESS-CONTROL-POLICY
+  type: IETF
   scope: anchor
 docnumber: reload/access-control-policy
 date:

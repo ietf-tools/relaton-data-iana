@@ -11,8 +11,8 @@ docid:
 - id: IANA special-use-domain-names/special-use-domain
   type: IANA
   primary: true
-- id: SPECIAL-USE-DOMAIN-NAMES/SPECIAL-USE-DOMAIN
-  type: IANA
+- id: SPECIAL-USE-DOMAIN-NAMES__SPECIAL-USE-DOMAIN
+  type: IETF
   scope: anchor
 docnumber: special-use-domain-names/special-use-domain
 date:

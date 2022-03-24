@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MILNET-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: milnet-parameters
 date:

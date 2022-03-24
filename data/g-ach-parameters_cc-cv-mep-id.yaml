@@ -11,8 +11,8 @@ docid:
 - id: IANA g-ach-parameters/cc-cv-mep-id
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/CC-CV-MEP-ID
-  type: IANA
+- id: G-ACH-PARAMETERS__CC-CV-MEP-ID
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/cc-cv-mep-id
 date:

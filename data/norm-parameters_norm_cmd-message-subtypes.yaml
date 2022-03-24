@@ -11,8 +11,8 @@ docid:
 - id: IANA norm-parameters/norm_cmd-message-subtypes
   type: IANA
   primary: true
-- id: NORM-PARAMETERS/NORM_CMD-MESSAGE-SUBTYPES
-  type: IANA
+- id: NORM-PARAMETERS__NORM_CMD-MESSAGE-SUBTYPES
+  type: IETF
   scope: anchor
 docnumber: norm-parameters/norm_cmd-message-subtypes
 date:

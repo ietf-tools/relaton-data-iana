@@ -11,8 +11,8 @@ docid:
 - id: IANA http-parameters/forwarded
   type: IANA
   primary: true
-- id: HTTP-PARAMETERS/FORWARDED
-  type: IANA
+- id: HTTP-PARAMETERS__FORWARDED
+  type: IETF
   scope: anchor
 docnumber: http-parameters/forwarded
 date:

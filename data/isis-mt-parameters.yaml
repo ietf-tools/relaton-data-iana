@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ISIS-MT-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: isis-mt-parameters
 date:

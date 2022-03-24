@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/close-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/CLOSE-OBJECT-FLAG-FIELD
-  type: IANA
+- id: PCEP__CLOSE-OBJECT-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/close-object-flag-field
 date:

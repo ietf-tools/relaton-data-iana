@@ -11,8 +11,8 @@ docid:
 - id: IANA shim6/error-codes
   type: IANA
   primary: true
-- id: SHIM6/ERROR-CODES
-  type: IANA
+- id: SHIM6__ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: shim6/error-codes
 date:

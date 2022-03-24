@@ -11,8 +11,8 @@ docid:
 - id: IANA radius-types/radius-types-15
   type: IANA
   primary: true
-- id: RADIUS-TYPES/RADIUS-TYPES-15
-  type: IANA
+- id: RADIUS-TYPES__RADIUS-TYPES-15
+  type: IETF
   scope: anchor
 docnumber: radius-types/radius-types-15
 date:

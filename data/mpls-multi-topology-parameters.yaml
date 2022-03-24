@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MPLS-MULTI-TOPOLOGY-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mpls-multi-topology-parameters
 date:

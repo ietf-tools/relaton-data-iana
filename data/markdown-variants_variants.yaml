@@ -11,8 +11,8 @@ docid:
 - id: IANA markdown-variants/variants
   type: IANA
   primary: true
-- id: MARKDOWN-VARIANTS/VARIANTS
-  type: IANA
+- id: MARKDOWN-VARIANTS__VARIANTS
+  type: IETF
   scope: anchor
 docnumber: markdown-variants/variants
 date:

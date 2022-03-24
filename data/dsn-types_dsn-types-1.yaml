@@ -11,8 +11,8 @@ docid:
 - id: IANA dsn-types/dsn-types-1
   type: IANA
   primary: true
-- id: DSN-TYPES/DSN-TYPES-1
-  type: IANA
+- id: DSN-TYPES__DSN-TYPES-1
+  type: IETF
   scope: anchor
 docnumber: dsn-types/dsn-types-1
 date:

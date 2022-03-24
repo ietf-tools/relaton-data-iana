@@ -11,8 +11,8 @@ docid:
 - id: IANA ipv6-address-space/ipv6-address-space-1
   type: IANA
   primary: true
-- id: IPV6-ADDRESS-SPACE/IPV6-ADDRESS-SPACE-1
-  type: IANA
+- id: IPV6-ADDRESS-SPACE__IPV6-ADDRESS-SPACE-1
+  type: IETF
   scope: anchor
 docnumber: ipv6-address-space/ipv6-address-space-1
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-pwd-parameters/eap-pwd-parameters-3
   type: IANA
   primary: true
-- id: EAP-PWD-PARAMETERS/EAP-PWD-PARAMETERS-3
-  type: IANA
+- id: EAP-PWD-PARAMETERS__EAP-PWD-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: eap-pwd-parameters/eap-pwd-parameters-3
 date:

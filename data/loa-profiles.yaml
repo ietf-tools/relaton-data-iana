@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LOA-PROFILES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: loa-profiles
 date:

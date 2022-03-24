@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: YANG-MODULE-TAGS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: yang-module-tags
 date:

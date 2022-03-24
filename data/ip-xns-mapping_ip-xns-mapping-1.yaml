@@ -11,8 +11,8 @@ docid:
 - id: IANA ip-xns-mapping/ip-xns-mapping-1
   type: IANA
   primary: true
-- id: IP-XNS-MAPPING/IP-XNS-MAPPING-1
-  type: IANA
+- id: IP-XNS-MAPPING__IP-XNS-MAPPING-1
+  type: IETF
   scope: anchor
 docnumber: ip-xns-mapping/ip-xns-mapping-1
 date:

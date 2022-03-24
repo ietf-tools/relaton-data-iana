@@ -11,8 +11,8 @@ docid:
 - id: IANA forces/logical-types
   type: IANA
   primary: true
-- id: FORCES/LOGICAL-TYPES
-  type: IANA
+- id: FORCES__LOGICAL-TYPES
+  type: IETF
   scope: anchor
 docnumber: forces/logical-types
 date:

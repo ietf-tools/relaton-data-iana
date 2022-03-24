@@ -11,8 +11,8 @@ docid:
 - id: IANA jose/web-encryption-compression-algorithms
   type: IANA
   primary: true
-- id: JOSE/WEB-ENCRYPTION-COMPRESSION-ALGORITHMS
-  type: IANA
+- id: JOSE__WEB-ENCRYPTION-COMPRESSION-ALGORITHMS
+  type: IETF
   scope: anchor
 docnumber: jose/web-encryption-compression-algorithms
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA tcp-parameters/mptcp-option-subtypes
   type: IANA
   primary: true
-- id: TCP-PARAMETERS/MPTCP-OPTION-SUBTYPES
-  type: IANA
+- id: TCP-PARAMETERS__MPTCP-OPTION-SUBTYPES
+  type: IETF
   scope: anchor
 docnumber: tcp-parameters/mptcp-option-subtypes
 date:

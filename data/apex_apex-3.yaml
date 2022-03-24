@@ -11,8 +11,8 @@ docid:
 - id: IANA apex/apex-3
   type: IANA
   primary: true
-- id: APEX/APEX-3
-  type: IANA
+- id: APEX__APEX-3
+  type: IETF
   scope: anchor
 docnumber: apex/apex-3
 date:

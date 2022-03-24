@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/s2ls-object-flag-field
   type: IANA
   primary: true
-- id: PCEP/S2LS-OBJECT-FLAG-FIELD
-  type: IANA
+- id: PCEP__S2LS-OBJECT-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/s2ls-object-flag-field
 date:

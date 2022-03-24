@@ -11,8 +11,8 @@ docid:
 - id: IANA dcap-parameters/capability-codes
   type: IANA
   primary: true
-- id: DCAP-PARAMETERS/CAPABILITY-CODES
-  type: IANA
+- id: DCAP-PARAMETERS__CAPABILITY-CODES
+  type: IETF
   scope: anchor
 docnumber: dcap-parameters/capability-codes
 date:

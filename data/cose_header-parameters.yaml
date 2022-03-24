@@ -11,8 +11,8 @@ docid:
 - id: IANA cose/header-parameters
   type: IANA
   primary: true
-- id: COSE/HEADER-PARAMETERS
-  type: IANA
+- id: COSE__HEADER-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: cose/header-parameters
 date:

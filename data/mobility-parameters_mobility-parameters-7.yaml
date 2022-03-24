@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/mobility-parameters-7
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/MOBILITY-PARAMETERS-7
-  type: IANA
+- id: MOBILITY-PARAMETERS__MOBILITY-PARAMETERS-7
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/mobility-parameters-7
 date:

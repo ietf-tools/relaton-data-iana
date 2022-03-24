@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: INST-MAN-VALUES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: inst-man-values
 date:

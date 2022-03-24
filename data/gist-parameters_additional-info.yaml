@@ -11,8 +11,8 @@ docid:
 - id: IANA gist-parameters/additional-info
   type: IANA
   primary: true
-- id: GIST-PARAMETERS/ADDITIONAL-INFO
-  type: IANA
+- id: GIST-PARAMETERS__ADDITIONAL-INFO
+  type: IETF
   scope: anchor
 docnumber: gist-parameters/additional-info
 date:

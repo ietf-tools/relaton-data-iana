@@ -11,8 +11,8 @@ docid:
 - id: IANA gist-parameters/gist-messages
   type: IANA
   primary: true
-- id: GIST-PARAMETERS/GIST-MESSAGES
-  type: IANA
+- id: GIST-PARAMETERS__GIST-MESSAGES
+  type: IETF
   scope: anchor
 docnumber: gist-parameters/gist-messages
 date:

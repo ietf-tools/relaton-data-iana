@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IPS-PROTOCOLS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ips-protocols
 date:

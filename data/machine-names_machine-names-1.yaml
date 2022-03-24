@@ -11,8 +11,8 @@ docid:
 - id: IANA machine-names/machine-names-1
   type: IANA
   primary: true
-- id: MACHINE-NAMES/MACHINE-NAMES-1
-  type: IANA
+- id: MACHINE-NAMES__MACHINE-NAMES-1
+  type: IETF
   scope: anchor
 docnumber: machine-names/machine-names-1
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/path-setup-type-capability-sub-tlv-type-indicators
   type: IANA
   primary: true
-- id: PCEP/PATH-SETUP-TYPE-CAPABILITY-SUB-TLV-TYPE-INDICATORS
-  type: IANA
+- id: PCEP__PATH-SETUP-TYPE-CAPABILITY-SUB-TLV-TYPE-INDICATORS
+  type: IETF
   scope: anchor
 docnumber: pcep/path-setup-type-capability-sub-tlv-type-indicators
 date:

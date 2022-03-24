@@ -12,8 +12,8 @@ docid:
 - id: IANA sigtran-adapt/sigtran-adapt-16
   type: IANA
   primary: true
-- id: SIGTRAN-ADAPT/SIGTRAN-ADAPT-16
-  type: IANA
+- id: SIGTRAN-ADAPT__SIGTRAN-ADAPT-16
+  type: IETF
   scope: anchor
 docnumber: sigtran-adapt/sigtran-adapt-16
 date:

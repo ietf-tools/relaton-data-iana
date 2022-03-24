@@ -11,8 +11,8 @@ docid:
 - id: IANA dmarc-parameters/tag
   type: IANA
   primary: true
-- id: DMARC-PARAMETERS/TAG
-  type: IANA
+- id: DMARC-PARAMETERS__TAG
+  type: IETF
   scope: anchor
 docnumber: dmarc-parameters/tag
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/extended-rbridge-channel-payload-types
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/EXTENDED-RBRIDGE-CHANNEL-PAYLOAD-TYPES
-  type: IANA
+- id: TRILL-PARAMETERS__EXTENDED-RBRIDGE-CHANNEL-PAYLOAD-TYPES
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/extended-rbridge-channel-payload-types
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/bundle-uri-scheme
   type: IANA
   primary: true
-- id: BUNDLE/BUNDLE-URI-SCHEME
-  type: IANA
+- id: BUNDLE__BUNDLE-URI-SCHEME
+  type: IETF
   scope: anchor
 docnumber: bundle/bundle-uri-scheme
 date:

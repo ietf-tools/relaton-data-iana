@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SDP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters
 date:

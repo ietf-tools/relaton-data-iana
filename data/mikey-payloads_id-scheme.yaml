@@ -11,8 +11,8 @@ docid:
 - id: IANA mikey-payloads/id-scheme
   type: IANA
   primary: true
-- id: MIKEY-PAYLOADS/ID-SCHEME
-  type: IANA
+- id: MIKEY-PAYLOADS__ID-SCHEME
+  type: IETF
   scope: anchor
 docnumber: mikey-payloads/id-scheme
 date:

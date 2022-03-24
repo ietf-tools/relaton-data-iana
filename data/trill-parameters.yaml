@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: TRILL-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: trill-parameters
 date:

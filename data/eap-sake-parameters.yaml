@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: EAP-SAKE-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: eap-sake-parameters
 date:

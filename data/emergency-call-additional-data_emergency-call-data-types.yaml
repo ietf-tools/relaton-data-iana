@@ -11,8 +11,8 @@ docid:
 - id: IANA emergency-call-additional-data/emergency-call-data-types
   type: IANA
   primary: true
-- id: EMERGENCY-CALL-ADDITIONAL-DATA/EMERGENCY-CALL-DATA-TYPES
-  type: IANA
+- id: EMERGENCY-CALL-ADDITIONAL-DATA__EMERGENCY-CALL-DATA-TYPES
+  type: IETF
   scope: anchor
 docnumber: emergency-call-additional-data/emergency-call-data-types
 date:

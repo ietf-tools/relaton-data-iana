@@ -11,8 +11,8 @@ docid:
 - id: IANA cose/elliptic-curves
   type: IANA
   primary: true
-- id: COSE/ELLIPTIC-CURVES
-  type: IANA
+- id: COSE__ELLIPTIC-CURVES
+  type: IETF
   scope: anchor
 docnumber: cose/elliptic-curves
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-objects
   type: IANA
   primary: true
-- id: PCEP/PCEP-OBJECTS
-  type: IANA
+- id: PCEP__PCEP-OBJECTS
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-objects
 date:

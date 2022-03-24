@@ -11,8 +11,8 @@ docid:
 - id: IANA rsvp-te-oam/function-flags
   type: IANA
   primary: true
-- id: RSVP-TE-OAM/FUNCTION-FLAGS
-  type: IANA
+- id: RSVP-TE-OAM__FUNCTION-FLAGS
+  type: IETF
   scope: anchor
 docnumber: rsvp-te-oam/function-flags
 date:

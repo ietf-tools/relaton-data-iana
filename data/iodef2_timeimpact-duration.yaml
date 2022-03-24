@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/timeimpact-duration
   type: IANA
   primary: true
-- id: IODEF2/TIMEIMPACT-DURATION
-  type: IANA
+- id: IODEF2__TIMEIMPACT-DURATION
+  type: IETF
   scope: anchor
 docnumber: iodef2/timeimpact-duration
 date:

@@ -12,8 +12,8 @@ docid:
 - id: IANA bgp-ls-parameters/node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
   type: IANA
   primary: true
-- id: BGP-LS-PARAMETERS/NODE-DESCRIPTOR-LINK-DESCRIPTOR-PREFIX-DESCRIPTOR-ATTRIBUTE-TLV
-  type: IANA
+- id: BGP-LS-PARAMETERS__NODE-DESCRIPTOR-LINK-DESCRIPTOR-PREFIX-DESCRIPTOR-ATTRIBUTE-TLV
+  type: IETF
   scope: anchor
 docnumber: bgp-ls-parameters/node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
 date:

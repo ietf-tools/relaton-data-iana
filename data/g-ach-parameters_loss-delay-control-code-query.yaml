@@ -11,8 +11,8 @@ docid:
 - id: IANA g-ach-parameters/loss-delay-control-code-query
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/LOSS-DELAY-CONTROL-CODE-QUERY
-  type: IANA
+- id: G-ACH-PARAMETERS__LOSS-DELAY-CONTROL-CODE-QUERY
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/loss-delay-control-code-query
 date:

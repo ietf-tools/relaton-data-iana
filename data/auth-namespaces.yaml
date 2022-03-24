@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: AUTH-NAMESPACES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: auth-namespaces
 date:

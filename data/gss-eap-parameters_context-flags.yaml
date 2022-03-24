@@ -11,8 +11,8 @@ docid:
 - id: IANA gss-eap-parameters/context-flags
   type: IANA
   primary: true
-- id: GSS-EAP-PARAMETERS/CONTEXT-FLAGS
-  type: IANA
+- id: GSS-EAP-PARAMETERS__CONTEXT-FLAGS
+  type: IETF
   scope: anchor
 docnumber: gss-eap-parameters/context-flags
 date:

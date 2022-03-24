@@ -11,8 +11,8 @@ docid:
 - id: IANA rpki/bgpsec-capability
   type: IANA
   primary: true
-- id: RPKI/BGPSEC-CAPABILITY
-  type: IANA
+- id: RPKI__BGPSEC-CAPABILITY
+  type: IETF
   scope: anchor
 docnumber: rpki/bgpsec-capability
 date:

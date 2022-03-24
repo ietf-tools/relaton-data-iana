@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/diagnostics-flag
   type: IANA
   primary: true
-- id: RELOAD/DIAGNOSTICS-FLAG
-  type: IANA
+- id: RELOAD__DIAGNOSTICS-FLAG
+  type: IETF
   scope: anchor
 docnumber: reload/diagnostics-flag
 date:

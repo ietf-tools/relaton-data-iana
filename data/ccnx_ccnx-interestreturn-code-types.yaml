@@ -11,8 +11,8 @@ docid:
 - id: IANA ccnx/ccnx-interestreturn-code-types
   type: IANA
   primary: true
-- id: CCNX/CCNX-INTERESTRETURN-CODE-TYPES
-  type: IANA
+- id: CCNX__CCNX-INTERESTRETURN-CODE-TYPES
+  type: IETF
   scope: anchor
 docnumber: ccnx/ccnx-interestreturn-code-types
 date:

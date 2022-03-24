@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef/sci-spec
   type: IANA
   primary: true
-- id: IODEF/SCI-SPEC
-  type: IANA
+- id: IODEF__SCI-SPEC
+  type: IETF
   scope: anchor
 docnumber: iodef/sci-spec
 date:

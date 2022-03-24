@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-psk-parameters/eap-psk-parameters-1
   type: IANA
   primary: true
-- id: EAP-PSK-PARAMETERS/EAP-PSK-PARAMETERS-1
-  type: IANA
+- id: EAP-PSK-PARAMETERS__EAP-PSK-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: eap-psk-parameters/eap-psk-parameters-1
 date:

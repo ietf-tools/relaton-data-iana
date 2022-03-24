@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SPECIAL-USE-DOMAIN-NAMES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: special-use-domain-names
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA quic/quic-transport-error-codes
   type: IANA
   primary: true
-- id: QUIC/QUIC-TRANSPORT-ERROR-CODES
-  type: IANA
+- id: QUIC__QUIC-TRANSPORT-ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: quic/quic-transport-error-codes
 date:

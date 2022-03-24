@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SIP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: sip-parameters
 date:

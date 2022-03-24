@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-ls-parameters/well-known-instance-ids
   type: IANA
   primary: true
-- id: BGP-LS-PARAMETERS/WELL-KNOWN-INSTANCE-IDS
-  type: IANA
+- id: BGP-LS-PARAMETERS__WELL-KNOWN-INSTANCE-IDS
+  type: IETF
   scope: anchor
 docnumber: bgp-ls-parameters/well-known-instance-ids
 date:

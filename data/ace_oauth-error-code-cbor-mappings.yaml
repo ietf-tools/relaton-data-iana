@@ -11,8 +11,8 @@ docid:
 - id: IANA ace/oauth-error-code-cbor-mappings
   type: IANA
   primary: true
-- id: ACE/OAUTH-ERROR-CODE-CBOR-MAPPINGS
-  type: IANA
+- id: ACE__OAUTH-ERROR-CODE-CBOR-MAPPINGS
+  type: IETF
   scope: anchor
 docnumber: ace/oauth-error-code-cbor-mappings
 date:

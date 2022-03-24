@@ -11,8 +11,8 @@ docid:
 - id: IANA stamp-tlv-types/stamp-synchronization-sources
   type: IANA
   primary: true
-- id: STAMP-TLV-TYPES/STAMP-SYNCHRONIZATION-SOURCES
-  type: IANA
+- id: STAMP-TLV-TYPES__STAMP-SYNCHRONIZATION-SOURCES
+  type: IETF
   scope: anchor
 docnumber: stamp-tlv-types/stamp-synchronization-sources
 date:

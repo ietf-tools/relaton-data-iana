@@ -11,8 +11,8 @@ docid:
 - id: IANA clue/clue-message-types
   type: IANA
   primary: true
-- id: CLUE/CLUE-MESSAGE-TYPES
-  type: IANA
+- id: CLUE__CLUE-MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: clue/clue-message-types
 date:

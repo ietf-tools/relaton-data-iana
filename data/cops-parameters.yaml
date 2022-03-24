@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: COPS-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cops-parameters
 date:

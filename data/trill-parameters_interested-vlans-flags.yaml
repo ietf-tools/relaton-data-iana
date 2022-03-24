@@ -11,8 +11,8 @@ docid:
 - id: IANA trill-parameters/interested-vlans-flags
   type: IANA
   primary: true
-- id: TRILL-PARAMETERS/INTERESTED-VLANS-FLAGS
-  type: IANA
+- id: TRILL-PARAMETERS__INTERESTED-VLANS-FLAGS
+  type: IETF
   scope: anchor
 docnumber: trill-parameters/interested-vlans-flags
 date:

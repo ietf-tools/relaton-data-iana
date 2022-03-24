@@ -11,8 +11,8 @@ docid:
 - id: IANA ace/ace-authorization-server-request-creation-hints
   type: IANA
   primary: true
-- id: ACE/ACE-AUTHORIZATION-SERVER-REQUEST-CREATION-HINTS
-  type: IANA
+- id: ACE__ACE-AUTHORIZATION-SERVER-REQUEST-CREATION-HINTS
+  type: IETF
   scope: anchor
 docnumber: ace/ace-authorization-server-request-creation-hints
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA gist-parameters/error12-subcodes
   type: IANA
   primary: true
-- id: GIST-PARAMETERS/ERROR12-SUBCODES
-  type: IANA
+- id: GIST-PARAMETERS__ERROR12-SUBCODES
+  type: IETF
   scope: anchor
 docnumber: gist-parameters/error12-subcodes
 date:

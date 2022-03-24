@@ -11,8 +11,8 @@ docid:
 - id: IANA dcep-parameters/message-type
   type: IANA
   primary: true
-- id: DCEP-PARAMETERS/MESSAGE-TYPE
-  type: IANA
+- id: DCEP-PARAMETERS__MESSAGE-TYPE
+  type: IETF
   scope: anchor
 docnumber: dcep-parameters/message-type
 date:

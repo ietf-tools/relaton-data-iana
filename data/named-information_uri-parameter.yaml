@@ -11,8 +11,8 @@ docid:
 - id: IANA named-information/uri-parameter
   type: IANA
   primary: true
-- id: NAMED-INFORMATION/URI-PARAMETER
-  type: IANA
+- id: NAMED-INFORMATION__URI-PARAMETER
+  type: IETF
   scope: anchor
 docnumber: named-information/uri-parameter
 date:

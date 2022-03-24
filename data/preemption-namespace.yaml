@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PREEMPTION-NAMESPACE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: preemption-namespace
 date:

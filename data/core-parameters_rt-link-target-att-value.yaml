@@ -11,8 +11,8 @@ docid:
 - id: IANA core-parameters/rt-link-target-att-value
   type: IANA
   primary: true
-- id: CORE-PARAMETERS/RT-LINK-TARGET-ATT-VALUE
-  type: IANA
+- id: CORE-PARAMETERS__RT-LINK-TARGET-ATT-VALUE
+  type: IETF
   scope: anchor
 docnumber: core-parameters/rt-link-target-att-value
 date:

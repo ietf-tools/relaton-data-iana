@@ -11,8 +11,8 @@ docid:
 - id: IANA keytable/algid
   type: IANA
   primary: true
-- id: KEYTABLE/ALGID
-  type: IANA
+- id: KEYTABLE__ALGID
+  type: IETF
   scope: anchor
 docnumber: keytable/algid
 date:

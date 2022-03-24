@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/candidate-attribute-extensions
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/CANDIDATE-ATTRIBUTE-EXTENSIONS
-  type: IANA
+- id: SDP-PARAMETERS__CANDIDATE-ATTRIBUTE-EXTENSIONS
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/candidate-attribute-extensions
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RSVP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rsvp-parameters
 date:

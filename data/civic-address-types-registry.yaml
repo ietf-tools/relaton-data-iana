@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CIVIC-ADDRESS-TYPES-REGISTRY
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: civic-address-types-registry
 date:

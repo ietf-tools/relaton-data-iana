@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/binding-revocation-type
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/BINDING-REVOCATION-TYPE
-  type: IANA
+- id: MOBILITY-PARAMETERS__BINDING-REVOCATION-TYPE
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/binding-revocation-type
 date:

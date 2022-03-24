@@ -11,8 +11,8 @@ docid:
 - id: IANA pcp-parameters/opcodes
   type: IANA
   primary: true
-- id: PCP-PARAMETERS/OPCODES
-  type: IANA
+- id: PCP-PARAMETERS__OPCODES
+  type: IETF
   scope: anchor
 docnumber: pcp-parameters/opcodes
 date:

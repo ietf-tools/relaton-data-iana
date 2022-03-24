@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/forwarding-options
   type: IANA
   primary: true
-- id: RELOAD/FORWARDING-OPTIONS
-  type: IANA
+- id: RELOAD__FORWARDING-OPTIONS
+  type: IETF
   scope: anchor
 docnumber: reload/forwarding-options
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA xml-security-uris/security-uris
   type: IANA
   primary: true
-- id: XML-SECURITY-URIS/SECURITY-URIS
-  type: IANA
+- id: XML-SECURITY-URIS__SECURITY-URIS
+  type: IETF
   scope: anchor
 docnumber: xml-security-uris/security-uris
 date:

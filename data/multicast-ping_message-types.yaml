@@ -11,8 +11,8 @@ docid:
 - id: IANA multicast-ping/message-types
   type: IANA
   primary: true
-- id: MULTICAST-PING/MESSAGE-TYPES
-  type: IANA
+- id: MULTICAST-PING__MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: multicast-ping/message-types
 date:

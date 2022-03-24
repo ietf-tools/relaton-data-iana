@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ACP
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: acp
 date:

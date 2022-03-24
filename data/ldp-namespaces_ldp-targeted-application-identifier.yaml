@@ -11,8 +11,8 @@ docid:
 - id: IANA ldp-namespaces/ldp-targeted-application-identifier
   type: IANA
   primary: true
-- id: LDP-NAMESPACES/LDP-TARGETED-APPLICATION-IDENTIFIER
-  type: IANA
+- id: LDP-NAMESPACES__LDP-TARGETED-APPLICATION-IDENTIFIER
+  type: IETF
   scope: anchor
 docnumber: ldp-namespaces/ldp-targeted-application-identifier
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IPV4-RECOVERED-ADDRESS-SPACE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ipv4-recovered-address-space
 date:

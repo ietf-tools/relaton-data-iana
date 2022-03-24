@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/message-type-53
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/MESSAGE-TYPE-53
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__MESSAGE-TYPE-53
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/message-type-53
 date:

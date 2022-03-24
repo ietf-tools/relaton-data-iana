@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RID
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rid
 date:

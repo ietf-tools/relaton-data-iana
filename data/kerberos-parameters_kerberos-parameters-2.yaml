@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-parameters/kerberos-parameters-2
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/KERBEROS-PARAMETERS-2
-  type: IANA
+- id: KERBEROS-PARAMETERS__KERBEROS-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters/kerberos-parameters-2
 date:

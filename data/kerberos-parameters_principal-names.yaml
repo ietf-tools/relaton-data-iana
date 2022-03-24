@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-parameters/principal-names
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/PRINCIPAL-NAMES
-  type: IANA
+- id: KERBEROS-PARAMETERS__PRINCIPAL-NAMES
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters/principal-names
 date:

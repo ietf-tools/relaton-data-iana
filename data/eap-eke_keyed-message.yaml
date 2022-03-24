@@ -11,8 +11,8 @@ docid:
 - id: IANA eap-eke/keyed-message
   type: IANA
   primary: true
-- id: EAP-EKE/KEYED-MESSAGE
-  type: IANA
+- id: EAP-EKE__KEYED-MESSAGE
+  type: IETF
   scope: anchor
 docnumber: eap-eke/keyed-message
 date:

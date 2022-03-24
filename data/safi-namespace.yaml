@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SAFI-NAMESPACE
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: safi-namespace
 date:

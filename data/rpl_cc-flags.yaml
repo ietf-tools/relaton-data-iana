@@ -11,8 +11,8 @@ docid:
 - id: IANA rpl/cc-flags
   type: IANA
   primary: true
-- id: RPL/CC-FLAGS
-  type: IANA
+- id: RPL__CC-FLAGS
+  type: IETF
   scope: anchor
 docnumber: rpl/cc-flags
 date:

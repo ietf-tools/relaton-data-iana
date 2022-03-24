@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: FEDFS-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: fedfs-parameters
 date:

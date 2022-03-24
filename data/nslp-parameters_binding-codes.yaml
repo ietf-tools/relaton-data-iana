@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/binding-codes
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/BINDING-CODES
-  type: IANA
+- id: NSLP-PARAMETERS__BINDING-CODES
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/binding-codes
 date:

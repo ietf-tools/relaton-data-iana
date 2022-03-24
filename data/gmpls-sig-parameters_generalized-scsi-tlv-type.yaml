@@ -11,8 +11,8 @@ docid:
 - id: IANA gmpls-sig-parameters/generalized-scsi-tlv-type
   type: IANA
   primary: true
-- id: GMPLS-SIG-PARAMETERS/GENERALIZED-SCSI-TLV-TYPE
-  type: IANA
+- id: GMPLS-SIG-PARAMETERS__GENERALIZED-SCSI-TLV-TYPE
+  type: IETF
   scope: anchor
 docnumber: gmpls-sig-parameters/generalized-scsi-tlv-type
 date:

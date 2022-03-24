@@ -11,8 +11,8 @@ docid:
 - id: IANA os-specific-parameters/filetypes
   type: IANA
   primary: true
-- id: OS-SPECIFIC-PARAMETERS/FILETYPES
-  type: IANA
+- id: OS-SPECIFIC-PARAMETERS__FILETYPES
+  type: IETF
   scope: anchor
 docnumber: os-specific-parameters/filetypes
 date:

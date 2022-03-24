@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/bgp-parameters-11
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/BGP-PARAMETERS-11
-  type: IANA
+- id: BGP-PARAMETERS__BGP-PARAMETERS-11
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/bgp-parameters-11
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA tunnel-setup-protocol/tunnel-types
   type: IANA
   primary: true
-- id: TUNNEL-SETUP-PROTOCOL/TUNNEL-TYPES
-  type: IANA
+- id: TUNNEL-SETUP-PROTOCOL__TUNNEL-TYPES
+  type: IETF
   scope: anchor
 docnumber: tunnel-setup-protocol/tunnel-types
 date:

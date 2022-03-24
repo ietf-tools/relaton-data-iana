@@ -11,8 +11,8 @@ docid:
 - id: IANA g-ach-parameters/psc-request
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/PSC-REQUEST
-  type: IANA
+- id: G-ACH-PARAMETERS__PSC-REQUEST
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/psc-request
 date:

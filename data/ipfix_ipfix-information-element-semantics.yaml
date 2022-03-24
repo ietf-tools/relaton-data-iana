@@ -11,8 +11,8 @@ docid:
 - id: IANA ipfix/ipfix-information-element-semantics
   type: IANA
   primary: true
-- id: IPFIX/IPFIX-INFORMATION-ELEMENT-SEMANTICS
-  type: IANA
+- id: IPFIX__IPFIX-INFORMATION-ELEMENT-SEMANTICS
+  type: IETF
   scope: anchor
 docnumber: ipfix/ipfix-information-element-semantics
 date:

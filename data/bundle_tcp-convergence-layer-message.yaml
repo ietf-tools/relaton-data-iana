@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/tcp-convergence-layer-message
   type: IANA
   primary: true
-- id: BUNDLE/TCP-CONVERGENCE-LAYER-MESSAGE
-  type: IANA
+- id: BUNDLE__TCP-CONVERGENCE-LAYER-MESSAGE
+  type: IETF
   scope: anchor
 docnumber: bundle/tcp-convergence-layer-message
 date:

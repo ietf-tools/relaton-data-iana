@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: IANAFINISHER-MIB
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ianafinisher-mib
 date:

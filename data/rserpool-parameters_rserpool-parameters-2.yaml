@@ -11,8 +11,8 @@ docid:
 - id: IANA rserpool-parameters/rserpool-parameters-2
   type: IANA
   primary: true
-- id: RSERPOOL-PARAMETERS/RSERPOOL-PARAMETERS-2
-  type: IANA
+- id: RSERPOOL-PARAMETERS__RSERPOOL-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: rserpool-parameters/rserpool-parameters-2
 date:

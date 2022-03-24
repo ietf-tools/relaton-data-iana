@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: BATTERY-TECHNOLOGIES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: battery-technologies
 date:

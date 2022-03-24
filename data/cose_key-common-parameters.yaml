@@ -11,8 +11,8 @@ docid:
 - id: IANA cose/key-common-parameters
   type: IANA
   primary: true
-- id: COSE/KEY-COMMON-PARAMETERS
-  type: IANA
+- id: COSE__KEY-COMMON-PARAMETERS
+  type: IETF
   scope: anchor
 docnumber: cose/key-common-parameters
 date:

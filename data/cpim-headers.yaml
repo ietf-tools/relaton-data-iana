@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CPIM-HEADERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: cpim-headers
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: JMS-URI-VARIANTS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: jms-uri-variants
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: KERBEROS-V-GSS-API
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: kerberos-v-gss-api
 date:

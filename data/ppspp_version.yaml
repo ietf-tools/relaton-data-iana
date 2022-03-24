@@ -11,8 +11,8 @@ docid:
 - id: IANA ppspp/version
   type: IANA
   primary: true
-- id: PPSPP/VERSION
-  type: IANA
+- id: PPSPP__VERSION
+  type: IETF
   scope: anchor
 docnumber: ppspp/version
 date:

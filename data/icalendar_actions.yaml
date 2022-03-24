@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/actions
   type: IANA
   primary: true
-- id: ICALENDAR/ACTIONS
-  type: IANA
+- id: ICALENDAR__ACTIONS
+  type: IETF
   scope: anchor
 docnumber: icalendar/actions
 date:

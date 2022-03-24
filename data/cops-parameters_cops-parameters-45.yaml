@@ -11,8 +11,8 @@ docid:
 - id: IANA cops-parameters/cops-parameters-45
   type: IANA
   primary: true
-- id: COPS-PARAMETERS/COPS-PARAMETERS-45
-  type: IANA
+- id: COPS-PARAMETERS__COPS-PARAMETERS-45
+  type: IETF
   scope: anchor
 docnumber: cops-parameters/cops-parameters-45
 date:

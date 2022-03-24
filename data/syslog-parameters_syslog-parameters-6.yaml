@@ -11,8 +11,8 @@ docid:
 - id: IANA syslog-parameters/syslog-parameters-6
   type: IANA
   primary: true
-- id: SYSLOG-PARAMETERS/SYSLOG-PARAMETERS-6
-  type: IANA
+- id: SYSLOG-PARAMETERS__SYSLOG-PARAMETERS-6
+  type: IETF
   scope: anchor
 docnumber: syslog-parameters/syslog-parameters-6
 date:

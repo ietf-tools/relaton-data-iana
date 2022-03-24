@@ -11,8 +11,8 @@ docid:
 - id: IANA ipv6-multicast-addresses/variable
   type: IANA
   primary: true
-- id: IPV6-MULTICAST-ADDRESSES/VARIABLE
-  type: IANA
+- id: IPV6-MULTICAST-ADDRESSES__VARIABLE
+  type: IETF
   scope: anchor
 docnumber: ipv6-multicast-addresses/variable
 date:

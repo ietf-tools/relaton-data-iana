@@ -11,8 +11,8 @@ docid:
 - id: IANA g-ach-parameters/gach-ethernet
   type: IANA
   primary: true
-- id: G-ACH-PARAMETERS/GACH-ETHERNET
-  type: IANA
+- id: G-ACH-PARAMETERS__GACH-ETHERNET
+  type: IETF
   scope: anchor
 docnumber: g-ach-parameters/gach-ethernet
 date:

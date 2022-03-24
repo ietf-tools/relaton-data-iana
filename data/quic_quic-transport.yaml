@@ -11,8 +11,8 @@ docid:
 - id: IANA quic/quic-transport
   type: IANA
   primary: true
-- id: QUIC/QUIC-TRANSPORT
-  type: IANA
+- id: QUIC__QUIC-TRANSPORT
+  type: IETF
   scope: anchor
 docnumber: quic/quic-transport
 date:

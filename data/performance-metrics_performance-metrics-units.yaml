@@ -11,8 +11,8 @@ docid:
 - id: IANA performance-metrics/performance-metrics-units
   type: IANA
   primary: true
-- id: PERFORMANCE-METRICS/PERFORMANCE-METRICS-UNITS
-  type: IANA
+- id: PERFORMANCE-METRICS__PERFORMANCE-METRICS-UNITS
+  type: IETF
   scope: anchor
 docnumber: performance-metrics/performance-metrics-units
 date:

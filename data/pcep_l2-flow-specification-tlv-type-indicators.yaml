@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/l2-flow-specification-tlv-type-indicators
   type: IANA
   primary: true
-- id: PCEP/L2-FLOW-SPECIFICATION-TLV-TYPE-INDICATORS
-  type: IANA
+- id: PCEP__L2-FLOW-SPECIFICATION-TLV-TYPE-INDICATORS
+  type: IETF
   scope: anchor
 docnumber: pcep/l2-flow-specification-tlv-type-indicators
 date:

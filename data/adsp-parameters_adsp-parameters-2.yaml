@@ -11,8 +11,8 @@ docid:
 - id: IANA adsp-parameters/adsp-parameters-2
   type: IANA
   primary: true
-- id: ADSP-PARAMETERS/ADSP-PARAMETERS-2
-  type: IANA
+- id: ADSP-PARAMETERS__ADSP-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: adsp-parameters/adsp-parameters-2
 date:

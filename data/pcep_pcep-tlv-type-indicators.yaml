@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-tlv-type-indicators
   type: IANA
   primary: true
-- id: PCEP/PCEP-TLV-TYPE-INDICATORS
-  type: IANA
+- id: PCEP__PCEP-TLV-TYPE-INDICATORS
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-tlv-type-indicators
 date:

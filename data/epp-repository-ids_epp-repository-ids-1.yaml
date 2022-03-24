@@ -11,8 +11,8 @@ docid:
 - id: IANA epp-repository-ids/epp-repository-ids-1
   type: IANA
   primary: true
-- id: EPP-REPOSITORY-IDS/EPP-REPOSITORY-IDS-1
-  type: IANA
+- id: EPP-REPOSITORY-IDS__EPP-REPOSITORY-IDS-1
+  type: IETF
   scope: anchor
 docnumber: epp-repository-ids/epp-repository-ids-1
 date:

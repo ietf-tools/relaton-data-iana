@@ -11,8 +11,8 @@ docid:
 - id: IANA snoop-datalink-types/snoop-datalink-types-2
   type: IANA
   primary: true
-- id: SNOOP-DATALINK-TYPES/SNOOP-DATALINK-TYPES-2
-  type: IANA
+- id: SNOOP-DATALINK-TYPES__SNOOP-DATALINK-TYPES-2
+  type: IETF
   scope: anchor
 docnumber: snoop-datalink-types/snoop-datalink-types-2
 date:

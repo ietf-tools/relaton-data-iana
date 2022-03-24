@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/wavelength-allocation-tlv-flag-field
   type: IANA
   primary: true
-- id: PCEP/WAVELENGTH-ALLOCATION-TLV-FLAG-FIELD
-  type: IANA
+- id: PCEP__WAVELENGTH-ALLOCATION-TLV-FLAG-FIELD
+  type: IETF
   scope: anchor
 docnumber: pcep/wavelength-allocation-tlv-flag-field
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA capwap-parameters/capwap-parameters-14
   type: IANA
   primary: true
-- id: CAPWAP-PARAMETERS/CAPWAP-PARAMETERS-14
-  type: IANA
+- id: CAPWAP-PARAMETERS__CAPWAP-PARAMETERS-14
+  type: IETF
   scope: anchor
 docnumber: capwap-parameters/capwap-parameters-14
 date:

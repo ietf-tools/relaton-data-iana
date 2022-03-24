@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: ROUTE-DISTINGUISHER-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: route-distinguisher-types
 date:

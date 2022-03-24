@@ -11,8 +11,8 @@ docid:
 - id: IANA lisp-parameters/lisp-gpe-next-protocol
   type: IANA
   primary: true
-- id: LISP-PARAMETERS/LISP-GPE-NEXT-PROTOCOL
-  type: IANA
+- id: LISP-PARAMETERS__LISP-GPE-NEXT-PROTOCOL
+  type: IETF
   scope: anchor
 docnumber: lisp-parameters/lisp-gpe-next-protocol
 date:

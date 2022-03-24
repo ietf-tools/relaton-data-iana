@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: PA-TNC-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pa-tnc-parameters
 date:

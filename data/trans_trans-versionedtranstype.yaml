@@ -11,8 +11,8 @@ docid:
 - id: IANA trans/trans-versionedtranstype
   type: IANA
   primary: true
-- id: TRANS/TRANS-VERSIONEDTRANSTYPE
-  type: IANA
+- id: TRANS__TRANS-VERSIONEDTRANSTYPE
+  type: IETF
   scope: anchor
 docnumber: trans/trans-versionedtranstype
 date:

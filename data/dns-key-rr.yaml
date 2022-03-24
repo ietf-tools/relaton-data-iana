@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: DNS-KEY-RR
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dns-key-rr
 date:

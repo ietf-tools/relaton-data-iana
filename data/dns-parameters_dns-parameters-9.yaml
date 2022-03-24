@@ -11,8 +11,8 @@ docid:
 - id: IANA dns-parameters/dns-parameters-9
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/DNS-PARAMETERS-9
-  type: IANA
+- id: DNS-PARAMETERS__DNS-PARAMETERS-9
+  type: IETF
   scope: anchor
 docnumber: dns-parameters/dns-parameters-9
 date:

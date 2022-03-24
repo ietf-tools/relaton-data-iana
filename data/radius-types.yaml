@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RADIUS-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: radius-types
 date:

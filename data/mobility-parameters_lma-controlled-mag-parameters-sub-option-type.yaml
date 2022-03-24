@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/lma-controlled-mag-parameters-sub-option-type
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/LMA-CONTROLLED-MAG-PARAMETERS-SUB-OPTION-TYPE
-  type: IANA
+- id: MOBILITY-PARAMETERS__LMA-CONTROLLED-MAG-PARAMETERS-SUB-OPTION-TYPE
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/lma-controlled-mag-parameters-sub-option-type
 date:

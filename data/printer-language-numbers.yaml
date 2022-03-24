@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PRINTER-LANGUAGE-NUMBERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: printer-language-numbers
 date:

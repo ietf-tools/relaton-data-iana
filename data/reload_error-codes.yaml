@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/error-codes
   type: IANA
   primary: true
-- id: RELOAD/ERROR-CODES
-  type: IANA
+- id: RELOAD__ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: reload/error-codes
 date:

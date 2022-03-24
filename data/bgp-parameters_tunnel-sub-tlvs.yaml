@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/tunnel-sub-tlvs
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/TUNNEL-SUB-TLVS
-  type: IANA
+- id: BGP-PARAMETERS__TUNNEL-SUB-TLVS
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/tunnel-sub-tlvs
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA clue/view
   type: IANA
   primary: true
-- id: CLUE/VIEW
-  type: IANA
+- id: CLUE__VIEW
+  type: IETF
   scope: anchor
 docnumber: clue/view
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA sig-alg-numbers/sig-alg-numbers-1
   type: IANA
   primary: true
-- id: SIG-ALG-NUMBERS/SIG-ALG-NUMBERS-1
-  type: IANA
+- id: SIG-ALG-NUMBERS__SIG-ALG-NUMBERS-1
+  type: IETF
   scope: anchor
 docnumber: sig-alg-numbers/sig-alg-numbers-1
 date:

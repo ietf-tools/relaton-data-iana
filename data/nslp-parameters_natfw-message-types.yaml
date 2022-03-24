@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/natfw-message-types
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/NATFW-MESSAGE-TYPES
-  type: IANA
+- id: NSLP-PARAMETERS__NATFW-MESSAGE-TYPES
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/natfw-message-types
 date:

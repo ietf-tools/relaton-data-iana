@@ -11,8 +11,8 @@ docid:
 - id: IANA idna-tables-7.0.0/idna-tables-properties
   type: IANA
   primary: true
-- id: IDNA-TABLES-7.0.0/IDNA-TABLES-PROPERTIES
-  type: IANA
+- id: IDNA-TABLES-7.0.0__IDNA-TABLES-PROPERTIES
+  type: IETF
   scope: anchor
 docnumber: idna-tables-7.0.0/idna-tables-properties
 date:

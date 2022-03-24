@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-parameters/tunnel-types
   type: IANA
   primary: true
-- id: BGP-PARAMETERS/TUNNEL-TYPES
-  type: IANA
+- id: BGP-PARAMETERS__TUNNEL-TYPES
+  type: IETF
   scope: anchor
 docnumber: bgp-parameters/tunnel-types
 date:

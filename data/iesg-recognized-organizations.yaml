@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: IESG-RECOGNIZED-ORGANIZATIONS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: iesg-recognized-organizations
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/interval-time-address-block-tlv-type-extension
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/INTERVAL-TIME-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
-  type: IANA
+- id: MANET-PARAMETERS__INTERVAL-TIME-ADDRESS-BLOCK-TLV-TYPE-EXTENSION
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/interval-time-address-block-tlv-type-extension
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ppsp-tp/error-code
   type: IANA
   primary: true
-- id: PPSP-TP/ERROR-CODE
-  type: IANA
+- id: PPSP-TP__ERROR-CODE
+  type: IETF
   scope: anchor
 docnumber: ppsp-tp/error-code
 date:

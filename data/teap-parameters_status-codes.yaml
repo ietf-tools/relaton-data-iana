@@ -11,8 +11,8 @@ docid:
 - id: IANA teap-parameters/status-codes
   type: IANA
   primary: true
-- id: TEAP-PARAMETERS/STATUS-CODES
-  type: IANA
+- id: TEAP-PARAMETERS__STATUS-CODES
+  type: IETF
   scope: anchor
 docnumber: teap-parameters/status-codes
 date:

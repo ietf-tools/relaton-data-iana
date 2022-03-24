@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: LTP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ltp-parameters
 date:

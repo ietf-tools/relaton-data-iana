@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/tcp-convergence-layer-transfer-extension
   type: IANA
   primary: true
-- id: BUNDLE/TCP-CONVERGENCE-LAYER-TRANSFER-EXTENSION
-  type: IANA
+- id: BUNDLE__TCP-CONVERGENCE-LAYER-TRANSFER-EXTENSION
+  type: IETF
   scope: anchor
 docnumber: bundle/tcp-convergence-layer-transfer-extension
 date:

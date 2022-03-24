@@ -11,8 +11,8 @@ docid:
 - id: IANA mobility-parameters/flow-binding-action
   type: IANA
   primary: true
-- id: MOBILITY-PARAMETERS/FLOW-BINDING-ACTION
-  type: IANA
+- id: MOBILITY-PARAMETERS__FLOW-BINDING-ACTION
+  type: IETF
   scope: anchor
 docnumber: mobility-parameters/flow-binding-action
 date:

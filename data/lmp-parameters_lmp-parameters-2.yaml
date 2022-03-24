@@ -11,8 +11,8 @@ docid:
 - id: IANA lmp-parameters/lmp-parameters-2
   type: IANA
   primary: true
-- id: LMP-PARAMETERS/LMP-PARAMETERS-2
-  type: IANA
+- id: LMP-PARAMETERS__LMP-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: lmp-parameters/lmp-parameters-2
 date:

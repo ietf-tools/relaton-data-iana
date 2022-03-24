@@ -11,8 +11,8 @@ docid:
 - id: IANA kink-parameters/kink-parameters-4
   type: IANA
   primary: true
-- id: KINK-PARAMETERS/KINK-PARAMETERS-4
-  type: IANA
+- id: KINK-PARAMETERS__KINK-PARAMETERS-4
+  type: IETF
   scope: anchor
 docnumber: kink-parameters/kink-parameters-4
 date:

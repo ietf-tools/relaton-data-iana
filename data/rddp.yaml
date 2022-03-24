@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RDDP
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rddp
 date:

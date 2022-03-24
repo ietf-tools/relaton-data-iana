@@ -11,8 +11,8 @@ docid:
 - id: IANA cdni-parameters/logging-directive-names
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/LOGGING-DIRECTIVE-NAMES
-  type: IANA
+- id: CDNI-PARAMETERS__LOGGING-DIRECTIVE-NAMES
+  type: IETF
   scope: anchor
 docnumber: cdni-parameters/logging-directive-names
 date:

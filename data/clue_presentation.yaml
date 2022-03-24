@@ -11,8 +11,8 @@ docid:
 - id: IANA clue/presentation
   type: IANA
   primary: true
-- id: CLUE/PRESENTATION
-  type: IANA
+- id: CLUE__PRESENTATION
+  type: IETF
   scope: anchor
 docnumber: clue/presentation
 date:

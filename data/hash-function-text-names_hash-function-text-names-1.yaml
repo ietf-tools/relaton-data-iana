@@ -11,8 +11,8 @@ docid:
 - id: IANA hash-function-text-names/hash-function-text-names-1
   type: IANA
   primary: true
-- id: HASH-FUNCTION-TEXT-NAMES/HASH-FUNCTION-TEXT-NAMES-1
-  type: IANA
+- id: HASH-FUNCTION-TEXT-NAMES__HASH-FUNCTION-TEXT-NAMES-1
+  type: IETF
   scope: anchor
 docnumber: hash-function-text-names/hash-function-text-names-1
 date:

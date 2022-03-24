@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: RDAP-IPV6
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: rdap-ipv6
 date:

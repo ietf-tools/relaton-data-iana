@@ -11,8 +11,8 @@ docid:
 - id: IANA dccp-parameters/dccp-parameters-11
   type: IANA
   primary: true
-- id: DCCP-PARAMETERS/DCCP-PARAMETERS-11
-  type: IANA
+- id: DCCP-PARAMETERS__DCCP-PARAMETERS-11
+  type: IETF
   scope: anchor
 docnumber: dccp-parameters/dccp-parameters-11
 date:

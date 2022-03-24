@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/email-type
   type: IANA
   primary: true
-- id: IODEF2/EMAIL-TYPE
-  type: IANA
+- id: IODEF2__EMAIL-TYPE
+  type: IETF
   scope: anchor
 docnumber: iodef2/email-type
 date:

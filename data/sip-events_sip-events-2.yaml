@@ -11,8 +11,8 @@ docid:
 - id: IANA sip-events/sip-events-2
   type: IANA
   primary: true
-- id: SIP-EVENTS/SIP-EVENTS-2
-  type: IANA
+- id: SIP-EVENTS__SIP-EVENTS-2
+  type: IETF
   scope: anchor
 docnumber: sip-events/sip-events-2
 date:

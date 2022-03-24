@@ -11,8 +11,8 @@ docid:
 - id: IANA iodef2/domaindata-system-status
   type: IANA
   primary: true
-- id: IODEF2/DOMAINDATA-SYSTEM-STATUS
-  type: IANA
+- id: IODEF2__DOMAINDATA-SYSTEM-STATUS
+  type: IETF
   scope: anchor
 docnumber: iodef2/domaindata-system-status
 date:

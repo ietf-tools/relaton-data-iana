@@ -11,8 +11,8 @@ docid:
 - id: IANA dkim-parameters/dkim-parameters-3
   type: IANA
   primary: true
-- id: DKIM-PARAMETERS/DKIM-PARAMETERS-3
-  type: IANA
+- id: DKIM-PARAMETERS__DKIM-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: dkim-parameters/dkim-parameters-3
 date:

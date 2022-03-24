@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/error-source-identifiers
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/ERROR-SOURCE-IDENTIFIERS
-  type: IANA
+- id: NSLP-PARAMETERS__ERROR-SOURCE-IDENTIFIERS
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/error-source-identifiers
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA ppspp/options
   type: IANA
   primary: true
-- id: PPSPP/OPTIONS
-  type: IANA
+- id: PPSPP__OPTIONS
+  type: IETF
   scope: anchor
 docnumber: ppspp/options
 date:

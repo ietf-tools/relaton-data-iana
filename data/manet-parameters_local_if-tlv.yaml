@@ -11,8 +11,8 @@ docid:
 - id: IANA manet-parameters/local_if-tlv
   type: IANA
   primary: true
-- id: MANET-PARAMETERS/LOCAL_IF-TLV
-  type: IANA
+- id: MANET-PARAMETERS__LOCAL_IF-TLV
+  type: IETF
   scope: anchor
 docnumber: manet-parameters/local_if-tlv
 date:

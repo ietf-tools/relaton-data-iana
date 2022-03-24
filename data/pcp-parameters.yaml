@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: PCP-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: pcp-parameters
 date:

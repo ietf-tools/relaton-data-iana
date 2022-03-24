@@ -11,8 +11,8 @@ docid:
 - id: IANA ip-over-IEEE1394/ip-over-IEEE1394-2
   type: IANA
   primary: true
-- id: IP-OVER-IEEE1394/IP-OVER-IEEE1394-2
-  type: IANA
+- id: IP-OVER-IEEE1394__IP-OVER-IEEE1394-2
+  type: IETF
   scope: anchor
 docnumber: ip-over-IEEE1394/ip-over-IEEE1394-2
 date:

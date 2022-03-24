@@ -11,8 +11,8 @@ docid:
 - id: IANA pkix-parameters/caa-properties
   type: IANA
   primary: true
-- id: PKIX-PARAMETERS/CAA-PROPERTIES
-  type: IANA
+- id: PKIX-PARAMETERS__CAA-PROPERTIES
+  type: IETF
   scope: anchor
 docnumber: pkix-parameters/caa-properties
 date:

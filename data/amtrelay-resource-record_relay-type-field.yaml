@@ -11,8 +11,8 @@ docid:
 - id: IANA amtrelay-resource-record/relay-type-field
   type: IANA
   primary: true
-- id: AMTRELAY-RESOURCE-RECORD/RELAY-TYPE-FIELD
-  type: IANA
+- id: AMTRELAY-RESOURCE-RECORD__RELAY-TYPE-FIELD
+  type: IETF
   scope: anchor
 docnumber: amtrelay-resource-record/relay-type-field
 date:

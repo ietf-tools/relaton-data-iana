@@ -11,8 +11,8 @@ docid:
 - id: IANA madcap-parameters/madcap-parameters-4
   type: IANA
   primary: true
-- id: MADCAP-PARAMETERS/MADCAP-PARAMETERS-4
-  type: IANA
+- id: MADCAP-PARAMETERS__MADCAP-PARAMETERS-4
+  type: IETF
   scope: anchor
 docnumber: madcap-parameters/madcap-parameters-4
 date:

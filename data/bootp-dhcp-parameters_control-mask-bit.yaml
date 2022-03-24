@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/control-mask-bit
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/CONTROL-MASK-BIT
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__CONTROL-MASK-BIT
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/control-mask-bit
 date:

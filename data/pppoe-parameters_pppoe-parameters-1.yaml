@@ -11,8 +11,8 @@ docid:
 - id: IANA pppoe-parameters/pppoe-parameters-1
   type: IANA
   primary: true
-- id: PPPOE-PARAMETERS/PPPOE-PARAMETERS-1
-  type: IANA
+- id: PPPOE-PARAMETERS__PPPOE-PARAMETERS-1
+  type: IETF
   scope: anchor
 docnumber: pppoe-parameters/pppoe-parameters-1
 date:

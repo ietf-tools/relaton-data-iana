@@ -11,8 +11,8 @@ docid:
 - id: IANA pb-tnc-parameters/pb-tnc-parameters-2
   type: IANA
   primary: true
-- id: PB-TNC-PARAMETERS/PB-TNC-PARAMETERS-2
-  type: IANA
+- id: PB-TNC-PARAMETERS__PB-TNC-PARAMETERS-2
+  type: IETF
   scope: anchor
 docnumber: pb-tnc-parameters/pb-tnc-parameters-2
 date:

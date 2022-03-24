@@ -11,8 +11,8 @@ docid:
 - id: IANA about-uri-tokens/about-uri-tokens
   type: IANA
   primary: true
-- id: ABOUT-URI-TOKENS/ABOUT-URI-TOKENS
-  type: IANA
+- id: ABOUT-URI-TOKENS__ABOUT-URI-TOKENS
+  type: IETF
   scope: anchor
 docnumber: about-uri-tokens/about-uri-tokens
 date:

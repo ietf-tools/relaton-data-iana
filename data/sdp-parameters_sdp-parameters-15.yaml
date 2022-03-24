@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/sdp-parameters-15
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/SDP-PARAMETERS-15
-  type: IANA
+- id: SDP-PARAMETERS__SDP-PARAMETERS-15
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/sdp-parameters-15
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: C-DNS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: c-dns
 date:

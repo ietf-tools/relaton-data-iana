@@ -11,8 +11,8 @@ docid:
 - id: IANA trip-parameters/trip-parameters-3
   type: IANA
   primary: true
-- id: TRIP-PARAMETERS/TRIP-PARAMETERS-3
-  type: IANA
+- id: TRIP-PARAMETERS__TRIP-PARAMETERS-3
+  type: IETF
   scope: anchor
 docnumber: trip-parameters/trip-parameters-3
 date:

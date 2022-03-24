@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/objects
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/OBJECTS
-  type: IANA
+- id: NSLP-PARAMETERS__OBJECTS
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/objects
 date:

@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SMTP-ENHANCED-STATUS-CODES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: smtp-enhanced-status-codes
 date:

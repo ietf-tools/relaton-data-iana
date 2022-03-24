@@ -11,8 +11,8 @@ docid:
 - id: IANA bundle/cbhe-service-numbers
   type: IANA
   primary: true
-- id: BUNDLE/CBHE-SERVICE-NUMBERS
-  type: IANA
+- id: BUNDLE__CBHE-SERVICE-NUMBERS
+  type: IETF
   scope: anchor
 docnumber: bundle/cbhe-service-numbers
 date:

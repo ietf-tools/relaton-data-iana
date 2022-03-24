@@ -11,8 +11,8 @@ docid:
 - id: IANA power-state-sets/dmtf
   type: IANA
   primary: true
-- id: POWER-STATE-SETS/DMTF
-  type: IANA
+- id: POWER-STATE-SETS__DMTF
+  type: IETF
   scope: anchor
 docnumber: power-state-sets/dmtf
 date:

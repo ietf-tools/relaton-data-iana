@@ -11,8 +11,8 @@ docid:
 - id: IANA prophet/result-field
   type: IANA
   primary: true
-- id: PROPHET/RESULT-FIELD
-  type: IANA
+- id: PROPHET__RESULT-FIELD
+  type: IETF
   scope: anchor
 docnumber: prophet/result-field
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA dots/dots-signal-channel-conflict-status-codes
   type: IANA
   primary: true
-- id: DOTS/DOTS-SIGNAL-CHANNEL-CONFLICT-STATUS-CODES
-  type: IANA
+- id: DOTS__DOTS-SIGNAL-CHANNEL-CONFLICT-STATUS-CODES
+  type: IETF
   scope: anchor
 docnumber: dots/dots-signal-channel-conflict-status-codes
 date:

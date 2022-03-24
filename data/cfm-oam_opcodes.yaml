@@ -11,8 +11,8 @@ docid:
 - id: IANA cfm-oam/opcodes
   type: IANA
   primary: true
-- id: CFM-OAM/OPCODES
-  type: IANA
+- id: CFM-OAM__OPCODES
+  type: IETF
   scope: anchor
 docnumber: cfm-oam/opcodes
 date:

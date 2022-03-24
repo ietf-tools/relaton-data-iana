@@ -11,8 +11,8 @@ docid:
 - id: IANA keytable/protocol
   type: IANA
   primary: true
-- id: KEYTABLE/PROTOCOL
-  type: IANA
+- id: KEYTABLE__PROTOCOL
+  type: IETF
   scope: anchor
 docnumber: keytable/protocol
 date:

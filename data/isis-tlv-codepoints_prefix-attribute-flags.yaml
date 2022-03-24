@@ -11,8 +11,8 @@ docid:
 - id: IANA isis-tlv-codepoints/prefix-attribute-flags
   type: IANA
   primary: true
-- id: ISIS-TLV-CODEPOINTS/PREFIX-ATTRIBUTE-FLAGS
-  type: IANA
+- id: ISIS-TLV-CODEPOINTS__PREFIX-ATTRIBUTE-FLAGS
+  type: IETF
   scope: anchor
 docnumber: isis-tlv-codepoints/prefix-attribute-flags
 date:

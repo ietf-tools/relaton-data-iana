@@ -11,8 +11,8 @@ docid:
 - id: IANA hoba-key-identifiers/key-identifier-types
   type: IANA
   primary: true
-- id: HOBA-KEY-IDENTIFIERS/KEY-IDENTIFIER-TYPES
-  type: IANA
+- id: HOBA-KEY-IDENTIFIERS__KEY-IDENTIFIER-TYPES
+  type: IETF
   scope: anchor
 docnumber: hoba-key-identifiers/key-identifier-types
 date:

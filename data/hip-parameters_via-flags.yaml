@@ -11,8 +11,8 @@ docid:
 - id: IANA hip-parameters/via-flags
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/VIA-FLAGS
-  type: IANA
+- id: HIP-PARAMETERS__VIA-FLAGS
+  type: IETF
   scope: anchor
 docnumber: hip-parameters/via-flags
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA nts/nts-error-codes
   type: IANA
   primary: true
-- id: NTS/NTS-ERROR-CODES
-  type: IANA
+- id: NTS__NTS-ERROR-CODES
+  type: IETF
   scope: anchor
 docnumber: nts/nts-error-codes
 date:

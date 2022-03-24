@@ -11,8 +11,8 @@ docid:
 - id: IANA ice/options
   type: IANA
   primary: true
-- id: ICE/OPTIONS
-  type: IANA
+- id: ICE__OPTIONS
+  type: IETF
   scope: anchor
 docnumber: ice/options
 date:

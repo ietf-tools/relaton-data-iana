@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: VCDIFF-COMP-IDS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: vcdiff-comp-ids
 date:

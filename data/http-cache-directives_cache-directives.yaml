@@ -11,8 +11,8 @@ docid:
 - id: IANA http-cache-directives/cache-directives
   type: IANA
   primary: true
-- id: HTTP-CACHE-DIRECTIVES/CACHE-DIRECTIVES
-  type: IANA
+- id: HTTP-CACHE-DIRECTIVES__CACHE-DIRECTIVES
+  type: IETF
   scope: anchor
 docnumber: http-cache-directives/cache-directives
 date:

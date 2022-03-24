@@ -11,8 +11,8 @@ docid:
 - id: IANA iscsi-parameters/iscsi-parameters-8
   type: IANA
   primary: true
-- id: ISCSI-PARAMETERS/ISCSI-PARAMETERS-8
-  type: IANA
+- id: ISCSI-PARAMETERS__ISCSI-PARAMETERS-8
+  type: IETF
   scope: anchor
 docnumber: iscsi-parameters/iscsi-parameters-8
 date:

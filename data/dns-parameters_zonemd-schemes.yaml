@@ -11,8 +11,8 @@ docid:
 - id: IANA dns-parameters/zonemd-schemes
   type: IANA
   primary: true
-- id: DNS-PARAMETERS/ZONEMD-SCHEMES
-  type: IANA
+- id: DNS-PARAMETERS__ZONEMD-SCHEMES
+  type: IETF
   scope: anchor
 docnumber: dns-parameters/zonemd-schemes
 date:

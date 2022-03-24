@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/generalized-endpoint-type
   type: IANA
   primary: true
-- id: PCEP/GENERALIZED-ENDPOINT-TYPE
-  type: IANA
+- id: PCEP__GENERALIZED-ENDPOINT-TYPE
+  type: IETF
   scope: anchor
 docnumber: pcep/generalized-endpoint-type
 date:

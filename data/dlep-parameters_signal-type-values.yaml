@@ -11,8 +11,8 @@ docid:
 - id: IANA dlep-parameters/signal-type-values
   type: IANA
   primary: true
-- id: DLEP-PARAMETERS/SIGNAL-TYPE-VALUES
-  type: IANA
+- id: DLEP-PARAMETERS__SIGNAL-TYPE-VALUES
+  type: IETF
   scope: anchor
 docnumber: dlep-parameters/signal-type-values
 date:

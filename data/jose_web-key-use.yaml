@@ -11,8 +11,8 @@ docid:
 - id: IANA jose/web-key-use
   type: IANA
   primary: true
-- id: JOSE/WEB-KEY-USE
-  type: IANA
+- id: JOSE__WEB-KEY-USE
+  type: IETF
   scope: anchor
 docnumber: jose/web-key-use
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA rddp/mpa-errors
   type: IANA
   primary: true
-- id: RDDP/MPA-ERRORS
-  type: IANA
+- id: RDDP__MPA-ERRORS
+  type: IETF
   scope: anchor
 docnumber: rddp/mpa-errors
 date:

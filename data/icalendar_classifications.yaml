@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/classifications
   type: IANA
   primary: true
-- id: ICALENDAR/CLASSIFICATIONS
-  type: IANA
+- id: ICALENDAR__CLASSIFICATIONS
+  type: IETF
   scope: anchor
 docnumber: icalendar/classifications
 date:

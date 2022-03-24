@@ -11,8 +11,8 @@ docid:
 - id: IANA hip-parameters/hit-suite-id
   type: IANA
   primary: true
-- id: HIP-PARAMETERS/HIT-SUITE-ID
-  type: IANA
+- id: HIP-PARAMETERS__HIT-SUITE-ID
+  type: IETF
   scope: anchor
 docnumber: hip-parameters/hit-suite-id
 date:

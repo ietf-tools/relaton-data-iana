@@ -11,8 +11,8 @@ docid:
 - id: IANA ds-rr-types/ds-rr-types-1
   type: IANA
   primary: true
-- id: DS-RR-TYPES/DS-RR-TYPES-1
-  type: IANA
+- id: DS-RR-TYPES__DS-RR-TYPES-1
+  type: IETF
   scope: anchor
 docnumber: ds-rr-types/ds-rr-types-1
 date:

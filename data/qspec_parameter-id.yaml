@@ -11,8 +11,8 @@ docid:
 - id: IANA qspec/parameter-id
   type: IANA
   primary: true
-- id: QSPEC/PARAMETER-ID
-  type: IANA
+- id: QSPEC__PARAMETER-ID
+  type: IETF
   scope: anchor
 docnumber: qspec/parameter-id
 date:

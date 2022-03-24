@@ -11,8 +11,8 @@ docid:
 - id: IANA websocket/close-code-number
   type: IANA
   primary: true
-- id: WEBSOCKET/CLOSE-CODE-NUMBER
-  type: IANA
+- id: WEBSOCKET__CLOSE-CODE-NUMBER
+  type: IETF
   scope: anchor
 docnumber: websocket/close-code-number
 date:

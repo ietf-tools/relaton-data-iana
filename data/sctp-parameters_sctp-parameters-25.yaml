@@ -11,8 +11,8 @@ docid:
 - id: IANA sctp-parameters/sctp-parameters-25
   type: IANA
   primary: true
-- id: SCTP-PARAMETERS/SCTP-PARAMETERS-25
-  type: IANA
+- id: SCTP-PARAMETERS__SCTP-PARAMETERS-25
+  type: IETF
   scope: anchor
 docnumber: sctp-parameters/sctp-parameters-25
 date:

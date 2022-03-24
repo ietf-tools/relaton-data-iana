@@ -11,8 +11,8 @@ docid:
 - id: IANA cdni-parameters/logging-record-types
   type: IANA
   primary: true
-- id: CDNI-PARAMETERS/LOGGING-RECORD-TYPES
-  type: IANA
+- id: CDNI-PARAMETERS__LOGGING-RECORD-TYPES
+  type: IETF
   scope: anchor
 docnumber: cdni-parameters/logging-record-types
 date:

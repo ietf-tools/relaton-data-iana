@@ -11,8 +11,8 @@ docid:
 - id: IANA radius-types/radius-ip-port-configuration-reporting-tlvs
   type: IANA
   primary: true
-- id: RADIUS-TYPES/RADIUS-IP-PORT-CONFIGURATION-REPORTING-TLVS
-  type: IANA
+- id: RADIUS-TYPES__RADIUS-IP-PORT-CONFIGURATION-REPORTING-TLVS
+  type: IETF
   scope: anchor
 docnumber: radius-types/radius-ip-port-configuration-reporting-tlvs
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA cddl/cddl-control-operators
   type: IANA
   primary: true
-- id: CDDL/CDDL-CONTROL-OPERATORS
-  type: IANA
+- id: CDDL__CDDL-CONTROL-OPERATORS
+  type: IETF
   scope: anchor
 docnumber: cddl/cddl-control-operators
 date:

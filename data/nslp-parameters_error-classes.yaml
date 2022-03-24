@@ -11,8 +11,8 @@ docid:
 - id: IANA nslp-parameters/error-classes
   type: IANA
   primary: true
-- id: NSLP-PARAMETERS/ERROR-CLASSES
-  type: IANA
+- id: NSLP-PARAMETERS__ERROR-CLASSES
+  type: IETF
   scope: anchor
 docnumber: nslp-parameters/error-classes
 date:

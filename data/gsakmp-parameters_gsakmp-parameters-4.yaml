@@ -11,8 +11,8 @@ docid:
 - id: IANA gsakmp-parameters/gsakmp-parameters-4
   type: IANA
   primary: true
-- id: GSAKMP-PARAMETERS/GSAKMP-PARAMETERS-4
-  type: IANA
+- id: GSAKMP-PARAMETERS__GSAKMP-PARAMETERS-4
+  type: IETF
   scope: anchor
 docnumber: gsakmp-parameters/gsakmp-parameters-4
 date:

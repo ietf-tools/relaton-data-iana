@@ -11,8 +11,8 @@ docid:
 - id: IANA mpls-label-values/special-purpose
   type: IANA
   primary: true
-- id: MPLS-LABEL-VALUES/SPECIAL-PURPOSE
-  type: IANA
+- id: MPLS-LABEL-VALUES__SPECIAL-PURPOSE
+  type: IETF
   scope: anchor
 docnumber: mpls-label-values/special-purpose
 date:

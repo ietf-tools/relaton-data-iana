@@ -11,8 +11,8 @@ docid:
 - id: IANA mrt/type-codes
   type: IANA
   primary: true
-- id: MRT/TYPE-CODES
-  type: IANA
+- id: MRT__TYPE-CODES
+  type: IETF
   scope: anchor
 docnumber: mrt/type-codes
 date:

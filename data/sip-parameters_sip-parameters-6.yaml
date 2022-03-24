@@ -11,8 +11,8 @@ docid:
 - id: IANA sip-parameters/sip-parameters-6
   type: IANA
   primary: true
-- id: SIP-PARAMETERS/SIP-PARAMETERS-6
-  type: IANA
+- id: SIP-PARAMETERS__SIP-PARAMETERS-6
+  type: IETF
   scope: anchor
 docnumber: sip-parameters/sip-parameters-6
 date:

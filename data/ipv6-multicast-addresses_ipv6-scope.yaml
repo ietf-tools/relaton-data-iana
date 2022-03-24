@@ -11,8 +11,8 @@ docid:
 - id: IANA ipv6-multicast-addresses/ipv6-scope
   type: IANA
   primary: true
-- id: IPV6-MULTICAST-ADDRESSES/IPV6-SCOPE
-  type: IANA
+- id: IPV6-MULTICAST-ADDRESSES__IPV6-SCOPE
+  type: IETF
   scope: anchor
 docnumber: ipv6-multicast-addresses/ipv6-scope
 date:

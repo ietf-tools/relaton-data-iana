@@ -11,8 +11,8 @@ docid:
 - id: IANA brski-parameters/brski-well-known-uris
   type: IANA
   primary: true
-- id: BRSKI-PARAMETERS/BRSKI-WELL-KNOWN-URIS
-  type: IANA
+- id: BRSKI-PARAMETERS__BRSKI-WELL-KNOWN-URIS
+  type: IETF
   scope: anchor
 docnumber: brski-parameters/brski-well-known-uris
 date:

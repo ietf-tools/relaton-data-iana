@@ -11,8 +11,8 @@ docid:
 - id: IANA icalendar/components
   type: IANA
   primary: true
-- id: ICALENDAR/COMPONENTS
-  type: IANA
+- id: ICALENDAR__COMPONENTS
+  type: IETF
   scope: anchor
 docnumber: icalendar/components
 date:

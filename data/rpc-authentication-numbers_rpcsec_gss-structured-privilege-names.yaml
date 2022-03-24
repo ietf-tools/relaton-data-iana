@@ -11,8 +11,8 @@ docid:
 - id: IANA rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
   type: IANA
   primary: true
-- id: RPC-AUTHENTICATION-NUMBERS/RPCSEC_GSS-STRUCTURED-PRIVILEGE-NAMES
-  type: IANA
+- id: RPC-AUTHENTICATION-NUMBERS__RPCSEC_GSS-STRUCTURED-PRIVILEGE-NAMES
+  type: IETF
   scope: anchor
 docnumber: rpc-authentication-numbers/rpcsec_gss-structured-privilege-names
 date:

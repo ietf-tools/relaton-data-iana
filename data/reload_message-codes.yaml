@@ -11,8 +11,8 @@ docid:
 - id: IANA reload/message-codes
   type: IANA
   primary: true
-- id: RELOAD/MESSAGE-CODES
-  type: IANA
+- id: RELOAD__MESSAGE-CODES
+  type: IETF
   scope: anchor
 docnumber: reload/message-codes
 date:

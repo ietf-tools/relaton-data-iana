@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MPLS-LABEL-VALUES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: mpls-label-values
 date:

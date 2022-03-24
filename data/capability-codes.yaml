@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: CAPABILITY-CODES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: capability-codes
 date:

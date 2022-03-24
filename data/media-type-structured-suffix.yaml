@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: MEDIA-TYPE-STRUCTURED-SUFFIX
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: media-type-structured-suffix
 date:

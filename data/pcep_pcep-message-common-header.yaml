@@ -11,8 +11,8 @@ docid:
 - id: IANA pcep/pcep-message-common-header
   type: IANA
   primary: true
-- id: PCEP/PCEP-MESSAGE-COMMON-HEADER
-  type: IANA
+- id: PCEP__PCEP-MESSAGE-COMMON-HEADER
+  type: IETF
   scope: anchor
 docnumber: pcep/pcep-message-common-header
 date:

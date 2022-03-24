@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: SNMP-NUMBER-SPACES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: snmp-number-spaces
 date:

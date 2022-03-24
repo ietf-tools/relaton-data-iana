@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/altitude
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/ALTITUDE
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__ALTITUDE
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/altitude
 date:

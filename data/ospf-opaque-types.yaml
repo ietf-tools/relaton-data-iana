@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: OSPF-OPAQUE-TYPES
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: ospf-opaque-types
 date:

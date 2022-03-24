@@ -11,8 +11,8 @@ docid:
 - id: IANA bootp-dhcp-parameters/vss-type
   type: IANA
   primary: true
-- id: BOOTP-DHCP-PARAMETERS/VSS-TYPE
-  type: IANA
+- id: BOOTP-DHCP-PARAMETERS__VSS-TYPE
+  type: IETF
   scope: anchor
 docnumber: bootp-dhcp-parameters/vss-type
 date:

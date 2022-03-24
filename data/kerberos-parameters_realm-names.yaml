@@ -11,8 +11,8 @@ docid:
 - id: IANA kerberos-parameters/realm-names
   type: IANA
   primary: true
-- id: KERBEROS-PARAMETERS/REALM-NAMES
-  type: IANA
+- id: KERBEROS-PARAMETERS__REALM-NAMES
+  type: IETF
   scope: anchor
 docnumber: kerberos-parameters/realm-names
 date:

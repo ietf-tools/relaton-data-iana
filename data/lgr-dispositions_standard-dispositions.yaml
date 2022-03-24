@@ -11,8 +11,8 @@ docid:
 - id: IANA lgr-dispositions/standard-dispositions
   type: IANA
   primary: true
-- id: LGR-DISPOSITIONS/STANDARD-DISPOSITIONS
-  type: IANA
+- id: LGR-DISPOSITIONS__STANDARD-DISPOSITIONS
+  type: IETF
   scope: anchor
 docnumber: lgr-dispositions/standard-dispositions
 date:

@@ -11,8 +11,8 @@ docid:
 - id: IANA mdn/disp-not-opt
   type: IANA
   primary: true
-- id: MDN/DISP-NOT-OPT
-  type: IANA
+- id: MDN__DISP-NOT-OPT
+  type: IETF
   scope: anchor
 docnumber: mdn/disp-not-opt
 date:

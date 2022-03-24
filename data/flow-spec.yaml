@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: FLOW-SPEC
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: flow-spec
 date:

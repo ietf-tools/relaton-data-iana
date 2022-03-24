@@ -12,7 +12,7 @@ docid:
   type: IANA
   primary: true
 - id: GNSS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: gnss
 date:

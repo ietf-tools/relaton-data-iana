@@ -13,7 +13,7 @@ docid:
   type: IANA
   primary: true
 - id: DCCP-CCID2-PARAMETERS
-  type: IANA
+  type: IETF
   scope: anchor
 docnumber: dccp-ccid2-parameters
 date:

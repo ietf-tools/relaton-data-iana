@@ -11,8 +11,8 @@ docid:
 - id: IANA inst-man-values/inst-man-values-1
   type: IANA
   primary: true
-- id: INST-MAN-VALUES/INST-MAN-VALUES-1
-  type: IANA
+- id: INST-MAN-VALUES__INST-MAN-VALUES-1
+  type: IETF
   scope: anchor
 docnumber: inst-man-values/inst-man-values-1
 date:

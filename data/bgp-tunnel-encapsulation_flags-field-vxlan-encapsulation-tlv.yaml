@@ -11,8 +11,8 @@ docid:
 - id: IANA bgp-tunnel-encapsulation/flags-field-vxlan-encapsulation-tlv
   type: IANA
   primary: true
-- id: BGP-TUNNEL-ENCAPSULATION/FLAGS-FIELD-VXLAN-ENCAPSULATION-TLV
-  type: IANA
+- id: BGP-TUNNEL-ENCAPSULATION__FLAGS-FIELD-VXLAN-ENCAPSULATION-TLV
+  type: IETF
   scope: anchor
 docnumber: bgp-tunnel-encapsulation/flags-field-vxlan-encapsulation-tlv
 date:

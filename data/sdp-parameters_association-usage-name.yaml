@@ -11,8 +11,8 @@ docid:
 - id: IANA sdp-parameters/association-usage-name
   type: IANA
   primary: true
-- id: SDP-PARAMETERS/ASSOCIATION-USAGE-NAME
-  type: IANA
+- id: SDP-PARAMETERS__ASSOCIATION-USAGE-NAME
+  type: IETF
   scope: anchor
 docnumber: sdp-parameters/association-usage-name
 date:
