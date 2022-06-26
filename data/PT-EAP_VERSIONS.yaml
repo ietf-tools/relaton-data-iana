@@ -1,0 +1,31 @@
+---
+id: IANAPT-EAP/versions
+title:
+- content: PT-EAP Versions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pt-eap
+  type: src
+type: standard
+docid:
+- id: IANA PT-EAP/versions
+  type: IANA
+  primary: true
+docnumber: PT-EAP__VERSIONS
+date:
+- type: created
+  value: '2013-04-15'
+- type: updated
+  value: '2014-05-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

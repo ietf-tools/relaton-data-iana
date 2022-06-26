@@ -1,0 +1,29 @@
+---
+id: IANATELNET-OPTIONS/telnet-options-9
+title:
+- content: DSS Authentication Type (Type 14)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/telnet-options
+  type: src
+type: standard
+docid:
+- id: IANA TELNET-OPTIONS/telnet-options-9
+  type: IANA
+  primary: true
+docnumber: TELNET-OPTIONS__TELNET-OPTIONS-9
+date:
+- type: updated
+  value: '2011-12-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

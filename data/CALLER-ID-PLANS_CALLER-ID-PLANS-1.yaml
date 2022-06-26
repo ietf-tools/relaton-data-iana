@@ -1,0 +1,31 @@
+---
+id: IANACALLER-ID-PLANS/caller-id-plans-1
+title:
+- content: Caller-ID Numbering Plans Tokens
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/caller-id-plans
+  type: src
+type: standard
+docid:
+- id: IANA CALLER-ID-PLANS/caller-id-plans-1
+  type: IANA
+  primary: true
+docnumber: CALLER-ID-PLANS__CALLER-ID-PLANS-1
+date:
+- type: created
+  value: '2004-10-05'
+- type: updated
+  value: '2005-01-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANAMILNET-PARAMETERS/milnet-parameters-3
+title:
+- content: Milnet X.25 Address Mappings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/milnet-parameters
+  type: src
+type: standard
+docid:
+- id: IANA MILNET-PARAMETERS/milnet-parameters-3
+  type: IANA
+  primary: true
+docnumber: MILNET-PARAMETERS__MILNET-PARAMETERS-3
+date:
+- type: updated
+  value: '2001-08-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

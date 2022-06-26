@@ -1,0 +1,31 @@
+---
+id: IANAGDOI-PAYLOADS/id-types
+title:
+- content: ID Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gdoi-payloads
+  type: src
+type: standard
+docid:
+- id: IANA GDOI-PAYLOADS/id-types
+  type: IANA
+  primary: true
+docnumber: GDOI-PAYLOADS__ID-TYPES
+date:
+- type: created
+  value: '2003-03-28'
+- type: updated
+  value: '2017-12-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

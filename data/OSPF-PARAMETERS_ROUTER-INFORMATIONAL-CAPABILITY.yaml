@@ -1,0 +1,31 @@
+---
+id: IANAOSPF-PARAMETERS/router-informational-capability
+title:
+- content: OSPF Router Informational Capability Bits
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospf-parameters
+  type: src
+type: standard
+docid:
+- id: IANA OSPF-PARAMETERS/router-informational-capability
+  type: IANA
+  primary: true
+docnumber: OSPF-PARAMETERS__ROUTER-INFORMATIONAL-CAPABILITY
+date:
+- type: created
+  value: '2015-11-03'
+- type: updated
+  value: '2021-06-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

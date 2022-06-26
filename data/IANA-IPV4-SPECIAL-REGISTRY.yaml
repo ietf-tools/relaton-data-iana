@@ -1,0 +1,31 @@
+---
+id: IANAiana-ipv4-special-registry
+title:
+- content: IANA IPv4 Special-Purpose Address Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iana-ipv4-special-registry
+  type: src
+type: standard
+docid:
+- id: IANA iana-ipv4-special-registry
+  type: IANA
+  primary: true
+docnumber: IANA-IPV4-SPECIAL-REGISTRY
+date:
+- type: created
+  value: '2009-08-19'
+- type: updated
+  value: '2021-02-04'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANAprinter-language-numbers
+title:
+- content: Printer MIB Interpreters Language Families - OBSOLETE
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/printer-language-numbers
+  type: src
+type: standard
+docid:
+- id: IANA printer-language-numbers
+  type: IANA
+  primary: true
+docnumber: PRINTER-LANGUAGE-NUMBERS
+date:
+- type: updated
+  value: '2009-10-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

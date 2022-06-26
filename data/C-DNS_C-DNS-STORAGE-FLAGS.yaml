@@ -1,0 +1,31 @@
+---
+id: IANAC-DNS/c-dns-storage-flags
+title:
+- content: C-DNS Storage Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/c-dns
+  type: src
+type: standard
+docid:
+- id: IANA C-DNS/c-dns-storage-flags
+  type: IANA
+  primary: true
+docnumber: C-DNS__C-DNS-STORAGE-FLAGS
+date:
+- type: created
+  value: '2019-01-07'
+- type: updated
+  value: '2020-12-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

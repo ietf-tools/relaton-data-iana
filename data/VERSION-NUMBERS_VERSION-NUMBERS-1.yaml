@@ -1,0 +1,29 @@
+---
+id: IANAVERSION-NUMBERS/version-numbers-1
+title:
+- content: IP Version Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/version-numbers
+  type: src
+type: standard
+docid:
+- id: IANA VERSION-NUMBERS/version-numbers-1
+  type: IANA
+  primary: true
+docnumber: VERSION-NUMBERS__VERSION-NUMBERS-1
+date:
+- type: updated
+  value: '2021-01-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

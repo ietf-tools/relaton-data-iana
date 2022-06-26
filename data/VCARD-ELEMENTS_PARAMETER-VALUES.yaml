@@ -1,0 +1,31 @@
+---
+id: IANAVCARD-ELEMENTS/parameter-values
+title:
+- content: vCard Parameter Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/vcard-elements
+  type: src
+type: standard
+docid:
+- id: IANA VCARD-ELEMENTS/parameter-values
+  type: IANA
+  primary: true
+docnumber: VCARD-ELEMENTS__PARAMETER-VALUES
+date:
+- type: created
+  value: '2011-06-10'
+- type: updated
+  value: '2019-05-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

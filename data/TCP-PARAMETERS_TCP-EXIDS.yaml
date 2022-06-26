@@ -1,0 +1,29 @@
+---
+id: IANATCP-PARAMETERS/tcp-exids
+title:
+- content: TCP Experimental Option Experiment Identifiers (TCP ExIDs)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA TCP-PARAMETERS/tcp-exids
+  type: IANA
+  primary: true
+docnumber: TCP-PARAMETERS__TCP-EXIDS
+date:
+- type: updated
+  value: '2021-02-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

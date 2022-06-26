@@ -1,0 +1,31 @@
+---
+id: IANAsyslog-parameters
+title:
+- content: syslog Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/syslog-parameters
+  type: src
+type: standard
+docid:
+- id: IANA syslog-parameters
+  type: IANA
+  primary: true
+docnumber: SYSLOG-PARAMETERS
+date:
+- type: created
+  value: '2001-08-21'
+- type: updated
+  value: '2016-04-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

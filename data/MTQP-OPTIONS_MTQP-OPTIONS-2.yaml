@@ -1,0 +1,31 @@
+---
+id: IANAMTQP-OPTIONS/mtqp-options-2
+title:
+- content: MTQP Options
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mtqp-options
+  type: src
+type: standard
+docid:
+- id: IANA MTQP-OPTIONS/mtqp-options-2
+  type: IANA
+  primary: true
+docnumber: MTQP-OPTIONS__MTQP-OPTIONS-2
+date:
+- type: created
+  value: '2004-07-16'
+- type: updated
+  value: '2004-10-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

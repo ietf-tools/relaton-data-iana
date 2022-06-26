@@ -1,0 +1,31 @@
+---
+id: IANAprofile-uris
+title:
+- content: Profile URIs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/profile-uris
+  type: src
+type: standard
+docid:
+- id: IANA profile-uris
+  type: IANA
+  primary: true
+docnumber: PROFILE-URIS
+date:
+- type: created
+  value: '2014-04-08'
+- type: updated
+  value: '2021-06-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

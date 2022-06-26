@@ -1,0 +1,31 @@
+---
+id: IANATESLA-PARAMETERS/tesla-parameters-3
+title:
+- content: Signature Encoding Algorithm, TESLA-SIG-ALGO Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tesla-parameters
+  type: src
+type: standard
+docid:
+- id: IANA TESLA-PARAMETERS/tesla-parameters-3
+  type: IANA
+  primary: true
+docnumber: TESLA-PARAMETERS__TESLA-PARAMETERS-3
+date:
+- type: created
+  value: '2006-02-14'
+- type: updated
+  value: '2010-04-07'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

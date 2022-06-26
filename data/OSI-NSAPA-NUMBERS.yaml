@@ -1,0 +1,30 @@
+---
+id: IANAosi-nsapa-numbers
+title:
+- content: Open Systems Interconnection (OSI) Network Service Access Point Addresses
+    (NSAPA) Internet Code Point Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/osi-nsapa-numbers
+  type: src
+type: standard
+docid:
+- id: IANA osi-nsapa-numbers
+  type: IANA
+  primary: true
+docnumber: OSI-NSAPA-NUMBERS
+date:
+- type: updated
+  value: '2008-03-07'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

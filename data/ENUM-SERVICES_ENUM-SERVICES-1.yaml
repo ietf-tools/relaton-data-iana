@@ -1,0 +1,31 @@
+---
+id: IANAENUM-SERVICES/enum-services-1
+title:
+- content: Enumservice Registrations
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/enum-services
+  type: src
+type: standard
+docid:
+- id: IANA ENUM-SERVICES/enum-services-1
+  type: IANA
+  primary: true
+docnumber: ENUM-SERVICES__ENUM-SERVICES-1
+date:
+- type: created
+  value: '2004-03-12'
+- type: updated
+  value: '2019-03-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

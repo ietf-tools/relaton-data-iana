@@ -1,0 +1,29 @@
+---
+id: IANAMESSAGE-HEADERS/perm-headers
+title:
+- content: Permanent Message Header Field Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/message-headers
+  type: src
+type: standard
+docid:
+- id: IANA MESSAGE-HEADERS/perm-headers
+  type: IANA
+  primary: true
+docnumber: MESSAGE-HEADERS__PERM-HEADERS
+date:
+- type: updated
+  value: '2021-10-05'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

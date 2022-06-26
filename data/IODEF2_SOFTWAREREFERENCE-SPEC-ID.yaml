@@ -1,0 +1,31 @@
+---
+id: IANAIODEF2/softwarereference-spec-id
+title:
+- content: SoftwareReference-spec-id
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iodef2
+  type: src
+type: standard
+docid:
+- id: IANA IODEF2/softwarereference-spec-id
+  type: IANA
+  primary: true
+docnumber: IODEF2__SOFTWAREREFERENCE-SPEC-ID
+date:
+- type: created
+  value: '2016-08-16'
+- type: updated
+  value: '2016-12-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

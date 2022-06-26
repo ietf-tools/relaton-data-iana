@@ -1,0 +1,31 @@
+---
+id: IANATRAILER-TYPES/trailer-types-1
+title:
+- content: Trailer Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/trailer-types
+  type: src
+type: standard
+docid:
+- id: IANA TRAILER-TYPES/trailer-types-1
+  type: IANA
+  primary: true
+docnumber: TRAILER-TYPES__TRAILER-TYPES-1
+date:
+- type: created
+  value: '2010-10-01'
+- type: updated
+  value: '2011-01-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

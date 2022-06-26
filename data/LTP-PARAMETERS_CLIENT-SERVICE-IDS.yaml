@@ -1,0 +1,31 @@
+---
+id: IANALTP-PARAMETERS/client-service-ids
+title:
+- content: LTP Client Service Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ltp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA LTP-PARAMETERS/client-service-ids
+  type: IANA
+  primary: true
+docnumber: LTP-PARAMETERS__CLIENT-SERVICE-IDS
+date:
+- type: created
+  value: '2008-07-17'
+- type: updated
+  value: '2014-02-24'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANATELNET-OPTIONS/telnet-options-10
+title:
+- content: Telnet Encryption Types (Option 38)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/telnet-options
+  type: src
+type: standard
+docid:
+- id: IANA TELNET-OPTIONS/telnet-options-10
+  type: IANA
+  primary: true
+docnumber: TELNET-OPTIONS__TELNET-OPTIONS-10
+date:
+- type: updated
+  value: '2011-12-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

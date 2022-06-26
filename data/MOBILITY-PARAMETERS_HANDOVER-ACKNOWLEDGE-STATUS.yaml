@@ -1,0 +1,31 @@
+---
+id: IANAMOBILITY-PARAMETERS/handover-acknowledge-status
+title:
+- content: Handover Acknowledge Status Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+- id: IANA MOBILITY-PARAMETERS/handover-acknowledge-status
+  type: IANA
+  primary: true
+docnumber: MOBILITY-PARAMETERS__HANDOVER-ACKNOWLEDGE-STATUS
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

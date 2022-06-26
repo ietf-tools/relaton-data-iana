@@ -1,0 +1,31 @@
+---
+id: IANATE-TYPES/rfc-4973-experimental-te-tlvs
+title:
+- content: RFC 4973 Experimental TE TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/te-types
+  type: src
+type: standard
+docid:
+- id: IANA TE-TYPES/rfc-4973-experimental-te-tlvs
+  type: IANA
+  primary: true
+docnumber: TE-TYPES__RFC-4973-EXPERIMENTAL-TE-TLVS
+date:
+- type: created
+  value: '2005-07-27'
+- type: updated
+  value: '2007-08-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

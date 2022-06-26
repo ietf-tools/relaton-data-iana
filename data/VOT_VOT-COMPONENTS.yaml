@@ -1,0 +1,31 @@
+---
+id: IANAVOT/vot-components
+title:
+- content: Vectors of Trust Components
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/vot
+  type: src
+type: standard
+docid:
+- id: IANA VOT/vot-components
+  type: IANA
+  primary: true
+docnumber: VOT__VOT-COMPONENTS
+date:
+- type: created
+  value: '2018-08-23'
+- type: updated
+  value: '2018-10-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANACAPWAP-PARAMETERS/capwap-parameters-26
+title:
+- content: CAPWAP IEEE 802.11 Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/capwap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA CAPWAP-PARAMETERS/capwap-parameters-26
+  type: IANA
+  primary: true
+docnumber: CAPWAP-PARAMETERS__CAPWAP-PARAMETERS-26
+date:
+- type: created
+  value: '2008-12-04'
+- type: updated
+  value: '2018-05-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

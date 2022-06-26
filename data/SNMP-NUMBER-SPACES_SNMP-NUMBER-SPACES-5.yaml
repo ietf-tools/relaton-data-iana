@@ -1,0 +1,29 @@
+---
+id: IANASNMP-NUMBER-SPACES/snmp-number-spaces-5
+title:
+- content: SnmpAuthProtocols
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/snmp-number-spaces
+  type: src
+type: standard
+docid:
+- id: IANA SNMP-NUMBER-SPACES/snmp-number-spaces-5
+  type: IANA
+  primary: true
+docnumber: SNMP-NUMBER-SPACES__SNMP-NUMBER-SPACES-5
+date:
+- type: updated
+  value: '2016-05-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

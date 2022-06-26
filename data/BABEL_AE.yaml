@@ -1,0 +1,31 @@
+---
+id: IANABABEL/ae
+title:
+- content: Babel Address Encodings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/babel
+  type: src
+type: standard
+docid:
+- id: IANA BABEL/ae
+  type: IANA
+  primary: true
+docnumber: BABEL__AE
+date:
+- type: created
+  value: '2015-04-14'
+- type: updated
+  value: '2021-08-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

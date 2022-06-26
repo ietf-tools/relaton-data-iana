@@ -1,0 +1,31 @@
+---
+id: IANAEMERGENCY-CALL-METADATA-CONTROL-DATA/emergency-call-vehicle-camera-id
+title:
+- content: Emergency Call Vehicle Camera IDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/emergency-call-metadata-control-data
+  type: src
+type: standard
+docid:
+- id: IANA EMERGENCY-CALL-METADATA-CONTROL-DATA/emergency-call-vehicle-camera-id
+  type: IANA
+  primary: true
+docnumber: EMERGENCY-CALL-METADATA-CONTROL-DATA__EMERGENCY-CALL-VEHICLE-CAMERA-ID
+date:
+- type: created
+  value: '2017-02-24'
+- type: updated
+  value: '2017-05-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANAJOSE/web-key-elliptic-curve
+title:
+- content: JSON Web Key Elliptic Curve
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/jose
+  type: src
+type: standard
+docid:
+- id: IANA JOSE/web-key-elliptic-curve
+  type: IANA
+  primary: true
+docnumber: JOSE__WEB-KEY-ELLIPTIC-CURVE
+date:
+- type: created
+  value: '2015-01-23'
+- type: updated
+  value: '2020-11-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANADHCPV6-PARAMETERS/dhcpv6-parameters-2
+title:
+- content: Option Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dhcpv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA DHCPV6-PARAMETERS/dhcpv6-parameters-2
+  type: IANA
+  primary: true
+docnumber: DHCPV6-PARAMETERS__DHCPV6-PARAMETERS-2
+date:
+- type: created
+  value: '2003-11-03'
+- type: updated
+  value: '2021-10-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

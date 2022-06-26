@@ -1,0 +1,31 @@
+---
+id: IANAgsakmp-parameters
+title:
+- content: Group Secure Association Group Management Protocol (GSAKMP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gsakmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA gsakmp-parameters
+  type: IANA
+  primary: true
+docnumber: GSAKMP-PARAMETERS
+date:
+- type: created
+  value: '2005-07-27'
+- type: updated
+  value: '2018-09-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

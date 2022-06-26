@@ -1,0 +1,31 @@
+---
+id: IANADNS-SSHFP-RR-PARAMETERS/dns-sshfp-rr-parameters-1
+title:
+- content: SSHFP RR Types for public key algorithms
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dns-sshfp-rr-parameters
+  type: src
+type: standard
+docid:
+- id: IANA DNS-SSHFP-RR-PARAMETERS/dns-sshfp-rr-parameters-1
+  type: IANA
+  primary: true
+docnumber: DNS-SSHFP-RR-PARAMETERS__DNS-SSHFP-RR-PARAMETERS-1
+date:
+- type: created
+  value: '2003-09-19'
+- type: updated
+  value: '2020-02-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

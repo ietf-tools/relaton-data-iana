@@ -1,0 +1,31 @@
+---
+id: IANAIODEF2/incident-status
+title:
+- content: Incident-status
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iodef2
+  type: src
+type: standard
+docid:
+- id: IANA IODEF2/incident-status
+  type: IANA
+  primary: true
+docnumber: IODEF2__INCIDENT-STATUS
+date:
+- type: created
+  value: '2016-08-16'
+- type: updated
+  value: '2016-12-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

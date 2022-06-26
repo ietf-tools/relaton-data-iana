@@ -1,0 +1,31 @@
+---
+id: IANAMULTICAST-ACQUISITION/report-block-tlv
+title:
+- content: Multicast Acquisition Report Block TLV Space Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/multicast-acquisition
+  type: src
+type: standard
+docid:
+- id: IANA MULTICAST-ACQUISITION/report-block-tlv
+  type: IANA
+  primary: true
+docnumber: MULTICAST-ACQUISITION__REPORT-BLOCK-TLV
+date:
+- type: created
+  value: '2011-06-17'
+- type: updated
+  value: '2015-05-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

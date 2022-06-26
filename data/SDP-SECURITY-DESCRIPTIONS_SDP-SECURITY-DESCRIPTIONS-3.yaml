@@ -1,0 +1,31 @@
+---
+id: IANASDP-SECURITY-DESCRIPTIONS/sdp-security-descriptions-3
+title:
+- content: SRTP Crypto Suite Registrations
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sdp-security-descriptions
+  type: src
+type: standard
+docid:
+- id: IANA SDP-SECURITY-DESCRIPTIONS/sdp-security-descriptions-3
+  type: IANA
+  primary: true
+docnumber: SDP-SECURITY-DESCRIPTIONS__SDP-SECURITY-DESCRIPTIONS-3
+date:
+- type: created
+  value: '2005-09-21'
+- type: updated
+  value: '2015-12-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

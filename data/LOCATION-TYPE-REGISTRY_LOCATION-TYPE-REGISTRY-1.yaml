@@ -1,0 +1,31 @@
+---
+id: IANALOCATION-TYPE-REGISTRY/location-type-registry-1
+title:
+- content: Location Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/location-type-registry
+  type: src
+type: standard
+docid:
+- id: IANA LOCATION-TYPE-REGISTRY/location-type-registry-1
+  type: IANA
+  primary: true
+docnumber: LOCATION-TYPE-REGISTRY__LOCATION-TYPE-REGISTRY-1
+date:
+- type: created
+  value: '2006-06-19'
+- type: updated
+  value: '2016-04-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

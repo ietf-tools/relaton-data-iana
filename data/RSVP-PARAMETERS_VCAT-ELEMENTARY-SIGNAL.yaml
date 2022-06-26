@@ -1,0 +1,29 @@
+---
+id: IANARSVP-PARAMETERS/vcat-elementary-signal
+title:
+- content: VCAT Elementary Signal Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA RSVP-PARAMETERS/vcat-elementary-signal
+  type: IANA
+  primary: true
+docnumber: RSVP-PARAMETERS__VCAT-ELEMENTARY-SIGNAL
+date:
+- type: updated
+  value: '2019-12-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

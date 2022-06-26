@@ -1,0 +1,31 @@
+---
+id: IANAdnskey-flags
+title:
+- content: DNSKEY FLAGS
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dnskey-flags
+  type: src
+type: standard
+docid:
+- id: IANA dnskey-flags
+  type: IANA
+  primary: true
+docnumber: DNSKEY-FLAGS
+date:
+- type: created
+  value: '2004-02-04'
+- type: updated
+  value: '2007-09-05'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

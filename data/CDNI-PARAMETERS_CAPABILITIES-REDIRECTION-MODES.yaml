@@ -1,0 +1,31 @@
+---
+id: IANACDNI-PARAMETERS/capabilities-redirection-modes
+title:
+- content: CDNI Capabilities Redirection Modes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cdni-parameters
+  type: src
+type: standard
+docid:
+- id: IANA CDNI-PARAMETERS/capabilities-redirection-modes
+  type: IANA
+  primary: true
+docnumber: CDNI-PARAMETERS__CAPABILITIES-REDIRECTION-MODES
+date:
+- type: created
+  value: '2015-10-22'
+- type: updated
+  value: '2021-10-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

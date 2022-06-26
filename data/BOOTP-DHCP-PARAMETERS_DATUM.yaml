@@ -1,0 +1,29 @@
+---
+id: IANABOOTP-DHCP-PARAMETERS/datum
+title:
+- content: Datum Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA BOOTP-DHCP-PARAMETERS/datum
+  type: IANA
+  primary: true
+docnumber: BOOTP-DHCP-PARAMETERS__DATUM
+date:
+- type: updated
+  value: '2021-01-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

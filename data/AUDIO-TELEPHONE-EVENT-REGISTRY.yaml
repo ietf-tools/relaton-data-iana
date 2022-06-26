@@ -1,0 +1,29 @@
+---
+id: IANAaudio-telephone-event-registry
+title:
+- content: audio/telephone-event Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/audio-telephone-event-registry
+  type: src
+type: standard
+docid:
+- id: IANA audio-telephone-event-registry
+  type: IANA
+  primary: true
+docnumber: AUDIO-TELEPHONE-EVENT-REGISTRY
+date:
+- type: updated
+  value: '2011-12-07'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

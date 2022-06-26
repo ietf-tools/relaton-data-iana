@@ -1,0 +1,31 @@
+---
+id: IANAROHC-SUB-IDS/rohc-sub-ids-2
+title:
+- content: ROHC Configuration Option Suboption Identifier Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rohc-sub-ids
+  type: src
+type: standard
+docid:
+- id: IANA ROHC-SUB-IDS/rohc-sub-ids-2
+  type: IANA
+  primary: true
+docnumber: ROHC-SUB-IDS__ROHC-SUB-IDS-2
+date:
+- type: created
+  value: '2002-02-06'
+- type: updated
+  value: '2011-03-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

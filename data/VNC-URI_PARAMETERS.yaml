@@ -1,0 +1,31 @@
+---
+id: IANAVNC-URI/parameters
+title:
+- content: VNC URI Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/vnc-uri
+  type: src
+type: standard
+docid:
+- id: IANA VNC-URI/parameters
+  type: IANA
+  primary: true
+docnumber: VNC-URI__PARAMETERS
+date:
+- type: created
+  value: '2016-03-17'
+- type: updated
+  value: '2016-05-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

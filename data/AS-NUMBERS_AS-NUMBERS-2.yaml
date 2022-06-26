@@ -1,0 +1,29 @@
+---
+id: IANAAS-NUMBERS/as-numbers-2
+title:
+- content: 32-bit Autonomous System Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/as-numbers
+  type: src
+type: standard
+docid:
+- id: IANA AS-NUMBERS/as-numbers-2
+  type: IANA
+  primary: true
+docnumber: AS-NUMBERS__AS-NUMBERS-2
+date:
+- type: updated
+  value: '2021-10-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

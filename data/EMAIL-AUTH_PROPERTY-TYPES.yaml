@@ -1,0 +1,31 @@
+---
+id: IANAEMAIL-AUTH/property-types
+title:
+- content: Email Authentication Property Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/email-auth
+  type: src
+type: standard
+docid:
+- id: IANA EMAIL-AUTH/property-types
+  type: IANA
+  primary: true
+docnumber: EMAIL-AUTH__PROPERTY-TYPES
+date:
+- type: created
+  value: '2009-01-30'
+- type: updated
+  value: '2020-09-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

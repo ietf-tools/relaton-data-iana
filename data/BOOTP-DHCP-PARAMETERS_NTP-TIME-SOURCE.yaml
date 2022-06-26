@@ -1,0 +1,29 @@
+---
+id: IANABOOTP-DHCP-PARAMETERS/ntp-time-source
+title:
+- content: NTP Time Source Suboptions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA BOOTP-DHCP-PARAMETERS/ntp-time-source
+  type: IANA
+  primary: true
+docnumber: BOOTP-DHCP-PARAMETERS__NTP-TIME-SOURCE
+date:
+- type: updated
+  value: '2021-01-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

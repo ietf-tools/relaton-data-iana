@@ -1,0 +1,31 @@
+---
+id: IANASSH-PARAMETERS/ssh-parameters-23
+title:
+- content: Publickey Subsystem Response Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ssh-parameters
+  type: src
+type: standard
+docid:
+- id: IANA SSH-PARAMETERS/ssh-parameters-23
+  type: IANA
+  primary: true
+docnumber: SSH-PARAMETERS__SSH-PARAMETERS-23
+date:
+- type: created
+  value: '2005-06-02'
+- type: updated
+  value: '2021-09-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

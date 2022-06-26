@@ -1,0 +1,31 @@
+---
+id: IANAL2TP-PARAMETERS/l2tp-parameters-23
+title:
+- content: ATM Alarm Status AVP (Attribute Type 88) Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/l2tp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA L2TP-PARAMETERS/l2tp-parameters-23
+  type: IANA
+  primary: true
+docnumber: L2TP-PARAMETERS__L2TP-PARAMETERS-23
+date:
+- type: created
+  value: 2003-03
+- type: updated
+  value: '2016-07-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

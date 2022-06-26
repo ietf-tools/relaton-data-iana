@@ -1,0 +1,31 @@
+---
+id: IANAwebsocket
+title:
+- content: WebSocket Protocol Registries
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/websocket
+  type: src
+type: standard
+docid:
+- id: IANA websocket
+  type: IANA
+  primary: true
+docnumber: WEBSOCKET
+date:
+- type: created
+  value: '2011-10-21'
+- type: updated
+  value: '2021-10-05'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

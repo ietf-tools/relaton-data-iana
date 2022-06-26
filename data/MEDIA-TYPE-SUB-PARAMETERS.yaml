@@ -1,0 +1,31 @@
+---
+id: IANAmedia-type-sub-parameters
+title:
+- content: MIME Media Type Sub-Parameter Registries
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-type-sub-parameters
+  type: src
+type: standard
+docid:
+- id: IANA media-type-sub-parameters
+  type: IANA
+  primary: true
+docnumber: MEDIA-TYPE-SUB-PARAMETERS
+date:
+- type: created
+  value: '2003-10-31'
+- type: updated
+  value: '2020-12-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

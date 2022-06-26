@@ -1,0 +1,31 @@
+---
+id: IANAEMERGENCY-CALL-ADDITIONAL-DATA/service-provider-type
+title:
+- content: Type of Provider
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/emergency-call-additional-data
+  type: src
+type: standard
+docid:
+- id: IANA EMERGENCY-CALL-ADDITIONAL-DATA/service-provider-type
+  type: IANA
+  primary: true
+docnumber: EMERGENCY-CALL-ADDITIONAL-DATA__SERVICE-PROVIDER-TYPE
+date:
+- type: created
+  value: '2015-12-10'
+- type: updated
+  value: '2020-09-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANACGA-MESSAGE-TYPES/cga-message-types-3
+title:
+- content: CGA SEC
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cga-message-types
+  type: src
+type: standard
+docid:
+- id: IANA CGA-MESSAGE-TYPES/cga-message-types-3
+  type: IANA
+  primary: true
+docnumber: CGA-MESSAGE-TYPES__CGA-MESSAGE-TYPES-3
+date:
+- type: created
+  value: '2004-05-28'
+- type: updated
+  value: '2020-11-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

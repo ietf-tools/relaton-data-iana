@@ -1,0 +1,29 @@
+---
+id: IANAchannel-binding-types
+title:
+- content: Channel-Binding Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/channel-binding-types
+  type: src
+type: standard
+docid:
+- id: IANA channel-binding-types
+  type: IANA
+  primary: true
+docnumber: CHANNEL-BINDING-TYPES
+date:
+- type: updated
+  value: '2010-07-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

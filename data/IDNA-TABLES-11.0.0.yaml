@@ -1,0 +1,31 @@
+---
+id: IANAidna-tables-11.0.0
+title:
+- content: IDNA Rules and Derived Property Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/idna-tables-11.0.0
+  type: src
+type: standard
+docid:
+- id: IANA idna-tables-11.0.0
+  type: IANA
+  primary: true
+docnumber: IDNA-TABLES-11.0.0
+date:
+- type: created
+  value: '2010-03-31'
+- type: updated
+  value: '2020-04-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

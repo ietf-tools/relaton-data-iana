@@ -1,0 +1,31 @@
+---
+id: IANAYANG-PARAMETERS/yang-parameters-1
+title:
+- content: YANG Module Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/yang-parameters
+  type: src
+type: standard
+docid:
+- id: IANA YANG-PARAMETERS/yang-parameters-1
+  type: IANA
+  primary: true
+docnumber: YANG-PARAMETERS__YANG-PARAMETERS-1
+date:
+- type: created
+  value: '2010-06-10'
+- type: updated
+  value: '2021-11-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

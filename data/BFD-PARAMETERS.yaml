@@ -1,0 +1,31 @@
+---
+id: IANAbfd-parameters
+title:
+- content: Bidirectional Forwarding Detection (BFD) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bfd-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bfd-parameters
+  type: IANA
+  primary: true
+docnumber: BFD-PARAMETERS
+date:
+- type: created
+  value: '2010-03-29'
+- type: updated
+  value: '2021-10-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

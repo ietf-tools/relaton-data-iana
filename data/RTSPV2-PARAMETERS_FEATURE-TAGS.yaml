@@ -1,0 +1,31 @@
+---
+id: IANARTSPV2-PARAMETERS/feature-tags
+title:
+- content: Feature-tags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtspv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA RTSPV2-PARAMETERS/feature-tags
+  type: IANA
+  primary: true
+docnumber: RTSPV2-PARAMETERS__FEATURE-TAGS
+date:
+- type: created
+  value: '2014-02-21'
+- type: updated
+  value: '2016-12-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

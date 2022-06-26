@@ -1,0 +1,31 @@
+---
+id: IANAEAP-FAST-PARAMETERS/eap-fast-parameters-5
+title:
+- content: EAP-FAST PAC Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-fast-parameters
+  type: src
+type: standard
+docid:
+- id: IANA EAP-FAST-PARAMETERS/eap-fast-parameters-5
+  type: IANA
+  primary: true
+docnumber: EAP-FAST-PARAMETERS__EAP-FAST-PARAMETERS-5
+date:
+- type: created
+  value: '2008-12-12'
+- type: updated
+  value: '2013-07-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

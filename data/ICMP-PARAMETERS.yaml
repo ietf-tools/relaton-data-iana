@@ -1,0 +1,29 @@
+---
+id: IANAicmp-parameters
+title:
+- content: Internet Control Message Protocol (ICMP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA icmp-parameters
+  type: IANA
+  primary: true
+docnumber: ICMP-PARAMETERS
+date:
+- type: updated
+  value: '2020-09-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

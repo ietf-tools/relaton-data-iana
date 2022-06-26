@@ -1,0 +1,31 @@
+---
+id: IANATRILL-PARAMETERS/trill-parameters-1
+title:
+- content: TRILL Nicknames
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/trill-parameters
+  type: src
+type: standard
+docid:
+- id: IANA TRILL-PARAMETERS/trill-parameters-1
+  type: IANA
+  primary: true
+docnumber: TRILL-PARAMETERS__TRILL-PARAMETERS-1
+date:
+- type: created
+  value: '2010-03-26'
+- type: updated
+  value: '2019-04-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

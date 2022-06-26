@@ -1,0 +1,29 @@
+---
+id: IANAMADCAP-PARAMETERS/madcap-parameters-5
+title:
+- content: MADCAP Error Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/madcap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA MADCAP-PARAMETERS/madcap-parameters-5
+  type: IANA
+  primary: true
+docnumber: MADCAP-PARAMETERS__MADCAP-PARAMETERS-5
+date:
+- type: updated
+  value: '2001-08-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

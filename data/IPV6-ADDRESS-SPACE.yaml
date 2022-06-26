@@ -1,0 +1,29 @@
+---
+id: IANAipv6-address-space
+title:
+- content: Internet Protocol Version 6 Address Space
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-address-space
+  type: src
+type: standard
+docid:
+- id: IANA ipv6-address-space
+  type: IANA
+  primary: true
+docnumber: IPV6-ADDRESS-SPACE
+date:
+- type: updated
+  value: '2019-09-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

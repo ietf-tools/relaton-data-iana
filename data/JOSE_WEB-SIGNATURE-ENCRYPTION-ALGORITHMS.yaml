@@ -1,0 +1,31 @@
+---
+id: IANAJOSE/web-signature-encryption-algorithms
+title:
+- content: JSON Web Signature and Encryption Algorithms
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/jose
+  type: src
+type: standard
+docid:
+- id: IANA JOSE/web-signature-encryption-algorithms
+  type: IANA
+  primary: true
+docnumber: JOSE__WEB-SIGNATURE-ENCRYPTION-ALGORITHMS
+date:
+- type: created
+  value: '2015-01-23'
+- type: updated
+  value: '2020-11-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

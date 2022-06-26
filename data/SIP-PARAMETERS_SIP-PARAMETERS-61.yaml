@@ -1,0 +1,31 @@
+---
+id: IANASIP-PARAMETERS/sip-parameters-61
+title:
+- content: Identity Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sip-parameters
+  type: src
+type: standard
+docid:
+- id: IANA SIP-PARAMETERS/sip-parameters-61
+  type: IANA
+  primary: true
+docnumber: SIP-PARAMETERS__SIP-PARAMETERS-61
+date:
+- type: created
+  value: 2002-01
+- type: updated
+  value: '2021-01-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

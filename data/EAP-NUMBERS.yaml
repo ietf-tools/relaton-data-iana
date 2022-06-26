@@ -1,0 +1,31 @@
+---
+id: IANAeap-numbers
+title:
+- content: Extensible Authentication Protocol (EAP) Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-numbers
+  type: src
+type: standard
+docid:
+- id: IANA eap-numbers
+  type: IANA
+  primary: true
+docnumber: EAP-NUMBERS
+date:
+- type: created
+  value: '2004-04-09'
+- type: updated
+  value: '2021-10-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

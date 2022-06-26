@@ -1,0 +1,31 @@
+---
+id: IANATEXT-DIRECTORY-REGISTRATIONS/text-directory-registrations-1
+title:
+- content: text/directory Profiles
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/text-directory-registrations
+  type: src
+type: standard
+docid:
+- id: IANA TEXT-DIRECTORY-REGISTRATIONS/text-directory-registrations-1
+  type: IANA
+  primary: true
+docnumber: TEXT-DIRECTORY-REGISTRATIONS__TEXT-DIRECTORY-REGISTRATIONS-1
+date:
+- type: created
+  value: '2005-04-11'
+- type: updated
+  value: '2015-03-05'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

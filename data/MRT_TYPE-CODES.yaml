@@ -1,0 +1,31 @@
+---
+id: IANAMRT/type-codes
+title:
+- content: Type Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mrt
+  type: src
+type: standard
+docid:
+- id: IANA MRT/type-codes
+  type: IANA
+  primary: true
+docnumber: MRT__TYPE-CODES
+date:
+- type: created
+  value: '2011-09-02'
+- type: updated
+  value: '2020-01-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANABOOTP-DHCP-PARAMETERS/geoloc-option-version
+title:
+- content: GeoLoc Option Version Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA BOOTP-DHCP-PARAMETERS/geoloc-option-version
+  type: IANA
+  primary: true
+docnumber: BOOTP-DHCP-PARAMETERS__GEOLOC-OPTION-VERSION
+date:
+- type: updated
+  value: '2021-01-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

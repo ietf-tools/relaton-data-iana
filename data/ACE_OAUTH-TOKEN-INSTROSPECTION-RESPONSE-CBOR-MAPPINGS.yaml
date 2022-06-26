@@ -1,0 +1,31 @@
+---
+id: IANAACE/oauth-token-instrospection-response-cbor-mappings
+title:
+- content: OAuth Token Introspection Response CBOR Mappings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ace
+  type: src
+type: standard
+docid:
+- id: IANA ACE/oauth-token-instrospection-response-cbor-mappings
+  type: IANA
+  primary: true
+docnumber: ACE__OAUTH-TOKEN-INSTROSPECTION-RESPONSE-CBOR-MAPPINGS
+date:
+- type: created
+  value: '2021-07-27'
+- type: updated
+  value: '2021-09-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

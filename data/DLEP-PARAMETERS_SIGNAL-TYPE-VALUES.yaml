@@ -1,0 +1,31 @@
+---
+id: IANADLEP-PARAMETERS/signal-type-values
+title:
+- content: Signal Type Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dlep-parameters
+  type: src
+type: standard
+docid:
+- id: IANA DLEP-PARAMETERS/signal-type-values
+  type: IANA
+  primary: true
+docnumber: DLEP-PARAMETERS__SIGNAL-TYPE-VALUES
+date:
+- type: created
+  value: '2017-04-03'
+- type: updated
+  value: '2020-03-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANAmih
+title:
+- content: Media Independent Handover (MIH)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mih
+  type: src
+type: standard
+docid:
+- id: IANA mih
+  type: IANA
+  primary: true
+docnumber: MIH
+date:
+- type: created
+  value: '2009-09-03'
+- type: updated
+  value: '2009-09-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

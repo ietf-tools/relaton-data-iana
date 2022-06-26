@@ -1,0 +1,29 @@
+---
+id: IANALDP-NAMESPACES/mac-flush-flags
+title:
+- content: MAC Flush Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ldp-namespaces
+  type: src
+type: standard
+docid:
+- id: IANA LDP-NAMESPACES/mac-flush-flags
+  type: IANA
+  primary: true
+docnumber: LDP-NAMESPACES__MAC-FLUSH-FLAGS
+date:
+- type: updated
+  value: '2018-03-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

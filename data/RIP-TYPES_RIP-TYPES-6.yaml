@@ -1,0 +1,29 @@
+---
+id: IANARIP-TYPES/rip-types-6
+title:
+- content: RIPNG Update Headers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rip-types
+  type: src
+type: standard
+docid:
+- id: IANA RIP-TYPES/rip-types-6
+  type: IANA
+  primary: true
+docnumber: RIP-TYPES__RIP-TYPES-6
+date:
+- type: updated
+  value: '2018-06-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

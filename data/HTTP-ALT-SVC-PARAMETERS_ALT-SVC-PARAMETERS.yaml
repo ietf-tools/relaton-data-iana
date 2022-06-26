@@ -1,0 +1,31 @@
+---
+id: IANAHTTP-ALT-SVC-PARAMETERS/alt-svc-parameters
+title:
+- content: HTTP Alt-Svc Parameter Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/http-alt-svc-parameters
+  type: src
+type: standard
+docid:
+- id: IANA HTTP-ALT-SVC-PARAMETERS/alt-svc-parameters
+  type: IANA
+  primary: true
+docnumber: HTTP-ALT-SVC-PARAMETERS__ALT-SVC-PARAMETERS
+date:
+- type: created
+  value: '2016-03-18'
+- type: updated
+  value: '2016-04-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

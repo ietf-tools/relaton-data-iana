@@ -1,0 +1,29 @@
+---
+id: IANALMP-PARAMETERS/behavior-config-flags
+title:
+- content: LMP Behavior Configuration Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA LMP-PARAMETERS/behavior-config-flags
+  type: IANA
+  primary: true
+docnumber: LMP-PARAMETERS__BEHAVIOR-CONFIG-FLAGS
+date:
+- type: updated
+  value: '2019-03-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

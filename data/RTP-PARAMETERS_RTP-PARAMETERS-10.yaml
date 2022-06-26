@@ -1,0 +1,29 @@
+---
+id: IANARTP-PARAMETERS/rtp-parameters-10
+title:
+- content: RTP Compact Header Extensions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA RTP-PARAMETERS/rtp-parameters-10
+  type: IANA
+  primary: true
+docnumber: RTP-PARAMETERS__RTP-PARAMETERS-10
+date:
+- type: updated
+  value: '2021-10-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

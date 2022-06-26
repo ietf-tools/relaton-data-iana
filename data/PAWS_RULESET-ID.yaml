@@ -1,0 +1,31 @@
+---
+id: IANAPAWS/ruleset-id
+title:
+- content: PAWS Ruleset ID Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/paws
+  type: src
+type: standard
+docid:
+- id: IANA PAWS/ruleset-id
+  type: IANA
+  primary: true
+docnumber: PAWS__RULESET-ID
+date:
+- type: created
+  value: '2014-11-13'
+- type: updated
+  value: '2015-05-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

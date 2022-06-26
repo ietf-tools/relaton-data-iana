@@ -1,0 +1,29 @@
+---
+id: IANAfoobar-af-numbers
+title:
+- content: FOOBAR Address Family Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/foobar-af-numbers
+  type: src
+type: standard
+docid:
+- id: IANA foobar-af-numbers
+  type: IANA
+  primary: true
+docnumber: FOOBAR-AF-NUMBERS
+date:
+- type: updated
+  value: '2001-05-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

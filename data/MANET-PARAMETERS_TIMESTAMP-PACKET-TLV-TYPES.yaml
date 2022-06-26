@@ -1,0 +1,31 @@
+---
+id: IANAMANET-PARAMETERS/timestamp-packet-tlv-types
+title:
+- content: TIMESTAMP Packet TLV Type Extensions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/manet-parameters
+  type: src
+type: standard
+docid:
+- id: IANA MANET-PARAMETERS/timestamp-packet-tlv-types
+  type: IANA
+  primary: true
+docnumber: MANET-PARAMETERS__TIMESTAMP-PACKET-TLV-TYPES
+date:
+- type: created
+  value: '2008-12-23'
+- type: updated
+  value: '2019-12-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

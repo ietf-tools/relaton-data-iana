@@ -1,0 +1,31 @@
+---
+id: IANATRILL-PARAMETERS/port-trill-ver-capability
+title:
+- content: PORT-TRILL-VER Sub-TLV Capability Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/trill-parameters
+  type: src
+type: standard
+docid:
+- id: IANA TRILL-PARAMETERS/port-trill-ver-capability
+  type: IANA
+  primary: true
+docnumber: TRILL-PARAMETERS__PORT-TRILL-VER-CAPABILITY
+date:
+- type: created
+  value: '2010-03-26'
+- type: updated
+  value: '2019-04-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

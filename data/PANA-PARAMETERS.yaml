@@ -1,0 +1,31 @@
+---
+id: IANApana-parameters
+title:
+- content: Protocol for Carrying Authentication for Network Access (PANA) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pana-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pana-parameters
+  type: IANA
+  primary: true
+docnumber: PANA-PARAMETERS
+date:
+- type: created
+  value: '2007-10-08'
+- type: updated
+  value: '2012-11-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANAPROTOCOL-NUMBERS/protocol-numbers-1
+title:
+- content: Assigned Internet Protocol Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/protocol-numbers
+  type: src
+type: standard
+docid:
+- id: IANA PROTOCOL-NUMBERS/protocol-numbers-1
+  type: IANA
+  primary: true
+docnumber: PROTOCOL-NUMBERS__PROTOCOL-NUMBERS-1
+date:
+- type: updated
+  value: '2021-02-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

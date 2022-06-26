@@ -1,0 +1,29 @@
+---
+id: IANAwave-avi-codec-registry
+title:
+- content: WAVE and AVI Codec Registries (Historic Registry)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/wave-avi-codec-registry
+  type: src
+type: standard
+docid:
+- id: IANA wave-avi-codec-registry
+  type: IANA
+  primary: true
+docnumber: WAVE-AVI-CODEC-REGISTRY
+date:
+- type: updated
+  value: '2008-01-31'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

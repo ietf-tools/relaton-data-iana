@@ -1,0 +1,31 @@
+---
+id: IANASECEVENT/secevent-error-codes
+title:
+- content: Security Event Token Error Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/secevent
+  type: src
+type: standard
+docid:
+- id: IANA SECEVENT/secevent-error-codes
+  type: IANA
+  primary: true
+docnumber: SECEVENT__SECEVENT-ERROR-CODES
+date:
+- type: created
+  value: '2020-07-01'
+- type: updated
+  value: '2021-04-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

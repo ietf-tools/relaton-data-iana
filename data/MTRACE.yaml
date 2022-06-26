@@ -1,0 +1,31 @@
+---
+id: IANAmtrace
+title:
+- content: IP Multicast Traceroute Facility (Mtrace)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mtrace
+  type: src
+type: standard
+docid:
+- id: IANA mtrace
+  type: IANA
+  primary: true
+docnumber: MTRACE
+date:
+- type: created
+  value: '2018-07-31'
+- type: updated
+  value: '2018-10-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

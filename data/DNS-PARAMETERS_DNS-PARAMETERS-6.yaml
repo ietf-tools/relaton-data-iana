@@ -1,0 +1,29 @@
+---
+id: IANADNS-PARAMETERS/dns-parameters-6
+title:
+- content: DNS RCODEs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dns-parameters
+  type: src
+type: standard
+docid:
+- id: IANA DNS-PARAMETERS/dns-parameters-6
+  type: IANA
+  primary: true
+docnumber: DNS-PARAMETERS__DNS-PARAMETERS-6
+date:
+- type: updated
+  value: '2021-10-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

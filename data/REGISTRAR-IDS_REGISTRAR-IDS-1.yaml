@@ -1,0 +1,29 @@
+---
+id: IANAREGISTRAR-IDS/registrar-ids-1
+title:
+- content: Registrar IDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/registrar-ids
+  type: src
+type: standard
+docid:
+- id: IANA REGISTRAR-IDS/registrar-ids-1
+  type: IANA
+  primary: true
+docnumber: REGISTRAR-IDS__REGISTRAR-IDS-1
+date:
+- type: updated
+  value: '2021-11-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

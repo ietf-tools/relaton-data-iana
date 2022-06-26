@@ -1,0 +1,31 @@
+---
+id: IANASVRLOC-EXTENSIONS/svrloc-extensions-1
+title:
+- content: SLPv2 Extension IDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/svrloc-extensions
+  type: src
+type: standard
+docid:
+- id: IANA SVRLOC-EXTENSIONS/svrloc-extensions-1
+  type: IANA
+  primary: true
+docnumber: SVRLOC-EXTENSIONS__SVRLOC-EXTENSIONS-1
+date:
+- type: created
+  value: 2000-10
+- type: updated
+  value: '2009-07-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

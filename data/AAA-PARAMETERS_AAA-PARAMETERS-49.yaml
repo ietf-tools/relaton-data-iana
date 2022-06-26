@@ -1,0 +1,31 @@
+---
+id: IANAAAA-PARAMETERS/aaa-parameters-49
+title:
+- content: Mobility Capability Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/aaa-parameters
+  type: src
+type: standard
+docid:
+- id: IANA AAA-PARAMETERS/aaa-parameters-49
+  type: IANA
+  primary: true
+docnumber: AAA-PARAMETERS__AAA-PARAMETERS-49
+date:
+- type: created
+  value: '2003-04-08'
+- type: updated
+  value: '2019-08-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

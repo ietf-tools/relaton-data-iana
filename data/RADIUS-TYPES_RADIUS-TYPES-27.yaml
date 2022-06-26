@@ -1,0 +1,29 @@
+---
+id: IANARADIUS-TYPES/radius-types-27
+title:
+- content: RADIUS Packet Type Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+- id: IANA RADIUS-TYPES/radius-types-27
+  type: IANA
+  primary: true
+docnumber: RADIUS-TYPES__RADIUS-TYPES-27
+date:
+- type: updated
+  value: '2021-07-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

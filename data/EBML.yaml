@@ -1,0 +1,31 @@
+---
+id: IANAebml
+title:
+- content: Extensible Binary Meta Language (EBML)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ebml
+  type: src
+type: standard
+docid:
+- id: IANA ebml
+  type: IANA
+  primary: true
+docnumber: EBML
+date:
+- type: created
+  value: '2020-02-10'
+- type: updated
+  value: '2020-07-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

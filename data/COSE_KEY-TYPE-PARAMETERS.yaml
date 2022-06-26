@@ -1,0 +1,31 @@
+---
+id: IANACOSE/key-type-parameters
+title:
+- content: COSE Key Type Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cose
+  type: src
+type: standard
+docid:
+- id: IANA COSE/key-type-parameters
+  type: IANA
+  primary: true
+docnumber: COSE__KEY-TYPE-PARAMETERS
+date:
+- type: created
+  value: '2017-01-11'
+- type: updated
+  value: '2021-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

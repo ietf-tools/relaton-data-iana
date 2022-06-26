@@ -1,0 +1,29 @@
+---
+id: IANAcharset-info
+title:
+- content: Character Sets Mailing List Information
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/charset-info
+  type: src
+type: standard
+docid:
+- id: IANA charset-info
+  type: IANA
+  primary: true
+docnumber: CHARSET-INFO
+date:
+- type: updated
+  value: '2013-06-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

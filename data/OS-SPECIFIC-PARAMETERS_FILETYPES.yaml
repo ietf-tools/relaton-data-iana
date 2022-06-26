@@ -1,0 +1,31 @@
+---
+id: IANAOS-SPECIFIC-PARAMETERS/filetypes
+title:
+- content: OS Specific Filetypes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/os-specific-parameters
+  type: src
+type: standard
+docid:
+- id: IANA OS-SPECIFIC-PARAMETERS/filetypes
+  type: IANA
+  primary: true
+docnumber: OS-SPECIFIC-PARAMETERS__FILETYPES
+date:
+- type: created
+  value: '2003-10-31'
+- type: updated
+  value: '2020-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

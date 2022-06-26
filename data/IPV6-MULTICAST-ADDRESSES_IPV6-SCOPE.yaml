@@ -1,0 +1,29 @@
+---
+id: IANAIPV6-MULTICAST-ADDRESSES/ipv6-scope
+title:
+- content: IPv6 Multicast Address Scopes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-multicast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA IPV6-MULTICAST-ADDRESSES/ipv6-scope
+  type: IANA
+  primary: true
+docnumber: IPV6-MULTICAST-ADDRESSES__IPV6-SCOPE
+date:
+- type: updated
+  value: '2021-05-24'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

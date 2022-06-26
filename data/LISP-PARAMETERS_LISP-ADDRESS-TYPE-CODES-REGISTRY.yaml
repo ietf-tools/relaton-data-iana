@@ -1,0 +1,31 @@
+---
+id: IANALISP-PARAMETERS/lisp-address-type-codes-registry
+title:
+- content: LISP Address Type Codes (CLOSED)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lisp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA LISP-PARAMETERS/lisp-address-type-codes-registry
+  type: IANA
+  primary: true
+docnumber: LISP-PARAMETERS__LISP-ADDRESS-TYPE-CODES-REGISTRY
+date:
+- type: created
+  value: '2012-04-25'
+- type: updated
+  value: '2021-03-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

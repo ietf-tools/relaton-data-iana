@@ -1,0 +1,31 @@
+---
+id: IANAISIS-TLV-CODEPOINTS/bier-info-sub-tlv
+title:
+- content: sub-sub-TLVs for BIER Info sub-TLV
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
+  type: src
+type: standard
+docid:
+- id: IANA ISIS-TLV-CODEPOINTS/bier-info-sub-tlv
+  type: IANA
+  primary: true
+docnumber: ISIS-TLV-CODEPOINTS__BIER-INFO-SUB-TLV
+date:
+- type: created
+  value: '2003-05-06'
+- type: updated
+  value: '2021-10-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

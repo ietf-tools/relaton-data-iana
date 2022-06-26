@@ -1,0 +1,31 @@
+---
+id: IANAianagbondtc-mib
+title:
+- content: IANA-GBOND-TC-MIB
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ianagbondtc-mib
+  type: src
+type: standard
+docid:
+- id: IANA ianagbondtc-mib
+  type: IANA
+  primary: true
+docnumber: IANAGBONDTC-MIB
+date:
+- type: created
+  value: '2012-08-12'
+- type: updated
+  value: '2017-06-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANATEAP-PARAMETERS/trusted-server-root
+title:
+- content: TEAP Trusted-Server-Root TLV (value 17) Credential-Format Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/teap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA TEAP-PARAMETERS/trusted-server-root
+  type: IANA
+  primary: true
+docnumber: TEAP-PARAMETERS__TRUSTED-SERVER-ROOT
+date:
+- type: created
+  value: '2014-01-24'
+- type: updated
+  value: '2014-05-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

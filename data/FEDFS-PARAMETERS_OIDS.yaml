@@ -1,0 +1,31 @@
+---
+id: IANAFEDFS-PARAMETERS/oids
+title:
+- content: FedFS Object Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/fedfs-parameters
+  type: src
+type: standard
+docid:
+- id: IANA FEDFS-PARAMETERS/oids
+  type: IANA
+  primary: true
+docnumber: FEDFS-PARAMETERS__OIDS
+date:
+- type: created
+  value: '2012-12-23'
+- type: updated
+  value: '2015-03-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANAaddress-family-numbers
+title:
+- content: Address Family Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/address-family-numbers
+  type: src
+type: standard
+docid:
+- id: IANA address-family-numbers
+  type: IANA
+  primary: true
+docnumber: ADDRESS-FAMILY-NUMBERS
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

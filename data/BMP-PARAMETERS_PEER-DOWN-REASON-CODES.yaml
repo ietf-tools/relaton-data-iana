@@ -1,0 +1,31 @@
+---
+id: IANABMP-PARAMETERS/peer-down-reason-codes
+title:
+- content: BMP Peer Down Reason Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA BMP-PARAMETERS/peer-down-reason-codes
+  type: IANA
+  primary: true
+docnumber: BMP-PARAMETERS__PEER-DOWN-REASON-CODES
+date:
+- type: created
+  value: '2016-04-14'
+- type: updated
+  value: '2021-08-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

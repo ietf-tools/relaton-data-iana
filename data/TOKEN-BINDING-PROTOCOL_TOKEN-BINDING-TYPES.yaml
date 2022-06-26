@@ -1,0 +1,31 @@
+---
+id: IANATOKEN-BINDING-PROTOCOL/token-binding-types
+title:
+- content: Token Binding Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/token-binding-protocol
+  type: src
+type: standard
+docid:
+- id: IANA TOKEN-BINDING-PROTOCOL/token-binding-types
+  type: IANA
+  primary: true
+docnumber: TOKEN-BINDING-PROTOCOL__TOKEN-BINDING-TYPES
+date:
+- type: created
+  value: '2018-07-24'
+- type: updated
+  value: '2020-02-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANAICALENDAR/participation-roles
+title:
+- content: Participation Roles
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icalendar
+  type: src
+type: standard
+docid:
+- id: IANA ICALENDAR/participation-roles
+  type: IANA
+  primary: true
+docnumber: ICALENDAR__PARTICIPATION-ROLES
+date:
+- type: created
+  value: '2009-04-29'
+- type: updated
+  value: '2021-08-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

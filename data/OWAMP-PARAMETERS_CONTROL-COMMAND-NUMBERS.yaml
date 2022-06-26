@@ -1,0 +1,31 @@
+---
+id: IANAOWAMP-PARAMETERS/control-command-numbers
+title:
+- content: OWAMP-Control Command Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/owamp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA OWAMP-PARAMETERS/control-command-numbers
+  type: IANA
+  primary: true
+docnumber: OWAMP-PARAMETERS__CONTROL-COMMAND-NUMBERS
+date:
+- type: created
+  value: '2015-10-27'
+- type: updated
+  value: '2016-01-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

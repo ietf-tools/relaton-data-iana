@@ -1,0 +1,31 @@
+---
+id: IANAFCAST/format
+title:
+- content: FCAST Object Metadata Format
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/fcast
+  type: src
+type: standard
+docid:
+- id: IANA FCAST/format
+  type: IANA
+  primary: true
+docnumber: FCAST__FORMAT
+date:
+- type: created
+  value: '2013-05-07'
+- type: updated
+  value: '2013-07-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

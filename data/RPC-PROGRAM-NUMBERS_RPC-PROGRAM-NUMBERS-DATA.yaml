@@ -1,0 +1,31 @@
+---
+id: IANARPC-PROGRAM-NUMBERS/rpc-program-numbers-data
+title:
+- content: RPC Program Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpc-program-numbers
+  type: src
+type: standard
+docid:
+- id: IANA RPC-PROGRAM-NUMBERS/rpc-program-numbers-data
+  type: IANA
+  primary: true
+docnumber: RPC-PROGRAM-NUMBERS__RPC-PROGRAM-NUMBERS-DATA
+date:
+- type: created
+  value: '2009-04-06'
+- type: updated
+  value: '2015-03-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

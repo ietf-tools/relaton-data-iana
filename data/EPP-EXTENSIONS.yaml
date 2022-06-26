@@ -1,0 +1,31 @@
+---
+id: IANAepp-extensions
+title:
+- content: Extensions for the Extensible Provisioning Protocol (EPP)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/epp-extensions
+  type: src
+type: standard
+docid:
+- id: IANA epp-extensions
+  type: IANA
+  primary: true
+docnumber: EPP-EXTENSIONS
+date:
+- type: created
+  value: '2015-01-05'
+- type: updated
+  value: '2021-10-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

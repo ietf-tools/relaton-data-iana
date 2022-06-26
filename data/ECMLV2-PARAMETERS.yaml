@@ -1,0 +1,31 @@
+---
+id: IANAecmlv2-parameters
+title:
+- content: Electronic Commerce Modeling Language Version 2 (ECMLv2) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ecmlv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ecmlv2-parameters
+  type: IANA
+  primary: true
+docnumber: ECMLV2-PARAMETERS
+date:
+- type: created
+  value: '2005-04-08'
+- type: updated
+  value: '2005-10-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

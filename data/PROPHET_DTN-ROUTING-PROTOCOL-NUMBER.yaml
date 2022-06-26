@@ -1,0 +1,31 @@
+---
+id: IANAPROPHET/dtn-routing-protocol-number
+title:
+- content: DTN Routing Protocol Number
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/prophet
+  type: src
+type: standard
+docid:
+- id: IANA PROPHET/dtn-routing-protocol-number
+  type: IANA
+  primary: true
+docnumber: PROPHET__DTN-ROUTING-PROTOCOL-NUMBER
+date:
+- type: created
+  value: '2012-06-04'
+- type: updated
+  value: '2012-09-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

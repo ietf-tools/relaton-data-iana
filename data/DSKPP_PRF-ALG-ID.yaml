@@ -1,0 +1,31 @@
+---
+id: IANADSKPP/prf-alg-id
+title:
+- content: PRF Algorithm ID Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dskpp
+  type: src
+type: standard
+docid:
+- id: IANA DSKPP/prf-alg-id
+  type: IANA
+  primary: true
+docnumber: DSKPP__PRF-ALG-ID
+date:
+- type: created
+  value: '2010-09-21'
+- type: updated
+  value: '2015-06-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANABGP-EXTENDED-COMMUNITIES/e-tree-flags
+title:
+- content: E-Tree Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-extended-communities
+  type: src
+type: standard
+docid:
+- id: IANA BGP-EXTENDED-COMMUNITIES/e-tree-flags
+  type: IANA
+  primary: true
+docnumber: BGP-EXTENDED-COMMUNITIES__E-TREE-FLAGS
+date:
+- type: created
+  value: '2005-08-15'
+- type: updated
+  value: '2021-10-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANAPIM-PARAMETERS/port-option-types
+title:
+- content: PORT Option Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pim-parameters
+  type: src
+type: standard
+docid:
+- id: IANA PIM-PARAMETERS/port-option-types
+  type: IANA
+  primary: true
+docnumber: PIM-PARAMETERS__PORT-OPTION-TYPES
+date:
+- type: updated
+  value: '2020-11-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

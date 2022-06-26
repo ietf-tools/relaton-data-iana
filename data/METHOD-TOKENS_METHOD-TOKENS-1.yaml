@@ -1,0 +1,31 @@
+---
+id: IANAMETHOD-TOKENS/method-tokens-1
+title:
+- content: Method Tokens
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/method-tokens
+  type: src
+type: standard
+docid:
+- id: IANA METHOD-TOKENS/method-tokens-1
+  type: IANA
+  primary: true
+docnumber: METHOD-TOKENS__METHOD-TOKENS-1
+date:
+- type: created
+  value: '2004-11-03'
+- type: updated
+  value: '2019-04-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

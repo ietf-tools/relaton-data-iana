@@ -1,0 +1,29 @@
+---
+id: IANAMDN/disp-not-opt
+title:
+- content: MDN-Disposition-notification-option-names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mdn
+  type: src
+type: standard
+docid:
+- id: IANA MDN/disp-not-opt
+  type: IANA
+  primary: true
+docnumber: MDN__DISP-NOT-OPT
+date:
+- type: updated
+  value: '2017-03-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

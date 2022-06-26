@@ -1,0 +1,31 @@
+---
+id: IANAPANA-PARAMETERS/pana-parameters-4
+title:
+- content: AVP Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pana-parameters
+  type: src
+type: standard
+docid:
+- id: IANA PANA-PARAMETERS/pana-parameters-4
+  type: IANA
+  primary: true
+docnumber: PANA-PARAMETERS__PANA-PARAMETERS-4
+date:
+- type: created
+  value: '2007-10-08'
+- type: updated
+  value: '2012-11-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

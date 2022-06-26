@@ -1,0 +1,31 @@
+---
+id: IANAGIST-PARAMETERS/gist-messages
+title:
+- content: GIST Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gist-parameters
+  type: src
+type: standard
+docid:
+- id: IANA GIST-PARAMETERS/gist-messages
+  type: IANA
+  primary: true
+docnumber: GIST-PARAMETERS__GIST-MESSAGES
+date:
+- type: created
+  value: '2009-07-30'
+- type: updated
+  value: '2011-01-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

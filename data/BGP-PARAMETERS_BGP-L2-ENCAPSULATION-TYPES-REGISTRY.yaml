@@ -1,0 +1,29 @@
+---
+id: IANABGP-PARAMETERS/bgp-l2-encapsulation-types-registry
+title:
+- content: BGP Layer 2 Encapsulation Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA BGP-PARAMETERS/bgp-l2-encapsulation-types-registry
+  type: IANA
+  primary: true
+docnumber: BGP-PARAMETERS__BGP-L2-ENCAPSULATION-TYPES-REGISTRY
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

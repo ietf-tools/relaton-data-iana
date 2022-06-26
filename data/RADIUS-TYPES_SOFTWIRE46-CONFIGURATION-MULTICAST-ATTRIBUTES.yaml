@@ -1,0 +1,29 @@
+---
+id: IANARADIUS-TYPES/softwire46-configuration-multicast-attributes
+title:
+- content: RADIUS Softwire46 Configuration and Multicast Attributes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+- id: IANA RADIUS-TYPES/softwire46-configuration-multicast-attributes
+  type: IANA
+  primary: true
+docnumber: RADIUS-TYPES__SOFTWIRE46-CONFIGURATION-MULTICAST-ATTRIBUTES
+date:
+- type: updated
+  value: '2021-07-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

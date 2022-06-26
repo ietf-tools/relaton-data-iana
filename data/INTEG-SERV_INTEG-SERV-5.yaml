@@ -1,0 +1,31 @@
+---
+id: IANAINTEG-SERV/integ-serv-5
+title:
+- content: Compression Hints
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/integ-serv
+  type: src
+type: standard
+docid:
+- id: IANA INTEG-SERV/integ-serv-5
+  type: IANA
+  primary: true
+docnumber: INTEG-SERV__INTEG-SERV-5
+date:
+- type: created
+  value: '2002-03-05'
+- type: updated
+  value: '2002-04-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

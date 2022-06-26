@@ -1,0 +1,29 @@
+---
+id: IANAopes
+title:
+- content: Open Pluggable Edge Services (OPES)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/opes
+  type: src
+type: standard
+docid:
+- id: IANA opes
+  type: IANA
+  primary: true
+docnumber: OPES
+date:
+- type: updated
+  value: '2006-10-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

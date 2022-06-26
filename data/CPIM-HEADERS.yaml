@@ -1,0 +1,31 @@
+---
+id: IANAcpim-headers
+title:
+- content: Common Presence and Instant Messaging (CPIM) Headers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cpim-headers
+  type: src
+type: standard
+docid:
+- id: IANA cpim-headers
+  type: IANA
+  primary: true
+docnumber: CPIM-HEADERS
+date:
+- type: created
+  value: '2003-12-15'
+- type: updated
+  value: '2004-09-24'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

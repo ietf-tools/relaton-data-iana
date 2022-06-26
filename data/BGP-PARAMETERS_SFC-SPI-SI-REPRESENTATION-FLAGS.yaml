@@ -1,0 +1,29 @@
+---
+id: IANABGP-PARAMETERS/sfc-spi-si-representation-flags
+title:
+- content: SFC SPI/SI Representation Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA BGP-PARAMETERS/sfc-spi-si-representation-flags
+  type: IANA
+  primary: true
+docnumber: BGP-PARAMETERS__SFC-SPI-SI-REPRESENTATION-FLAGS
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

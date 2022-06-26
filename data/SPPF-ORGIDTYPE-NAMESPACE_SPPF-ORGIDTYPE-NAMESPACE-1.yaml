@@ -1,0 +1,31 @@
+---
+id: IANASPPF-ORGIDTYPE-NAMESPACE/sppf-orgidtype-namespace-1
+title:
+- content: SPPF OrgIdType Namespaces
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sppf-orgidtype-namespace
+  type: src
+type: standard
+docid:
+- id: IANA SPPF-ORGIDTYPE-NAMESPACE/sppf-orgidtype-namespace-1
+  type: IANA
+  primary: true
+docnumber: SPPF-ORGIDTYPE-NAMESPACE__SPPF-ORGIDTYPE-NAMESPACE-1
+date:
+- type: created
+  value: '2012-09-10'
+- type: updated
+  value: '2016-09-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

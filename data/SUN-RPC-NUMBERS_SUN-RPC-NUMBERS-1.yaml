@@ -1,0 +1,29 @@
+---
+id: IANASUN-RPC-NUMBERS/sun-rpc-numbers-1
+title:
+- content: SUN RPC Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sun-rpc-numbers
+  type: src
+type: standard
+docid:
+- id: IANA SUN-RPC-NUMBERS/sun-rpc-numbers-1
+  type: IANA
+  primary: true
+docnumber: SUN-RPC-NUMBERS__SUN-RPC-NUMBERS-1
+date:
+- type: updated
+  value: '2011-06-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANACOPS-PARAMETERS/cops-parameters-15
+title:
+- content: COPS-PR Object S-Num, S-Types, and Error-Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cops-parameters
+  type: src
+type: standard
+docid:
+- id: IANA COPS-PARAMETERS/cops-parameters-15
+  type: IANA
+  primary: true
+docnumber: COPS-PARAMETERS__COPS-PARAMETERS-15
+date:
+- type: created
+  value: 2000-11
+- type: updated
+  value: '2012-09-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANASVRLOC-FUNCTION-IDS/svrloc-function-ids-1
+title:
+- content: Function IDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/svrloc-function-ids
+  type: src
+type: standard
+docid:
+- id: IANA SVRLOC-FUNCTION-IDS/svrloc-function-ids-1
+  type: IANA
+  primary: true
+docnumber: SVRLOC-FUNCTION-IDS__SVRLOC-FUNCTION-IDS-1
+date:
+- type: created
+  value: '2003-04-01'
+- type: updated
+  value: '2003-05-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

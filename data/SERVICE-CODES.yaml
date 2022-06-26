@@ -1,0 +1,31 @@
+---
+id: IANAservice-codes
+title:
+- content: Service Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/service-codes
+  type: src
+type: standard
+docid:
+- id: IANA service-codes
+  type: IANA
+  primary: true
+docnumber: SERVICE-CODES
+date:
+- type: created
+  value: '2005-08-31'
+- type: updated
+  value: '2014-03-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

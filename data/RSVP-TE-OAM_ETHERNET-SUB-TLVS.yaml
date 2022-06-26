@@ -1,0 +1,31 @@
+---
+id: IANARSVP-TE-OAM/ethernet-sub-tlvs
+title:
+- content: Ethernet Sub-TLVs Sub-Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-te-oam
+  type: src
+type: standard
+docid:
+- id: IANA RSVP-TE-OAM/ethernet-sub-tlvs
+  type: IANA
+  primary: true
+docnumber: RSVP-TE-OAM__ETHERNET-SUB-TLVS
+date:
+- type: created
+  value: '2014-03-11'
+- type: updated
+  value: '2015-03-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

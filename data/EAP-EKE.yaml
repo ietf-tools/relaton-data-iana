@@ -1,0 +1,31 @@
+---
+id: IANAeap-eke
+title:
+- content: Extensible Authentication Protocol (EAP) Encrypted Key Exchange (EKE) Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-eke
+  type: src
+type: standard
+docid:
+- id: IANA eap-eke
+  type: IANA
+  primary: true
+docnumber: EAP-EKE
+date:
+- type: created
+  value: '2010-11-24'
+- type: updated
+  value: '2020-04-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

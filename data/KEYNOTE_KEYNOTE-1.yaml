@@ -1,0 +1,29 @@
+---
+id: IANAKEYNOTE/keynote-1
+title:
+- content: KeyNote app_domain Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/keynote
+  type: src
+type: standard
+docid:
+- id: IANA KEYNOTE/keynote-1
+  type: IANA
+  primary: true
+docnumber: KEYNOTE__KEYNOTE-1
+date:
+- type: updated
+  value: '2010-01-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

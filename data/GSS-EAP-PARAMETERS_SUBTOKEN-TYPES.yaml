@@ -1,0 +1,31 @@
+---
+id: IANAGSS-EAP-PARAMETERS/subtoken-types
+title:
+- content: GSS-EAP Subtoken Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gss-eap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA GSS-EAP-PARAMETERS/subtoken-types
+  type: IANA
+  primary: true
+docnumber: GSS-EAP-PARAMETERS__SUBTOKEN-TYPES
+date:
+- type: created
+  value: '2012-09-05'
+- type: updated
+  value: '2014-01-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

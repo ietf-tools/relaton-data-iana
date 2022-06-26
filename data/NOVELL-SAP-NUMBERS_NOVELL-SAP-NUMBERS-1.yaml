@@ -1,0 +1,29 @@
+---
+id: IANANOVELL-SAP-NUMBERS/novell-sap-numbers-1
+title:
+- content: Novell Object Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/novell-sap-numbers
+  type: src
+type: standard
+docid:
+- id: IANA NOVELL-SAP-NUMBERS/novell-sap-numbers-1
+  type: IANA
+  primary: true
+docnumber: NOVELL-SAP-NUMBERS__NOVELL-SAP-NUMBERS-1
+date:
+- type: updated
+  value: '2012-02-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

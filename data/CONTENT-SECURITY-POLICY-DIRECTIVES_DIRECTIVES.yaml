@@ -1,0 +1,31 @@
+---
+id: IANACONTENT-SECURITY-POLICY-DIRECTIVES/directives
+title:
+- content: Content Security Policy Directives
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/content-security-policy-directives
+  type: src
+type: standard
+docid:
+- id: IANA CONTENT-SECURITY-POLICY-DIRECTIVES/directives
+  type: IANA
+  primary: true
+docnumber: CONTENT-SECURITY-POLICY-DIRECTIVES__DIRECTIVES
+date:
+- type: created
+  value: '2015-11-24'
+- type: updated
+  value: '2016-03-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

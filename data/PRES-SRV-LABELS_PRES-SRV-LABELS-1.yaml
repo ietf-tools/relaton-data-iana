@@ -1,0 +1,31 @@
+---
+id: IANAPRES-SRV-LABELS/pres-srv-labels-1
+title:
+- content: Presence SRV Protocol Labels
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pres-srv-labels
+  type: src
+type: standard
+docid:
+- id: IANA PRES-SRV-LABELS/pres-srv-labels-1
+  type: IANA
+  primary: true
+docnumber: PRES-SRV-LABELS__PRES-SRV-LABELS-1
+date:
+- type: created
+  value: '2003-11-26'
+- type: updated
+  value: '2009-04-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

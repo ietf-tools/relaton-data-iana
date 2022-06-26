@@ -1,0 +1,29 @@
+---
+id: IANAip-xns-mapping
+title:
+- content: Internet - Xerox Network System (XNS) Protocol Mappings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ip-xns-mapping
+  type: src
+type: standard
+docid:
+- id: IANA ip-xns-mapping
+  type: IANA
+  primary: true
+docnumber: IP-XNS-MAPPING
+date:
+- type: updated
+  value: '2001-06-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

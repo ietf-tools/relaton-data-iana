@@ -1,0 +1,31 @@
+---
+id: IANAipv6-interface-ids
+title:
+- content: Reserved IPv6 Interface Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-interface-ids
+  type: src
+type: standard
+docid:
+- id: IANA ipv6-interface-ids
+  type: IANA
+  primary: true
+docnumber: IPV6-INTERFACE-IDS
+date:
+- type: created
+  value: '2008-12-24'
+- type: updated
+  value: '2014-02-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANAOPUS-CHANNEL-MAPPING-FAMILIES/mapping-families
+title:
+- content: Opus Channel Mapping Families
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/opus-channel-mapping-families
+  type: src
+type: standard
+docid:
+- id: IANA OPUS-CHANNEL-MAPPING-FAMILIES/mapping-families
+  type: IANA
+  primary: true
+docnumber: OPUS-CHANNEL-MAPPING-FAMILIES__MAPPING-FAMILIES
+date:
+- type: created
+  value: '2016-03-07'
+- type: updated
+  value: '2018-11-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

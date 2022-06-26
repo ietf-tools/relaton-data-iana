@@ -1,0 +1,29 @@
+---
+id: IANASMI-NUMBERS/smi-numbers-50
+title:
+- content: SMI Security for Name System Designators Codes (nametypes)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/smi-numbers
+  type: src
+type: standard
+docid:
+- id: IANA SMI-NUMBERS/smi-numbers-50
+  type: IANA
+  primary: true
+docnumber: SMI-NUMBERS__SMI-NUMBERS-50
+date:
+- type: updated
+  value: '2021-11-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

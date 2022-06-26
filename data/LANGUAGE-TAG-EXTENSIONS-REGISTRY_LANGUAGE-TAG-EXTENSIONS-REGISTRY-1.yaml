@@ -1,0 +1,26 @@
+---
+id: IANALANGUAGE-TAG-EXTENSIONS-REGISTRY/language-tag-extensions-registry-1
+title:
+- content: Language Tag Extensions Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/language-tag-extensions-registry
+  type: src
+type: standard
+docid:
+- id: IANA LANGUAGE-TAG-EXTENSIONS-REGISTRY/language-tag-extensions-registry-1
+  type: IANA
+  primary: true
+docnumber: LANGUAGE-TAG-EXTENSIONS-REGISTRY__LANGUAGE-TAG-EXTENSIONS-REGISTRY-1
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

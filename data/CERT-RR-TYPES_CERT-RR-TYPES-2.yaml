@@ -1,0 +1,31 @@
+---
+id: IANACERT-RR-TYPES/cert-rr-types-2
+title:
+- content: CERT RR Certificate Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cert-rr-types
+  type: src
+type: standard
+docid:
+- id: IANA CERT-RR-TYPES/cert-rr-types-2
+  type: IANA
+  primary: true
+docnumber: CERT-RR-TYPES__CERT-RR-TYPES-2
+date:
+- type: created
+  value: '2005-12-20'
+- type: updated
+  value: '2006-09-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

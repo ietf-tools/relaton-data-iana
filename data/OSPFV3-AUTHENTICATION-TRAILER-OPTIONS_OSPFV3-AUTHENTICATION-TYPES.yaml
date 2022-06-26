@@ -1,0 +1,31 @@
+---
+id: IANAOSPFV3-AUTHENTICATION-TRAILER-OPTIONS/ospfv3-authentication-types
+title:
+- content: OSPFv3 Authentication Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospfv3-authentication-trailer-options
+  type: src
+type: standard
+docid:
+- id: IANA OSPFV3-AUTHENTICATION-TRAILER-OPTIONS/ospfv3-authentication-types
+  type: IANA
+  primary: true
+docnumber: OSPFV3-AUTHENTICATION-TRAILER-OPTIONS__OSPFV3-AUTHENTICATION-TYPES
+date:
+- type: created
+  value: '2011-12-20'
+- type: updated
+  value: '2014-03-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

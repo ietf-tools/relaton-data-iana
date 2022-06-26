@@ -1,0 +1,31 @@
+---
+id: IANAQSPEC/restoration-priority
+title:
+- content: Restoration Priority Field
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/qspec
+  type: src
+type: standard
+docid:
+- id: IANA QSPEC/restoration-priority
+  type: IANA
+  primary: true
+docnumber: QSPEC__RESTORATION-PRIORITY
+date:
+- type: created
+  value: '2010-02-24'
+- type: updated
+  value: '2010-10-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

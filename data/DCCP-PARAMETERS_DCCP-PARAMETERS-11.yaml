@@ -1,0 +1,31 @@
+---
+id: IANADCCP-PARAMETERS/dccp-parameters-11
+title:
+- content: Drop Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dccp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA DCCP-PARAMETERS/dccp-parameters-11
+  type: IANA
+  primary: true
+docnumber: DCCP-PARAMETERS__DCCP-PARAMETERS-11
+date:
+- type: created
+  value: '2005-08-25'
+- type: updated
+  value: '2015-01-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANADKIM-PARAMETERS/dkim-parameters-2
+title:
+- content: DKIM-Signature Query Method
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dkim-parameters
+  type: src
+type: standard
+docid:
+- id: IANA DKIM-PARAMETERS/dkim-parameters-2
+  type: IANA
+  primary: true
+docnumber: DKIM-PARAMETERS__DKIM-PARAMETERS-2
+date:
+- type: created
+  value: '2007-03-08'
+- type: updated
+  value: '2018-07-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

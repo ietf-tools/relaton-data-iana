@@ -1,0 +1,31 @@
+---
+id: IANABGP-EXTENDED-COMMUNITIES/traffic-action-fields
+title:
+- content: Traffic Action Fields
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-extended-communities
+  type: src
+type: standard
+docid:
+- id: IANA BGP-EXTENDED-COMMUNITIES/traffic-action-fields
+  type: IANA
+  primary: true
+docnumber: BGP-EXTENDED-COMMUNITIES__TRAFFIC-ACTION-FIELDS
+date:
+- type: created
+  value: '2005-08-15'
+- type: updated
+  value: '2021-10-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

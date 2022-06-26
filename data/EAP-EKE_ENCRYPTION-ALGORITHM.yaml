@@ -1,0 +1,31 @@
+---
+id: IANAEAP-EKE/encryption-algorithm
+title:
+- content: EAP-EKE Encryption Algorithm Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-eke
+  type: src
+type: standard
+docid:
+- id: IANA EAP-EKE/encryption-algorithm
+  type: IANA
+  primary: true
+docnumber: EAP-EKE__ENCRYPTION-ALGORITHM
+date:
+- type: created
+  value: '2010-11-24'
+- type: updated
+  value: '2020-04-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

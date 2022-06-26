@@ -1,0 +1,31 @@
+---
+id: IANAJMS-URI-VARIANTS/jms-uri-variants-1
+title:
+- content: JMS URI Scheme Variants
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/jms-uri-variants
+  type: src
+type: standard
+docid:
+- id: IANA JMS-URI-VARIANTS/jms-uri-variants-1
+  type: IANA
+  primary: true
+docnumber: JMS-URI-VARIANTS__JMS-URI-VARIANTS-1
+date:
+- type: created
+  value: '2011-02-04'
+- type: updated
+  value: '2011-04-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

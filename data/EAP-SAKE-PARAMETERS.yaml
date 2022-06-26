@@ -1,0 +1,32 @@
+---
+id: IANAeap-sake-parameters
+title:
+- content: Extensible Authentication Protocol Method for Shared-secret Authentication
+    and Key Establishment (EAP-SAKE)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-sake-parameters
+  type: src
+type: standard
+docid:
+- id: IANA eap-sake-parameters
+  type: IANA
+  primary: true
+docnumber: EAP-SAKE-PARAMETERS
+date:
+- type: created
+  value: '2006-10-16'
+- type: updated
+  value: '2007-02-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANARPL-ROUTING-METRIC-CONSTRAINT/rmc-tlv
+title:
+- content: Routing Metric/Constraint TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpl-routing-metric-constraint
+  type: src
+type: standard
+docid:
+- id: IANA RPL-ROUTING-METRIC-CONSTRAINT/rmc-tlv
+  type: IANA
+  primary: true
+docnumber: RPL-ROUTING-METRIC-CONSTRAINT__RMC-TLV
+date:
+- type: updated
+  value: '2012-03-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

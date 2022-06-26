@@ -1,0 +1,31 @@
+---
+id: IANAAODV-PARAMETERS/extension-types
+title:
+- content: AODV Extension Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/aodv-parameters
+  type: src
+type: standard
+docid:
+- id: IANA AODV-PARAMETERS/extension-types
+  type: IANA
+  primary: true
+docnumber: AODV-PARAMETERS__EXTENSION-TYPES
+date:
+- type: created
+  value: '2003-05-19'
+- type: updated
+  value: '2003-07-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

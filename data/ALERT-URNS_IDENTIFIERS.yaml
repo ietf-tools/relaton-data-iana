@@ -1,0 +1,31 @@
+---
+id: IANAALERT-URNS/identifiers
+title:
+- content: Alert URN Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/alert-urns
+  type: src
+type: standard
+docid:
+- id: IANA ALERT-URNS/identifiers
+  type: IANA
+  primary: true
+docnumber: ALERT-URNS__IDENTIFIERS
+date:
+- type: created
+  value: '2014-11-24'
+- type: updated
+  value: '2015-03-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

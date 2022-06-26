@@ -1,0 +1,31 @@
+---
+id: IANAHTTP2-PARAMETERS/error-code
+title:
+- content: HTTP/2 Error Code
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/http2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA HTTP2-PARAMETERS/error-code
+  type: IANA
+  primary: true
+docnumber: HTTP2-PARAMETERS__ERROR-CODE
+date:
+- type: created
+  value: '2015-02-20'
+- type: updated
+  value: '2019-07-31'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

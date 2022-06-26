@@ -1,0 +1,31 @@
+---
+id: IANASVRLOC-CRYPTOGRAPHIC-BSD/svrloc-cryptographic-bsd-1
+title:
+- content: Cryptographic BSD Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/svrloc-cryptographic-bsd
+  type: src
+type: standard
+docid:
+- id: IANA SVRLOC-CRYPTOGRAPHIC-BSD/svrloc-cryptographic-bsd-1
+  type: IANA
+  primary: true
+docnumber: SVRLOC-CRYPTOGRAPHIC-BSD__SVRLOC-CRYPTOGRAPHIC-BSD-1
+date:
+- type: created
+  value: '2003-04-01'
+- type: updated
+  value: '2005-10-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,29 @@
+---
+id: IANAIPV6-PARAMETERS/segment-routing-header-tlvs
+title:
+- content: Segment Routing Header TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA IPV6-PARAMETERS/segment-routing-header-tlvs
+  type: IANA
+  primary: true
+docnumber: IPV6-PARAMETERS__SEGMENT-ROUTING-HEADER-TLVS
+date:
+- type: updated
+  value: '2021-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

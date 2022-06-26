@@ -1,0 +1,31 @@
+---
+id: IANAMOBILITY-PARAMETERS/binding-revocation-status-codes
+title:
+- content: Binding Revocation Acknowledgement Status Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+- id: IANA MOBILITY-PARAMETERS/binding-revocation-status-codes
+  type: IANA
+  primary: true
+docnumber: MOBILITY-PARAMETERS__BINDING-REVOCATION-STATUS-CODES
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

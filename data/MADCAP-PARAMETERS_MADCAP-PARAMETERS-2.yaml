@@ -1,0 +1,29 @@
+---
+id: IANAMADCAP-PARAMETERS/madcap-parameters-2
+title:
+- content: MADCAP Options
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/madcap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA MADCAP-PARAMETERS/madcap-parameters-2
+  type: IANA
+  primary: true
+docnumber: MADCAP-PARAMETERS__MADCAP-PARAMETERS-2
+date:
+- type: updated
+  value: '2001-08-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

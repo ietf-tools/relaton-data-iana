@@ -1,0 +1,29 @@
+---
+id: IANAmilnet-parameters
+title:
+- content: Milnet Parameters - Registry closed
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/milnet-parameters
+  type: src
+type: standard
+docid:
+- id: IANA milnet-parameters
+  type: IANA
+  primary: true
+docnumber: MILNET-PARAMETERS
+date:
+- type: updated
+  value: '2001-08-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

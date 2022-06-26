@@ -1,0 +1,29 @@
+---
+id: IANAMDN/disp-mod
+title:
+- content: MDN-Disposition-modifier-names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mdn
+  type: src
+type: standard
+docid:
+- id: IANA MDN/disp-mod
+  type: IANA
+  primary: true
+docnumber: MDN__DISP-MOD
+date:
+- type: updated
+  value: '2017-03-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

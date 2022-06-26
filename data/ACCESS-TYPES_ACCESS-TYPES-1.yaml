@@ -1,0 +1,29 @@
+---
+id: IANAACCESS-TYPES/access-types-1
+title:
+- content: Access Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/access-types
+  type: src
+type: standard
+docid:
+- id: IANA ACCESS-TYPES/access-types-1
+  type: IANA
+  primary: true
+docnumber: ACCESS-TYPES__ACCESS-TYPES-1
+date:
+- type: updated
+  value: '2010-04-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

@@ -1,0 +1,31 @@
+---
+id: IANAGSMPV3-SERVICE/gsmpv3-service-2
+title:
+- content: Service ID Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gsmpv3-service
+  type: src
+type: standard
+docid:
+- id: IANA GSMPV3-SERVICE/gsmpv3-service-2
+  type: IANA
+  primary: true
+docnumber: GSMPV3-SERVICE__GSMPV3-SERVICE-2
+date:
+- type: created
+  value: '2002-03-28'
+- type: updated
+  value: '2002-06-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

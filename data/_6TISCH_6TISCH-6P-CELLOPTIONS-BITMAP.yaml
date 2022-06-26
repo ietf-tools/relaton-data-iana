@@ -1,0 +1,31 @@
+---
+id: IANA_6TISCH/_6tisch-6p-celloptions-bitmap
+title:
+- content: 6P CellOptions Bitmap
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/_6tisch
+  type: src
+type: standard
+docid:
+- id: IANA _6TISCH/_6tisch-6p-celloptions-bitmap
+  type: IANA
+  primary: true
+docnumber: _6TISCH___6TISCH-6P-CELLOPTIONS-BITMAP
+date:
+- type: created
+  value: '2018-08-20'
+- type: updated
+  value: '2021-06-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

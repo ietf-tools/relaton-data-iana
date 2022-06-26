@@ -1,0 +1,31 @@
+---
+id: IANADSSC/parameters
+title:
+- content: Parameter Definitions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dssc
+  type: src
+type: standard
+docid:
+- id: IANA DSSC/parameters
+  type: IANA
+  primary: true
+docnumber: DSSC__PARAMETERS
+date:
+- type: created
+  value: '2009-10-13'
+- type: updated
+  value: '2018-04-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'

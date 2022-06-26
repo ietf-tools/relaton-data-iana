@@ -1,0 +1,29 @@
+---
+id: IANAIPV6-PARAMETERS/rpl-option-tlv
+title:
+- content: RPL-option-TLV
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA IPV6-PARAMETERS/rpl-option-tlv
+  type: IANA
+  primary: true
+docnumber: IPV6-PARAMETERS__RPL-OPTION-TLV
+date:
+- type: updated
+  value: '2021-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-06-26'
