@@ -1,0 +1,31 @@
+---
+id: IANAte-types
+title:
+- content: Traffic Engineering (TE) LSA Types and Traffic Engineering (TE) TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/te-types
+  type: src
+type: standard
+docid:
+- id: IANA te-types
+  type: IANA
+  primary: true
+docnumber: te-types
+date:
+- type: created
+  value: '2005-07-27'
+- type: updated
+  value: '2007-08-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

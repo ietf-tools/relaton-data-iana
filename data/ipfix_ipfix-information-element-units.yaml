@@ -1,0 +1,31 @@
+---
+id: IANAipfix/ipfix-information-element-units
+title:
+- content: IPFIX Information Element Units
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipfix
+  type: src
+type: standard
+docid:
+- id: IANA ipfix/ipfix-information-element-units
+  type: IANA
+  primary: true
+docnumber: ipfix/ipfix-information-element-units
+date:
+- type: created
+  value: '2007-05-10'
+- type: updated
+  value: '2021-10-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

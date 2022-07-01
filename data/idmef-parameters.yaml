@@ -1,0 +1,31 @@
+---
+id: IANAidmef-parameters
+title:
+- content: Intrusion Detection Message Exchange Format (IDMEF) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/idmef-parameters
+  type: src
+type: standard
+docid:
+- id: IANA idmef-parameters
+  type: IANA
+  primary: true
+docnumber: idmef-parameters
+date:
+- type: created
+  value: '2006-10-04'
+- type: updated
+  value: '2007-03-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,31 @@
+---
+id: IANAmobility-parameters/handover-acknowledge-flags
+title:
+- content: Handover Acknowledge Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mobility-parameters
+  type: src
+type: standard
+docid:
+- id: IANA mobility-parameters/handover-acknowledge-flags
+  type: IANA
+  primary: true
+docnumber: mobility-parameters/handover-acknowledge-flags
+date:
+- type: created
+  value: '2004-02-23'
+- type: updated
+  value: '2020-10-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

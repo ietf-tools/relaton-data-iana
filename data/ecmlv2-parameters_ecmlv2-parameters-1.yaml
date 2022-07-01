@@ -1,0 +1,31 @@
+---
+id: IANAecmlv2-parameters/ecmlv2-parameters-1
+title:
+- content: Ecom_Payment_Card_Type Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ecmlv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ecmlv2-parameters/ecmlv2-parameters-1
+  type: IANA
+  primary: true
+docnumber: ecmlv2-parameters/ecmlv2-parameters-1
+date:
+- type: created
+  value: '2005-04-08'
+- type: updated
+  value: '2005-10-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

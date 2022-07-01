@@ -1,0 +1,31 @@
+---
+id: IANAdhcpv6-parameters/options-relay-supplied
+title:
+- content: Options Permitted in the Relay-Supplied Options Option
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dhcpv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dhcpv6-parameters/options-relay-supplied
+  type: IANA
+  primary: true
+docnumber: dhcpv6-parameters/options-relay-supplied
+date:
+- type: created
+  value: '2003-11-03'
+- type: updated
+  value: '2021-10-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

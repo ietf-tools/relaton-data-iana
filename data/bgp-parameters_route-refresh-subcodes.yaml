@@ -1,0 +1,29 @@
+---
+id: IANAbgp-parameters/route-refresh-subcodes
+title:
+- content: BGP Route Refresh Subcodes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/route-refresh-subcodes
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/route-refresh-subcodes
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,29 @@
+---
+id: IANAmedia-types-parameters
+title:
+- content: MIME Media Type Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-types-parameters
+  type: src
+type: standard
+docid:
+- id: IANA media-types-parameters
+  type: IANA
+  primary: true
+docnumber: media-types-parameters
+date:
+- type: updated
+  value: '2012-09-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

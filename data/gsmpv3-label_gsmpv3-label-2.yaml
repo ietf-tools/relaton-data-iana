@@ -1,0 +1,31 @@
+---
+id: IANAgsmpv3-label/gsmpv3-label-2
+title:
+- content: Label Type Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gsmpv3-label
+  type: src
+type: standard
+docid:
+- id: IANA gsmpv3-label/gsmpv3-label-2
+  type: IANA
+  primary: true
+docnumber: gsmpv3-label/gsmpv3-label-2
+date:
+- type: created
+  value: '2002-03-28'
+- type: updated
+  value: '2002-06-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

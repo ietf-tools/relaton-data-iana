@@ -1,0 +1,31 @@
+---
+id: IANArohc-sub-ids
+title:
+- content: RObust Header Compression (ROHC) Suboption Identifier Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rohc-sub-ids
+  type: src
+type: standard
+docid:
+- id: IANA rohc-sub-ids
+  type: IANA
+  primary: true
+docnumber: rohc-sub-ids
+date:
+- type: created
+  value: '2002-02-06'
+- type: updated
+  value: '2011-03-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,29 @@
+---
+id: IANAbgp-parameters/mcast-vpn-route-types
+title:
+- content: BGP MCAST-VPN Route Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/mcast-vpn-route-types
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/mcast-vpn-route-types
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

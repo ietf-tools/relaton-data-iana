@@ -1,0 +1,29 @@
+---
+id: IANAmulticast-addresses/multicast-addresses-3
+title:
+- content: AD-HOC Block I (224.0.2.0 - 224.0.255.255)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/multicast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA multicast-addresses/multicast-addresses-3
+  type: IANA
+  primary: true
+docnumber: multicast-addresses/multicast-addresses-3
+date:
+- type: updated
+  value: '2021-10-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,31 @@
+---
+id: IANAqspec/y1541
+title:
+- content: Y.1541 QoS Class Parameter
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/qspec
+  type: src
+type: standard
+docid:
+- id: IANA qspec/y1541
+  type: IANA
+  primary: true
+docnumber: qspec/y1541
+date:
+- type: created
+  value: '2010-02-24'
+- type: updated
+  value: '2010-10-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

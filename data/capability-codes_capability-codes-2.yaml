@@ -1,0 +1,29 @@
+---
+id: IANAcapability-codes/capability-codes-2
+title:
+- content: Capability Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/capability-codes
+  type: src
+type: standard
+docid:
+- id: IANA capability-codes/capability-codes-2
+  type: IANA
+  primary: true
+docnumber: capability-codes/capability-codes-2
+date:
+- type: updated
+  value: '2021-02-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

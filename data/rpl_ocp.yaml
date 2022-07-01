@@ -1,0 +1,31 @@
+---
+id: IANArpl/ocp
+title:
+- content: Objective Code Point (OCP)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpl
+  type: src
+type: standard
+docid:
+- id: IANA rpl/ocp
+  type: IANA
+  primary: true
+docnumber: rpl/ocp
+date:
+- type: created
+  value: '2011-04-08'
+- type: updated
+  value: '2021-05-03'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

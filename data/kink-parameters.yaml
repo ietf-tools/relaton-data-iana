@@ -1,0 +1,31 @@
+---
+id: IANAkink-parameters
+title:
+- content: Kerberized Internet Negotiation of Keys (KINK) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/kink-parameters
+  type: src
+type: standard
+docid:
+- id: IANA kink-parameters
+  type: IANA
+  primary: true
+docnumber: kink-parameters
+date:
+- type: created
+  value: '2006-01-25'
+- type: updated
+  value: '2006-09-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

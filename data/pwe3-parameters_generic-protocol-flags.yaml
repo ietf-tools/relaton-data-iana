@@ -1,0 +1,31 @@
+---
+id: IANApwe3-parameters/generic-protocol-flags
+title:
+- content: PW Generic Protocol Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pwe3-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pwe3-parameters/generic-protocol-flags
+  type: IANA
+  primary: true
+docnumber: pwe3-parameters/generic-protocol-flags
+date:
+- type: created
+  value: '2005-12-12'
+- type: updated
+  value: '2018-03-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

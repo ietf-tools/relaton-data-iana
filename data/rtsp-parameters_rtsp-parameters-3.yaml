@@ -1,0 +1,31 @@
+---
+id: IANArtsp-parameters/rtsp-parameters-3
+title:
+- content: RTSP/1.0 Status Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtsp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rtsp-parameters/rtsp-parameters-3
+  type: IANA
+  primary: true
+docnumber: rtsp-parameters/rtsp-parameters-3
+date:
+- type: created
+  value: '2005-10-11'
+- type: updated
+  value: '2019-02-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

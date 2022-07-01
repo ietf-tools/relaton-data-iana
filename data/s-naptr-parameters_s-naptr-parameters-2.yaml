@@ -1,0 +1,31 @@
+---
+id: IANAs-naptr-parameters/s-naptr-parameters-2
+title:
+- content: S-NAPTR Application Protocol Tags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/s-naptr-parameters
+  type: src
+type: standard
+docid:
+- id: IANA s-naptr-parameters/s-naptr-parameters-2
+  type: IANA
+  primary: true
+docnumber: s-naptr-parameters/s-naptr-parameters-2
+date:
+- type: created
+  value: '2004-10-10'
+- type: updated
+  value: '2021-01-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

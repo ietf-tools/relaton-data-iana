@@ -1,0 +1,31 @@
+---
+id: IANArsvp-te-parameters
+title:
+- content: Resource Reservation Protocol-Traffic Engineering (RSVP-TE) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-te-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rsvp-te-parameters
+  type: IANA
+  primary: true
+docnumber: rsvp-te-parameters
+date:
+- type: created
+  value: '2006-01-23'
+- type: updated
+  value: '2019-07-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

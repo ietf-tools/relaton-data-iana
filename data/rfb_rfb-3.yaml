@@ -1,0 +1,31 @@
+---
+id: IANArfb/rfb-3
+title:
+- content: Remote Framebuffer Server-to-Client Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rfb
+  type: src
+type: standard
+docid:
+- id: IANA rfb/rfb-3
+  type: IANA
+  primary: true
+docnumber: rfb/rfb-3
+date:
+- type: created
+  value: '2010-12-08'
+- type: updated
+  value: '2021-03-31'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

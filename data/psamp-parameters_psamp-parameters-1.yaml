@@ -1,0 +1,31 @@
+---
+id: IANApsamp-parameters/psamp-parameters-1
+title:
+- content: PSAMP selectorAlgorithm Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/psamp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA psamp-parameters/psamp-parameters-1
+  type: IANA
+  primary: true
+docnumber: psamp-parameters/psamp-parameters-1
+date:
+- type: created
+  value: '2008-09-04'
+- type: updated
+  value: '2009-04-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

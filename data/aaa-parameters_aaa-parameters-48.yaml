@@ -1,0 +1,31 @@
+---
+id: IANAaaa-parameters/aaa-parameters-48
+title:
+- content: Command Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/aaa-parameters
+  type: src
+type: standard
+docid:
+- id: IANA aaa-parameters/aaa-parameters-48
+  type: IANA
+  primary: true
+docnumber: aaa-parameters/aaa-parameters-48
+date:
+- type: created
+  value: '2003-04-08'
+- type: updated
+  value: '2019-08-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

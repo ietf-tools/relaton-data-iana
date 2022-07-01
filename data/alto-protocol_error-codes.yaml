@@ -1,0 +1,31 @@
+---
+id: IANAalto-protocol/error-codes
+title:
+- content: ALTO Error Code Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/alto-protocol
+  type: src
+type: standard
+docid:
+- id: IANA alto-protocol/error-codes
+  type: IANA
+  primary: true
+docnumber: alto-protocol/error-codes
+date:
+- type: created
+  value: '2014-03-18'
+- type: updated
+  value: '2014-09-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

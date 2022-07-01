@@ -1,0 +1,29 @@
+---
+id: IANAbuilding-blocks
+title:
+- content: Building Blocks
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/building-blocks
+  type: src
+type: standard
+docid:
+- id: IANA building-blocks
+  type: IANA
+  primary: true
+docnumber: building-blocks
+date:
+- type: created
+  value: 2001-01
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

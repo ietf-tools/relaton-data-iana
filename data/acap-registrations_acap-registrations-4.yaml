@@ -1,0 +1,29 @@
+---
+id: IANAacap-registrations/acap-registrations-4
+title:
+- content: Vendor Subtrees
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/acap-registrations
+  type: src
+type: standard
+docid:
+- id: IANA acap-registrations/acap-registrations-4
+  type: IANA
+  primary: true
+docnumber: acap-registrations/acap-registrations-4
+date:
+- type: updated
+  value: '2020-04-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

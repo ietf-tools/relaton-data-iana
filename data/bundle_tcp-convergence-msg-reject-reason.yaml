@@ -1,0 +1,31 @@
+---
+id: IANAbundle/tcp-convergence-msg-reject-reason
+title:
+- content: Bundle Protocol TCP Convergence-Layer Version 4 MSG_REJECT Reason Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bundle
+  type: src
+type: standard
+docid:
+- id: IANA bundle/tcp-convergence-msg-reject-reason
+  type: IANA
+  primary: true
+docnumber: bundle/tcp-convergence-msg-reject-reason
+date:
+- type: created
+  value: '2011-03-24'
+- type: updated
+  value: '2021-08-04'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

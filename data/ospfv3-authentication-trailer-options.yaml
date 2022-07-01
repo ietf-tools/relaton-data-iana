@@ -1,0 +1,31 @@
+---
+id: IANAospfv3-authentication-trailer-options
+title:
+- content: Open Shortest Path First v3 (OSPFv3) Authentication Trailer Options
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospfv3-authentication-trailer-options
+  type: src
+type: standard
+docid:
+- id: IANA ospfv3-authentication-trailer-options
+  type: IANA
+  primary: true
+docnumber: ospfv3-authentication-trailer-options
+date:
+- type: created
+  value: '2011-12-20'
+- type: updated
+  value: '2014-03-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

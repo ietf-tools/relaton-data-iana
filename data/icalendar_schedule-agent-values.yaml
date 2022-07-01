@@ -1,0 +1,31 @@
+---
+id: IANAicalendar/schedule-agent-values
+title:
+- content: Schedule Agent Values Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icalendar
+  type: src
+type: standard
+docid:
+- id: IANA icalendar/schedule-agent-values
+  type: IANA
+  primary: true
+docnumber: icalendar/schedule-agent-values
+date:
+- type: created
+  value: '2009-04-29'
+- type: updated
+  value: '2021-08-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

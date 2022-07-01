@@ -1,0 +1,29 @@
+---
+id: IANAipsec-registry/ipsec-registry-16
+title:
+- content: PRF (Value 13)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipsec-registry
+  type: src
+type: standard
+docid:
+- id: IANA ipsec-registry/ipsec-registry-16
+  type: IANA
+  primary: true
+docnumber: ipsec-registry/ipsec-registry-16
+date:
+- type: updated
+  value: '2013-05-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

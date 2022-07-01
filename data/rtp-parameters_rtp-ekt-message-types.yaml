@@ -1,0 +1,29 @@
+---
+id: IANArtp-parameters/rtp-ekt-message-types
+title:
+- content: EKT Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rtp-parameters/rtp-ekt-message-types
+  type: IANA
+  primary: true
+docnumber: rtp-parameters/rtp-ekt-message-types
+date:
+- type: updated
+  value: '2021-10-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

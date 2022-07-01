@@ -1,0 +1,29 @@
+---
+id: IANAmail-parameters/mail-parameters-10
+title:
+- content: Registered-states
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mail-parameters
+  type: src
+type: standard
+docid:
+- id: IANA mail-parameters/mail-parameters-10
+  type: IANA
+  primary: true
+docnumber: mail-parameters/mail-parameters-10
+date:
+- type: updated
+  value: '2020-02-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

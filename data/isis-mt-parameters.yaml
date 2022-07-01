@@ -1,0 +1,31 @@
+---
+id: IANAisis-mt-parameters
+title:
+- content: IS-IS Multi-Topology Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/isis-mt-parameters
+  type: src
+type: standard
+docid:
+- id: IANA isis-mt-parameters
+  type: IANA
+  primary: true
+docnumber: isis-mt-parameters
+date:
+- type: created
+  value: '2007-11-20'
+- type: updated
+  value: '2017-06-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

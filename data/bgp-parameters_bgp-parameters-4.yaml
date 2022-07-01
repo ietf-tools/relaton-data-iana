@@ -1,0 +1,29 @@
+---
+id: IANAbgp-parameters/bgp-parameters-4
+title:
+- content: BGP Error Subcodes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/bgp-parameters-4
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/bgp-parameters-4
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

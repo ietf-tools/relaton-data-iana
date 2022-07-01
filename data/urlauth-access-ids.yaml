@@ -1,0 +1,32 @@
+---
+id: IANAurlauth-access-ids
+title:
+- content: Internet Message Access Protocol (IMAP) URLAUTH Access Identifiers and
+    Prefixes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/urlauth-access-ids
+  type: src
+type: standard
+docid:
+- id: IANA urlauth-access-ids
+  type: IANA
+  primary: true
+docnumber: urlauth-access-ids
+date:
+- type: created
+  value: '2009-05-13'
+- type: updated
+  value: '2009-07-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

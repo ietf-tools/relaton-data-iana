@@ -1,0 +1,31 @@
+---
+id: IANAccmp-parameters/message-types
+title:
+- content: CCMP Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ccmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ccmp-parameters/message-types
+  type: IANA
+  primary: true
+docnumber: ccmp-parameters/message-types
+date:
+- type: created
+  value: '2011-09-30'
+- type: updated
+  value: '2012-03-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

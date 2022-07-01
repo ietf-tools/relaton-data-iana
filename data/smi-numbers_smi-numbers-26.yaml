@@ -1,0 +1,29 @@
+---
+id: IANAsmi-numbers/smi-numbers-26
+title:
+- content: SMI Security Codes (including S/MIME, PKIX and LTANS)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/smi-numbers
+  type: src
+type: standard
+docid:
+- id: IANA smi-numbers/smi-numbers-26
+  type: IANA
+  primary: true
+docnumber: smi-numbers/smi-numbers-26
+date:
+- type: updated
+  value: '2021-11-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

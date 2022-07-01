@@ -1,0 +1,29 @@
+---
+id: IANAtcp-parameters
+title:
+- content: Transmission Control Protocol (TCP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA tcp-parameters
+  type: IANA
+  primary: true
+docnumber: tcp-parameters
+date:
+- type: updated
+  value: '2021-02-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

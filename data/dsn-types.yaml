@@ -1,0 +1,31 @@
+---
+id: IANAdsn-types
+title:
+- content: Delivery Status Notification (DSN) Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dsn-types
+  type: src
+type: standard
+docid:
+- id: IANA dsn-types
+  type: IANA
+  primary: true
+docnumber: dsn-types
+date:
+- type: created
+  value: '2002-11-07'
+- type: updated
+  value: '2016-05-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,29 @@
+---
+id: IANAopes/ocp
+title:
+- content: OPES Callout Protocol (OCP) Core
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/opes
+  type: src
+type: standard
+docid:
+- id: IANA opes/ocp
+  type: IANA
+  primary: true
+docnumber: opes/ocp
+date:
+- type: updated
+  value: '2006-10-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,31 @@
+---
+id: IANAsctp-parameters/sctp-parameters-1
+title:
+- content: Chunk Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sctp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA sctp-parameters/sctp-parameters-1
+  type: IANA
+  primary: true
+docnumber: sctp-parameters/sctp-parameters-1
+date:
+- type: created
+  value: 2000-10
+- type: updated
+  value: '2021-08-13'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

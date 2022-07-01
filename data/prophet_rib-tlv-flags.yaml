@@ -1,0 +1,31 @@
+---
+id: IANAprophet/rib-tlv-flags
+title:
+- content: RIB TLV Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/prophet
+  type: src
+type: standard
+docid:
+- id: IANA prophet/rib-tlv-flags
+  type: IANA
+  primary: true
+docnumber: prophet/rib-tlv-flags
+date:
+- type: created
+  value: '2012-06-04'
+- type: updated
+  value: '2012-09-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

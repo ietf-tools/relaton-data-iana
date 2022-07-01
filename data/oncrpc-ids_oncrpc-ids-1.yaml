@@ -1,0 +1,31 @@
+---
+id: IANAoncrpc-ids/oncrpc-ids-1
+title:
+- content: Network Identifier (r_netid)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/oncrpc-ids
+  type: src
+type: standard
+docid:
+- id: IANA oncrpc-ids/oncrpc-ids-1
+  type: IANA
+  primary: true
+docnumber: oncrpc-ids/oncrpc-ids-1
+date:
+- type: created
+  value: '2003-03-12'
+- type: updated
+  value: '2015-03-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

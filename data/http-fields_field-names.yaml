@@ -1,0 +1,31 @@
+---
+id: IANAhttp-fields/field-names
+title:
+- content: Hypertext Transfer Protocol (HTTP) Field Name Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/http-fields
+  type: src
+type: standard
+docid:
+- id: IANA http-fields/field-names
+  type: IANA
+  primary: true
+docnumber: http-fields/field-names
+date:
+- type: created
+  value: '2021-10-01'
+- type: updated
+  value: '2021-11-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

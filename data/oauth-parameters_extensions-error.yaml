@@ -1,0 +1,31 @@
+---
+id: IANAoauth-parameters/extensions-error
+title:
+- content: OAuth Extensions Error Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/oauth-parameters
+  type: src
+type: standard
+docid:
+- id: IANA oauth-parameters/extensions-error
+  type: IANA
+  primary: true
+docnumber: oauth-parameters/extensions-error
+date:
+- type: created
+  value: '2012-07-27'
+- type: updated
+  value: '2021-09-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

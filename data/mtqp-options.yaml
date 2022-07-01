@@ -1,0 +1,31 @@
+---
+id: IANAmtqp-options
+title:
+- content: Message Tracking Query Protocol (MTQP) Options Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mtqp-options
+  type: src
+type: standard
+docid:
+- id: IANA mtqp-options
+  type: IANA
+  primary: true
+docnumber: mtqp-options
+date:
+- type: created
+  value: '2004-07-16'
+- type: updated
+  value: '2004-10-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

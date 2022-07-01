@@ -1,0 +1,31 @@
+---
+id: IANAbabel/sub-tlv-types
+title:
+- content: Babel Sub-TLV Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/babel
+  type: src
+type: standard
+docid:
+- id: IANA babel/sub-tlv-types
+  type: IANA
+  primary: true
+docnumber: babel/sub-tlv-types
+date:
+- type: created
+  value: '2015-04-14'
+- type: updated
+  value: '2021-08-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

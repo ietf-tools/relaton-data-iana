@@ -1,0 +1,31 @@
+---
+id: IANAlgr-dispositions/standard-dispositions
+title:
+- content: Standard Dispositions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lgr-dispositions
+  type: src
+type: standard
+docid:
+- id: IANA lgr-dispositions/standard-dispositions
+  type: IANA
+  primary: true
+docnumber: lgr-dispositions/standard-dispositions
+date:
+- type: created
+  value: '2016-05-27'
+- type: updated
+  value: '2016-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

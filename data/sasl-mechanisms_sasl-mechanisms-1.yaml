@@ -1,0 +1,29 @@
+---
+id: IANAsasl-mechanisms/sasl-mechanisms-1
+title:
+- content: SASL Mechanisms
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sasl-mechanisms
+  type: src
+type: standard
+docid:
+- id: IANA sasl-mechanisms/sasl-mechanisms-1
+  type: IANA
+  primary: true
+docnumber: sasl-mechanisms/sasl-mechanisms-1
+date:
+- type: updated
+  value: '2021-07-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

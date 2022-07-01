@@ -1,0 +1,31 @@
+---
+id: IANAdots
+title:
+- content: Distributed Denial-of-Service Open Threat Signaling (DOTS) Signal Channel
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dots
+  type: src
+type: standard
+docid:
+- id: IANA dots
+  type: IANA
+  primary: true
+docnumber: dots
+date:
+- type: created
+  value: '2020-01-16'
+- type: updated
+  value: '2021-09-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

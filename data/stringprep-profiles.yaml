@@ -1,0 +1,31 @@
+---
+id: IANAstringprep-profiles
+title:
+- content: Stringprep Profiles
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/stringprep-profiles
+  type: src
+type: standard
+docid:
+- id: IANA stringprep-profiles
+  type: IANA
+  primary: true
+docnumber: stringprep-profiles
+date:
+- type: created
+  value: '2003-01-02'
+- type: updated
+  value: '2017-10-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

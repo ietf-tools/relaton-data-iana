@@ -1,0 +1,31 @@
+---
+id: IANAstarttls-validation-result-types
+title:
+- content: STARTTLS Validation Result Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/starttls-validation-result-types
+  type: src
+type: standard
+docid:
+- id: IANA starttls-validation-result-types
+  type: IANA
+  primary: true
+docnumber: starttls-validation-result-types
+date:
+- type: created
+  value: '2018-06-14'
+- type: updated
+  value: '2018-09-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

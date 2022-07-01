@@ -1,0 +1,31 @@
+---
+id: IANAnslp-parameters/natfw-message-types
+title:
+- content: NATFW NSLP Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nslp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA nslp-parameters/natfw-message-types
+  type: IANA
+  primary: true
+docnumber: nslp-parameters/natfw-message-types
+date:
+- type: created
+  value: '2010-02-03'
+- type: updated
+  value: '2011-03-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

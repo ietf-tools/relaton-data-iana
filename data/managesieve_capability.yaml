@@ -1,0 +1,31 @@
+---
+id: IANAmanagesieve/capability
+title:
+- content: ManageSieve Capabilities
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/managesieve
+  type: src
+type: standard
+docid:
+- id: IANA managesieve/capability
+  type: IANA
+  primary: true
+docnumber: managesieve/capability
+date:
+- type: created
+  value: '2009-01-29'
+- type: updated
+  value: '2015-05-27'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

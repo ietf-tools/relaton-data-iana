@@ -1,0 +1,29 @@
+---
+id: IANAbgp-parameters/sfp-attribute-tlvs
+title:
+- content: SFP Attribute TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/sfp-attribute-tlvs
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/sfp-attribute-tlvs
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

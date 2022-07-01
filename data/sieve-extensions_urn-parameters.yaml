@@ -1,0 +1,31 @@
+---
+id: IANAsieve-extensions/urn-parameters
+title:
+- content: Sieve URN Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sieve-extensions
+  type: src
+type: standard
+docid:
+- id: IANA sieve-extensions/urn-parameters
+  type: IANA
+  primary: true
+docnumber: sieve-extensions/urn-parameters
+date:
+- type: created
+  value: 2000-11
+- type: updated
+  value: '2021-07-05'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

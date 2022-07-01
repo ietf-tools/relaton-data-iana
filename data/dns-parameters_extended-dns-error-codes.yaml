@@ -1,0 +1,29 @@
+---
+id: IANAdns-parameters/extended-dns-error-codes
+title:
+- content: Extended DNS Error Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dns-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dns-parameters/extended-dns-error-codes
+  type: IANA
+  primary: true
+docnumber: dns-parameters/extended-dns-error-codes
+date:
+- type: updated
+  value: '2021-10-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

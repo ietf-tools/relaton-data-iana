@@ -1,0 +1,31 @@
+---
+id: IANArtspv2-parameters/headers
+title:
+- content: RSTP 2.0 Headers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtspv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rtspv2-parameters/headers
+  type: IANA
+  primary: true
+docnumber: rtspv2-parameters/headers
+date:
+- type: created
+  value: '2014-02-21'
+- type: updated
+  value: '2016-12-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

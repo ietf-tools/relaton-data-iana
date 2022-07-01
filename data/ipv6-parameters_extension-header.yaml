@@ -1,0 +1,29 @@
+---
+id: IANAipv6-parameters/extension-header
+title:
+- content: IPv6 Extension Header Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ipv6-parameters/extension-header
+  type: IANA
+  primary: true
+docnumber: ipv6-parameters/extension-header
+date:
+- type: updated
+  value: '2021-08-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

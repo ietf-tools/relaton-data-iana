@@ -1,0 +1,31 @@
+---
+id: IANAeap-pax
+title:
+- content: Extensible Authentication Protocol - Password Authenticated Exchange (EAP-PAX)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-pax
+  type: src
+type: standard
+docid:
+- id: IANA eap-pax
+  type: IANA
+  primary: true
+docnumber: eap-pax
+date:
+- type: created
+  value: '2006-10-03'
+- type: updated
+  value: '2018-04-06'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,29 @@
+---
+id: IANAmulticast-addresses/multicast-addresses-8
+title:
+- content: DIS Transient Groups 224.252.0.0-224.255.255.255 (224.252/14))
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/multicast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA multicast-addresses/multicast-addresses-8
+  type: IANA
+  primary: true
+docnumber: multicast-addresses/multicast-addresses-8
+date:
+- type: updated
+  value: '2021-10-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

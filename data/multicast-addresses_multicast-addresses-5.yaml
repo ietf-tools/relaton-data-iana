@@ -1,0 +1,29 @@
+---
+id: IANAmulticast-addresses/multicast-addresses-5
+title:
+- content: SDP/SAP Block (224.2.0.0-224.2.255.255 (224.2/16))
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/multicast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA multicast-addresses/multicast-addresses-5
+  type: IANA
+  primary: true
+docnumber: multicast-addresses/multicast-addresses-5
+date:
+- type: updated
+  value: '2021-10-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

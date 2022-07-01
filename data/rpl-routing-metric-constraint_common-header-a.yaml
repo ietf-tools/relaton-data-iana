@@ -1,0 +1,29 @@
+---
+id: IANArpl-routing-metric-constraint/common-header-a
+title:
+- content: Routing Metric/Constraint Common Header A field
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpl-routing-metric-constraint
+  type: src
+type: standard
+docid:
+- id: IANA rpl-routing-metric-constraint/common-header-a
+  type: IANA
+  primary: true
+docnumber: rpl-routing-metric-constraint/common-header-a
+date:
+- type: updated
+  value: '2012-03-28'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

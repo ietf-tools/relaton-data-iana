@@ -1,0 +1,31 @@
+---
+id: IANArsvp-te-oam/performance-monitoring-sub-tlvs
+title:
+- content: Performance Monitoring Sub-TLV Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-te-oam
+  type: src
+type: standard
+docid:
+- id: IANA rsvp-te-oam/performance-monitoring-sub-tlvs
+  type: IANA
+  primary: true
+docnumber: rsvp-te-oam/performance-monitoring-sub-tlvs
+date:
+- type: created
+  value: '2014-03-11'
+- type: updated
+  value: '2015-03-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

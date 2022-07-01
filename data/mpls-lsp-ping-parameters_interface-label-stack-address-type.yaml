@@ -1,0 +1,32 @@
+---
+id: IANAmpls-lsp-ping-parameters/interface-label-stack-address-type
+title:
+- content: Interface and Label Stack and Detailed Interface and Label Stack Address
+    Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mpls-lsp-ping-parameters
+  type: src
+type: standard
+docid:
+- id: IANA mpls-lsp-ping-parameters/interface-label-stack-address-type
+  type: IANA
+  primary: true
+docnumber: mpls-lsp-ping-parameters/interface-label-stack-address-type
+date:
+- type: created
+  value: '2006-01-12'
+- type: updated
+  value: '2021-11-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

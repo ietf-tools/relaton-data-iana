@@ -1,0 +1,31 @@
+---
+id: IANAsip-parameters/uui-encoding
+title:
+- content: UUI Encoding Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sip-parameters
+  type: src
+type: standard
+docid:
+- id: IANA sip-parameters/uui-encoding
+  type: IANA
+  primary: true
+docnumber: sip-parameters/uui-encoding
+date:
+- type: created
+  value: 2002-01
+- type: updated
+  value: '2021-01-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

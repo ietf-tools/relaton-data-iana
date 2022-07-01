@@ -1,0 +1,31 @@
+---
+id: IANAmikey-payloads/mikey-payloads-40
+title:
+- content: ID Role
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mikey-payloads
+  type: src
+type: standard
+docid:
+- id: IANA mikey-payloads/mikey-payloads-40
+  type: IANA
+  primary: true
+docnumber: mikey-payloads/mikey-payloads-40
+date:
+- type: created
+  value: '2004-05-21'
+- type: updated
+  value: '2019-02-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

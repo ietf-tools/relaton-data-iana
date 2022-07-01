@@ -1,0 +1,31 @@
+---
+id: IANAiotp-codes/iotp-codes-9
+title:
+- content: TradingRole/Trading Role
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iotp-codes
+  type: src
+type: standard
+docid:
+- id: IANA iotp-codes/iotp-codes-9
+  type: IANA
+  primary: true
+docnumber: iotp-codes/iotp-codes-9
+date:
+- type: created
+  value: 2000-04
+- type: updated
+  value: '2012-02-02'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

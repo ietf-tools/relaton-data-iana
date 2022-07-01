@@ -1,0 +1,31 @@
+---
+id: IANAgeopriv-identifiers/ids
+title:
+- content: Geopriv Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/geopriv-identifiers
+  type: src
+type: standard
+docid:
+- id: IANA geopriv-identifiers/ids
+  type: IANA
+  primary: true
+docnumber: geopriv-identifiers/ids
+date:
+- type: created
+  value: '2013-09-04'
+- type: updated
+  value: '2013-11-12'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

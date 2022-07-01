@@ -1,0 +1,29 @@
+---
+id: IANAbgp-parameters/pmsi-tunnel-attributes
+title:
+- content: P-Multicast Service Interface (PMSI) Tunnel Attribute Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/pmsi-tunnel-attributes
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/pmsi-tunnel-attributes
+date:
+- type: updated
+  value: '2021-10-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

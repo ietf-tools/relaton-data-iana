@@ -1,0 +1,31 @@
+---
+id: IANAkeytable/algid
+title:
+- content: KeyTable AlgIDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/keytable
+  type: src
+type: standard
+docid:
+- id: IANA keytable/algid
+  type: IANA
+  primary: true
+docnumber: keytable/algid
+date:
+- type: created
+  value: '2014-01-28'
+- type: updated
+  value: '2014-04-23'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

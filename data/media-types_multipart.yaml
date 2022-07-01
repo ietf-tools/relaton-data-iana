@@ -1,0 +1,29 @@
+---
+id: IANAmedia-types/multipart
+title:
+- content: multipart
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-types
+  type: src
+type: standard
+docid:
+- id: IANA media-types/multipart
+  type: IANA
+  primary: true
+docnumber: media-types/multipart
+date:
+- type: updated
+  value: '2021-11-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

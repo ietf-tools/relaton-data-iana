@@ -1,0 +1,31 @@
+---
+id: IANAhoba-key-identifiers/key-identifier-types
+title:
+- content: HOBA Key Identifier Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/hoba-key-identifiers
+  type: src
+type: standard
+docid:
+- id: IANA hoba-key-identifiers/key-identifier-types
+  type: IANA
+  primary: true
+docnumber: hoba-key-identifiers/key-identifier-types
+date:
+- type: created
+  value: '2015-01-20'
+- type: updated
+  value: '2015-03-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

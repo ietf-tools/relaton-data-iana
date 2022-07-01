@@ -1,0 +1,31 @@
+---
+id: IANAkerberos-parameters/realm-names
+title:
+- content: Well-Known Kerberos Realm Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/kerberos-parameters
+  type: src
+type: standard
+docid:
+- id: IANA kerberos-parameters/realm-names
+  type: IANA
+  primary: true
+docnumber: kerberos-parameters/realm-names
+date:
+- type: created
+  value: '2004-06-29'
+- type: updated
+  value: '2019-07-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

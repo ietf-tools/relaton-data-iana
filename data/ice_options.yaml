@@ -1,0 +1,31 @@
+---
+id: IANAice/options
+title:
+- content: ICE Options
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ice
+  type: src
+type: standard
+docid:
+- id: IANA ice/options
+  type: IANA
+  primary: true
+docnumber: ice/options
+date:
+- type: created
+  value: '2011-06-09'
+- type: updated
+  value: '2021-01-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

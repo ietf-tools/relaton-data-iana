@@ -1,0 +1,29 @@
+---
+id: IANAuri-schemes/uri-schemes-1
+title:
+- content: Uniform Resource Identifier (URI) Schemes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/uri-schemes
+  type: src
+type: standard
+docid:
+- id: IANA uri-schemes/uri-schemes-1
+  type: IANA
+  primary: true
+docnumber: uri-schemes/uri-schemes-1
+date:
+- type: updated
+  value: '2021-10-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

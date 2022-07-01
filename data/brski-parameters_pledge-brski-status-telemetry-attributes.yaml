@@ -1,0 +1,31 @@
+---
+id: IANAbrski-parameters/pledge-brski-status-telemetry-attributes
+title:
+- content: Pledge BRSKI Status Telemetry Attributes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/brski-parameters
+  type: src
+type: standard
+docid:
+- id: IANA brski-parameters/pledge-brski-status-telemetry-attributes
+  type: IANA
+  primary: true
+docnumber: brski-parameters/pledge-brski-status-telemetry-attributes
+date:
+- type: created
+  value: '2020-04-29'
+- type: updated
+  value: '2021-06-04'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

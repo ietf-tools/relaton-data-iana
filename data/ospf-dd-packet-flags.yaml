@@ -1,0 +1,31 @@
+---
+id: IANAospf-dd-packet-flags
+title:
+- content: OSPF Database Description (DD) Packet Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospf-dd-packet-flags
+  type: src
+type: standard
+docid:
+- id: IANA ospf-dd-packet-flags
+  type: IANA
+  primary: true
+docnumber: ospf-dd-packet-flags
+date:
+- type: created
+  value: '2010-02-18'
+- type: updated
+  value: '2010-04-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

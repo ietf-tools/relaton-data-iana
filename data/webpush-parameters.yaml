@@ -1,0 +1,31 @@
+---
+id: IANAwebpush-parameters
+title:
+- content: Web Push Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/webpush-parameters
+  type: src
+type: standard
+docid:
+- id: IANA webpush-parameters
+  type: IANA
+  primary: true
+docnumber: webpush-parameters
+date:
+- type: created
+  value: '2016-11-02'
+- type: updated
+  value: '2017-12-26'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

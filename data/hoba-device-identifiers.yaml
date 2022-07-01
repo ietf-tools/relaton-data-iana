@@ -1,0 +1,31 @@
+---
+id: IANAhoba-device-identifiers
+title:
+- content: HTTP Origin-Bound Authentication (HOBA) Device Identifier Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/hoba-device-identifiers
+  type: src
+type: standard
+docid:
+- id: IANA hoba-device-identifiers
+  type: IANA
+  primary: true
+docnumber: hoba-device-identifiers
+date:
+- type: created
+  value: '2015-01-20'
+- type: updated
+  value: '2015-03-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

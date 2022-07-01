@@ -1,0 +1,29 @@
+---
+id: IANArsvp-parameters/rsvp-parameters-4
+title:
+- content: Class Names, Class Numbers, and Class Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rsvp-parameters/rsvp-parameters-4
+  type: IANA
+  primary: true
+docnumber: rsvp-parameters/rsvp-parameters-4
+date:
+- type: updated
+  value: '2019-12-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

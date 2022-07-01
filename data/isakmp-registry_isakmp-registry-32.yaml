@@ -1,0 +1,29 @@
+---
+id: IANAisakmp-registry/isakmp-registry-32
+title:
+- content: IPSEC Notify Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/isakmp-registry
+  type: src
+type: standard
+docid:
+- id: IANA isakmp-registry/isakmp-registry-32
+  type: IANA
+  primary: true
+docnumber: isakmp-registry/isakmp-registry-32
+date:
+- type: updated
+  value: '2012-07-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

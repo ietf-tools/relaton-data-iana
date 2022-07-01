@@ -1,0 +1,31 @@
+---
+id: IANAwebauthn/webauthn-extension-ids
+title:
+- content: WebAuthn Extension Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/webauthn
+  type: src
+type: standard
+docid:
+- id: IANA webauthn/webauthn-extension-ids
+  type: IANA
+  primary: true
+docnumber: webauthn/webauthn-extension-ids
+date:
+- type: created
+  value: '2020-06-11'
+- type: updated
+  value: '2020-08-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

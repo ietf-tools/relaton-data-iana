@@ -1,0 +1,31 @@
+---
+id: IANAgss-eap-parameters/context-flags
+title:
+- content: GSS-EAP Context Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gss-eap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA gss-eap-parameters/context-flags
+  type: IANA
+  primary: true
+docnumber: gss-eap-parameters/context-flags
+date:
+- type: created
+  value: '2012-09-05'
+- type: updated
+  value: '2014-01-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

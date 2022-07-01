@@ -1,0 +1,31 @@
+---
+id: IANAeap-numbers/eap-numbers-noob-peerinfo-data-fields
+title:
+- content: EAP-NOOB PeerInfo Data Fields
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-numbers
+  type: src
+type: standard
+docid:
+- id: IANA eap-numbers/eap-numbers-noob-peerinfo-data-fields
+  type: IANA
+  primary: true
+docnumber: eap-numbers/eap-numbers-noob-peerinfo-data-fields
+date:
+- type: created
+  value: '2004-04-09'
+- type: updated
+  value: '2021-10-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

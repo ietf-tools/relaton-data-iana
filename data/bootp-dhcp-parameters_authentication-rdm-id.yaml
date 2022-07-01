@@ -1,0 +1,30 @@
+---
+id: IANAbootp-dhcp-parameters/authentication-rdm-id
+title:
+- content: Authentication Suboption (value 8) - Replay Detection Method (RDM) identifier
+    values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bootp-dhcp-parameters/authentication-rdm-id
+  type: IANA
+  primary: true
+docnumber: bootp-dhcp-parameters/authentication-rdm-id
+date:
+- type: updated
+  value: '2021-01-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

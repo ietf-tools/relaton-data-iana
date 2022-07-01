@@ -1,0 +1,31 @@
+---
+id: IANAbier/bier-algorithm
+title:
+- content: BIER Algorithm
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bier
+  type: src
+type: standard
+docid:
+- id: IANA bier/bier-algorithm
+  type: IANA
+  primary: true
+docnumber: bier/bier-algorithm
+date:
+- type: created
+  value: '2017-10-31'
+- type: updated
+  value: '2018-06-08'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

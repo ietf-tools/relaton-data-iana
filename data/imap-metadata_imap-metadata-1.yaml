@@ -1,0 +1,31 @@
+---
+id: IANAimap-metadata/imap-metadata-1
+title:
+- content: IMAP METADATA Server Entry Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/imap-metadata
+  type: src
+type: standard
+docid:
+- id: IANA imap-metadata/imap-metadata-1
+  type: IANA
+  primary: true
+docnumber: imap-metadata/imap-metadata-1
+date:
+- type: created
+  value: '2009-01-21'
+- type: updated
+  value: '2015-02-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,31 @@
+---
+id: IANAbgp-extended-communities/trans-ipv6
+title:
+- content: Transitive IPv6-Address-Specific Extended Community Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-extended-communities
+  type: src
+type: standard
+docid:
+- id: IANA bgp-extended-communities/trans-ipv6
+  type: IANA
+  primary: true
+docnumber: bgp-extended-communities/trans-ipv6
+date:
+- type: created
+  value: '2005-08-15'
+- type: updated
+  value: '2021-10-14'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

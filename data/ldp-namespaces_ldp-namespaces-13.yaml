@@ -1,0 +1,29 @@
+---
+id: IANAldp-namespaces/ldp-namespaces-13
+title:
+- content: LDP MP Opaque Value Element extended type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ldp-namespaces
+  type: src
+type: standard
+docid:
+- id: IANA ldp-namespaces/ldp-namespaces-13
+  type: IANA
+  primary: true
+docnumber: ldp-namespaces/ldp-namespaces-13
+date:
+- type: updated
+  value: '2018-03-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

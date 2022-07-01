@@ -1,0 +1,31 @@
+---
+id: IANAemergency-call-metadata-control-data
+title:
+- content: Emergency Call Metadata/Control Data
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/emergency-call-metadata-control-data
+  type: src
+type: standard
+docid:
+- id: IANA emergency-call-metadata-control-data
+  type: IANA
+  primary: true
+docnumber: emergency-call-metadata-control-data
+date:
+- type: created
+  value: '2017-02-24'
+- type: updated
+  value: '2017-05-18'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

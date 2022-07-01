@@ -1,0 +1,31 @@
+---
+id: IANAtls-extensiontype-values/cachedinformationtype
+title:
+- content: TLS CachedInformationType Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tls-extensiontype-values
+  type: src
+type: standard
+docid:
+- id: IANA tls-extensiontype-values/cachedinformationtype
+  type: IANA
+  primary: true
+docnumber: tls-extensiontype-values/cachedinformationtype
+date:
+- type: created
+  value: '2005-11-15'
+- type: updated
+  value: '2021-10-15'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

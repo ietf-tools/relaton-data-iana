@@ -1,0 +1,29 @@
+---
+id: IANAlmp-parameters
+title:
+- content: Link Management Protocol (LMP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA lmp-parameters
+  type: IANA
+  primary: true
+docnumber: lmp-parameters
+date:
+- type: updated
+  value: '2019-03-25'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

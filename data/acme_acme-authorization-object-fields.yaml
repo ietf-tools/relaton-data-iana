@@ -1,0 +1,31 @@
+---
+id: IANAacme/acme-authorization-object-fields
+title:
+- content: ACME Authorization Object Fields
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/acme
+  type: src
+type: standard
+docid:
+- id: IANA acme/acme-authorization-object-fields
+  type: IANA
+  primary: true
+docnumber: acme/acme-authorization-object-fields
+date:
+- type: created
+  value: '2019-01-02'
+- type: updated
+  value: '2021-09-29'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

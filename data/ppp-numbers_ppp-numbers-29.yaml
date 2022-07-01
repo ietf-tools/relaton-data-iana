@@ -1,0 +1,29 @@
+---
+id: IANAppp-numbers/ppp-numbers-29
+title:
+- content: IP-Compression-Protocol Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ppp-numbers
+  type: src
+type: standard
+docid:
+- id: IANA ppp-numbers/ppp-numbers-29
+  type: IANA
+  primary: true
+docnumber: ppp-numbers/ppp-numbers-29
+date:
+- type: updated
+  value: '2021-04-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

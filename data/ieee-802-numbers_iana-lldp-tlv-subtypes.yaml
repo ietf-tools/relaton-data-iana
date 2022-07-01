@@ -1,0 +1,29 @@
+---
+id: IANAieee-802-numbers/iana-lldp-tlv-subtypes
+title:
+- content: IANA Link Layer Discovery Protocol (LLDP) TLV Subtypes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ieee-802-numbers
+  type: src
+type: standard
+docid:
+- id: IANA ieee-802-numbers/iana-lldp-tlv-subtypes
+  type: IANA
+  primary: true
+docnumber: ieee-802-numbers/iana-lldp-tlv-subtypes
+date:
+- type: updated
+  value: '2021-07-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

@@ -1,0 +1,29 @@
+---
+id: IANAsasl-mechanisms/scram
+title:
+- content: SASL SCRAM Family Mechanisms
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sasl-mechanisms
+  type: src
+type: standard
+docid:
+- id: IANA sasl-mechanisms/scram
+  type: IANA
+  primary: true
+docnumber: sasl-mechanisms/scram
+date:
+- type: updated
+  value: '2021-07-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

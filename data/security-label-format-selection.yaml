@@ -1,0 +1,31 @@
+---
+id: IANAsecurity-label-format-selection
+title:
+- content: Security Label Format Selection
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/security-label-format-selection
+  type: src
+type: standard
+docid:
+- id: IANA security-label-format-selection
+  type: IANA
+  primary: true
+docnumber: security-label-format-selection
+date:
+- type: created
+  value: '2015-04-27'
+- type: updated
+  value: '2015-07-16'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

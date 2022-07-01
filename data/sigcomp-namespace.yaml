@@ -1,0 +1,31 @@
+---
+id: IANAsigcomp-namespace
+title:
+- content: Signaling Compression (SigComp) Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sigcomp-namespace
+  type: src
+type: standard
+docid:
+- id: IANA sigcomp-namespace
+  type: IANA
+  primary: true
+docnumber: sigcomp-namespace
+date:
+- type: created
+  value: '2002-09-30'
+- type: updated
+  value: '2009-02-05'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

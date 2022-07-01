@@ -1,0 +1,31 @@
+---
+id: IANArpc-program-numbers
+title:
+- content: Remote Procedure Call (RPC) Program Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpc-program-numbers
+  type: src
+type: standard
+docid:
+- id: IANA rpc-program-numbers
+  type: IANA
+  primary: true
+docnumber: rpc-program-numbers
+date:
+- type: created
+  value: '2009-04-06'
+- type: updated
+  value: '2015-03-30'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'

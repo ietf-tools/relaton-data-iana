@@ -1,0 +1,31 @@
+---
+id: IANAsam-baseline/alm-alg-ids
+title:
+- content: SAM ALM Algorithm IDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sam-baseline
+  type: src
+type: standard
+docid:
+- id: IANA sam-baseline/alm-alg-ids
+  type: IANA
+  primary: true
+docnumber: sam-baseline/alm-alg-ids
+date:
+- type: created
+  value: '2013-08-01'
+- type: updated
+  value: '2013-10-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-01'
