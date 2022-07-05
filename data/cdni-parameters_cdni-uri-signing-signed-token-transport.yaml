@@ -1,0 +1,31 @@
+---
+id: IANAcdni-parameters/cdni-uri-signing-signed-token-transport
+title:
+- content: CDNI URI Signing Signed Token Transport
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cdni-parameters
+  type: src
+type: standard
+docid:
+- id: IANA cdni-parameters/cdni-uri-signing-signed-token-transport
+  type: IANA
+  primary: true
+docnumber: cdni-parameters/cdni-uri-signing-signed-token-transport
+date:
+- type: created
+  value: '2015-10-22'
+- type: updated
+  value: '2022-06-17'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

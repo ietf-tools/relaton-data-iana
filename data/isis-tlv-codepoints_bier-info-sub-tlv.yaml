@@ -1,7 +1,7 @@
 ---
 id: IANAisis-tlv-codepoints/bier-info-sub-tlv
 title:
-- content: sub-sub-TLVs for BIER Info sub-TLV
+- content: IS-IS Sub-Sub-TLVs for BIER Info Sub-TLV
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/isis-tlv-codepoints
@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2003-05-06'
 - type: updated
-  value: '2021-10-28'
+  value: '2022-06-21'
 contributor:
 - organization:
     name:
@@ -28,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

@@ -14,7 +14,7 @@ docid:
 docnumber: dns-parameters/dns-parameters-12
 date:
 - type: updated
-  value: '2021-10-22'
+  value: '2022-06-21'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

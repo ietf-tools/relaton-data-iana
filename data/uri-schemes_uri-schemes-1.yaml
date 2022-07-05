@@ -14,7 +14,7 @@ docid:
 docnumber: uri-schemes/uri-schemes-1
 date:
 - type: updated
-  value: '2021-10-29'
+  value: '2022-06-08'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

@@ -14,7 +14,7 @@ docid:
 docnumber: sasl-mechanisms/sasl-mechanisms-1
 date:
 - type: updated
-  value: '2021-07-21'
+  value: '2022-03-16'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

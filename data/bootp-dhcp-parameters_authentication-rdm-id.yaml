@@ -15,7 +15,7 @@ docid:
 docnumber: bootp-dhcp-parameters/authentication-rdm-id
 date:
 - type: updated
-  value: '2021-01-15'
+  value: '2022-01-28'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

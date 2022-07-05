@@ -1,8 +1,7 @@
 ---
 id: IANAisis-tlv-codepoints/isis-tlv-codepoints-19of22
 title:
-- content: link-attribute bit values for sub-TLV 19 of TLV 22 (Extended IS reachability
-    TLV)
+- content: IS-IS Neighbor Link-Attribute Bit Values
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/isis-tlv-codepoints
@@ -17,7 +16,7 @@ date:
 - type: created
   value: '2003-05-06'
 - type: updated
-  value: '2021-10-28'
+  value: '2022-06-21'
 contributor:
 - organization:
     name:
@@ -29,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

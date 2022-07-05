@@ -14,7 +14,7 @@ docid:
 docnumber: telnet-options
 date:
 - type: updated
-  value: '2011-12-01'
+  value: '2022-03-16'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

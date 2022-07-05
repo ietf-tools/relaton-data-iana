@@ -1,0 +1,31 @@
+---
+id: IANAisis-tlv-codepoints/isis-srv6-end-sid-sub-tlvs-flags
+title:
+- content: IS-IS SRv6 End SID Sub-TLV Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
+  type: src
+type: standard
+docid:
+- id: IANA isis-tlv-codepoints/isis-srv6-end-sid-sub-tlvs-flags
+  type: IANA
+  primary: true
+docnumber: isis-tlv-codepoints/isis-srv6-end-sid-sub-tlvs-flags
+date:
+- type: created
+  value: '2003-05-06'
+- type: updated
+  value: '2022-06-21'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

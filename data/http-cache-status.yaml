@@ -1,7 +1,7 @@
 ---
 id: IANAhttp-cache-status
 title:
-- content: HTTP Cache-Status
+- content: Hypertext Transfer Protocol (HTTP) Cache-Status
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/http-cache-status
@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2021-08-19'
 - type: updated
-  value: '2021-08-19'
+  value: '2022-06-21'
 contributor:
 - organization:
     name:
@@ -28,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

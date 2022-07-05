@@ -14,7 +14,7 @@ docid:
 docnumber: pim-parameters/pim-parameters-2
 date:
 - type: updated
-  value: '2020-11-27'
+  value: '2022-01-31'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

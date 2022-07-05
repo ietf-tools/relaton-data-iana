@@ -14,7 +14,7 @@ docid:
 docnumber: as-numbers/as-numbers-1
 date:
 - type: updated
-  value: '2021-10-11'
+  value: '2021-12-07'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

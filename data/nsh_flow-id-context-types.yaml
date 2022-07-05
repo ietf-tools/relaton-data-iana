@@ -1,0 +1,31 @@
+---
+id: IANAnsh/flow-id-context-types
+title:
+- content: Flow ID Context Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nsh
+  type: src
+type: standard
+docid:
+- id: IANA nsh/flow-id-context-types
+  type: IANA
+  primary: true
+docnumber: nsh/flow-id-context-types
+date:
+- type: created
+  value: '2017-11-08'
+- type: updated
+  value: '2022-05-11'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

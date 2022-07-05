@@ -1,7 +1,7 @@
 ---
 id: IANAbgp-extended-communities/generic-transitive-experimental-part2
 title:
-- content: Generic Transitive Experimental Use Extended Community Part 2 Sub-Types
+- content: Generic Transitive Extended Community Part 2 Sub-Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/bgp-extended-communities
@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2005-08-15'
 - type: updated
-  value: '2021-10-14'
+  value: '2022-06-22'
 contributor:
 - organization:
     name:
@@ -28,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

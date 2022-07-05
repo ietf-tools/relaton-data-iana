@@ -1,0 +1,29 @@
+---
+id: IANAcapability-codes/bgp-role-value
+title:
+- content: BGP Role Value
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/capability-codes
+  type: src
+type: standard
+docid:
+- id: IANA capability-codes/bgp-role-value
+  type: IANA
+  primary: true
+docnumber: capability-codes/bgp-role-value
+date:
+- type: updated
+  value: '2022-05-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

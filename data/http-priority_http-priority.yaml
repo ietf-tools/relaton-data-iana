@@ -1,0 +1,31 @@
+---
+id: IANAhttp-priority/http-priority
+title:
+- content: HTTP Priority
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/http-priority
+  type: src
+type: standard
+docid:
+- id: IANA http-priority/http-priority
+  type: IANA
+  primary: true
+docnumber: http-priority/http-priority
+date:
+- type: created
+  value: '2022-01-25'
+- type: updated
+  value: '2022-06-09'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

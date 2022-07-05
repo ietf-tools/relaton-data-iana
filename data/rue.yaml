@@ -1,0 +1,31 @@
+---
+id: IANArue
+title:
+- content: Relay User Equipment (RUE)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rue
+  type: src
+type: standard
+docid:
+- id: IANA rue
+  type: IANA
+  primary: true
+docnumber: rue
+date:
+- type: created
+  value: '2022-03-01'
+- type: updated
+  value: '2022-06-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

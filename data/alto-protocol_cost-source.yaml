@@ -1,0 +1,31 @@
+---
+id: IANAalto-protocol/cost-source
+title:
+- content: ALTO Cost Source
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/alto-protocol
+  type: src
+type: standard
+docid:
+- id: IANA alto-protocol/cost-source
+  type: IANA
+  primary: true
+docnumber: alto-protocol/cost-source
+date:
+- type: created
+  value: '2014-03-18'
+- type: updated
+  value: '2022-06-20'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

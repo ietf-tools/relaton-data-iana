@@ -1,0 +1,31 @@
+---
+id: IANAbgp-extended-communities/multicast-flags
+title:
+- content: Multicast Flags Extended Community
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-extended-communities
+  type: src
+type: standard
+docid:
+- id: IANA bgp-extended-communities/multicast-flags
+  type: IANA
+  primary: true
+docnumber: bgp-extended-communities/multicast-flags
+date:
+- type: created
+  value: '2005-08-15'
+- type: updated
+  value: '2022-06-22'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

@@ -1,0 +1,29 @@
+---
+id: IANAimap-capabilities/imap-capabilities-2
+title:
+- content: IMAP Quota Resource Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/imap-capabilities
+  type: src
+type: standard
+docid:
+- id: IANA imap-capabilities/imap-capabilities-2
+  type: IANA
+  primary: true
+docnumber: imap-capabilities/imap-capabilities-2
+date:
+- type: updated
+  value: '2022-05-10'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

@@ -1,0 +1,29 @@
+---
+id: IANAbgp-parameters/bgp-srv6-service-sid-flags
+title:
+- content: BGP SRv6 Service SID Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/bgp-srv6-service-sid-flags
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/bgp-srv6-service-sid-flags
+date:
+- type: updated
+  value: '2022-07-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-05'

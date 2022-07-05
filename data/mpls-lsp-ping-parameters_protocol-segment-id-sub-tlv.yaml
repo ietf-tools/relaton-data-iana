@@ -1,7 +1,7 @@
 ---
 id: IANAmpls-lsp-ping-parameters/protocol-segment-id-sub-tlv
 title:
-- content: Protocol in the Segment ID sub-TLV
+- content: Protocol in the Segment ID Sub-TLV
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/mpls-lsp-ping-parameters
@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2006-01-12'
 - type: updated
-  value: '2021-11-08'
+  value: '2022-05-10'
 contributor:
 - organization:
     name:
@@ -28,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'

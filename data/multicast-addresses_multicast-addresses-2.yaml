@@ -14,7 +14,7 @@ docid:
 docnumber: multicast-addresses/multicast-addresses-2
 date:
 - type: updated
-  value: '2021-10-28'
+  value: '2022-06-09'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-04'
+fetched: '2022-07-05'
