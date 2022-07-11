@@ -14,7 +14,7 @@ docid:
 docnumber: lang-subtags-templates/lang-subtags-templates-1
 date:
 - type: updated
-  value: '2022-06-28'
+  value: '2022-07-06'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-06'
+fetched: '2022-07-11'

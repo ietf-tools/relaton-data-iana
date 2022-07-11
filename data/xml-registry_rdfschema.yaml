@@ -14,7 +14,7 @@ docid:
 docnumber: xml-registry/rdfschema
 date:
 - type: updated
-  value: '2022-06-29'
+  value: '2022-07-08'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-06'
+fetched: '2022-07-11'
