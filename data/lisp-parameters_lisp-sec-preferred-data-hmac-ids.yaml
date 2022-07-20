@@ -1,0 +1,31 @@
+---
+id: IANAlisp-parameters/lisp-sec-preferred-data-hmac-ids
+title:
+- content: LISP-SEC Preferred Authentication Data HMAC IDs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lisp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA lisp-parameters/lisp-sec-preferred-data-hmac-ids
+  type: IANA
+  primary: true
+docnumber: lisp-parameters/lisp-sec-preferred-data-hmac-ids
+date:
+- type: created
+  value: '2012-04-25'
+- type: updated
+  value: '2022-07-19'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-07-20'

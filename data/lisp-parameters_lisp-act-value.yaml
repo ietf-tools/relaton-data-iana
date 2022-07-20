@@ -1,7 +1,7 @@
 ---
 id: IANAlisp-parameters/lisp-act-value
 title:
-- content: LISP ACT values
+- content: LISP ACT Values
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/lisp-parameters
@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2012-04-25'
 - type: updated
-  value: '2022-07-08'
+  value: '2022-07-19'
 contributor:
 - organization:
     name:
@@ -28,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-19'
+fetched: '2022-07-20'
