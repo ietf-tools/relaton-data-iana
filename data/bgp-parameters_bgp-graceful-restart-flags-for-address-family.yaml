@@ -14,7 +14,7 @@ docid:
 docnumber: bgp-parameters/bgp-graceful-restart-flags-for-address-family
 date:
 - type: updated
-  value: '2022-07-01'
+  value: '2022-07-20'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-20'
+fetched: '2022-07-21'
