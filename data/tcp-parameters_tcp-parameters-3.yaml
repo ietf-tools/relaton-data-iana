@@ -14,7 +14,7 @@ docid:
 docnumber: tcp-parameters/tcp-parameters-3
 date:
 - type: updated
-  value: '2022-04-07'
+  value: '2022-07-25'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-25'
+fetched: '2022-07-26'
