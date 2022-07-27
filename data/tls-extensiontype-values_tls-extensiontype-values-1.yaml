@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2005-11-15'
 - type: updated
-  value: '2022-07-14'
+  value: '2022-07-26'
 contributor:
 - organization:
     name:
@@ -28,4 +28,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-26'
+fetched: '2022-07-27'
