@@ -14,7 +14,7 @@ docid:
 docnumber: media-types/image
 date:
 - type: updated
-  value: '2022-07-26'
+  value: '2022-07-28'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-07-28'
+fetched: '2022-07-29'
