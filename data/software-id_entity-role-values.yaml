@@ -1,0 +1,31 @@
+---
+id: IANAsoftware-id/entity-role-values
+title:
+- content: Software ID Entity Role Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/software-id
+  type: src
+type: standard
+docid:
+- id: IANA software-id/entity-role-values
+  type: IANA
+  primary: true
+docnumber: software-id/entity-role-values
+date:
+- type: created
+  value: '2022-08-01'
+- type: updated
+  value: '2022-08-01'
+contributor:
+- organization:
+    name:
+    - Internet Assigned Numbers Authority
+    abbreviation: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-08-02'
