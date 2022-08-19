@@ -14,7 +14,7 @@ docid:
 docnumber: ipv6-parameters/taggerId-types
 date:
 - type: updated
-  value: '2022-06-24'
+  value: '2022-08-18'
 contributor:
 - organization:
     name:
@@ -26,4 +26,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-08-18'
+fetched: '2022-08-19'
