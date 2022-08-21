@@ -18,12 +18,13 @@ date:
 contributor:
 - organization:
     name:
-    - Internet Assigned Numbers Authority
-    abbreviation: IANA
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
   role:
   - publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-08-20'
+fetched: '2022-08-21'
