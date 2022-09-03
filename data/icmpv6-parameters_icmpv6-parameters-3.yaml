@@ -14,7 +14,7 @@ docid:
 docnumber: icmpv6-parameters/icmpv6-parameters-3
 date:
 - type: updated
-  value: '2022-09-01'
+  value: '2022-09-02'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-09-02'
+fetched: '2022-09-03'
