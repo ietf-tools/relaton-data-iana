@@ -14,7 +14,7 @@ docid:
 docnumber: registrar-ids
 date:
 - type: updated
-  value: '2022-09-08'
+  value: '2022-09-09'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-09-09'
+fetched: '2022-09-10'
