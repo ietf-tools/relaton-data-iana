@@ -14,7 +14,7 @@ docid:
 docnumber: smi-numbers/smi-numbers-22
 date:
 - type: updated
-  value: '2022-09-14'
+  value: '2022-09-20'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-09-20'
+fetched: '2022-09-21'
