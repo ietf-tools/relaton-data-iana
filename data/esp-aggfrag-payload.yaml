@@ -1,0 +1,32 @@
+---
+id: IANAesp-aggfrag-payload
+title:
+- content: ESP AGGFRAG_PAYLOAD
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/esp-aggfrag-payload
+  type: src
+type: standard
+docid:
+- id: IANA esp-aggfrag-payload
+  type: IANA
+  primary: true
+docnumber: esp-aggfrag-payload
+date:
+- type: created
+  value: '2022-09-28'
+- type: updated
+  value: '2022-09-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-09-29'
