@@ -14,7 +14,7 @@ docid:
 docnumber: xml-registry/publicid
 date:
 - type: updated
-  value: '2022-09-27'
+  value: '2022-10-07'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-10-07'
+fetched: '2022-10-08'
