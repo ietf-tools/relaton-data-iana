@@ -14,7 +14,7 @@ docid:
 docnumber: media-types/examples
 date:
 - type: updated
-  value: '2022-10-07'
+  value: '2022-10-10'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-10-10'
+fetched: '2022-10-11'
