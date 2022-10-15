@@ -14,7 +14,7 @@ docid:
 docnumber: ospf-opaque-types/ospf-opaque-types-2
 date:
 - type: updated
-  value: '2022-06-21'
+  value: '2022-10-14'
 contributor:
 - organization:
     name:
@@ -27,4 +27,4 @@ language:
 - en
 script:
 - Latn
-fetched: '2022-10-14'
+fetched: '2022-10-15'

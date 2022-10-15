@@ -1,0 +1,32 @@
+---
+id: IANAospf-parameters/flex-algorithm-prefix-metric-bits
+title:
+- content: OSPF Flex-Algorithm Prefix Metric Bits
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospf-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ospf-parameters/flex-algorithm-prefix-metric-bits
+  type: IANA
+  primary: true
+docnumber: ospf-parameters/flex-algorithm-prefix-metric-bits
+date:
+- type: created
+  value: '2015-11-03'
+- type: updated
+  value: '2022-10-14'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-10-15'
