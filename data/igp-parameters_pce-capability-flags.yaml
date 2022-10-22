@@ -1,0 +1,32 @@
+---
+id: IANAigp-parameters/pce-capability-flags
+title:
+- content: Path Computation Element (PCE) Capability Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/igp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA igp-parameters/pce-capability-flags
+  type: IANA
+  primary: true
+docnumber: igp-parameters/pce-capability-flags
+date:
+- type: created
+  value: '2017-12-18'
+- type: updated
+  value: '2022-10-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-10-22'

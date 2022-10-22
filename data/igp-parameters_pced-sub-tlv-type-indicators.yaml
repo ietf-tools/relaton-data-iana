@@ -1,0 +1,32 @@
+---
+id: IANAigp-parameters/pced-sub-tlv-type-indicators
+title:
+- content: PCED sub-TLV Type Indicators
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/igp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA igp-parameters/pced-sub-tlv-type-indicators
+  type: IANA
+  primary: true
+docnumber: igp-parameters/pced-sub-tlv-type-indicators
+date:
+- type: created
+  value: '2017-12-18'
+- type: updated
+  value: '2022-10-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - publisher
+language:
+- en
+script:
+- Latn
+fetched: '2022-10-22'
