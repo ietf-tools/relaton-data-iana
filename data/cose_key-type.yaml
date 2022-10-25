@@ -16,7 +16,7 @@ date:
 - type: created
   value: '2017-01-11'
 - type: updated
-  value: '2022-09-01'
+  value: '2022-10-24'
 contributor:
 - organization:
     name:
@@ -24,9 +24,8 @@ contributor:
     abbreviation:
       content: IANA
   role:
-  - publisher
+  - type: publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-10-24'

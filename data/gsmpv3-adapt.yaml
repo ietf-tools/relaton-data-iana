@@ -25,9 +25,8 @@ contributor:
     abbreviation:
       content: IANA
   role:
-  - publisher
+  - type: publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-10-24'

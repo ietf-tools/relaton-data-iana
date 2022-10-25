@@ -14,7 +14,7 @@ docid:
 docnumber: xml-registry
 date:
 - type: updated
-  value: '2022-10-18'
+  value: '2022-10-24'
 contributor:
 - organization:
     name:
@@ -22,9 +22,8 @@ contributor:
     abbreviation:
       content: IANA
   role:
-  - publisher
+  - type: publisher
 language:
 - en
 script:
 - Latn
-fetched: '2022-10-24'
