@@ -1,20 +1,20 @@
 ---
-id: IANAoauth-parameters/token-type-hint
+id: IANApcep/lsp-extended-flag-tlv-flags
 title:
-- content: OAuth Token Type Hints
+- content: LSP-EXTENDED-FLAG TLV Flag Field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/oauth-parameters
+- content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-- id: IANA oauth-parameters/token-type-hint
+- id: IANA pcep/lsp-extended-flag-tlv-flags
   type: IANA
   primary: true
-docnumber: oauth-parameters/token-type-hint
+docnumber: pcep/lsp-extended-flag-tlv-flags
 date:
 - type: created
-  value: '2012-07-27'
+  value: '2008-12-19'
 - type: updated
   value: '2022-10-31'
 contributor:
