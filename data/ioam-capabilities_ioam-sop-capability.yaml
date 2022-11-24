@@ -1,20 +1,20 @@
 ---
-id: IANAlink-relations
+id: IANAioam-capabilities/ioam-sop-capability
 title:
-- content: Link Relations
+- content: IOAM SoP Capability
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/link-relations
+- content: http://www.iana.org/assignments/ioam-capabilities
   type: src
 type: standard
 docid:
-- id: IANA link-relations
+- id: IANA ioam-capabilities/ioam-sop-capability
   type: IANA
   primary: true
-docnumber: link-relations
+docnumber: ioam-capabilities/ioam-sop-capability
 date:
 - type: created
-  value: '2005-08-26'
+  value: '2022-11-23'
 - type: updated
   value: '2022-11-23'
 contributor:
