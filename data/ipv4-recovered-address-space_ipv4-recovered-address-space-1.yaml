@@ -1,5 +1,6 @@
 ---
-id: IANAipv4-recovered-address-space/ipv4-recovered-address-space-1
+schema-version: v1.2.1
+id: IANAipv4-recovered-address-space-ipv4-recovered-address-space-1
 title:
 - content: Current Recovered IPv4 Pool
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

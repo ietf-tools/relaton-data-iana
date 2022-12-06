@@ -1,5 +1,6 @@
 ---
-id: IANAamtrelay-resource-record/relay-type-field
+schema-version: v1.2.1
+id: IANAamtrelay-resource-record-relay-type-field
 title:
 - content: AMTRELAY Relay Type Field
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

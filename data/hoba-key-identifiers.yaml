@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAhoba-key-identifiers
 title:
 - content: HTTP Origin-Bound Authentication (HOBA) Key Identifier Types
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

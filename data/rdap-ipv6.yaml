@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANArdap-ipv6
 title:
 - content: Bootstrap Service Registry for IPv6 Address Space
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

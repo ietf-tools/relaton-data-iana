@@ -1,5 +1,6 @@
 ---
-id: IANAipp-registrations/ipp-registrations-10
+schema-version: v1.2.1
+id: IANAipp-registrations-ipp-registrations-10
 title:
 - content: Operations
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

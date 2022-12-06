@@ -1,5 +1,6 @@
 ---
-id: IANAsmi-numbers/smi-numbers-71
+schema-version: v1.2.1
+id: IANAsmi-numbers-smi-numbers-71
 title:
 - content: SMI Features
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

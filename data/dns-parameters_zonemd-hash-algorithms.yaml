@@ -1,5 +1,6 @@
 ---
-id: IANAdns-parameters/zonemd-hash-algorithms
+schema-version: v1.2.1
+id: IANAdns-parameters-zonemd-hash-algorithms
 title:
 - content: ZONEMD Hash Algorithms
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

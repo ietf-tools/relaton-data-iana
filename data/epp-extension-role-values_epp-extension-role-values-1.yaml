@@ -1,5 +1,6 @@
 ---
-id: IANAepp-extension-role-values/epp-extension-role-values-1
+schema-version: v1.2.1
+id: IANAepp-extension-role-values-epp-extension-role-values-1
 title:
 - content: EPP Organization Role Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

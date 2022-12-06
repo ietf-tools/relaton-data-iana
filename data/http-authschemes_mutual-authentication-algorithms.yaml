@@ -1,5 +1,6 @@
 ---
-id: IANAhttp-authschemes/mutual-authentication-algorithms
+schema-version: v1.2.1
+id: IANAhttp-authschemes-mutual-authentication-algorithms
 title:
 - content: HTTP Mutual Authentication Algorithms
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

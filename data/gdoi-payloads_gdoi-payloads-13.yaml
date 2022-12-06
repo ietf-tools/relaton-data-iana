@@ -1,5 +1,6 @@
 ---
-id: IANAgdoi-payloads/gdoi-payloads-13
+schema-version: v1.2.1
+id: IANAgdoi-payloads-gdoi-payloads-13
 title:
 - content: SA TEK Payload Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

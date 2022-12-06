@@ -1,5 +1,6 @@
 ---
-id: IANAospf-traffic-eng-tlvs/wson-lsc-scsi-sub-tlv
+schema-version: v1.2.1
+id: IANAospf-traffic-eng-tlvs-wson-lsc-scsi-sub-tlv
 title:
 - content: Types for sub-TLVs of WSON-LSC SCSI (Switching Capability Specific Information)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

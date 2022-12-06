@@ -1,5 +1,6 @@
 ---
-id: IANAxmss-extended-hash-based-signatures/xmss-mt-signatures
+schema-version: v1.2.1
+id: IANAxmss-extended-hash-based-signatures-xmss-mt-signatures
 title:
 - content: XMSS^MT Signatures
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

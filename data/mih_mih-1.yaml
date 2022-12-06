@@ -1,5 +1,6 @@
 ---
-id: IANAmih/mih-1
+schema-version: v1.2.1
+id: IANAmih-mih-1
 title:
 - content: MIH Table of Mappings From Service Field Values to Transport Protocols
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

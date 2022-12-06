@@ -1,5 +1,6 @@
 ---
-id: IANAtoken-binding-protocol/token-binding-types
+schema-version: v1.2.1
+id: IANAtoken-binding-protocol-token-binding-types
 title:
 - content: Token Binding Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

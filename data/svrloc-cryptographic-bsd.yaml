@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAsvrloc-cryptographic-bsd
 title:
 - content: Service Location Protocol Version 2 (SLPv2) Cryptographic BSD Codes
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

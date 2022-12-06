@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAwesp-flags
 title:
 - content: Wrapped Encapsulating Security Payload (WESP) Flags
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAmachine-names/machine-names-1
+schema-version: v1.2.1
+id: IANAmachine-names-machine-names-1
 title:
 - content: Machine Names
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

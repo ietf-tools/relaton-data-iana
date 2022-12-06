@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAipv6-parameters
 title:
 - content: Internet Protocol Version 6 (IPv6) Parameters
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANApa-tnc-parameters/software-data-model-types
+schema-version: v1.2.1
+id: IANApa-tnc-parameters-software-data-model-types
 title:
 - content: Software Data Model Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

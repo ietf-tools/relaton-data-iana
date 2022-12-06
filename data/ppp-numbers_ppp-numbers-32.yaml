@@ -1,5 +1,6 @@
 ---
-id: IANAppp-numbers/ppp-numbers-32
+schema-version: v1.2.1
+id: IANAppp-numbers-ppp-numbers-32
 title:
 - content: ROHC Configuration Option Suboption Identifier Values
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

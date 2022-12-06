@@ -1,5 +1,6 @@
 ---
-id: IANAjose/web-encryption-compression-algorithms
+schema-version: v1.2.1
+id: IANAjose-web-encryption-compression-algorithms
 title:
 - content: JSON Web Encryption Compression Algorithms
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAmanet-parameters/smf-relay-ids
+schema-version: v1.2.1
+id: IANAmanet-parameters-smf-relay-ids
 title:
 - content: SMF Relay Algorithm IDs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

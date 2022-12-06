@@ -1,5 +1,6 @@
 ---
-id: IANArddp/rdmap-message-atomic
+schema-version: v1.2.1
+id: IANArddp-rdmap-message-atomic
 title:
 - content: RDMAP Message Atomic Operation Subcodes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANArohc-sub-ids/rohc-sub-ids-2
+schema-version: v1.2.1
+id: IANArohc-sub-ids-rohc-sub-ids-2
 title:
 - content: ROHC Configuration Option Suboption Identifier Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

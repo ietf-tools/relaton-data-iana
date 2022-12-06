@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAgsmpv3-traffic
 title:
 - content: Global Switch Management Protocol version 3 (GSMPv3) Traffic Control Name
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

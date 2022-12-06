@@ -1,5 +1,6 @@
 ---
-id: IANAl2tp-parameters/l2tp-parameters-35
+schema-version: v1.2.1
+id: IANAl2tp-parameters-l2tp-parameters-35
 title:
 - content: Circuit Status Bits
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

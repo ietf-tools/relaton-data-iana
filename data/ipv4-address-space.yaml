@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAipv4-address-space
 title:
 - content: IANA IPv4 Address Space Registry
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

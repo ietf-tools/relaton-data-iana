@@ -1,5 +1,6 @@
 ---
-id: IANAsam-baseline/alm-alg-ids
+schema-version: v1.2.1
+id: IANAsam-baseline-alm-alg-ids
 title:
 - content: SAM ALM Algorithm IDs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

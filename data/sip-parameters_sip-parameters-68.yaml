@@ -1,5 +1,6 @@
 ---
-id: IANAsip-parameters/sip-parameters-68
+schema-version: v1.2.1
+id: IANAsip-parameters-sip-parameters-68
 title:
 - content: Geolocation-Error Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAradius-types/radius-ip-port-configuration-reporting-tlvs
+schema-version: v1.2.1
+id: IANAradius-types-radius-ip-port-configuration-reporting-tlvs
 title:
 - content: RADIUS IP Port Configuration and Reporting TLVs
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAlocally-served-dns-zones/ipv6
+schema-version: v1.2.1
+id: IANAlocally-served-dns-zones-ipv6
 title:
 - content: IPv6 Locally-Served DNS Zone Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

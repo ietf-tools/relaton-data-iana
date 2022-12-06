@@ -1,5 +1,6 @@
 ---
-id: IANAospf-parameters/ri-tlv
+schema-version: v1.2.1
+id: IANAospf-parameters-ri-tlv
 title:
 - content: OSPF Router Information (RI) TLVs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

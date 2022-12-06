@@ -1,5 +1,6 @@
 ---
-id: IANArip-types/rip-types-2
+schema-version: v1.2.1
+id: IANArip-types-rip-types-2
 title:
 - content: RIP Update Headers
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAgist-parameters/additional-info
+schema-version: v1.2.1
+id: IANAgist-parameters-additional-info
 title:
 - content: Additional Information Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAprecis-parameters/base-classes
+schema-version: v1.2.1
+id: IANAprecis-parameters-base-classes
 title:
 - content: PRECIS Base Classes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

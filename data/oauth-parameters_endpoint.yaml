@@ -1,5 +1,6 @@
 ---
-id: IANAoauth-parameters/endpoint
+schema-version: v1.2.1
+id: IANAoauth-parameters-endpoint
 title:
 - content: OAuth Authorization Endpoint Response Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

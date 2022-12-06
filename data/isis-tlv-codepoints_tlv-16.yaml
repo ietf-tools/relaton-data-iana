@@ -1,5 +1,6 @@
 ---
-id: IANAisis-tlv-codepoints/tlv-16
+schema-version: v1.2.1
+id: IANAisis-tlv-codepoints-tlv-16
 title:
 - content: IS-IS Sub-TLVs for Reverse Metric TLV
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

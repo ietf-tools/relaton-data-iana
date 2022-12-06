@@ -1,5 +1,6 @@
 ---
-id: IANAteap-parameters/teap-tlvs
+schema-version: v1.2.1
+id: IANAteap-parameters-teap-tlvs
 title:
 - content: TEAP TLV Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

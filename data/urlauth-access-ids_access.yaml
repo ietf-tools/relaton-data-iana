@@ -1,5 +1,6 @@
 ---
-id: IANAurlauth-access-ids/access
+schema-version: v1.2.1
+id: IANAurlauth-access-ids-access
 title:
 - content: IMAP URLAUTH Access Identifiers and Prefixes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

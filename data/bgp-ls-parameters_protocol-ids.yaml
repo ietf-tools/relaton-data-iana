@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-ls-parameters/protocol-ids
+schema-version: v1.2.1
+id: IANAbgp-ls-parameters-protocol-ids
 title:
 - content: BGP-LS Protocol-IDs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

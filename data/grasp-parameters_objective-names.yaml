@@ -1,5 +1,6 @@
 ---
-id: IANAgrasp-parameters/objective-names
+schema-version: v1.2.1
+id: IANAgrasp-parameters-objective-names
 title:
 - content: GRASP Objective Names
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

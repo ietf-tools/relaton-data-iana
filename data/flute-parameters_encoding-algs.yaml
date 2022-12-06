@@ -1,5 +1,6 @@
 ---
-id: IANAflute-parameters/encoding-algs
+schema-version: v1.2.1
+id: IANAflute-parameters-encoding-algs
 title:
 - content: FLUTE Content Encoding Algorithms
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANArtspv2-parameters/redirect-reasons
+schema-version: v1.2.1
+id: IANArtspv2-parameters-redirect-reasons
 title:
 - content: Terminate-Reason Redirect Reasons
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

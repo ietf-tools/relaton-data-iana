@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAbgp-tunnel-encapsulation
 title:
 - content: Border Gateway Protocol (BGP) Tunnel Encapsulation
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

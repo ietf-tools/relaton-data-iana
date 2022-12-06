@@ -1,5 +1,6 @@
 ---
-id: IANArsvp-parameters/rsvp-parameters-117
+schema-version: v1.2.1
+id: IANArsvp-parameters-rsvp-parameters-117
 title:
 - content: Capability Object values
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

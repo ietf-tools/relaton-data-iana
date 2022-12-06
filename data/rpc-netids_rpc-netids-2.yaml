@@ -1,5 +1,6 @@
 ---
-id: IANArpc-netids/rpc-netids-2
+schema-version: v1.2.1
+id: IANArpc-netids-rpc-netids-2
 title:
 - content: ONC RPC Netids (Standards Action)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

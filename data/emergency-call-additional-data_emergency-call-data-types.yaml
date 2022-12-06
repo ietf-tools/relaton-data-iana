@@ -1,5 +1,6 @@
 ---
-id: IANAemergency-call-additional-data/emergency-call-data-types
+schema-version: v1.2.1
+id: IANAemergency-call-additional-data-emergency-call-data-types
 title:
 - content: Emergency Call Data Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

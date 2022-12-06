@@ -1,5 +1,6 @@
 ---
-id: IANApim-parameters/port-option-types
+schema-version: v1.2.1
+id: IANApim-parameters-port-option-types
 title:
 - content: PORT Option Types
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

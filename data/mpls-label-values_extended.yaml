@@ -1,5 +1,6 @@
 ---
-id: IANAmpls-label-values/extended
+schema-version: v1.2.1
+id: IANAmpls-label-values-extended
 title:
 - content: Extended Special-Purpose MPLS Label Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

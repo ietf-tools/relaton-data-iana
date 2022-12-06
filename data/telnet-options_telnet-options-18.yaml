@@ -1,5 +1,6 @@
 ---
-id: IANAtelnet-options/telnet-options-18
+schema-version: v1.2.1
+id: IANAtelnet-options-telnet-options-18
 title:
 - content: CAST5_40_OFB64 (Type 9) and CAST128_OFB64 (Type 11) Telnet Encryption Types
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

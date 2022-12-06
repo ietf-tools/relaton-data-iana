@@ -1,5 +1,6 @@
 ---
-id: IANAnslp-parameters/natfw-header-flags
+schema-version: v1.2.1
+id: IANAnslp-parameters-natfw-header-flags
 title:
 - content: NATFW NSLP Header Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

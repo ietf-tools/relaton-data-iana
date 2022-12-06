@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAeappotp-identifiers
 title:
 - content: Extensible Authentication Protocol Protected One-Time Password (EAP-POTP)
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

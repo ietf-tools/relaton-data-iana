@@ -1,5 +1,6 @@
 ---
-id: IANAiesg-recognized-organizations/organizations
+schema-version: v1.2.1
+id: IANAiesg-recognized-organizations-organizations
 title:
 - content: Standards-related organizations that have registered Media Types in the
     Standards Tree
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

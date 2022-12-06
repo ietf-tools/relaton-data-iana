@@ -1,5 +1,6 @@
 ---
-id: IANAhttp-parameters/preferences
+schema-version: v1.2.1
+id: IANAhttp-parameters-preferences
 title:
 - content: HTTP Preferences
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

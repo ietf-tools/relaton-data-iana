@@ -1,5 +1,6 @@
 ---
-id: IANAospf-sig-alg/ospf-sig-alg-1
+schema-version: v1.2.1
+id: IANAospf-sig-alg-ospf-sig-alg-1
 title:
 - content: Signature Algorithms
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

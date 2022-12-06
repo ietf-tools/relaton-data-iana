@@ -1,5 +1,6 @@
 ---
-id: IANAg-ach-parameters/loss-delay-control-code-query
+schema-version: v1.2.1
+id: IANAg-ach-parameters-loss-delay-control-code-query
 title:
 - content: 'Loss/Delay Measurement Control Code: Query Codes'
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAtzdist-actions/actions
+schema-version: v1.2.1
+id: IANAtzdist-actions-actions
 title:
 - content: TZDIST Service Actions
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

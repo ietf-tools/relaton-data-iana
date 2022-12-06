@@ -1,5 +1,6 @@
 ---
-id: IANAospfv3-parameters/ospfv3-parameters-7
+schema-version: v1.2.1
+id: IANAospfv3-parameters-ospfv3-parameters-7
 title:
 - content: OSPFv3 Router Properties Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

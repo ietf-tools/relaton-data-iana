@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAperm-mcast-groupids
 title:
 - content: Permanent IPv6 Multicast Group Identifiers
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAemsk-parameters/emsk-parameters-3
+schema-version: v1.2.1
+id: IANAemsk-parameters-emsk-parameters-3
 title:
 - content: EMSK PRF Numbers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

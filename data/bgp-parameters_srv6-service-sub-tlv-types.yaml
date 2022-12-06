@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-parameters/srv6-service-sub-tlv-types
+schema-version: v1.2.1
+id: IANAbgp-parameters-srv6-service-sub-tlv-types
 title:
 - content: SRv6 Service Sub-TLV Types
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

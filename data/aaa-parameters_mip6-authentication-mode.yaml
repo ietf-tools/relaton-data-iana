@@ -1,5 +1,6 @@
 ---
-id: IANAaaa-parameters/mip6-authentication-mode
+schema-version: v1.2.1
+id: IANAaaa-parameters-mip6-authentication-mode
 title:
 - content: MIP6 Authentication Mode Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

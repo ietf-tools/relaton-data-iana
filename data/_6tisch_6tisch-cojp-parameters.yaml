@@ -1,5 +1,6 @@
 ---
-id: IANA_6tisch/_6tisch-cojp-parameters
+schema-version: v1.2.1
+id: IANA_6tisch-_6tisch-cojp-parameters
 title:
 - content: Constrained Join Protocol (CoJP) Parameters
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

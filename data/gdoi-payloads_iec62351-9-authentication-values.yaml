@@ -1,5 +1,6 @@
 ---
-id: IANAgdoi-payloads/iec62351-9-authentication-values
+schema-version: v1.2.1
+id: IANAgdoi-payloads-iec62351-9-authentication-values
 title:
 - content: IEC 62351-9 Authentication Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

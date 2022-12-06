@@ -1,5 +1,6 @@
 ---
-id: IANArddp/sctp-function-codes
+schema-version: v1.2.1
+id: IANArddp-sctp-function-codes
 title:
 - content: SCTP Function Codes for DDP Stream Session Control
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

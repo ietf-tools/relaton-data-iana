@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANApb-tnc-parameters
 title:
 - content: Posture Broker (PB) Protocol Compatible with Trusted Network Connect (TNC)
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

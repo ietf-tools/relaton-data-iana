@@ -1,5 +1,6 @@
 ---
-id: IANApcep/flow-specification-tlv-type-indicators
+schema-version: v1.2.1
+id: IANApcep-flow-specification-tlv-type-indicators
 title:
 - content: PCEP Flow Specification TLV Type Indicators
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

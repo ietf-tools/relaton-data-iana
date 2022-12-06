@@ -1,5 +1,6 @@
 ---
-id: IANAisis-tlv-codepoints/isis-sub-sub-tlvs-srv6-sid-sub-tlvs
+schema-version: v1.2.1
+id: IANAisis-tlv-codepoints-isis-sub-sub-tlvs-srv6-sid-sub-tlvs
 title:
 - content: IS-IS Sub-Sub-TLVs for SRv6 SID Sub-TLVs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

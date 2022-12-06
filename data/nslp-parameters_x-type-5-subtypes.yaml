@@ -1,5 +1,6 @@
 ---
-id: IANAnslp-parameters/x-type-5-subtypes
+schema-version: v1.2.1
+id: IANAnslp-parameters-x-type-5-subtypes
 title:
 - content: START_TIME (X-Type 5) SubType values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

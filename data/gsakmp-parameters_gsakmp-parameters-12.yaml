@@ -1,5 +1,6 @@
 ---
-id: IANAgsakmp-parameters/gsakmp-parameters-12
+schema-version: v1.2.1
+id: IANAgsakmp-parameters-gsakmp-parameters-12
 title:
 - content: GSAKMP Notification Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-data-collection-communities-std/bgp-data-collection-communities-std-1
+schema-version: v1.2.1
+id: IANAbgp-data-collection-communities-std-bgp-data-collection-communities-std-1
 title:
 - content: BGP Data Collection Standard Communities
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

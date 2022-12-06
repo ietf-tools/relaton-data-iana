@@ -1,5 +1,6 @@
 ---
-id: IANAancp/capability-types
+schema-version: v1.2.1
+id: IANAancp-capability-types
 title:
 - content: ANCP Capability Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

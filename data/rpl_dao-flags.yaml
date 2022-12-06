@@ -1,5 +1,6 @@
 ---
-id: IANArpl/dao-flags
+schema-version: v1.2.1
+id: IANArpl-dao-flags
 title:
 - content: Destination Advertisement Object (DAO) Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

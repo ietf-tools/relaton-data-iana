@@ -1,5 +1,6 @@
 ---
-id: IANArsvp-parameters/rsvp-parameters-4
+schema-version: v1.2.1
+id: IANArsvp-parameters-rsvp-parameters-4
 title:
 - content: Class Names, Class Numbers, and Class Types
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

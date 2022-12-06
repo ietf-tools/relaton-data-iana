@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAospf-lls-tlvs
 title:
 - content: Open Shortest Path First (OSPF) Link Local Signalling (LLS) - Type/Length/Value
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

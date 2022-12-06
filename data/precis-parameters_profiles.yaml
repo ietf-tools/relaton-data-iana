@@ -1,5 +1,6 @@
 ---
-id: IANAprecis-parameters/profiles
+schema-version: v1.2.1
+id: IANAprecis-parameters-profiles
 title:
 - content: PRECIS Profiles
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

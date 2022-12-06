@@ -1,5 +1,6 @@
 ---
-id: IANAisis-tlv-codepoints/isis-srv6-adjacency-sid-sub-tlvs-flags
+schema-version: v1.2.1
+id: IANAisis-tlv-codepoints-isis-srv6-adjacency-sid-sub-tlvs-flags
 title:
 - content: IS-IS SRv6 Adjacency SID Sub-TLVs Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

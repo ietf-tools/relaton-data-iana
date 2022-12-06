@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/authentication-algorithm-id
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-authentication-algorithm-id
 title:
 - content: Authentication Suboption (value 8) - Algorithm identifier values
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

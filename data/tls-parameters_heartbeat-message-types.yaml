@@ -1,5 +1,6 @@
 ---
-id: IANAtls-parameters/heartbeat-message-types
+schema-version: v1.2.1
+id: IANAtls-parameters-heartbeat-message-types
 title:
 - content: TLS Heartbeat Message Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

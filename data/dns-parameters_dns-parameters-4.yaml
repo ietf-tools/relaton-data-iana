@@ -1,5 +1,6 @@
 ---
-id: IANAdns-parameters/dns-parameters-4
+schema-version: v1.2.1
+id: IANAdns-parameters-dns-parameters-4
 title:
 - content: Resource Record (RR) TYPEs
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

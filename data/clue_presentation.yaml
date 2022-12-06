@@ -1,5 +1,6 @@
 ---
-id: IANAclue/presentation
+schema-version: v1.2.1
+id: IANAclue-presentation
 title:
 - content: CLUE Schema <presentation>
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

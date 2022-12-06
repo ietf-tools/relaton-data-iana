@@ -1,5 +1,6 @@
 ---
-id: IANAbrski-parameters/pledge-brski-status-telemetry-attributes
+schema-version: v1.2.1
+id: IANAbrski-parameters-pledge-brski-status-telemetry-attributes
 title:
 - content: Pledge BRSKI Status Telemetry Attributes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

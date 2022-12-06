@@ -1,5 +1,6 @@
 ---
-id: IANAmanet-parameters/cryptographic-algorithm
+schema-version: v1.2.1
+id: IANAmanet-parameters-cryptographic-algorithm
 title:
 - content: Cryptographic Functions
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAemergency-call-metadata-control-data/emergency-call-action
+schema-version: v1.2.1
+id: IANAemergency-call-metadata-control-data-emergency-call-action
 title:
 - content: Emergency Call Actions
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

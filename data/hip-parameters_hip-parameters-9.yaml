@@ -1,5 +1,6 @@
 ---
-id: IANAhip-parameters/hip-parameters-9
+schema-version: v1.2.1
+id: IANAhip-parameters-hip-parameters-9
 title:
 - content: Notify Message Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAospfv2-parameters/extended-link-tlv-sub-tlvs
+schema-version: v1.2.1
+id: IANAospfv2-parameters-extended-link-tlv-sub-tlvs
 title:
 - content: OSPFv2 Extended Link TLV Sub-TLVs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

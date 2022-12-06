@@ -1,5 +1,6 @@
 ---
-id: IANAsdp-parameters/sdp-parameters-21
+schema-version: v1.2.1
+id: IANAsdp-parameters-sdp-parameters-21
 title:
 - content: SDP Capability Negotiation Option Tags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

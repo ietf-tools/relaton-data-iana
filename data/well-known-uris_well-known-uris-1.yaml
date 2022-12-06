@@ -1,5 +1,6 @@
 ---
-id: IANAwell-known-uris/well-known-uris-1
+schema-version: v1.2.1
+id: IANAwell-known-uris-well-known-uris-1
 title:
 - content: Well-Known URIs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

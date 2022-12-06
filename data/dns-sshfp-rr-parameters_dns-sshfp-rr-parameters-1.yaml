@@ -1,5 +1,6 @@
 ---
-id: IANAdns-sshfp-rr-parameters/dns-sshfp-rr-parameters-1
+schema-version: v1.2.1
+id: IANAdns-sshfp-rr-parameters-dns-sshfp-rr-parameters-1
 title:
 - content: SSHFP RR Types for public key algorithms
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

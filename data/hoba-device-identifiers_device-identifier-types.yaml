@@ -1,5 +1,6 @@
 ---
-id: IANAhoba-device-identifiers/device-identifier-types
+schema-version: v1.2.1
+id: IANAhoba-device-identifiers-device-identifier-types
 title:
 - content: HOBA Device Identifier Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

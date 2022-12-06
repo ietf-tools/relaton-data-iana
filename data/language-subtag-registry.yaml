@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAlanguage-subtag-registry
 title:
 - content: Language Subtag Registry
@@ -24,3 +25,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

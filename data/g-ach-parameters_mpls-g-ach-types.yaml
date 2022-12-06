@@ -1,5 +1,6 @@
 ---
-id: IANAg-ach-parameters/mpls-g-ach-types
+schema-version: v1.2.1
+id: IANAg-ach-parameters-mpls-g-ach-types
 title:
 - content: MPLS Generalized Associated Channel (G-ACh) Types (including Pseudowire
     Associated Channel Types)
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

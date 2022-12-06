@@ -1,5 +1,6 @@
 ---
-id: IANAleighton-micali-signatures/lm-ots-signatures
+schema-version: v1.2.1
+id: IANAleighton-micali-signatures-lm-ots-signatures
 title:
 - content: LM-OTS Signatures
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

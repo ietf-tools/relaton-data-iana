@@ -1,5 +1,6 @@
 ---
-id: IANAospf-opaque-types/ospfv2-ttz-lsa-tlvs
+schema-version: v1.2.1
+id: IANAospf-opaque-types-ospfv2-ttz-lsa-tlvs
 title:
 - content: OSPFv2 TTZ LSA TLVs
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/ieee-80221-service-type
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-ieee-80221-service-type
 title:
 - content: IEEE 802.21 Service Type (MoS DHCPv4 Address and FQDN Sub-Options)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

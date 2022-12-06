@@ -1,5 +1,6 @@
 ---
-id: IANAicalendar/calendar-user-types
+schema-version: v1.2.1
+id: IANAicalendar-calendar-user-types
 title:
 - content: Calendar User Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

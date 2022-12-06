@@ -1,5 +1,6 @@
 ---
-id: IANAsam-baseline/alm-error-codes
+schema-version: v1.2.1
+id: IANAsam-baseline-alm-error-codes
 title:
 - content: SAM ALM Error Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

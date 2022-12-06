@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAxns-protocol-types
 title:
 - content: Xerox Network System (XNS) Protocol Types
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

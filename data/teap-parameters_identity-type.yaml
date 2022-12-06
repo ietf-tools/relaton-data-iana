@@ -1,5 +1,6 @@
 ---
-id: IANAteap-parameters/identity-type
+schema-version: v1.2.1
+id: IANAteap-parameters-identity-type
 title:
 - content: TEAP Identity-Type TLV (value 2) Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

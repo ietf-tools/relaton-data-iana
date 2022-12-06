@@ -1,5 +1,6 @@
 ---
-id: IANAospf-traffic-eng-tlvs/subtlv1
+schema-version: v1.2.1
+id: IANAospf-traffic-eng-tlvs-subtlv1
 title:
 - content: Types for sub-TLVs of Router Address TLV (Value 1)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

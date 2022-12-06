@@ -1,5 +1,6 @@
 ---
-id: IANAace/ace-authorization-server-request-creation-hints
+schema-version: v1.2.1
+id: IANAace-ace-authorization-server-request-creation-hints
 title:
 - content: ACE Authorization Server Request Creation Hints
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

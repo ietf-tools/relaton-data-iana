@@ -1,5 +1,6 @@
 ---
-id: IANAqspec/qspec-procedure
+schema-version: v1.2.1
+id: IANAqspec-qspec-procedure
 title:
 - content: QSPEC Procedure
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

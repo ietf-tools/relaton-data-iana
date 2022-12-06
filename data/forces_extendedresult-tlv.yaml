@@ -1,5 +1,6 @@
 ---
-id: IANAforces/extendedresult-tlv
+schema-version: v1.2.1
+id: IANAforces-extendedresult-tlv
 title:
 - content: EXTENDEDRESULT-TLV Result Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

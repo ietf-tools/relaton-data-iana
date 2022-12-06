@@ -1,5 +1,6 @@
 ---
-id: IANAiana-ipv4-special-registry/iana-ipv4-special-registry-1
+schema-version: v1.2.1
+id: IANAiana-ipv4-special-registry-iana-ipv4-special-registry-1
 title:
 - content: IANA IPv4 Special-Purpose Address Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

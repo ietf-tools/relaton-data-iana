@@ -1,5 +1,6 @@
 ---
-id: IANAlisp-parameters/lisp-sec-authentication-data-key-wrap-ids
+schema-version: v1.2.1
+id: IANAlisp-parameters-lisp-sec-authentication-data-key-wrap-ids
 title:
 - content: LISP-SEC Authentication Data Key Wrap IDs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

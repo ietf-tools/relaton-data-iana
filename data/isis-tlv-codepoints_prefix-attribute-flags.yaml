@@ -1,5 +1,6 @@
 ---
-id: IANAisis-tlv-codepoints/prefix-attribute-flags
+schema-version: v1.2.1
+id: IANAisis-tlv-codepoints-prefix-attribute-flags
 title:
 - content: IS-IS Bit Values for Prefix Attribute Flags Sub-TLV
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

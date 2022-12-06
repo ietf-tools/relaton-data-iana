@@ -1,5 +1,6 @@
 ---
-id: IANAlisp-parameters/map-reply-authentication-data-types
+schema-version: v1.2.1
+id: IANAlisp-parameters-map-reply-authentication-data-types
 title:
 - content: LISP Map-Reply Authentication Data Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAdns-key-rr/dns-key-rr-1
+schema-version: v1.2.1
+id: IANAdns-key-rr-dns-key-rr-1
 title:
 - content: DNS KEY RR Protocol Octet Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

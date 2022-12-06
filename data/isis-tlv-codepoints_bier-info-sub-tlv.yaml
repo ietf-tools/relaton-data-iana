@@ -1,5 +1,6 @@
 ---
-id: IANAisis-tlv-codepoints/bier-info-sub-tlv
+schema-version: v1.2.1
+id: IANAisis-tlv-codepoints-bier-info-sub-tlv
 title:
 - content: IS-IS Sub-Sub-TLVs for BIER Info Sub-TLV
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

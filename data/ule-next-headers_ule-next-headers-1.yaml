@@ -1,5 +1,6 @@
 ---
-id: IANAule-next-headers/ule-next-headers-1
+schema-version: v1.2.1
+id: IANAule-next-headers-ule-next-headers-1
 title:
 - content: Mandatory Extension Headers (or link-dependent type fields) for ULE (Range
     0-255 decimal)
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAposh-service-names/service-names
+schema-version: v1.2.1
+id: IANAposh-service-names-service-names
 title:
 - content: POSH Service Names
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

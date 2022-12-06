@@ -1,5 +1,6 @@
 ---
-id: IANAmedia-feature-tags/media-feature-tags-2
+schema-version: v1.2.1
+id: IANAmedia-feature-tags-media-feature-tags-2
 title:
 - content: iso.org.dod.internet.features.global-tree (1.3.6.1.8.2)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

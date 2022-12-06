@@ -1,5 +1,6 @@
 ---
-id: IANAl2tp-parameters/l2tp-parameters-17
+schema-version: v1.2.1
+id: IANAl2tp-parameters-l2tp-parameters-17
 title:
 - content: Service Category AVP (Attribute Type 42) Flag Field
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/authentication-protocol-id
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-authentication-protocol-id
 title:
 - content: Authentication Suboption (value 8) - Protocol identifier values
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

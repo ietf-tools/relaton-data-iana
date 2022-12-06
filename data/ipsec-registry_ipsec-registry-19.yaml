@@ -1,5 +1,6 @@
 ---
-id: IANAipsec-registry/ipsec-registry-19
+schema-version: v1.2.1
+id: IANAipsec-registry-ipsec-registry-19
 title:
 - content: ISAKMP Domain of Interpretation (DOI)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

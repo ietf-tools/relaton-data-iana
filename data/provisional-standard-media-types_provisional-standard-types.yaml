@@ -1,5 +1,6 @@
 ---
-id: IANAprovisional-standard-media-types/provisional-standard-types
+schema-version: v1.2.1
+id: IANAprovisional-standard-media-types-provisional-standard-types
 title:
 - content: Provisional Standard Media Type Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

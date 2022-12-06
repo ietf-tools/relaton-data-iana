@@ -1,5 +1,6 @@
 ---
-id: IANAisis-tlv-codepoints/isis-tlv-codepoints-19of22
+schema-version: v1.2.1
+id: IANAisis-tlv-codepoints-isis-tlv-codepoints-19of22
 title:
 - content: IS-IS Neighbor Link-Attribute Bit Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

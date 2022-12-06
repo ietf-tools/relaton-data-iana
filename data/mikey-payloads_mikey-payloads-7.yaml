@@ -1,5 +1,6 @@
 ---
-id: IANAmikey-payloads/mikey-payloads-7
+schema-version: v1.2.1
+id: IANAmikey-payloads-mikey-payloads-7
 title:
 - content: Key Data Transport Payload Field Names
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

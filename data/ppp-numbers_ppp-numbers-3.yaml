@@ -1,5 +1,6 @@
 ---
-id: IANAppp-numbers/ppp-numbers-3
+schema-version: v1.2.1
+id: IANAppp-numbers-ppp-numbers-3
 title:
 - content: PPP Link Control Protocol (LCP) and Internet Protocol Control Protocol
     (IPCP) Codes
@@ -28,3 +29,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

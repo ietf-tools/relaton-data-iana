@@ -1,5 +1,6 @@
 ---
-id: IANAospfv3-authentication-trailer-options/ospfv3-authentication-types
+schema-version: v1.2.1
+id: IANAospfv3-authentication-trailer-options-ospfv3-authentication-types
 title:
 - content: OSPFv3 Authentication Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

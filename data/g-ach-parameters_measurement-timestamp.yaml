@@ -1,5 +1,6 @@
 ---
-id: IANAg-ach-parameters/measurement-timestamp
+schema-version: v1.2.1
+id: IANAg-ach-parameters-measurement-timestamp
 title:
 - content: Measurement Timestamp Type
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAaaa-parameters/qos-profile
+schema-version: v1.2.1
+id: IANAaaa-parameters-qos-profile
 title:
 - content: QoS Profiles
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

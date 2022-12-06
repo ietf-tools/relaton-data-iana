@@ -1,5 +1,6 @@
 ---
-id: IANAidna-tables-6.1.0/idna-tables-properties
+schema-version: v1.2.1
+id: IANAidna-tables-6.1.0-idna-tables-properties
 title:
 - content: IDNA Derived Properties
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANArtfm/attributes
+schema-version: v1.2.1
+id: IANArtfm-attributes
 title:
 - content: RTFM Attributes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

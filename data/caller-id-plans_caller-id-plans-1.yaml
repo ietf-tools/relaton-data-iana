@@ -1,5 +1,6 @@
 ---
-id: IANAcaller-id-plans/caller-id-plans-1
+schema-version: v1.2.1
+id: IANAcaller-id-plans-caller-id-plans-1
 title:
 - content: Caller-ID Numbering Plans Tokens
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

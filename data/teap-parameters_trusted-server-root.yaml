@@ -1,5 +1,6 @@
 ---
-id: IANAteap-parameters/trusted-server-root
+schema-version: v1.2.1
+id: IANAteap-parameters-trusted-server-root
 title:
 - content: TEAP Trusted-Server-Root TLV (value 17) Credential-Format Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

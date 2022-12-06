@@ -1,5 +1,6 @@
 ---
-id: IANAlanguage-tags/language-tags-1
+schema-version: v1.2.1
+id: IANAlanguage-tags-language-tags-1
 title:
 - content: Language Tags
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

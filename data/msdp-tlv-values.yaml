@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAmsdp-tlv-values
 title:
 - content: Multicast Source Discovery Protocol (MSDP) TLV Values Registry
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

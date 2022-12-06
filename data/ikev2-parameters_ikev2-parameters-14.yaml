@@ -1,5 +1,6 @@
 ---
-id: IANAikev2-parameters/ikev2-parameters-14
+schema-version: v1.2.1
+id: IANAikev2-parameters-ikev2-parameters-14
 title:
 - content: IKEv2 Notify Message Types - Error Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

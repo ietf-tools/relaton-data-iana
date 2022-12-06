@@ -1,5 +1,6 @@
 ---
-id: IANArpc-program-numbers/rpc-program-numbers-data
+schema-version: v1.2.1
+id: IANArpc-program-numbers-rpc-program-numbers-data
 title:
 - content: RPC Program Numbers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

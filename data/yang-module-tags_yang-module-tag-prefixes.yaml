@@ -1,5 +1,6 @@
 ---
-id: IANAyang-module-tags/yang-module-tag-prefixes
+schema-version: v1.2.1
+id: IANAyang-module-tags-yang-module-tag-prefixes
 title:
 - content: YANG Module Tag Prefixes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

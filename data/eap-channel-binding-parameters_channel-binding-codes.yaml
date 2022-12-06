@@ -1,5 +1,6 @@
 ---
-id: IANAeap-channel-binding-parameters/channel-binding-codes
+schema-version: v1.2.1
+id: IANAeap-channel-binding-parameters-channel-binding-codes
 title:
 - content: EAP Channel-Binding Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

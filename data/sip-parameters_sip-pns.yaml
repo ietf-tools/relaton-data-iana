@@ -1,5 +1,6 @@
 ---
-id: IANAsip-parameters/sip-pns
+schema-version: v1.2.1
+id: IANAsip-parameters-sip-pns
 title:
 - content: Push Notification Service (PNS)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

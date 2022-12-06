@@ -1,5 +1,6 @@
 ---
-id: IANArpc-authentication-numbers/status
+schema-version: v1.2.1
+id: IANArpc-authentication-numbers-status
 title:
 - content: RPC Authentication Status Numbers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

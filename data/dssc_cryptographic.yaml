@@ -1,5 +1,6 @@
 ---
-id: IANAdssc/cryptographic
+schema-version: v1.2.1
+id: IANAdssc-cryptographic
 title:
 - content: Cryptographic Algorithms
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

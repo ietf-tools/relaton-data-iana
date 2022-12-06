@@ -1,5 +1,6 @@
 ---
-id: IANAjmap/jmap-error-codes
+schema-version: v1.2.1
+id: IANAjmap-jmap-error-codes
 title:
 - content: JMAP Error Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAimap-threading-algorithms/imap-threading-algorithms-1
+schema-version: v1.2.1
+id: IANAimap-threading-algorithms-imap-threading-algorithms-1
 title:
 - content: IMAP Threading Algorithms
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

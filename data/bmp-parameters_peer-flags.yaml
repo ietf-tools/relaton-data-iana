@@ -1,5 +1,6 @@
 ---
-id: IANAbmp-parameters/peer-flags
+schema-version: v1.2.1
+id: IANAbmp-parameters-peer-flags
 title:
 - content: BMP Peer Flags for Peer Types 0 through 2
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

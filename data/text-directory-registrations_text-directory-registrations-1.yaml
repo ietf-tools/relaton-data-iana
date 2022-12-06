@@ -1,5 +1,6 @@
 ---
-id: IANAtext-directory-registrations/text-directory-registrations-1
+schema-version: v1.2.1
+id: IANAtext-directory-registrations-text-directory-registrations-1
 title:
 - content: text/directory Profiles
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

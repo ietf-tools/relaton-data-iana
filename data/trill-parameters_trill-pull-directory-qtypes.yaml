@@ -1,5 +1,6 @@
 ---
-id: IANAtrill-parameters/trill-pull-directory-qtypes
+schema-version: v1.2.1
+id: IANAtrill-parameters-trill-pull-directory-qtypes
 title:
 - content: TRILL Pull Directory Query Types (QTYPEs)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

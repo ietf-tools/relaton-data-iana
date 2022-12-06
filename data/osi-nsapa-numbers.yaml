@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAosi-nsapa-numbers
 title:
 - content: Open Systems Interconnection (OSI) Network Service Access Point Addresses
@@ -28,3 +29,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

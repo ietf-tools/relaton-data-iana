@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-extended-communities/non-trans-ipv6
+schema-version: v1.2.1
+id: IANAbgp-extended-communities-non-trans-ipv6
 title:
 - content: Non-Transitive IPv6-Address-Specific Extended Community Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

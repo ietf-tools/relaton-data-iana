@@ -1,5 +1,6 @@
 ---
-id: IANAdlep-parameters/data-item-type-values
+schema-version: v1.2.1
+id: IANAdlep-parameters-data-item-type-values
 title:
 - content: Data Item Type Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

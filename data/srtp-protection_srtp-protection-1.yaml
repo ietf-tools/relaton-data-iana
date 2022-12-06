@@ -1,5 +1,6 @@
 ---
-id: IANAsrtp-protection/srtp-protection-1
+schema-version: v1.2.1
+id: IANAsrtp-protection-srtp-protection-1
 title:
 - content: DTLS-SRTP Protection Profiles
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

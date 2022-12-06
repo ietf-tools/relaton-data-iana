@@ -1,5 +1,6 @@
 ---
-id: IANAicalendar/schedule-force-send-values
+schema-version: v1.2.1
+id: IANAicalendar-schedule-force-send-values
 title:
 - content: Schedule Force Send Values Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

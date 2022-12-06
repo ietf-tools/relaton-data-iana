@@ -1,5 +1,6 @@
 ---
-id: IANAwebsocket/framing-header-bits
+schema-version: v1.2.1
+id: IANAwebsocket-framing-header-bits
 title:
 - content: WebSocket Framing Header Bits Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

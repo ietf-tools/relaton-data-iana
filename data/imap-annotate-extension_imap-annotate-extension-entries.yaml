@@ -1,5 +1,6 @@
 ---
-id: IANAimap-annotate-extension/imap-annotate-extension-entries
+schema-version: v1.2.1
+id: IANAimap-annotate-extension-imap-annotate-extension-entries
 title:
 - content: IMAP ANNOTATE Extension Entries
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

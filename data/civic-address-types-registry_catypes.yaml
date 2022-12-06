@@ -1,5 +1,6 @@
 ---
-id: IANAcivic-address-types-registry/catypes
+schema-version: v1.2.1
+id: IANAcivic-address-types-registry-catypes
 title:
 - content: Civic Address Types (CAtypes)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

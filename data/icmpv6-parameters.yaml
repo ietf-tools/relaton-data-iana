@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAicmpv6-parameters
 title:
 - content: Internet Control Message Protocol version 6 (ICMPv6) Parameters
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

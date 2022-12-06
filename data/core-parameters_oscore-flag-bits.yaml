@@ -1,5 +1,6 @@
 ---
-id: IANAcore-parameters/oscore-flag-bits
+schema-version: v1.2.1
+id: IANAcore-parameters-oscore-flag-bits
 title:
 - content: OSCORE Flag Bits
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

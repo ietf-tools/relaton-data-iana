@@ -1,5 +1,6 @@
 ---
-id: IANAospfv2-parameters/instance-ids
+schema-version: v1.2.1
+id: IANAospfv2-parameters-instance-ids
 title:
 - content: OSPFv2 Instance IDs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

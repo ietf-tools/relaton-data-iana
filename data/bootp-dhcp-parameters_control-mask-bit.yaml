@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/control-mask-bit
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-control-mask-bit
 title:
 - content: CableLabs Client Configuration Option Ticket Control Mask Bit Definitions
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

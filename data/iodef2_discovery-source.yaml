@@ -1,5 +1,6 @@
 ---
-id: IANAiodef2/discovery-source
+schema-version: v1.2.1
+id: IANAiodef2-discovery-source
 title:
 - content: Discovery-source
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

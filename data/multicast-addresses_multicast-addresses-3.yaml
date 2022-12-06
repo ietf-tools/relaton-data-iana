@@ -1,5 +1,6 @@
 ---
-id: IANAmulticast-addresses/multicast-addresses-3
+schema-version: v1.2.1
+id: IANAmulticast-addresses-multicast-addresses-3
 title:
 - content: AD-HOC Block I (224.0.2.0 - 224.0.255.255)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

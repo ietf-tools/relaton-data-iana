@@ -1,5 +1,6 @@
 ---
-id: IANAperc/perc-dtls-tunnel-message-types
+schema-version: v1.2.1
+id: IANAperc-perc-dtls-tunnel-message-types
 title:
 - content: Datagram Transport Layer Security (DTLS) Tunnel Protocol Message Types
     for Privacy Enhanced Conferencing
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

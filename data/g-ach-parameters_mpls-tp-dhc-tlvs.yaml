@@ -1,5 +1,6 @@
 ---
-id: IANAg-ach-parameters/mpls-tp-dhc-tlvs
+schema-version: v1.2.1
+id: IANAg-ach-parameters-mpls-tp-dhc-tlvs
 title:
 - content: MPLS-TP DHC TLVs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

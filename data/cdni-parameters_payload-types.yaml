@@ -1,5 +1,6 @@
 ---
-id: IANAcdni-parameters/payload-types
+schema-version: v1.2.1
+id: IANAcdni-parameters-payload-types
 title:
 - content: CDNI Payload Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

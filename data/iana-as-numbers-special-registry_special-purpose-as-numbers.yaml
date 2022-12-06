@@ -1,5 +1,6 @@
 ---
-id: IANAiana-as-numbers-special-registry/special-purpose-as-numbers
+schema-version: v1.2.1
+id: IANAiana-as-numbers-special-registry-special-purpose-as-numbers
 title:
 - content: Special-Purpose AS Numbers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

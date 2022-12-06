@@ -1,5 +1,6 @@
 ---
-id: IANAeap-gpsk-parameters/eap-gpsk-parameters-3
+schema-version: v1.2.1
+id: IANAeap-gpsk-parameters-eap-gpsk-parameters-3
 title:
 - content: EAP-GPSK Failure Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

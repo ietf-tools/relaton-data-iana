@@ -1,5 +1,6 @@
 ---
-id: IANApwe3-parameters/gach-application
+schema-version: v1.2.1
+id: IANApwe3-parameters-gach-application
 title:
 - content: G-ACh Advertisement Protocol Application Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

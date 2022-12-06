@@ -1,5 +1,6 @@
 ---
-id: IANAcore-parameters/if-link-target-att-value
+schema-version: v1.2.1
+id: IANAcore-parameters-if-link-target-att-value
 title:
 - content: Interface Description (if=) Link Target Attribute Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

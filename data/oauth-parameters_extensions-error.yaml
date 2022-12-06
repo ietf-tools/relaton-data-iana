@@ -1,5 +1,6 @@
 ---
-id: IANAoauth-parameters/extensions-error
+schema-version: v1.2.1
+id: IANAoauth-parameters-extensions-error
 title:
 - content: OAuth Extensions Error Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

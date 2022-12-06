@@ -1,5 +1,6 @@
 ---
-id: IANAdscp-registry/ecn-field
+schema-version: v1.2.1
+id: IANAdscp-registry-ecn-field
 title:
 - content: ECN Field (Bits 6-7)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

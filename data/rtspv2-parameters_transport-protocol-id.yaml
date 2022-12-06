@@ -1,5 +1,6 @@
 ---
-id: IANArtspv2-parameters/transport-protocol-id
+schema-version: v1.2.1
+id: IANArtspv2-parameters-transport-protocol-id
 title:
 - content: Transport Protocol Identifier
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

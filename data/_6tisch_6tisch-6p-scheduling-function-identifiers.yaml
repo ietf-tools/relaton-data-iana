@@ -1,5 +1,6 @@
 ---
-id: IANA_6tisch/_6tisch-6p-scheduling-function-identifiers
+schema-version: v1.2.1
+id: IANA_6tisch-_6tisch-6p-scheduling-function-identifiers
 title:
 - content: 6P Scheduling Function Identifiers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

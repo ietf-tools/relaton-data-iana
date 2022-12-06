@@ -1,5 +1,6 @@
 ---
-id: IANAiotp-codes/iotp-codes-2
+schema-version: v1.2.1
+id: IANAiotp-codes-iotp-codes-2
 title:
 - content: Brand/BrandId
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

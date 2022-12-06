@@ -1,5 +1,6 @@
 ---
-id: IANAmta-sts/mta-sts-policy-fields
+schema-version: v1.2.1
+id: IANAmta-sts-mta-sts-policy-fields
 title:
 - content: MTA-STS Policy Fields
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

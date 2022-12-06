@@ -1,5 +1,6 @@
 ---
-id: IANAqspec/parameter-id
+schema-version: v1.2.1
+id: IANAqspec-parameter-id
 title:
 - content: Parameter ID
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

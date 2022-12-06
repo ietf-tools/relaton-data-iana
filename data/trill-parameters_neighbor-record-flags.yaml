@@ -1,5 +1,6 @@
 ---
-id: IANAtrill-parameters/neighbor-record-flags
+schema-version: v1.2.1
+id: IANAtrill-parameters-neighbor-record-flags
 title:
 - content: TRILL Neighbor TLV NEIGHBOR RECORD Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAreload/access-control-policy
+schema-version: v1.2.1
+id: IANAreload-access-control-policy
 title:
 - content: CoAP Usage for RELOAD Access Control Policy
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

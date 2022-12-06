@@ -1,5 +1,6 @@
 ---
-id: IANAipv6-interface-ids/ipv6-interface-ids-1
+schema-version: v1.2.1
+id: IANAipv6-interface-ids-ipv6-interface-ids-1
 title:
 - content: Reserved IPv6 Interface Identifiers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

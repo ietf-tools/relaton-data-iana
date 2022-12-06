@@ -1,5 +1,6 @@
 ---
-id: IANAemergency-call-additional-data/device-id-type
+schema-version: v1.2.1
+id: IANAemergency-call-additional-data-device-id-type
 title:
 - content: Device ID Type
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

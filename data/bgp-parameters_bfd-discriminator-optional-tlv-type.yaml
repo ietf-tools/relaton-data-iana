@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-parameters/bfd-discriminator-optional-tlv-type
+schema-version: v1.2.1
+id: IANAbgp-parameters-bfd-discriminator-optional-tlv-type
 title:
 - content: BFD Discriminator Optional TLV Type
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

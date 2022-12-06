@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAstamp-tlv-types
 title:
 - content: Simple Two-way Active Measurement Protocol (STAMP) TLV Types
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

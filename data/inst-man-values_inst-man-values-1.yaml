@@ -1,5 +1,6 @@
 ---
-id: IANAinst-man-values/inst-man-values-1
+schema-version: v1.2.1
+id: IANAinst-man-values-inst-man-values-1
 title:
 - content: Instance Manipulation Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

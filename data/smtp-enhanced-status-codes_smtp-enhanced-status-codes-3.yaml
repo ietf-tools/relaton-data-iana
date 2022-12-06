@@ -1,5 +1,6 @@
 ---
-id: IANAsmtp-enhanced-status-codes/smtp-enhanced-status-codes-3
+schema-version: v1.2.1
+id: IANAsmtp-enhanced-status-codes-smtp-enhanced-status-codes-3
 title:
 - content: Enumerated Status Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

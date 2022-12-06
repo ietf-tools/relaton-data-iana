@@ -1,5 +1,6 @@
 ---
-id: IANAgsmpv3-traffic/gsmpv3-traffic-1
+schema-version: v1.2.1
+id: IANAgsmpv3-traffic-gsmpv3-traffic-1
 title:
 - content: Traffic Control Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

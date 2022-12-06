@@ -1,5 +1,6 @@
 ---
-id: IANAjwt/claims
+schema-version: v1.2.1
+id: IANAjwt-claims
 title:
 - content: JSON Web Token Claims
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAospf-sig-alg
 title:
 - content: Open Shortest Path First (OSPF) Signature Algorithms
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

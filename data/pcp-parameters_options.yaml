@@ -1,5 +1,6 @@
 ---
-id: IANApcp-parameters/options
+schema-version: v1.2.1
+id: IANApcp-parameters-options
 title:
 - content: PCP Options
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAgeo-uri-parameters/geo-uri-parameters-2
+schema-version: v1.2.1
+id: IANAgeo-uri-parameters-geo-uri-parameters-2
 title:
 - content: "'geo' URI 'crs' Parameter Values"
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

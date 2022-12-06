@@ -1,5 +1,6 @@
 ---
-id: IANAprophet/codes-for-failure
+schema-version: v1.2.1
+id: IANAprophet-codes-for-failure
 title:
 - content: PRoPHET Codes for Failure
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

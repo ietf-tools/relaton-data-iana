@@ -1,5 +1,6 @@
 ---
-id: IANAgdoi-payloads/gdoi-doi-exchange-types
+schema-version: v1.2.1
+id: IANAgdoi-payloads-gdoi-doi-exchange-types
 title:
 - content: GDOI DOI Exchange Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAcivic-address-types-registry/rltypes
+schema-version: v1.2.1
+id: IANAcivic-address-types-registry-rltypes
 title:
 - content: Relative Location Parameters
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

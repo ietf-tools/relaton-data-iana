@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/type-63-sub-options
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-type-63-sub-options
 title:
 - content: NetWare/IP Option Type 63 Sub-Option Codes
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

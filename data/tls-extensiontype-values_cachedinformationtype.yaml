@@ -1,5 +1,6 @@
 ---
-id: IANAtls-extensiontype-values/cachedinformationtype
+schema-version: v1.2.1
+id: IANAtls-extensiontype-values-cachedinformationtype
 title:
 - content: TLS CachedInformationType Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAospf-parameters/router-informational-capability
+schema-version: v1.2.1
+id: IANAospf-parameters-router-informational-capability
 title:
 - content: OSPF Router Informational Capability Bits
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAlgr-dispositions/standard-dispositions
+schema-version: v1.2.1
+id: IANAlgr-dispositions-standard-dispositions
 title:
 - content: Standard Dispositions
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

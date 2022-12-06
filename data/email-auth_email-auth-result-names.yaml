@@ -1,5 +1,6 @@
 ---
-id: IANAemail-auth/email-auth-result-names
+schema-version: v1.2.1
+id: IANAemail-auth-email-auth-result-names
 title:
 - content: Email Authentication Result Names
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

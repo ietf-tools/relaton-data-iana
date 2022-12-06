@@ -1,5 +1,6 @@
 ---
-id: IANAace/oscore-security-context-parameters
+schema-version: v1.2.1
+id: IANAace-oscore-security-context-parameters
 title:
 - content: OSCORE Security Context Parameters
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

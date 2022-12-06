@@ -1,5 +1,6 @@
 ---
-id: IANAsdp-parameters/multiplexing-categories
+schema-version: v1.2.1
+id: IANAsdp-parameters-multiplexing-categories
 title:
 - content: Multiplexing Categories
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

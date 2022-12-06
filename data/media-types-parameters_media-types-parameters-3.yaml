@@ -1,5 +1,6 @@
 ---
-id: IANAmedia-types-parameters/media-types-parameters-3
+schema-version: v1.2.1
+id: IANAmedia-types-parameters-media-types-parameters-3
 title:
 - content: MIME to X.400 Table - Extended Body Part
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

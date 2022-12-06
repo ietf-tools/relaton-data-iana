@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-extended-communities/additional-pmsi-tunnel-attribute-flags
+schema-version: v1.2.1
+id: IANAbgp-extended-communities-additional-pmsi-tunnel-attribute-flags
 title:
 - content: Additional PMSI Tunnel Attribute Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

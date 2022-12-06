@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAipv6-tla-assignments
 title:
 - content: IPv6 Top Level Aggregation Identifier Assignments
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANArpc-netids/rpc-netids-1
+schema-version: v1.2.1
+id: IANArpc-netids-rpc-netids-1
 title:
 - content: ONC RPC Netids (First Come First Served)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

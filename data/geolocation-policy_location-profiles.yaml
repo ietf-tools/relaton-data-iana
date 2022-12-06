@@ -1,5 +1,6 @@
 ---
-id: IANAgeolocation-policy/location-profiles
+schema-version: v1.2.1
+id: IANAgeolocation-policy-location-profiles
 title:
 - content: Geolocation Policy Location Profile Names
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

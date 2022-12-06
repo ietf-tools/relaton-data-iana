@@ -1,5 +1,6 @@
 ---
-id: IANAtelnet-options/telnet-options-5
+schema-version: v1.2.1
+id: IANAtelnet-options-telnet-options-5
 title:
 - content: KERBEROS_V4 Telnet Authentication Type (Type 1)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

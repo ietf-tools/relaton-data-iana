@@ -1,5 +1,6 @@
 ---
-id: IANAcdni-parameters/metadata-footprint-types
+schema-version: v1.2.1
+id: IANAcdni-parameters-metadata-footprint-types
 title:
 - content: CDNI Metadata Footprint Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

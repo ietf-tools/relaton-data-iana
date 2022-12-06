@@ -1,5 +1,6 @@
 ---
-id: IANAaddress-family-numbers/address-family-numbers-2
+schema-version: v1.2.1
+id: IANAaddress-family-numbers-address-family-numbers-2
 title:
 - content: Address Family Numbers
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

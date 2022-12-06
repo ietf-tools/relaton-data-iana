@@ -1,5 +1,6 @@
 ---
-id: IANAmulticast-acquisition/report-block-tlv
+schema-version: v1.2.1
+id: IANAmulticast-acquisition-report-block-tlv
 title:
 - content: Multicast Acquisition Report Block TLV Space Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

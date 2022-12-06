@@ -1,5 +1,6 @@
 ---
-id: IANAperformance-metrics/performance-metrics-units
+schema-version: v1.2.1
+id: IANAperformance-metrics-performance-metrics-units
 title:
 - content: Performance Metric Name Elements - Units
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

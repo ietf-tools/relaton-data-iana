@@ -1,5 +1,6 @@
 ---
-id: IANAscim/server-related
+schema-version: v1.2.1
+id: IANAscim-server-related
 title:
 - content: SCIM Server-Related Schema URIs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAbundle/bpsec-bib-hmac-sha2-integrity-scope
+schema-version: v1.2.1
+id: IANAbundle-bpsec-bib-hmac-sha2-integrity-scope
 title:
 - content: BPSec BIB-HMAC-SHA2 Integrity Scope Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAhttp-authentication-control-parameters/mutual-authentication-host-validation-methods
+schema-version: v1.2.1
+id: IANAhttp-authentication-control-parameters-mutual-authentication-host-validation-methods
 title:
 - content: HTTP Mutual Authentication Host Validation Methods
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

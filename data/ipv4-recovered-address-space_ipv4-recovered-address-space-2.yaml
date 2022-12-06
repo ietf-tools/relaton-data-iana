@@ -1,5 +1,6 @@
 ---
-id: IANAipv4-recovered-address-space/ipv4-recovered-address-space-2
+schema-version: v1.2.1
+id: IANAipv4-recovered-address-space-ipv4-recovered-address-space-2
 title:
 - content: |2
 
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

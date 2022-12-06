@@ -1,5 +1,6 @@
 ---
-id: IANAgist-parameters/error1-subcodes
+schema-version: v1.2.1
+id: IANAgist-parameters-error1-subcodes
 title:
 - content: Error Code 1 Subcodes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

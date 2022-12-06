@@ -1,5 +1,6 @@
 ---
-id: IANAmanagesieve/response
+schema-version: v1.2.1
+id: IANAmanagesieve-response
 title:
 - content: ManageSieve Response Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

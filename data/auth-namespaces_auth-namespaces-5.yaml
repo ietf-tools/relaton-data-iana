@@ -1,5 +1,6 @@
 ---
-id: IANAauth-namespaces/auth-namespaces-5
+schema-version: v1.2.1
+id: IANAauth-namespaces-auth-namespaces-5
 title:
 - content: RDM Name Space Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

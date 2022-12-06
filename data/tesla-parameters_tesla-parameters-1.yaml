@@ -1,5 +1,6 @@
 ---
-id: IANAtesla-parameters/tesla-parameters-1
+schema-version: v1.2.1
+id: IANAtesla-parameters-tesla-parameters-1
 title:
 - content: Cryptographic Pseudo-Random Function, TESLA-PRF Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

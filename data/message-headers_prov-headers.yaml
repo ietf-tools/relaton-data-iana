@@ -1,5 +1,6 @@
 ---
-id: IANAmessage-headers/prov-headers
+schema-version: v1.2.1
+id: IANAmessage-headers-prov-headers
 title:
 - content: Provisional Message Header Field Names
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

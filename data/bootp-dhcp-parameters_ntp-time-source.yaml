@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/ntp-time-source
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-ntp-time-source
 title:
 - content: NTP Time Source Suboptions
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

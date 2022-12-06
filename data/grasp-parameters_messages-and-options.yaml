@@ -1,5 +1,6 @@
 ---
-id: IANAgrasp-parameters/messages-and-options
+schema-version: v1.2.1
+id: IANAgrasp-parameters-messages-and-options
 title:
 - content: GRASP Messages and Options
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

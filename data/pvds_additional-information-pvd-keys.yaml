@@ -1,5 +1,6 @@
 ---
-id: IANApvds/additional-information-pvd-keys
+schema-version: v1.2.1
+id: IANApvds-additional-information-pvd-keys
 title:
 - content: Additional Information PvD Keys
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

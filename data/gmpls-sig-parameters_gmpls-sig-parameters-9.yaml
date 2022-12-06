@@ -1,5 +1,6 @@
 ---
-id: IANAgmpls-sig-parameters/gmpls-sig-parameters-9
+schema-version: v1.2.1
+id: IANAgmpls-sig-parameters-gmpls-sig-parameters-9
 title:
 - content: Association Type
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

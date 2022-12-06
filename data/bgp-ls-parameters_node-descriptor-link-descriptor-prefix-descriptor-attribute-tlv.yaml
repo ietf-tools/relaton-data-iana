@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-ls-parameters/node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
+schema-version: v1.2.1
+id: IANAbgp-ls-parameters-node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
 title:
 - content: BGP-LS Node Descriptor, Link Descriptor, Prefix Descriptor, and Attribute
     TLVs
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAikev2-parameters/ikev2-parameters-12
+schema-version: v1.2.1
+id: IANAikev2-parameters-ikev2-parameters-12
 title:
 - content: IKEv2 Authentication Method
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

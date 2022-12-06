@@ -1,5 +1,6 @@
 ---
-id: IANAace/oauth-token-instrospection-response-cbor-mappings
+schema-version: v1.2.1
+id: IANAace-oauth-token-instrospection-response-cbor-mappings
 title:
 - content: OAuth Token Introspection Response CBOR Mappings
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

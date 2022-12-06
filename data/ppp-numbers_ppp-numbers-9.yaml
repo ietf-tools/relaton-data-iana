@@ -1,5 +1,6 @@
 ---
-id: IANAppp-numbers/ppp-numbers-9
+schema-version: v1.2.1
+id: IANAppp-numbers-ppp-numbers-9
 title:
 - content: PPP Authentication Algorithms
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

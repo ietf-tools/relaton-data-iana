@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAieee-std-802.15.4-ietf-ie-subtype-ids
 title:
 - content: IEEE Std 802.15.4 IETF IE Subtype IDs
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

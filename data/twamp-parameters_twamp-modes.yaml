@@ -1,5 +1,6 @@
 ---
-id: IANAtwamp-parameters/twamp-modes
+schema-version: v1.2.1
+id: IANAtwamp-parameters-twamp-modes
 title:
 - content: TWAMP-Modes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

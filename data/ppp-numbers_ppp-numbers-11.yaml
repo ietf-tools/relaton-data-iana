@@ -1,5 +1,6 @@
 ---
-id: IANAppp-numbers/ppp-numbers-11
+schema-version: v1.2.1
+id: IANAppp-numbers-ppp-numbers-11
 title:
 - content: PPP Multilink Endpoint Discriminator Class
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

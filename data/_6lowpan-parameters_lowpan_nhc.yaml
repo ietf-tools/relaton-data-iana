@@ -1,5 +1,6 @@
 ---
-id: IANA_6lowpan-parameters/lowpan_nhc
+schema-version: v1.2.1
+id: IANA_6lowpan-parameters-lowpan_nhc
 title:
 - content: LOWPAN_NHC Header Type
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

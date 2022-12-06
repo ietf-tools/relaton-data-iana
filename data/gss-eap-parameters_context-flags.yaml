@@ -1,5 +1,6 @@
 ---
-id: IANAgss-eap-parameters/context-flags
+schema-version: v1.2.1
+id: IANAgss-eap-parameters-context-flags
 title:
 - content: GSS-EAP Context Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

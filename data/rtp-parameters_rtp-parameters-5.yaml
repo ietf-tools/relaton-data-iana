@@ -1,5 +1,6 @@
 ---
-id: IANArtp-parameters/rtp-parameters-5
+schema-version: v1.2.1
+id: IANArtp-parameters-rtp-parameters-5
 title:
 - content: RTP SDES Item Types
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

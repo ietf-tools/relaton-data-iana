@@ -1,5 +1,6 @@
 ---
-id: IANAoauth-parameters/authorization-server-metadata
+schema-version: v1.2.1
+id: IANAoauth-parameters-authorization-server-metadata
 title:
 - content: OAuth Authorization Server Metadata
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

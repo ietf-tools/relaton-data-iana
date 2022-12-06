@@ -1,5 +1,6 @@
 ---
-id: IANAmedia-control-channel/mediactrl-interactive-voice-response-control-package-status-codes
+schema-version: v1.2.1
+id: IANAmedia-control-channel-mediactrl-interactive-voice-response-control-package-status-codes
 title:
 - content: MEDIACTRL Interactive Voice Response Control Package Status Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

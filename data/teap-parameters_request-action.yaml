@@ -1,5 +1,6 @@
 ---
-id: IANAteap-parameters/request-action
+schema-version: v1.2.1
+id: IANAteap-parameters-request-action
 title:
 - content: TEAP Request-Action TLV (value 8) Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAjose/web-key-parameters
+schema-version: v1.2.1
+id: IANAjose-web-key-parameters
 title:
 - content: JSON Web Key Parameters
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

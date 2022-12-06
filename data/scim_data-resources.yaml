@@ -1,5 +1,6 @@
 ---
-id: IANAscim/data-resources
+schema-version: v1.2.1
+id: IANAscim-data-resources
 title:
 - content: SCIM Schema URIs for Data Resources
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

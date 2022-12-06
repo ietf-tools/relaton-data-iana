@@ -1,5 +1,6 @@
 ---
-id: IANAxmlers/time-stamp-token
+schema-version: v1.2.1
+id: IANAxmlers-time-stamp-token
 title:
 - content: Time-Stamp Token Type
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

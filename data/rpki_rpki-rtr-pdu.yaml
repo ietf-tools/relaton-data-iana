@@ -1,5 +1,6 @@
 ---
-id: IANArpki/rpki-rtr-pdu
+schema-version: v1.2.1
+id: IANArpki-rpki-rtr-pdu
 title:
 - content: rpki-rtr-pdu
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

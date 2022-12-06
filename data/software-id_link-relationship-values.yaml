@@ -1,5 +1,6 @@
 ---
-id: IANAsoftware-id/link-relationship-values
+schema-version: v1.2.1
+id: IANAsoftware-id-link-relationship-values
 title:
 - content: Software ID Link Relationship Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

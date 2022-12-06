@@ -1,5 +1,6 @@
 ---
-id: IANAmud/mud-well-known-urn
+schema-version: v1.2.1
+id: IANAmud-mud-well-known-urn
 title:
 - content: MUD Well-Known Uniform Resource Name (URN)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

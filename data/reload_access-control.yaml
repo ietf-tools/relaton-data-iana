@@ -1,5 +1,6 @@
 ---
-id: IANAreload/access-control
+schema-version: v1.2.1
+id: IANAreload-access-control
 title:
 - content: RELOAD Access Control Policies
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

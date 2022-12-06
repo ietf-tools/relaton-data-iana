@@ -1,5 +1,6 @@
 ---
-id: IANArpc-authentication-numbers/flavor
+schema-version: v1.2.1
+id: IANArpc-authentication-numbers-flavor
 title:
 - content: RPC Authentication Flavor Numbers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

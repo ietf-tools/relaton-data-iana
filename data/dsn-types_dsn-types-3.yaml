@@ -1,5 +1,6 @@
 ---
-id: IANAdsn-types/dsn-types-3
+schema-version: v1.2.1
+id: IANAdsn-types-dsn-types-3
 title:
 - content: MTA Name Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

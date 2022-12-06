@@ -1,5 +1,6 @@
 ---
-id: IANAacme/acme-order-auto-renewal-fields
+schema-version: v1.2.1
+id: IANAacme-acme-order-auto-renewal-fields
 title:
 - content: ACME Order Auto-Renewal Fields
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

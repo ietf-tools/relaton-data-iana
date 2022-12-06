@@ -1,5 +1,6 @@
 ---
-id: IANAospf-traffic-eng-tlvs/top-level
+schema-version: v1.2.1
+id: IANAospf-traffic-eng-tlvs-top-level
 title:
 - content: Top Level Types in TE LSAs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

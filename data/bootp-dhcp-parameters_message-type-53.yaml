@@ -1,5 +1,6 @@
 ---
-id: IANAbootp-dhcp-parameters/message-type-53
+schema-version: v1.2.1
+id: IANAbootp-dhcp-parameters-message-type-53
 title:
 - content: DHCP Message Type 53 Values
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAtcp-parameters/tcp-exids
+schema-version: v1.2.1
+id: IANAtcp-parameters-tcp-exids
 title:
 - content: TCP Experimental Option Experiment Identifiers (TCP ExIDs)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

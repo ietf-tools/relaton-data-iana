@@ -1,5 +1,6 @@
 ---
-id: IANAipfix/ipfix-information-element-data-types
+schema-version: v1.2.1
+id: IANAipfix-ipfix-information-element-data-types
 title:
 - content: IPFIX Information Element Data Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

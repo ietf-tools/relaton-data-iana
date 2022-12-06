@@ -1,5 +1,6 @@
 ---
-id: IANArsvp-te-parameters/wson-processing-hop-sub-tlv
+schema-version: v1.2.1
+id: IANArsvp-te-parameters-wson-processing-hop-sub-tlv
 title:
 - content: Sub-TLV Types for WSON Processing Hop Attribute TLV
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

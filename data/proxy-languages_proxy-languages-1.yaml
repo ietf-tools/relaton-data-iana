@@ -1,5 +1,6 @@
 ---
-id: IANAproxy-languages/proxy-languages-1
+schema-version: v1.2.1
+id: IANAproxy-languages-proxy-languages-1
 title:
 - content: Proxy Certificate Policy Languages
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

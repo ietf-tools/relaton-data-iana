@@ -1,5 +1,6 @@
 ---
-id: IANAqspec/restoration-priority
+schema-version: v1.2.1
+id: IANAqspec-restoration-priority
 title:
 - content: Restoration Priority Field
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

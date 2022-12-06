@@ -1,5 +1,6 @@
 ---
-id: IANArpl/rpl-dco-flags
+schema-version: v1.2.1
+id: IANArpl-rpl-dco-flags
 title:
 - content: Destination Cleanup Object (DCO) Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

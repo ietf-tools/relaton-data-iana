@@ -1,5 +1,6 @@
 ---
-id: IANAmobileip-numbers/mobileip-numbers-26
+schema-version: v1.2.1
+id: IANAmobileip-numbers-mobileip-numbers-26
 title:
 - content: Mobile Network Acknowledgement Extension
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAl2tp-parameters/l2tp-parameters-10
+schema-version: v1.2.1
+id: IANAl2tp-parameters-l2tp-parameters-10
 title:
 - content: Result Code AVP (Attribute Type 1) Values
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

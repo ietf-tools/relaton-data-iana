@@ -1,5 +1,6 @@
 ---
-id: IANAbmp-parameters/peer-down-reason-codes
+schema-version: v1.2.1
+id: IANAbmp-parameters-peer-down-reason-codes
 title:
 - content: BMP Peer Down Reason Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAeap-fast-parameters
 title:
 - content: Flexible Authentication via Secure Tunneling Extensible Authentication
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

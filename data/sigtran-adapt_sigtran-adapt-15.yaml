@@ -1,5 +1,6 @@
 ---
-id: IANAsigtran-adapt/sigtran-adapt-15
+schema-version: v1.2.1
+id: IANAsigtran-adapt-sigtran-adapt-15
 title:
 - content: Message Types - DPNSS/DASS2 Boundary Primitives Transport Messages (Value
     13)
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

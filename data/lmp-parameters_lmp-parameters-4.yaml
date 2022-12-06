@@ -1,5 +1,6 @@
 ---
-id: IANAlmp-parameters/lmp-parameters-4
+schema-version: v1.2.1
+id: IANAlmp-parameters-lmp-parameters-4
 title:
 - content: LMP Object Class name space and Class type (C-Type)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

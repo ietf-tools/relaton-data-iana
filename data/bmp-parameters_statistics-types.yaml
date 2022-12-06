@@ -1,5 +1,6 @@
 ---
-id: IANAbmp-parameters/statistics-types
+schema-version: v1.2.1
+id: IANAbmp-parameters-statistics-types
 title:
 - content: BMP Statistics Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

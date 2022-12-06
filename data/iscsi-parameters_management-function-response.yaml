@@ -1,5 +1,6 @@
 ---
-id: IANAiscsi-parameters/management-function-response
+schema-version: v1.2.1
+id: IANAiscsi-parameters-management-function-response
 title:
 - content: iSCSI Task Management Function Response Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAmobility-parameters/mobility-parameters-1
+schema-version: v1.2.1
+id: IANAmobility-parameters-mobility-parameters-1
 title:
 - content: Mobility Header Types - for the MH Type field in the Mobility Header
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

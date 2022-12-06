@@ -1,5 +1,6 @@
 ---
-id: IANAim-srv-labels/im-srv-labels-1
+schema-version: v1.2.1
+id: IANAim-srv-labels-im-srv-labels-1
 title:
 - content: Instant Messaging SRV Protocol Label Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

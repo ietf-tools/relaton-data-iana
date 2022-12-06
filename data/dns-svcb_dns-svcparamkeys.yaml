@@ -1,5 +1,6 @@
 ---
-id: IANAdns-svcb/dns-svcparamkeys
+schema-version: v1.2.1
+id: IANAdns-svcb-dns-svcparamkeys
 title:
 - content: Service Parameter Keys (SvcParamKeys)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

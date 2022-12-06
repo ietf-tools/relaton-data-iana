@@ -1,5 +1,6 @@
 ---
-id: IANAhip-parameters/esp-transform-suite-ids
+schema-version: v1.2.1
+id: IANAhip-parameters-esp-transform-suite-ids
 title:
 - content: ESP Transform Suite IDs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

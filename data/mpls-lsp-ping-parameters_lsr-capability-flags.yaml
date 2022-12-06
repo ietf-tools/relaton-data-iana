@@ -1,5 +1,6 @@
 ---
-id: IANAmpls-lsp-ping-parameters/lsr-capability-flags
+schema-version: v1.2.1
+id: IANAmpls-lsp-ping-parameters-lsr-capability-flags
 title:
 - content: LSR Capability Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

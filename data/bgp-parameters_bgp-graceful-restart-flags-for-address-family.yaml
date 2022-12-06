@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-parameters/bgp-graceful-restart-flags-for-address-family
+schema-version: v1.2.1
+id: IANAbgp-parameters-bgp-graceful-restart-flags-for-address-family
 title:
 - content: BGP Graceful Restart Flags for Address Family
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

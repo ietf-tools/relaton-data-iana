@@ -1,5 +1,6 @@
 ---
-id: IANAradius-types/radius-types-14
+schema-version: v1.2.1
+id: IANAradius-types-radius-types-14
 title:
 - content: Values for RADIUS Attribute 64, Tunnel-Type
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

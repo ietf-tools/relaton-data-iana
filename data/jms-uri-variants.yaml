@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAjms-uri-variants
 title:
 - content: Java Message Service (JMS) URI Scheme Variants
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

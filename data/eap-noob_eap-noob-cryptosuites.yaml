@@ -1,5 +1,6 @@
 ---
-id: IANAeap-noob/eap-noob-cryptosuites
+schema-version: v1.2.1
+id: IANAeap-noob-eap-noob-cryptosuites
 title:
 - content: EAP-NOOB Cryptosuites
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

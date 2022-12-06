@@ -1,5 +1,6 @@
 ---
-id: IANAnorm-parameters/norm-stream-control
+schema-version: v1.2.1
+id: IANAnorm-parameters-norm-stream-control
 title:
 - content: NORM Stream Control Codes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

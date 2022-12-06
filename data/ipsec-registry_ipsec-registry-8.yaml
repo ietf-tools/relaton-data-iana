@@ -1,5 +1,6 @@
 ---
-id: IANAipsec-registry/ipsec-registry-8
+schema-version: v1.2.1
+id: IANAipsec-registry-ipsec-registry-8
 title:
 - content: IPSEC Authentication Methods (Value 3)
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

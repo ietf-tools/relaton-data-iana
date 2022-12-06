@@ -1,5 +1,6 @@
 ---
-id: IANAlisp-parameters/lisp-crypto-cipher-suite
+schema-version: v1.2.1
+id: IANAlisp-parameters-lisp-crypto-cipher-suite
 title:
 - content: LISP Crypto Cipher Suite
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

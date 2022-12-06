@@ -1,5 +1,6 @@
 ---
-id: IANAauthentication-cryptographic-protocol-id/cryptographic-protocol-id
+schema-version: v1.2.1
+id: IANAauthentication-cryptographic-protocol-id-cryptographic-protocol-id
 title:
 - content: Cryptographic Protocol ID
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

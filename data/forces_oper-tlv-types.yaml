@@ -1,5 +1,6 @@
 ---
-id: IANAforces/oper-tlv-types
+schema-version: v1.2.1
+id: IANAforces-oper-tlv-types
 title:
 - content: Operation Selection (OPER-TLV) Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAwebauthn/webauthn-attestation-statement-format-ids
+schema-version: v1.2.1
+id: IANAwebauthn-webauthn-attestation-statement-format-ids
 title:
 - content: WebAuthn Attestation Statement Format Identifiers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

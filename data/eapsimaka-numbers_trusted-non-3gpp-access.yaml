@@ -1,5 +1,6 @@
 ---
-id: IANAeapsimaka-numbers/trusted-non-3gpp-access
+schema-version: v1.2.1
+id: IANAeapsimaka-numbers-trusted-non-3gpp-access
 title:
 - content: Trusted Non-3GPP Access EAP Parameters
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAmanet-parameters/nbr-addr-type-address-block-tlv-type-extension
+schema-version: v1.2.1
+id: IANAmanet-parameters-nbr-addr-type-address-block-tlv-type-extension
 title:
 - content: Type 9 Address Block TLV Type Extensions
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

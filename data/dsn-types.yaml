@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAdsn-types
 title:
 - content: Delivery Status Notification (DSN) Types
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

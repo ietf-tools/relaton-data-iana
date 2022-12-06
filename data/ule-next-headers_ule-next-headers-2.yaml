@@ -1,5 +1,6 @@
 ---
-id: IANAule-next-headers/ule-next-headers-2
+schema-version: v1.2.1
+id: IANAule-next-headers-ule-next-headers-2
 title:
 - content: Optional Extension Headers for ULE (Range 256-511 decimal)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANApal-package-types/package-types
+schema-version: v1.2.1
+id: IANApal-package-types-package-types
 title:
 - content: PAL Package Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

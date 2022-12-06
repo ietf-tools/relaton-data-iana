@@ -1,5 +1,6 @@
 ---
-id: IANAdevice-identification/dev-urn-subtypes
+schema-version: v1.2.1
+id: IANAdevice-identification-dev-urn-subtypes
 title:
 - content: DEV URN Subtypes
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

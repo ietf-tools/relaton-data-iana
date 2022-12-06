@@ -1,5 +1,6 @@
 ---
-id: IANAlisp-parameters/lisp-parameters-lisp-control-plane-header-bits-eid-record
+schema-version: v1.2.1
+id: IANAlisp-parameters-lisp-parameters-lisp-control-plane-header-bits-eid-record
 title:
 - content: 'LISP Control Plane Header Bits: EID-Record'
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

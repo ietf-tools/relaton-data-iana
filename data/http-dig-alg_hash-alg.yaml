@@ -1,5 +1,6 @@
 ---
-id: IANAhttp-dig-alg/hash-alg
+schema-version: v1.2.1
+id: IANAhttp-dig-alg-hash-alg
 title:
 - content: Hash Algorithms for HTTP Digest Authentication
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

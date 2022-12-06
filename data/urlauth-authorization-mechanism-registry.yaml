@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAurlauth-authorization-mechanism-registry
 title:
 - content: Internet Message Access Protocol (IMAP) URLAUTH Authorization Mechanism
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

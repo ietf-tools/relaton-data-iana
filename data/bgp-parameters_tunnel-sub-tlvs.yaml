@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-parameters/tunnel-sub-tlvs
+schema-version: v1.2.1
+id: IANAbgp-parameters-tunnel-sub-tlvs
 title:
 - content: BGP Tunnel Encapsulation Attribute Sub-TLVs
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

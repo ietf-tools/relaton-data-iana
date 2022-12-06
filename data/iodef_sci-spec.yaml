@@ -1,5 +1,6 @@
 ---
-id: IANAiodef/sci-spec
+schema-version: v1.2.1
+id: IANAiodef-sci-spec
 title:
 - content: Structured Cybersecurity Information (SCI) Specifications
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

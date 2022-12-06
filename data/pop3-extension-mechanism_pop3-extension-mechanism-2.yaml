@@ -1,5 +1,6 @@
 ---
-id: IANApop3-extension-mechanism/pop3-extension-mechanism-2
+schema-version: v1.2.1
+id: IANApop3-extension-mechanism-pop3-extension-mechanism-2
 title:
 - content: POP3 Response Codes
   format: text/plain
@@ -27,3 +28,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

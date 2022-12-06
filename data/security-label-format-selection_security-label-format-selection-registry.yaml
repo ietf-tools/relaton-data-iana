@@ -1,5 +1,6 @@
 ---
-id: IANAsecurity-label-format-selection/security-label-format-selection-registry
+schema-version: v1.2.1
+id: IANAsecurity-label-format-selection-security-label-format-selection-registry
 title:
 - content: Security Label Format Selection Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

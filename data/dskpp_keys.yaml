@@ -1,5 +1,6 @@
 ---
-id: IANAdskpp/keys
+schema-version: v1.2.1
+id: IANAdskpp-keys
 title:
 - content: Key Container Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

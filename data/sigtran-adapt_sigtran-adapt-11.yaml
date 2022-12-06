@@ -1,5 +1,6 @@
 ---
-id: IANAsigtran-adapt/sigtran-adapt-11
+schema-version: v1.2.1
+id: IANAsigtran-adapt-sigtran-adapt-11
 title:
 - content: Message Types - Routing Key Management (RKM) Messages (Value 9)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

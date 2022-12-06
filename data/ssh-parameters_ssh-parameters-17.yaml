@@ -1,5 +1,6 @@
 ---
-id: IANAssh-parameters/ssh-parameters-17
+schema-version: v1.2.1
+id: IANAssh-parameters-ssh-parameters-17
 title:
 - content: Encryption Algorithm Names
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

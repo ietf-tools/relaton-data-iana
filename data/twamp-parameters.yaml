@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAtwamp-parameters
 title:
 - content: Two-way Active Measurement Protocol (TWAMP) Parameters
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

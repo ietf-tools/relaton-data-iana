@@ -1,5 +1,6 @@
 ---
-id: IANAforces/message-types
+schema-version: v1.2.1
+id: IANAforces-message-types
 title:
 - content: Message Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

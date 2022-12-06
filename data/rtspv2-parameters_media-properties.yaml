@@ -1,5 +1,6 @@
 ---
-id: IANArtspv2-parameters/media-properties
+schema-version: v1.2.1
+id: IANArtspv2-parameters-media-properties
 title:
 - content: Media Properties
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

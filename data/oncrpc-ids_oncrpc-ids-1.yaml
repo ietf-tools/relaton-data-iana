@@ -1,5 +1,6 @@
 ---
-id: IANAoncrpc-ids/oncrpc-ids-1
+schema-version: v1.2.1
+id: IANAoncrpc-ids-oncrpc-ids-1
 title:
 - content: Network Identifier (r_netid)
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

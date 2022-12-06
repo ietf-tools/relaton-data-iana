@@ -1,5 +1,6 @@
 ---
-id: IANAdkim-parameters/atps-tag
+schema-version: v1.2.1
+id: IANAdkim-parameters-atps-tag
 title:
 - content: Authorized Third-Party Signature (ATPS) Tag Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

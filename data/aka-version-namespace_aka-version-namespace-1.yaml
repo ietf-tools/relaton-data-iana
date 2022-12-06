@@ -1,5 +1,6 @@
 ---
-id: IANAaka-version-namespace/aka-version-namespace-1
+schema-version: v1.2.1
+id: IANAaka-version-namespace-aka-version-namespace-1
 title:
 - content: AKA-Version Namespace
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

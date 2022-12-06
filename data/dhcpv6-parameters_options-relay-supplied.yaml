@@ -1,5 +1,6 @@
 ---
-id: IANAdhcpv6-parameters/options-relay-supplied
+schema-version: v1.2.1
+id: IANAdhcpv6-parameters-options-relay-supplied
 title:
 - content: Options Permitted in the Relay-Supplied Options Option
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

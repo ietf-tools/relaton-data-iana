@@ -1,5 +1,6 @@
 ---
-id: IANAospfv3-parameters/extended-lsa-sub-tlvs
+schema-version: v1.2.1
+id: IANAospfv3-parameters-extended-lsa-sub-tlvs
 title:
 - content: OSPFv3 Extended-LSA Sub-TLVs
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-extended-communities/non-trans-ipv4
+schema-version: v1.2.1
+id: IANAbgp-extended-communities-non-trans-ipv4
 title:
 - content: Non-Transitive IPv4-Address-Specific Extended Community Sub-Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

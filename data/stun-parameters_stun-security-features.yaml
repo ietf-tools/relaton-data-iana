@@ -1,5 +1,6 @@
 ---
-id: IANAstun-parameters/stun-security-features
+schema-version: v1.2.1
+id: IANAstun-parameters-stun-security-features
 title:
 - content: STUN Security Features
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

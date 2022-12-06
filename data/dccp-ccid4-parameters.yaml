@@ -1,4 +1,5 @@
 ---
+schema-version: v1.2.1
 id: IANAdccp-ccid4-parameters
 title:
 - content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control
@@ -30,3 +31,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

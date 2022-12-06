@@ -1,5 +1,6 @@
 ---
-id: IANAbgp-extended-communities/trans-opaque
+schema-version: v1.2.1
+id: IANAbgp-extended-communities-trans-opaque
 title:
 - content: Transitive Opaque Extended Community Sub-Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

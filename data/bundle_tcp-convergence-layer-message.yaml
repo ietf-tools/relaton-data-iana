@@ -1,5 +1,6 @@
 ---
-id: IANAbundle/tcp-convergence-layer-message
+schema-version: v1.2.1
+id: IANAbundle-tcp-convergence-layer-message
 title:
 - content: Bundle Protocol TCP Convergence-Layer Version 4 Message Types
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

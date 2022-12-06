@@ -1,5 +1,6 @@
 ---
-id: IANAhpke/hpke-kdf-ids
+schema-version: v1.2.1
+id: IANAhpke-hpke-kdf-ids
 title:
 - content: HPKE KDF Identifiers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

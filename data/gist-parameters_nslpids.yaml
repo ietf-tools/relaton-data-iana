@@ -1,5 +1,6 @@
 ---
-id: IANAgist-parameters/nslpids
+schema-version: v1.2.1
+id: IANAgist-parameters-nslpids
 title:
 - content: NSIS Signaling Layer Protocol (NSLP) Identifiers
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

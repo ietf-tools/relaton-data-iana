@@ -1,5 +1,6 @@
 ---
-id: IANAmpls-lsp-ping-parameters/proxy-flags
+schema-version: v1.2.1
+id: IANAmpls-lsp-ping-parameters-proxy-flags
 title:
 - content: Proxy Flags
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

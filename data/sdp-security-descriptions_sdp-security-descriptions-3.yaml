@@ -1,5 +1,6 @@
 ---
-id: IANAsdp-security-descriptions/sdp-security-descriptions-3
+schema-version: v1.2.1
+id: IANAsdp-security-descriptions-sdp-security-descriptions-3
 title:
 - content: SRTP Crypto Suite Registrations
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0

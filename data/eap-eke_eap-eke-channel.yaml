@@ -1,5 +1,6 @@
 ---
-id: IANAeap-eke/eap-eke-channel
+schema-version: v1.2.1
+id: IANAeap-eke-eap-eke-channel
 title:
 - content: EAP-EKE Channel-Binding Type Registry
   format: text/plain
@@ -29,3 +30,5 @@ language:
 - en
 script:
 - Latn
+ext:
+  schema-version: v1.0.0
