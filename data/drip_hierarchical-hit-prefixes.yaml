@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.1
-id: IANAcga-message-types-cga-message-types-2
+id: IANAdrip-hierarchical-hit-prefixes
 title:
-- content: CGA Extension Type Values
+- content: Hierarchical HIT (HHIT) Prefixes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cga-message-types
+- content: http://www.iana.org/assignments/drip
   type: src
 type: standard
 docid:
-- id: IANA cga-message-types/cga-message-types-2
+- id: IANA drip/hierarchical-hit-prefixes
   type: IANA
   primary: true
-docnumber: cga-message-types/cga-message-types-2
+docnumber: drip/hierarchical-hit-prefixes
 date:
 - type: created
-  value: '2004-05-28'
+  value: '2022-12-08'
 - type: updated
   value: '2022-12-08'
 contributor:
