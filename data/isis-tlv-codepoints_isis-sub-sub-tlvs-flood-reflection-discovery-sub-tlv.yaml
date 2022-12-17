@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: IANAisis-tlv-codepoints-isis-sub-sub-tlvs-flood-reflection-discovery-sub-tlv
 title:
-- content: IS-IS Sub-sub TLVs for Flood Reflection Discovery sub-TLV
+- content: IS-IS Sub-Sub TLVs for Flood Reflection Discovery Sub-TLV
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/isis-tlv-codepoints
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2003-05-06'
 - type: updated
-  value: '2022-12-13'
+  value: '2022-12-16'
 contributor:
 - organization:
     name:
