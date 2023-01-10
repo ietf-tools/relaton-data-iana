@@ -15,7 +15,7 @@ docid:
 docnumber: bgp-parameters/bgp-graceful-restart-flags
 date:
 - type: updated
-  value: '2022-12-20'
+  value: '2022-12-26'
 contributor:
 - organization:
     name:

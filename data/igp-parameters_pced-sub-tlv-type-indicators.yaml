@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: IANAigp-parameters-pced-sub-tlv-type-indicators
 title:
-- content: PCED sub-TLV Type Indicators
+- content: PCE Discovery (PCED) Sub-TLV Type Indicators
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/igp-parameters
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2017-12-18'
 - type: updated
-  value: '2022-10-21'
+  value: '2023-01-05'
 contributor:
 - organization:
     name:
