@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.1
-id: IANAjmap-jmap-error-codes
+id: IANAjmap-jmap-data-types
 title:
-- content: JMAP Error Codes
+- content: JMAP Data Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/jmap
   type: src
 type: standard
 docid:
-- id: IANA jmap/jmap-error-codes
+- id: IANA jmap/jmap-data-types
   type: IANA
   primary: true
-docnumber: jmap/jmap-error-codes
+docnumber: jmap/jmap-data-types
 date:
 - type: created
   value: '2019-03-28'
