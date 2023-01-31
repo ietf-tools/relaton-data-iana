@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: IANAospf-parameters-flexible-algorithm-definition-tlv-sub-tlvs
 title:
-- content: OSPF Flexible Algorithm Definition TLV sub-TLVs
+- content: OSPF Flexible Algorithm Definition TLV Sub-TLVs
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/ospf-parameters
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2015-11-03'
 - type: updated
-  value: '2022-10-14'
+  value: '2023-01-30'
 contributor:
 - organization:
     name:
