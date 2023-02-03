@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.1
-id: IANAbgp-extended-communities-generic-transitive-experimental-part2
+id: IANAdhcpv6-parameters-supported-transport
 title:
-- content: Generic Transitive Extended Community Part 2 Sub-Types
+- content: Supported Transport
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-extended-communities
+- content: http://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:
-- id: IANA bgp-extended-communities/generic-transitive-experimental-part2
+- id: IANA dhcpv6-parameters/supported-transport
   type: IANA
   primary: true
-docnumber: bgp-extended-communities/generic-transitive-experimental-part2
+docnumber: dhcpv6-parameters/supported-transport
 date:
 - type: created
-  value: '2005-08-15'
+  value: '2003-11-03'
 - type: updated
   value: '2023-02-02'
 contributor:
