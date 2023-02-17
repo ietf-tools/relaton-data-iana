@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: IANAisis-tlv-codepoints-isis-sub-sub-tlv-srv6-capability
 title:
-- content: IS-IS Sub-Sub-TLVs for SRv6 Capability Sub-TLV
+- content: IS-IS Sub-Sub-TLVs for SRv6 Capabilities Sub-TLV
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/isis-tlv-codepoints
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2003-05-06'
 - type: updated
-  value: '2023-02-03'
+  value: '2023-02-16'
 contributor:
 - organization:
     name:
