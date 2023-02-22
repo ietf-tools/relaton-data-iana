@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.1
-id: IANAnfsv4-named-attributes
+id: IANAbgp-ls-parameters-srv6-bgp-epe-sid
 title:
-- content: NFSv4 Named Attribute Definitions
+- content: SRv6 BGP EPE SID Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nfsv4-named-attributes
+- content: http://www.iana.org/assignments/bgp-ls-parameters
   type: src
 type: standard
 docid:
-- id: IANA nfsv4-named-attributes
+- id: IANA bgp-ls-parameters/srv6-bgp-epe-sid
   type: IANA
   primary: true
-docnumber: nfsv4-named-attributes
+docnumber: bgp-ls-parameters/srv6-bgp-epe-sid
 date:
 - type: created
-  value: '2009-01-16'
+  value: '2015-11-03'
 - type: updated
   value: '2023-02-21'
 contributor:
