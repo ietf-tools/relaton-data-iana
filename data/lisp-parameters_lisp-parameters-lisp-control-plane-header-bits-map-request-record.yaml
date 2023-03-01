@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.1
-id: IANAlisp-parameters-lisp-crypto-cipher-suite
+id: IANAlisp-parameters-lisp-parameters-lisp-control-plane-header-bits-map-request-record
 title:
-- content: LISP Crypto Cipher Suite
+- content: 'LISP Control Plane Header Bits: Map-Request-Record'
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/lisp-parameters
   type: src
 type: standard
 docid:
-- id: IANA lisp-parameters/lisp-crypto-cipher-suite
+- id: IANA lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-request-record
   type: IANA
   primary: true
-docnumber: lisp-parameters/lisp-crypto-cipher-suite
+docnumber: lisp-parameters/lisp-parameters-lisp-control-plane-header-bits-map-request-record
 date:
 - type: created
   value: '2012-04-25'

@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.1
-id: IANAdns-parameters-extended-dns-error-codes
+id: IANAdns-parameters-dns-catalog-zones
 title:
-- content: Extended DNS Error Codes
+- content: DNS Catalog Zones Properties
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/dns-parameters
   type: src
 type: standard
 docid:
-- id: IANA dns-parameters/extended-dns-error-codes
+- id: IANA dns-parameters/dns-catalog-zones
   type: IANA
   primary: true
-docnumber: dns-parameters/extended-dns-error-codes
+docnumber: dns-parameters/dns-catalog-zones
 date:
 - type: updated
   value: '2023-02-28'
