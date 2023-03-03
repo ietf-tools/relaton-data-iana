@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.1
-id: IANAsmi-numbers-smi-numbers-2
+id: IANAbgp-ls-parameters-bgp-ls-mpls-protocol-mask
 title:
-- content: SMI Network Management MGMT Codes
+- content: BGP-LS MPLS Protocol Mask
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/bgp-ls-parameters
   type: src
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-2
+- id: IANA bgp-ls-parameters/bgp-ls-mpls-protocol-mask
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-2
+docnumber: bgp-ls-parameters/bgp-ls-mpls-protocol-mask
 date:
+- type: created
+  value: '2015-11-03'
 - type: updated
   value: '2023-03-02'
 contributor:

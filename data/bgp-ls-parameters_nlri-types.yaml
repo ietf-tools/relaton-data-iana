@@ -2,7 +2,7 @@
 schema-version: v1.2.1
 id: IANAbgp-ls-parameters-nlri-types
 title:
-- content: BGP-LS NLRI-Types
+- content: BGP-LS NLRI Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/bgp-ls-parameters
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2015-11-03'
 - type: updated
-  value: '2023-02-23'
+  value: '2023-03-02'
 contributor:
 - organization:
     name:
