@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.1
-id: IANAdrip-hierarchical-hit-suite-id
+id: IANAdrip-hierarchical-hit-suite-ids
 title:
-- content: Hierarchical HIT (HHIT) Suite ID
+- content: Hierarchical a HIT (HHIT) Suite IDs
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/drip
   type: src
 type: standard
 docid:
-- id: IANA drip/hierarchical-hit-suite-id
+- id: IANA drip/hierarchical-hit-suite-ids
   type: IANA
   primary: true
-docnumber: drip/hierarchical-hit-suite-id
+docnumber: drip/hierarchical-hit-suite-ids
 date:
 - type: created
   value: '2022-12-08'
 - type: updated
-  value: '2022-12-08'
+  value: '2023-03-13'
 contributor:
 - organization:
     name:
