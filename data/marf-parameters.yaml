@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAmarf-parameters
 title:
 - content: Messaging Abuse Reporting Format (MARF) Parameters

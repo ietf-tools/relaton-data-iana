@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAlct-header-extensions
 title:
 - content: Layered Coding Transport (LCT) Header Extension Types

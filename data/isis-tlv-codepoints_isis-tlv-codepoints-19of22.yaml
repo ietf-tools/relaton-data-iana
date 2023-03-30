@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAisis-tlv-codepoints-isis-tlv-codepoints-19of22
 title:
 - content: IS-IS Neighbor Link-Attribute Bit Values

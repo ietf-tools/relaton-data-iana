@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAmdn-disp-not-opt
 title:
 - content: MDN-Disposition-notification-option-names

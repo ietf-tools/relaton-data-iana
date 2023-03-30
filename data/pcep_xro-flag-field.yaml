@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANApcep-xro-flag-field
 title:
 - content: XRO Flag Field

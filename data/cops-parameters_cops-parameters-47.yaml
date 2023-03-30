@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAcops-parameters-cops-parameters-47
 title:
 - content: Receiver Proxy Control Policy Element (P-Type 0x07) Control-Value field

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAbgp-parameters-bgp-l2-encapsulation-types-registry
 title:
 - content: BGP Layer 2 Encapsulation Types

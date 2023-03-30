@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAcxtp-parameters-cxtp-parameters-2
 title:
 - content: Context Transfer Protocol Authorization Token Calculation Algorithms

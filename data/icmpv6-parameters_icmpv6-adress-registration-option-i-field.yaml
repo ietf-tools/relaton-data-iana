@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAicmpv6-parameters-icmpv6-adress-registration-option-i-field
 title:
 - content: Address Registration Option I-Field

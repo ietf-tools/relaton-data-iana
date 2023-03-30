@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANApower-state-sets-ieee1621
 title:
 - content: IEEE1621 Power State Set

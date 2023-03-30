@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANArpl-routing-metric-constraint-common-header-flag
 title:
 - content: Routing Metric/Constraint Common Header Flag field

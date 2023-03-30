@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAtelnet-options-telnet-options-16
 title:
 - content: DES3_OFB64 Telnet Encryption Type (Type 4)

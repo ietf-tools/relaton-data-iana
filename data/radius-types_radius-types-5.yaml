@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAradius-types-radius-types-5
 title:
 - content: Values for RADIUS Attribute 7, Framed-Protocol

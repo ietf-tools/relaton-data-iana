@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAsvrloc-cryptographic-bsd-svrloc-cryptographic-bsd-1
 title:
 - content: Cryptographic BSD Codes

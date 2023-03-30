@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANArsvp-te-parameters-wavelength-assignment-method
 title:
 - content: Values for Wavelength Assignment Method field in WavelengthSelection Sub-TLV

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAppspp-merkle-hash-tree
 title:
 - content: PPSP Peer Protocol Merkle Hash Tree Function Registry

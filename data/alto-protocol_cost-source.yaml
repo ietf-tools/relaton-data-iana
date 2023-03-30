@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAalto-protocol-cost-source
 title:
 - content: ALTO Cost Source

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAtcp-parameters-mptcp-mp-tcprst-reason-codes
 title:
 - content: MPTCP MP_TCPRST Reason Codes

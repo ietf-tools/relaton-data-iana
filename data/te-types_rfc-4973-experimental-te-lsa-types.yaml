@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAte-types-rfc-4973-experimental-te-lsa-types
 title:
 - content: RFC 4973 Experimental TE LSA Types

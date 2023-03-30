@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAmulticast-addresses-multicast-addresses-8
 title:
 - content: DIS Transient Groups 224.252.0.0-224.255.255.255 (224.252/14))

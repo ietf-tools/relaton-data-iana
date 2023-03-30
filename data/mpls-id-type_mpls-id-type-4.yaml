@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAmpls-id-type-mpls-id-type-4
 title:
 - content: Q.2957 User-to-user Signaling for the Internet Protocol

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAdccp-ccid3-parameters-dccp-ccid3-parameters-2
 title:
 - content: CCID3-specific Option Types (128-255)

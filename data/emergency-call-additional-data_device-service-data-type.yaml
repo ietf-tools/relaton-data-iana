@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAemergency-call-additional-data-device-service-data-type
 title:
 - content: Device/Service Data Type

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAbgp-extended-communities-non-trans-four-octet-as
 title:
 - content: Non-Transitive Four-Octet AS-Specific Extended Community Sub-Types

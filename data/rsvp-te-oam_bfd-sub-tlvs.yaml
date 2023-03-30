@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANArsvp-te-oam-bfd-sub-tlvs
 title:
 - content: BFD Configuration Sub-TLV Types

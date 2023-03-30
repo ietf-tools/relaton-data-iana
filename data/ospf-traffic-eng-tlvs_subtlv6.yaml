@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAospf-traffic-eng-tlvs-subtlv6
 title:
 - content: Types for sub-TLVs of Optical Node Property (Value 6)

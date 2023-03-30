@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAbundle-tcpcl-refuse-reason
 title:
 - content: Bundle Protocol TCP Convergence-Layer REFUSE_BUNDLE Reason Codes

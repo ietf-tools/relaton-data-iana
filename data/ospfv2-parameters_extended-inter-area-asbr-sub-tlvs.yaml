@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAospfv2-parameters-extended-inter-area-asbr-sub-tlvs
 title:
 - content: OSPFv2 Extended Inter-Area ASBR Sub-TLVs

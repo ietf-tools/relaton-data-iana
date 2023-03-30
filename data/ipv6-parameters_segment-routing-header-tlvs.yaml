@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAipv6-parameters-segment-routing-header-tlvs
 title:
 - content: Segment Routing Header TLVs

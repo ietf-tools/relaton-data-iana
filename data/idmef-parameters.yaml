@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAidmef-parameters
 title:
 - content: Intrusion Detection Message Exchange Format (IDMEF) Parameters

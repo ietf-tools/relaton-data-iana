@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAmulticast-addresses-multicast-addresses-11
 title:
 - content: AD-HOC Block III (233.252.0.0-233.255.255.255 (233.252/14))

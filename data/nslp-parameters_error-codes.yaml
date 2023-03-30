@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAnslp-parameters-error-codes
 title:
 - content: QoS Model Error Codes

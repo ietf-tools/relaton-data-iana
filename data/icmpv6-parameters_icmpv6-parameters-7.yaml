@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAicmpv6-parameters-icmpv6-parameters-7
 title:
 - content: Certificate option  (Type 16) Cert Type field

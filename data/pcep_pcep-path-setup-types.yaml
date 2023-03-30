@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANApcep-pcep-path-setup-types
 title:
 - content: PCEP Path Setup Types

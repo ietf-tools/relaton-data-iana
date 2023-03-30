@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANArpl-routing-metric-constraint-nsa-object-flag
 title:
 - content: NSA Object Flag field

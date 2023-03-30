@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAtrill-parameters-port-trill-ver-capability
 title:
 - content: PORT-TRILL-VER Sub-TLV Capability Flags

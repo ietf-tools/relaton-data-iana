@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAleighton-micali-signatures-lm-ots-signatures
 title:
 - content: LM-OTS Signatures

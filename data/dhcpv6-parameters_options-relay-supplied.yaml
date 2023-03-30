@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAdhcpv6-parameters-options-relay-supplied
 title:
 - content: Options Permitted in the Relay-Supplied Options Option

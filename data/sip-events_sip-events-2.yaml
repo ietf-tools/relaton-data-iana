@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAsip-events-sip-events-2
 title:
 - content: Event packages and Event template-packages

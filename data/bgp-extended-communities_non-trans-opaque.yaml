@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAbgp-extended-communities-non-trans-opaque
 title:
 - content: Non-Transitive Opaque Extended Community Sub-Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAeap-fast-parameters-eap-fast-parameters-6
 title:
 - content: EAP-FAST Server-Trusted-Root Credential Format Types

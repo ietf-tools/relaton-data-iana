@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAip-over-IEEE1394-ip-over-IEEE1394-2
 title:
 - content: MCAP (Multicast Channel Allocation Protocol) Parameters

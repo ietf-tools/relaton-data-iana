@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAicmpv6-parameters-icmpv6-parameters-9
 title:
 - content: Option-Code for Mobile Node Identifier Option (Type 30)

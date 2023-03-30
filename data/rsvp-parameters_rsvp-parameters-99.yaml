@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANArsvp-parameters-rsvp-parameters-99
 title:
 - content: Error Codes and Globally-Defined Error Value Sub-Codes

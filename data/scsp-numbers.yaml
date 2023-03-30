@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAscsp-numbers
 title:
 - content: Server Cache Synchronization Protocol (SCSP) Parameters

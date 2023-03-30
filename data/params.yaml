@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAparams
 title:
 - content: Uniform Resource Name (URN) Namespace for IETF Use

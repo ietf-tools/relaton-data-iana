@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAeap-fast-parameters-eap-fast-parameters-3
 title:
 - content: EAP-FAST (value 43) Request-Action TLV (value 19) Action Codes

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAmobility-parameters-mobility-parameters-3
 title:
 - content: Status Codes (DNS Update Mobility Option)

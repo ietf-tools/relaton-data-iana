@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAisis-tlv-codepoints-tlv-142
 title:
 - content: IS-IS Group Address Type Codes for GADDR-TLV

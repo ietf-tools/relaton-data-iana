@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAoncrpc-ids-oncrpc-ids-1
 title:
 - content: Network Identifier (r_netid)

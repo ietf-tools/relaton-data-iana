@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAbootp-dhcp-parameters-authentication-rdm-id
 title:
 - content: Authentication Suboption (value 8) - Replay Detection Method (RDM) identifier

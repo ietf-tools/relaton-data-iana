@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAservice-names-port-numbers
 title:
 - content: Service Name and Transport Protocol Port Number Registry
@@ -15,7 +15,7 @@ docid:
 docnumber: service-names-port-numbers
 date:
 - type: updated
-  value: '2023-03-29'
+  value: '2023-03-30'
 contributor:
 - organization:
     name:

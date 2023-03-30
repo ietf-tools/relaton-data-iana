@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANApwe3-parameters-pw-status-refresh-reduction-configuration-message-sub-tlvs
 title:
 - content: PW Status Refresh Reduction Configuration Message Sub-TLVs

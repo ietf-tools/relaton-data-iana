@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAhttp-capsule-protocol
 title:
 - content: Hypertext Transfer Protocol (HTTP) Capsule Protocol

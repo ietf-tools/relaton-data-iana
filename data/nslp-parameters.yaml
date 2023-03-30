@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.1
+schema-version: v1.2.3
 id: IANAnslp-parameters
 title:
 - content: NSIS Signaling Layer Protocol (NSLP) Parameters
