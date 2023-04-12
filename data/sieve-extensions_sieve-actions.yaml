@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAtls-extensiontype-values-certificate-status
+id: IANAsieve-extensions-sieve-actions
 title:
-- content: TLS Certificate Status Types
+- content: Sieve Actions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tls-extensiontype-values
+- content: http://www.iana.org/assignments/sieve-extensions
   type: src
 type: standard
 docid:
-- id: IANA tls-extensiontype-values/certificate-status
+- id: IANA sieve-extensions/sieve-actions
   type: IANA
   primary: true
-docnumber: tls-extensiontype-values/certificate-status
+docnumber: sieve-extensions/sieve-actions
 date:
 - type: created
-  value: '2005-11-15'
+  value: 2000-11
 - type: updated
   value: '2023-04-11'
 contributor:
