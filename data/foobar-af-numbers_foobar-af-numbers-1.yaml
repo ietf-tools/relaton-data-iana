@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAfoobar-af-numbers-foobar-af-numbers-1
+title:
+- content: Assigned FOOBAR Address Families
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/foobar-af-numbers
+  type: src
+type: standard
+docid:
+- id: IANA foobar-af-numbers/foobar-af-numbers-1
+  type: IANA
+  primary: true
+docnumber: foobar-af-numbers/foobar-af-numbers-1
+date:
+- type: updated
+  value: '2001-05-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

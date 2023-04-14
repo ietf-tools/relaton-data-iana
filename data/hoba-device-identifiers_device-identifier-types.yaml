@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAhoba-device-identifiers-device-identifier-types
+title:
+- content: HOBA Device Identifier Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/hoba-device-identifiers
+  type: src
+type: standard
+docid:
+- id: IANA hoba-device-identifiers/device-identifier-types
+  type: IANA
+  primary: true
+docnumber: hoba-device-identifiers/device-identifier-types
+date:
+- type: created
+  value: '2015-01-20'
+- type: updated
+  value: '2015-03-11'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

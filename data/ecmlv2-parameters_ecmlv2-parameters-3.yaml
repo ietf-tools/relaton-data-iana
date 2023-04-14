@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAecmlv2-parameters-ecmlv2-parameters-3
+title:
+- content: Ecom_Transaction_Type Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ecmlv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ecmlv2-parameters/ecmlv2-parameters-3
+  type: IANA
+  primary: true
+docnumber: ecmlv2-parameters/ecmlv2-parameters-3
+date:
+- type: created
+  value: '2005-04-08'
+- type: updated
+  value: '2005-10-18'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

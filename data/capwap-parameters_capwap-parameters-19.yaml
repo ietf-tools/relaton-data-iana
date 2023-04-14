@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAcapwap-parameters-capwap-parameters-19
+title:
+- content: WTP Board Data Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/capwap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA capwap-parameters/capwap-parameters-19
+  type: IANA
+  primary: true
+docnumber: capwap-parameters/capwap-parameters-19
+date:
+- type: created
+  value: '2008-12-04'
+- type: updated
+  value: '2018-05-15'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

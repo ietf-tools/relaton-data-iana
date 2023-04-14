@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANArolie-information-type
+id: IANAcops-parameters-cops-parameters-1
 title:
-- content: ROLIE Information Types
+- content: Client Types Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rolie
+- content: http://www.iana.org/assignments/cops-parameters
   type: src
 type: standard
 docid:
-- id: IANA rolie/information-type
+- id: IANA cops-parameters/cops-parameters-1
   type: IANA
   primary: true
-docnumber: rolie/information-type
+docnumber: cops-parameters/cops-parameters-1
 date:
 - type: created
-  value: '2017-12-21'
+  value: 2000-11
 - type: updated
-  value: '2018-02-22'
+  value: '2012-09-28'
 contributor:
 - organization:
     name:
