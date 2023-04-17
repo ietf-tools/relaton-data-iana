@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAowamp-parameters
+title:
+- content: One-Way Active Measurement Protocol (OWAMP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/owamp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA owamp-parameters
+  type: IANA
+  primary: true
+docnumber: owamp-parameters
+date:
+- type: created
+  value: '2015-10-27'
+- type: updated
+  value: '2016-01-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

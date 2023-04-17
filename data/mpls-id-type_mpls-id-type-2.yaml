@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAmpls-id-type-mpls-id-type-2
+title:
+- content: Information Field and Protocol Identifier in the Q.2941 Generic Identifier
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mpls-id-type
+  type: src
+type: standard
+docid:
+- id: IANA mpls-id-type/mpls-id-type-2
+  type: IANA
+  primary: true
+docnumber: mpls-id-type/mpls-id-type-2
+date:
+- type: created
+  value: 2000-11
+- type: updated
+  value: '2011-05-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

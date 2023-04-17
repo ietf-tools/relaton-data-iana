@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAldp-namespaces-ldp-namespaces-4
+title:
+- content: TLV Type Name Space
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ldp-namespaces
+  type: src
+type: standard
+docid:
+- id: IANA ldp-namespaces/ldp-namespaces-4
+  type: IANA
+  primary: true
+docnumber: ldp-namespaces/ldp-namespaces-4
+date:
+- type: updated
+  value: '2018-03-09'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0
