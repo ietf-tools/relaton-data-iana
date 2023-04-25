@@ -1,21 +1,19 @@
 ---
 schema-version: v1.2.3
-id: IANAdhcpv6-parameters-options-relay-supplied
+id: IANAbootp-dhcp-parameters-dhcpv4-options-atrribute
 title:
-- content: Options Permitted in the Relay-Supplied Options Option
+- content: DHCP Options Permitted in the RADIUS DHCPv4-Options Attribute
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dhcpv6-parameters
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
   type: src
 type: standard
 docid:
-- id: IANA dhcpv6-parameters/options-relay-supplied
+- id: IANA bootp-dhcp-parameters/dhcpv4-options-atrribute
   type: IANA
   primary: true
-docnumber: dhcpv6-parameters/options-relay-supplied
+docnumber: bootp-dhcp-parameters/dhcpv4-options-atrribute
 date:
-- type: created
-  value: '2003-11-03'
 - type: updated
   value: '2023-04-24'
 contributor:

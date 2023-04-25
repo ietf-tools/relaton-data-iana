@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: IANAdhcpv6-parameters-options-relay-supplied
+id: IANAdhcpv6-parameters-dhcpv6-options-attribute
 title:
-- content: Options Permitted in the Relay-Supplied Options Option
+- content: DHCPv6 Options Permitted in the RADIUS DHCPv6-Options Attribute
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:
-- id: IANA dhcpv6-parameters/options-relay-supplied
+- id: IANA dhcpv6-parameters/dhcpv6-options-attribute
   type: IANA
   primary: true
-docnumber: dhcpv6-parameters/options-relay-supplied
+docnumber: dhcpv6-parameters/dhcpv6-options-attribute
 date:
 - type: created
   value: '2003-11-03'
