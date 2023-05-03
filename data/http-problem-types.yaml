@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAurn-namespaces
+id: IANAhttp-problem-types
 title:
-- content: Uniform Resource Names (URN) Namespaces
+- content: Hypertext Transfer Protocol (HTTP) Problem Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/urn-namespaces
+- content: http://www.iana.org/assignments/http-problem-types
   type: src
 type: standard
 docid:
-- id: IANA urn-namespaces
+- id: IANA http-problem-types
   type: IANA
   primary: true
-docnumber: urn-namespaces
+docnumber: http-problem-types
 date:
+- type: created
+  value: '2023-05-02'
 - type: updated
   value: '2023-05-02'
 contributor:
