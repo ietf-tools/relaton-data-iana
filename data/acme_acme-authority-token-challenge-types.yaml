@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: IANAacme-acme-account-object-fields
+id: IANAacme-acme-authority-token-challenge-types
 title:
-- content: ACME Account Object Fields
+- content: ACME Authority Token Challenge Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/acme
   type: src
 type: standard
 docid:
-- id: IANA acme/acme-account-object-fields
+- id: IANA acme/acme-authority-token-challenge-types
   type: IANA
   primary: true
-docnumber: acme/acme-account-object-fields
+docnumber: acme/acme-authority-token-challenge-types
 date:
 - type: created
   value: '2019-01-02'
