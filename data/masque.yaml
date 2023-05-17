@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAhttp-upgrade-tokens-http-upgrade-tokens-1
+id: IANAmasque
 title:
-- content: HTTP Upgrade Tokens
+- content: Multiplexed Application Substrate over QUIC Encryption (MASQUE)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-upgrade-tokens
+- content: http://www.iana.org/assignments/masque
   type: src
 type: standard
 docid:
-- id: IANA http-upgrade-tokens/http-upgrade-tokens-1
+- id: IANA masque
   type: IANA
   primary: true
-docnumber: http-upgrade-tokens/http-upgrade-tokens-1
+docnumber: masque
 date:
+- type: created
+  value: '2023-05-16'
 - type: updated
   value: '2023-05-16'
 contributor:
