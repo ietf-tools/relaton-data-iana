@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAtcp-parameters-tcp-parameters-1
+title:
+- content: TCP Option Kind Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA tcp-parameters/tcp-parameters-1
+  type: IANA
+  primary: true
+docnumber: tcp-parameters/tcp-parameters-1
+date:
+- type: updated
+  value: '2022-11-07'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAprophet-header-flags
+title:
+- content: PRoPHET Header Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/prophet
+  type: src
+type: standard
+docid:
+- id: IANA prophet/header-flags
+  type: IANA
+  primary: true
+docnumber: prophet/header-flags
+date:
+- type: created
+  value: '2012-06-04'
+- type: updated
+  value: '2012-09-11'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

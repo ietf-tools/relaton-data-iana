@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAospf-lls-tlvs-ospf-lls-tlvs-1
+title:
+- content: Link Local Signalling TLV Identifiers (LLS Types)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospf-lls-tlvs
+  type: src
+type: standard
+docid:
+- id: IANA ospf-lls-tlvs/ospf-lls-tlvs-1
+  type: IANA
+  primary: true
+docnumber: ospf-lls-tlvs/ospf-lls-tlvs-1
+date:
+- type: created
+  value: '2007-01-31'
+- type: updated
+  value: '2023-02-22'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

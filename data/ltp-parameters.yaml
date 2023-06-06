@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAltp-parameters
+title:
+- content: Licklider Transmission Protocol (LTP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ltp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ltp-parameters
+  type: IANA
+  primary: true
+docnumber: ltp-parameters
+date:
+- type: created
+  value: '2008-07-17'
+- type: updated
+  value: '2022-10-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

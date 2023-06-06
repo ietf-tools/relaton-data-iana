@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAospf-parameters-flexible-algorithm-definition-tlv-sub-tlvs
+title:
+- content: OSPF Flexible Algorithm Definition TLV Sub-TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospf-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ospf-parameters/flexible-algorithm-definition-tlv-sub-tlvs
+  type: IANA
+  primary: true
+docnumber: ospf-parameters/flexible-algorithm-definition-tlv-sub-tlvs
+date:
+- type: created
+  value: '2015-11-03'
+- type: updated
+  value: '2023-02-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

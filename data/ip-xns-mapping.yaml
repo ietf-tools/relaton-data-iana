@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAip-xns-mapping
+title:
+- content: Internet - Xerox Network System (XNS) Protocol Mappings
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ip-xns-mapping
+  type: src
+type: standard
+docid:
+- id: IANA ip-xns-mapping
+  type: IANA
+  primary: true
+docnumber: ip-xns-mapping
+date:
+- type: updated
+  value: '2001-06-29'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

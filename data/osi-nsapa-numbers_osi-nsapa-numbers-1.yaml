@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAosi-nsapa-numbers-osi-nsapa-numbers-1
+title:
+- content: OSI NSAPA Internet Code Points for AFI 35
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/osi-nsapa-numbers
+  type: src
+type: standard
+docid:
+- id: IANA osi-nsapa-numbers/osi-nsapa-numbers-1
+  type: IANA
+  primary: true
+docnumber: osi-nsapa-numbers/osi-nsapa-numbers-1
+date:
+- type: updated
+  value: '2008-03-07'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

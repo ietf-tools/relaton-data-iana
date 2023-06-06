@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANApskc-versions
+title:
+- content: PSKC Version Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pskc
+  type: src
+type: standard
+docid:
+- id: IANA pskc/versions
+  type: IANA
+  primary: true
+docnumber: pskc/versions
+date:
+- type: created
+  value: '2010-08-19'
+- type: updated
+  value: '2012-04-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

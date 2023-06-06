@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAsafi-namespace-safi-namespace-2
+title:
+- content: SAFI Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/safi-namespace
+  type: src
+type: standard
+docid:
+- id: IANA safi-namespace/safi-namespace-2
+  type: IANA
+  primary: true
+docnumber: safi-namespace/safi-namespace-2
+date:
+- type: created
+  value: 2000-07
+- type: updated
+  value: '2023-05-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

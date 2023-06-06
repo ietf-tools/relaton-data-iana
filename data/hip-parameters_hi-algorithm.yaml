@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAhip-parameters-hi-algorithm
+title:
+- content: HI Algorithm
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/hip-parameters
+  type: src
+type: standard
+docid:
+- id: IANA hip-parameters/hi-algorithm
+  type: IANA
+  primary: true
+docnumber: hip-parameters/hi-algorithm
+date:
+- type: created
+  value: '2007-12-07'
+- type: updated
+  value: '2023-03-15'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAicmp-parameters-icmp-parameters-ext-classes
+title:
+- content: ICMP Extension Object Classes and Class Sub-types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA icmp-parameters/icmp-parameters-ext-classes
+  type: IANA
+  primary: true
+docnumber: icmp-parameters/icmp-parameters-ext-classes
+date:
+- type: updated
+  value: '2020-09-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

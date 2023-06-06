@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAjwt-confirmation-methods
+title:
+- content: JWT Confirmation Methods
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/jwt
+  type: src
+type: standard
+docid:
+- id: IANA jwt/confirmation-methods
+  type: IANA
+  primary: true
+docnumber: jwt/confirmation-methods
+date:
+- type: created
+  value: '2015-01-23'
+- type: updated
+  value: '2023-05-31'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

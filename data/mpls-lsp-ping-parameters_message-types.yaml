@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAmpls-lsp-ping-parameters-message-types
+title:
+- content: Message Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mpls-lsp-ping-parameters
+  type: src
+type: standard
+docid:
+- id: IANA mpls-lsp-ping-parameters/message-types
+  type: IANA
+  primary: true
+docnumber: mpls-lsp-ping-parameters/message-types
+date:
+- type: created
+  value: '2006-01-12'
+- type: updated
+  value: '2023-06-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

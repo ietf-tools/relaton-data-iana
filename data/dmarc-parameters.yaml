@@ -1,0 +1,35 @@
+---
+schema-version: v1.2.3
+id: IANAdmarc-parameters
+title:
+- content: Domain-based Message Authentication, Reporting, and Conformance (DMARC)
+    Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dmarc-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dmarc-parameters
+  type: IANA
+  primary: true
+docnumber: dmarc-parameters
+date:
+- type: created
+  value: '2015-01-27'
+- type: updated
+  value: '2022-11-10'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

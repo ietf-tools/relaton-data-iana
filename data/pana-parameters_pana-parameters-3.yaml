@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANApana-parameters-pana-parameters-3
+title:
+- content: Message Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pana-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pana-parameters/pana-parameters-3
+  type: IANA
+  primary: true
+docnumber: pana-parameters/pana-parameters-3
+date:
+- type: created
+  value: '2007-10-08'
+- type: updated
+  value: '2012-11-15'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

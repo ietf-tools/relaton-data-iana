@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANApim-parameters-join-prune-transport-types
+title:
+- content: PIM Join/Prune Transport Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pim-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pim-parameters/join-prune-transport-types
+  type: IANA
+  primary: true
+docnumber: pim-parameters/join-prune-transport-types
+date:
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

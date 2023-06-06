@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAdns-svcb-dns-svcparamkeys
+title:
+- content: Service Parameter Keys (SvcParamKeys)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dns-svcb
+  type: src
+type: standard
+docid:
+- id: IANA dns-svcb/dns-svcparamkeys
+  type: IANA
+  primary: true
+docnumber: dns-svcb/dns-svcparamkeys
+date:
+- type: created
+  value: '2022-05-26'
+- type: updated
+  value: '2023-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

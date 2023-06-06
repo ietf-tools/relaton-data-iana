@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAppspp-message-types
+title:
+- content: PPSP Peer Protocol Message Type Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ppspp
+  type: src
+type: standard
+docid:
+- id: IANA ppspp/message-types
+  type: IANA
+  primary: true
+docnumber: ppspp/message-types
+date:
+- type: created
+  value: '2015-04-05'
+- type: updated
+  value: '2015-07-13'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

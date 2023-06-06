@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAmedia-type-sub-parameters-media-type-sub-parameters-18
+title:
+- content: Sub-Parameter Registry for application/aif+cbor and application/aif+json
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-type-sub-parameters
+  type: src
+type: standard
+docid:
+- id: IANA media-type-sub-parameters/media-type-sub-parameters-18
+  type: IANA
+  primary: true
+docnumber: media-type-sub-parameters/media-type-sub-parameters-18
+date:
+- type: created
+  value: '2003-10-31'
+- type: updated
+  value: '2023-01-03'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAacap-registrations-acap-registrations-1
+title:
+- content: ACAP Capabilities
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/acap-registrations
+  type: src
+type: standard
+docid:
+- id: IANA acap-registrations/acap-registrations-1
+  type: IANA
+  primary: true
+docnumber: acap-registrations/acap-registrations-1
+date:
+- type: updated
+  value: '2020-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

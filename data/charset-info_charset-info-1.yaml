@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAcharset-info-charset-info-1
+title:
+- content: Character Sets Mailing List Information
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/charset-info
+  type: src
+type: standard
+docid:
+- id: IANA charset-info/charset-info-1
+  type: IANA
+  primary: true
+docnumber: charset-info/charset-info-1
+date:
+- type: updated
+  value: '2023-02-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAflute-parameters
+title:
+- content: FLUTE - File Delivery over Unidirectional Transport (FLUTE) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/flute-parameters
+  type: src
+type: standard
+docid:
+- id: IANA flute-parameters
+  type: IANA
+  primary: true
+docnumber: flute-parameters
+date:
+- type: created
+  value: '2012-07-25'
+- type: updated
+  value: '2012-11-09'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

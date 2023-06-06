@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAieee-802-numbers
+title:
+- content: IEEE 802 Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ieee-802-numbers
+  type: src
+type: standard
+docid:
+- id: IANA ieee-802-numbers
+  type: IANA
+  primary: true
+docnumber: ieee-802-numbers
+date:
+- type: updated
+  value: '2022-02-22'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

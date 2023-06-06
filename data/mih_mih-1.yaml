@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAmih-mih-1
+title:
+- content: MIH Table of Mappings From Service Field Values to Transport Protocols
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mih
+  type: src
+type: standard
+docid:
+- id: IANA mih/mih-1
+  type: IANA
+  primary: true
+docnumber: mih/mih-1
+date:
+- type: created
+  value: '2009-09-03'
+- type: updated
+  value: '2009-09-03'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

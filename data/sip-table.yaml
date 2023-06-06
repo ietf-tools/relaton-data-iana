@@ -1,0 +1,35 @@
+---
+schema-version: v1.2.3
+id: IANAsip-table
+title:
+- content: Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record
+    Services Field
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sip-table
+  type: src
+type: standard
+docid:
+- id: IANA sip-table
+  type: IANA
+  primary: true
+docnumber: sip-table
+date:
+- type: created
+  value: '2002-05-07'
+- type: updated
+  value: '2014-01-31'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

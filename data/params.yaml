@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAparams
+title:
+- content: Uniform Resource Name (URN) Namespace for IETF Use
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/params
+  type: src
+type: standard
+docid:
+- id: IANA params
+  type: IANA
+  primary: true
+docnumber: params
+date:
+- type: created
+  value: '2003-05-19'
+- type: updated
+  value: '2022-01-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

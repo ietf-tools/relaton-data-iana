@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAalto-protocol-cost-metrics
+title:
+- content: ALTO Cost Metrics
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/alto-protocol
+  type: src
+type: standard
+docid:
+- id: IANA alto-protocol/cost-metrics
+  type: IANA
+  primary: true
+docnumber: alto-protocol/cost-metrics
+date:
+- type: created
+  value: '2014-03-18'
+- type: updated
+  value: '2023-01-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAx25-type-numbers-x25-type-numbers-1
+title:
+- content: X.25 Type Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/x25-type-numbers
+  type: src
+type: standard
+docid:
+- id: IANA x25-type-numbers/x25-type-numbers-1
+  type: IANA
+  primary: true
+docnumber: x25-type-numbers/x25-type-numbers-1
+date:
+- type: updated
+  value: '2007-08-30'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

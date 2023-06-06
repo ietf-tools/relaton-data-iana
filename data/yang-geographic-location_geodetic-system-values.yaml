@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAyang-geographic-location-geodetic-system-values
+title:
+- content: Geodetic System Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/yang-geographic-location
+  type: src
+type: standard
+docid:
+- id: IANA yang-geographic-location/geodetic-system-values
+  type: IANA
+  primary: true
+docnumber: yang-geographic-location/geodetic-system-values
+date:
+- type: created
+  value: '2021-11-09'
+- type: updated
+  value: '2022-02-14'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

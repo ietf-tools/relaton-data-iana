@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAbattery-technologies
+title:
+- content: Battery Technologies
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/battery-technologies
+  type: src
+type: standard
+docid:
+- id: IANA battery-technologies
+  type: IANA
+  primary: true
+docnumber: battery-technologies
+date:
+- type: created
+  value: '2015-05-10'
+- type: updated
+  value: '2015-07-27'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

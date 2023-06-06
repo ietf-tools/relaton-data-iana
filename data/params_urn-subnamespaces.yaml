@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAparams-urn-subnamespaces
+title:
+- content: IETF URN Sub-namespaces
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/params
+  type: src
+type: standard
+docid:
+- id: IANA params/urn-subnamespaces
+  type: IANA
+  primary: true
+docnumber: params/urn-subnamespaces
+date:
+- type: created
+  value: '2003-05-19'
+- type: updated
+  value: '2022-01-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

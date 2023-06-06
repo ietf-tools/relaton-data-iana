@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAipv6-tla-assignments
+title:
+- content: IPv6 Top Level Aggregation Identifier Assignments
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv6-tla-assignments
+  type: src
+type: standard
+docid:
+- id: IANA ipv6-tla-assignments
+  type: IANA
+  primary: true
+docnumber: ipv6-tla-assignments
+date:
+- type: updated
+  value: '2010-07-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

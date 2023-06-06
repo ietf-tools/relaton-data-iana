@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAremote-direct-data-placement-remote-direct-data-placement-rdma-cm-private-data-identifiers
+title:
+- content: RDMA-CM Private Data Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/remote-direct-data-placement
+  type: src
+type: standard
+docid:
+- id: IANA remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers
+  type: IANA
+  primary: true
+docnumber: remote-direct-data-placement/remote-direct-data-placement-rdma-cm-private-data-identifiers
+date:
+- type: created
+  value: '2020-03-02'
+- type: updated
+  value: '2023-04-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

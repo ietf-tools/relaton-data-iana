@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAservice-function-chaining-service-function-types-service-function-chaining-service-function-types-2
+title:
+- content: Service Function Chaining Service Function Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/service-function-chaining-service-function-types
+  type: src
+type: standard
+docid:
+- id: IANA service-function-chaining-service-function-types/service-function-chaining-service-function-types-2
+  type: IANA
+  primary: true
+docnumber: service-function-chaining-service-function-types/service-function-chaining-service-function-types-2
+date:
+- type: updated
+  value: '2021-06-09'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAbundle-tcp-convergence-sess-term-reason
+title:
+- content: Bundle Protocol TCP Convergence-Layer Version 4 SESS_TERM Reason Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bundle
+  type: src
+type: standard
+docid:
+- id: IANA bundle/tcp-convergence-sess-term-reason
+  type: IANA
+  primary: true
+docnumber: bundle/tcp-convergence-sess-term-reason
+date:
+- type: created
+  value: '2011-03-24'
+- type: updated
+  value: '2023-06-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

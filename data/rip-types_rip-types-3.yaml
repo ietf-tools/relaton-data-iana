@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANArip-types-rip-types-3
+title:
+- content: RIP Address Family Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rip-types
+  type: src
+type: standard
+docid:
+- id: IANA rip-types/rip-types-3
+  type: IANA
+  primary: true
+docnumber: rip-types/rip-types-3
+date:
+- type: updated
+  value: '2018-06-12'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

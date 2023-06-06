@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAeap-noob-eap-noob-cryptosuites
+title:
+- content: EAP-NOOB Cryptosuites
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-noob
+  type: src
+type: standard
+docid:
+- id: IANA eap-noob/eap-noob-cryptosuites
+  type: IANA
+  primary: true
+docnumber: eap-noob/eap-noob-cryptosuites
+date:
+- type: created
+  value: '2021-09-21'
+- type: updated
+  value: '2022-01-07'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

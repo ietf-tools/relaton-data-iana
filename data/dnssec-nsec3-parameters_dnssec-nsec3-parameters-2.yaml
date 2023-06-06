@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAdnssec-nsec3-parameters-dnssec-nsec3-parameters-2
+title:
+- content: DNSSEC NSEC3PARAM Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dnssec-nsec3-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dnssec-nsec3-parameters/dnssec-nsec3-parameters-2
+  type: IANA
+  primary: true
+docnumber: dnssec-nsec3-parameters/dnssec-nsec3-parameters-2
+date:
+- type: created
+  value: '2007-12-17'
+- type: updated
+  value: '2021-12-03'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

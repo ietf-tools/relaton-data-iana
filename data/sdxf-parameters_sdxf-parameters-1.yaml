@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAsdxf-parameters-sdxf-parameters-1
+title:
+- content: Compression Methods for SDXF
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sdxf-parameters
+  type: src
+type: standard
+docid:
+- id: IANA sdxf-parameters/sdxf-parameters-1
+  type: IANA
+  primary: true
+docnumber: sdxf-parameters/sdxf-parameters-1
+date:
+- type: created
+  value: '2001-02-02'
+- type: updated
+  value: '2002-03-14'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAmulticast-addresses-multicast-addresses-11
+title:
+- content: AD-HOC Block III (233.252.0.0-233.255.255.255 (233.252/14))
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/multicast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA multicast-addresses/multicast-addresses-11
+  type: IANA
+  primary: true
+docnumber: multicast-addresses/multicast-addresses-11
+date:
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

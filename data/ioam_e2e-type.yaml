@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAioam-e2e-type
+title:
+- content: IOAM E2E-Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ioam
+  type: src
+type: standard
+docid:
+- id: IANA ioam/e2e-type
+  type: IANA
+  primary: true
+docnumber: ioam/e2e-type
+date:
+- type: created
+  value: '2021-12-20'
+- type: updated
+  value: '2022-11-24'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

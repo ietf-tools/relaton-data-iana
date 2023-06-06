@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAccnx-ccnx-interestreturn-code-types
+title:
+- content: CCNx Interest Return Code Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ccnx
+  type: src
+type: standard
+docid:
+- id: IANA ccnx/ccnx-interestreturn-code-types
+  type: IANA
+  primary: true
+docnumber: ccnx/ccnx-interestreturn-code-types
+date:
+- type: created
+  value: '2019-02-11'
+- type: updated
+  value: '2023-02-17'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAbgp-tunnel-encapsulation-color-extended-community-flags
+title:
+- content: Color Extended Community Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+  type: src
+type: standard
+docid:
+- id: IANA bgp-tunnel-encapsulation/color-extended-community-flags
+  type: IANA
+  primary: true
+docnumber: bgp-tunnel-encapsulation/color-extended-community-flags
+date:
+- type: updated
+  value: '2023-05-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

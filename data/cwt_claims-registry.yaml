@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAcwt-claims-registry
+title:
+- content: CBOR Web Token (CWT) Claims
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cwt
+  type: src
+type: standard
+docid:
+- id: IANA cwt/claims-registry
+  type: IANA
+  primary: true
+docnumber: cwt/claims-registry
+date:
+- type: created
+  value: '2018-03-22'
+- type: updated
+  value: '2023-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

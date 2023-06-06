@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAgmpls-sig-parameters-special-purpose
+title:
+- content: Special Purpose Generalized Label Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gmpls-sig-parameters
+  type: src
+type: standard
+docid:
+- id: IANA gmpls-sig-parameters/special-purpose
+  type: IANA
+  primary: true
+docnumber: gmpls-sig-parameters/special-purpose
+date:
+- type: created
+  value: '2002-11-08'
+- type: updated
+  value: '2020-07-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

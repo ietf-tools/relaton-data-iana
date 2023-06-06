@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAmsrp-parameters-msrp-parameters-1
+title:
+- content: Methods
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/msrp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA msrp-parameters/msrp-parameters-1
+  type: IANA
+  primary: true
+docnumber: msrp-parameters/msrp-parameters-1
+date:
+- type: created
+  value: '2007-04-27'
+- type: updated
+  value: '2015-12-18'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

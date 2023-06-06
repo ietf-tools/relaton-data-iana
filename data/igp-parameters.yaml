@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAigp-parameters
+title:
+- content: Interior Gateway Protocol (IGP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/igp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA igp-parameters
+  type: IANA
+  primary: true
+docnumber: igp-parameters
+date:
+- type: created
+  value: '2017-12-18'
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

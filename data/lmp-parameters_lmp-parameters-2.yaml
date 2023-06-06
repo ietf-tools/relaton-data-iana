@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAlmp-parameters-lmp-parameters-2
+title:
+- content: LMP Message Type Name Space
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA lmp-parameters/lmp-parameters-2
+  type: IANA
+  primary: true
+docnumber: lmp-parameters/lmp-parameters-2
+date:
+- type: updated
+  value: '2019-03-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAipv4-recovered-address-space
+title:
+- content: IPv4 Recovered Address Space
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ipv4-recovered-address-space
+  type: src
+type: standard
+docid:
+- id: IANA ipv4-recovered-address-space
+  type: IANA
+  primary: true
+docnumber: ipv4-recovered-address-space
+date:
+- type: updated
+  value: '2019-03-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

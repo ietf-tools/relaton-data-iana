@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAhttp-parameters-range-units
+title:
+- content: HTTP Range Unit Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/http-parameters
+  type: src
+type: standard
+docid:
+- id: IANA http-parameters/range-units
+  type: IANA
+  primary: true
+docnumber: http-parameters/range-units
+date:
+- type: updated
+  value: '2023-02-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAospfv2-parameters-extended-link-tlv-sub-tlvs
+title:
+- content: OSPFv2 Extended Link TLV Sub-TLVs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ospfv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA ospfv2-parameters/extended-link-tlv-sub-tlvs
+  type: IANA
+  primary: true
+docnumber: ospfv2-parameters/extended-link-tlv-sub-tlvs
+date:
+- type: created
+  value: '2007-04-25'
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAmanet-parameters-hash-functions
+title:
+- content: Hash Functions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/manet-parameters
+  type: src
+type: standard
+docid:
+- id: IANA manet-parameters/hash-functions
+  type: IANA
+  primary: true
+docnumber: manet-parameters/hash-functions
+date:
+- type: created
+  value: '2008-12-23'
+- type: updated
+  value: '2022-01-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAgsmpv3-service-gsmpv3-service-2
+title:
+- content: Service ID Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gsmpv3-service
+  type: src
+type: standard
+docid:
+- id: IANA gsmpv3-service/gsmpv3-service-2
+  type: IANA
+  primary: true
+docnumber: gsmpv3-service/gsmpv3-service-2
+date:
+- type: created
+  value: '2002-03-28'
+- type: updated
+  value: '2002-06-10'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

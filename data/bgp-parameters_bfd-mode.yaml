@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAbgp-parameters-bfd-mode
+title:
+- content: BFD Mode
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/bfd-mode
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/bfd-mode
+date:
+- type: updated
+  value: '2023-05-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

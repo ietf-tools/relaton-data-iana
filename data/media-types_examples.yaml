@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAmedia-types-examples
+title:
+- content: example
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-types
+  type: src
+type: standard
+docid:
+- id: IANA media-types/examples
+  type: IANA
+  primary: true
+docnumber: media-types/examples
+date:
+- type: updated
+  value: '2023-06-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

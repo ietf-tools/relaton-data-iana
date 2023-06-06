@@ -1,0 +1,33 @@
+---
+schema-version: v1.2.3
+id: IANAbootp-dhcp-parameters
+title:
+- content: Dynamic Host Configuration Protocol (DHCP) and Bootstrap Protocol (BOOTP)
+    Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bootp-dhcp-parameters
+  type: IANA
+  primary: true
+docnumber: bootp-dhcp-parameters
+date:
+- type: updated
+  value: '2023-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

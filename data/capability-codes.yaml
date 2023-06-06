@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAcapability-codes
+title:
+- content: Capability Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/capability-codes
+  type: src
+type: standard
+docid:
+- id: IANA capability-codes
+  type: IANA
+  primary: true
+docnumber: capability-codes
+date:
+- type: updated
+  value: '2023-01-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

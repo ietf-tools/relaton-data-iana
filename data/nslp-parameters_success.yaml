@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAnslp-parameters-success
+title:
+- content: Success Error Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nslp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA nslp-parameters/success
+  type: IANA
+  primary: true
+docnumber: nslp-parameters/success
+date:
+- type: created
+  value: '2010-02-03'
+- type: updated
+  value: '2011-03-16'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

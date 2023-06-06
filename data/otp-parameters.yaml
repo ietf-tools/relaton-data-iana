@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAotp-parameters
+title:
+- content: One Time Password (OTP) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/otp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA otp-parameters
+  type: IANA
+  primary: true
+docnumber: otp-parameters
+date:
+- type: updated
+  value: '2009-05-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

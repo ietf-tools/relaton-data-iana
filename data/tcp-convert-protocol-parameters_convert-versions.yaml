@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAtcp-convert-protocol-parameters-convert-versions
+title:
+- content: Convert Versions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/tcp-convert-protocol-parameters
+  type: src
+type: standard
+docid:
+- id: IANA tcp-convert-protocol-parameters/convert-versions
+  type: IANA
+  primary: true
+docnumber: tcp-convert-protocol-parameters/convert-versions
+date:
+- type: created
+  value: '2020-03-27'
+- type: updated
+  value: '2020-07-31'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

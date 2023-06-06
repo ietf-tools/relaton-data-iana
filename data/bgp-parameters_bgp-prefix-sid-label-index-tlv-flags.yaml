@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAbgp-parameters-bgp-prefix-sid-label-index-tlv-flags
+title:
+- content: BGP Prefix-SID Label-Index TLV Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bgp-parameters/bgp-prefix-sid-label-index-tlv-flags
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/bgp-prefix-sid-label-index-tlv-flags
+date:
+- type: updated
+  value: '2023-05-23'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

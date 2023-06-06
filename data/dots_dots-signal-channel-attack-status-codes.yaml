@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAdots-dots-signal-channel-attack-status-codes
+title:
+- content: DOTS Signal Channel Attack Status Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dots
+  type: src
+type: standard
+docid:
+- id: IANA dots/dots-signal-channel-attack-status-codes
+  type: IANA
+  primary: true
+docnumber: dots/dots-signal-channel-attack-status-codes
+date:
+- type: created
+  value: '2020-01-16'
+- type: updated
+  value: '2023-03-03'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

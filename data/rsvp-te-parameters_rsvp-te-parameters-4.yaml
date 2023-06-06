@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANArsvp-te-parameters-rsvp-te-parameters-4
+title:
+- content: Record Route Object Sub-object Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-te-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rsvp-te-parameters/rsvp-te-parameters-4
+  type: IANA
+  primary: true
+docnumber: rsvp-te-parameters/rsvp-te-parameters-4
+date:
+- type: created
+  value: '2006-01-23'
+- type: updated
+  value: '2019-07-17'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

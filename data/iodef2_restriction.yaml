@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAiodef2-restriction
+title:
+- content: Restriction
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iodef2
+  type: src
+type: standard
+docid:
+- id: IANA iodef2/restriction
+  type: IANA
+  primary: true
+docnumber: iodef2/restriction
+date:
+- type: created
+  value: '2016-08-16'
+- type: updated
+  value: '2016-12-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

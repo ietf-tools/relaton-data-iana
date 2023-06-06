@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAdlep-parameters-ipv4-attached-subnet-flags
+title:
+- content: IPv4 Attached Subnet Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dlep-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dlep-parameters/ipv4-attached-subnet-flags
+  type: IANA
+  primary: true
+docnumber: dlep-parameters/ipv4-attached-subnet-flags
+date:
+- type: created
+  value: '2017-04-03'
+- type: updated
+  value: '2020-03-30'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

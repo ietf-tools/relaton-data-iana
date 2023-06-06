@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAdns-parameters-dns-quic-error-codes
+title:
+- content: DNS-over-QUIC Error Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dns-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dns-parameters/dns-quic-error-codes
+  type: IANA
+  primary: true
+docnumber: dns-parameters/dns-quic-error-codes
+date:
+- type: updated
+  value: '2023-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

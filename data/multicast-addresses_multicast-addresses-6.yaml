@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAmulticast-addresses-multicast-addresses-6
+title:
+- content: AD-HOC Block II (224.3.0.0-224.4.255.255 (224.3/16, 224.4/16))
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/multicast-addresses
+  type: src
+type: standard
+docid:
+- id: IANA multicast-addresses/multicast-addresses-6
+  type: IANA
+  primary: true
+docnumber: multicast-addresses/multicast-addresses-6
+date:
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

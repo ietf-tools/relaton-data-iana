@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAicalendar-relationship-types
+title:
+- content: Relationship Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icalendar
+  type: src
+type: standard
+docid:
+- id: IANA icalendar/relationship-types
+  type: IANA
+  primary: true
+docnumber: icalendar/relationship-types
+date:
+- type: created
+  value: '2009-04-29'
+- type: updated
+  value: '2023-02-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

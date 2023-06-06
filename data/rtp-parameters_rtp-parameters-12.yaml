@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANArtp-parameters-rtp-parameters-12
+title:
+- content: SFMT Values for RAMS Messages
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rtp-parameters/rtp-parameters-12
+  type: IANA
+  primary: true
+docnumber: rtp-parameters/rtp-parameters-12
+date:
+- type: updated
+  value: '2023-04-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

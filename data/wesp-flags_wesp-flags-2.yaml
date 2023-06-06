@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAwesp-flags-wesp-flags-2
+title:
+- content: WESP Version Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/wesp-flags
+  type: src
+type: standard
+docid:
+- id: IANA wesp-flags/wesp-flags-2
+  type: IANA
+  primary: true
+docnumber: wesp-flags/wesp-flags-2
+date:
+- type: created
+  value: '2010-01-27'
+- type: updated
+  value: '2010-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

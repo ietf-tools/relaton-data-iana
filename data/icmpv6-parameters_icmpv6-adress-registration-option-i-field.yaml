@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAicmpv6-parameters-icmpv6-adress-registration-option-i-field
+title:
+- content: Address Registration Option I-Field
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icmpv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA icmpv6-parameters/icmpv6-adress-registration-option-i-field
+  type: IANA
+  primary: true
+docnumber: icmpv6-parameters/icmpv6-adress-registration-option-i-field
+date:
+- type: updated
+  value: '2023-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

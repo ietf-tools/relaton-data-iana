@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAmail-parameters
+title:
+- content: MAIL Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mail-parameters
+  type: src
+type: standard
+docid:
+- id: IANA mail-parameters
+  type: IANA
+  primary: true
+docnumber: mail-parameters
+date:
+- type: updated
+  value: '2022-02-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

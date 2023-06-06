@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANApim-parameters-pim-parameters-3
+title:
+- content: PIM Address Family
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pim-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pim-parameters/pim-parameters-3
+  type: IANA
+  primary: true
+docnumber: pim-parameters/pim-parameters-3
+date:
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

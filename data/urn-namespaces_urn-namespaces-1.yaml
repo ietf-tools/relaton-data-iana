@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAurn-namespaces-urn-namespaces-1
+title:
+- content: Formal URN Namespaces
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/urn-namespaces
+  type: src
+type: standard
+docid:
+- id: IANA urn-namespaces/urn-namespaces-1
+  type: IANA
+  primary: true
+docnumber: urn-namespaces/urn-namespaces-1
+date:
+- type: updated
+  value: '2023-05-02'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAisis-tlv-codepoints-tlv-codepoints
+title:
+- content: IS-IS Top-Level TLV Codepoints
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
+  type: src
+type: standard
+docid:
+- id: IANA isis-tlv-codepoints/tlv-codepoints
+  type: IANA
+  primary: true
+docnumber: isis-tlv-codepoints/tlv-codepoints
+date:
+- type: created
+  value: '2003-05-06'
+- type: updated
+  value: '2023-06-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

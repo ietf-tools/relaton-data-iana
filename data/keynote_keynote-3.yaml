@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAkeynote-keynote-3
+title:
+- content: KeyNote Signature Algorithm Identifiers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/keynote
+  type: src
+type: standard
+docid:
+- id: IANA keynote/keynote-3
+  type: IANA
+  primary: true
+docnumber: keynote/keynote-3
+date:
+- type: updated
+  value: '2010-01-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

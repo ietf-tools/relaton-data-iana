@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANApcep-sched-pd-lsp-attribute-tlv-opt-field
+title:
+- content: SCHED-PD-LSP-ATTRIBUTE TLV Opt Field
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pcep
+  type: src
+type: standard
+docid:
+- id: IANA pcep/sched-pd-lsp-attribute-tlv-opt-field
+  type: IANA
+  primary: true
+docnumber: pcep/sched-pd-lsp-attribute-tlv-opt-field
+date:
+- type: created
+  value: '2008-12-19'
+- type: updated
+  value: '2023-04-04'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

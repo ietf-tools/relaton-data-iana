@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAacp-acp-address-type
+title:
+- content: ACP Address Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/acp
+  type: src
+type: standard
+docid:
+- id: IANA acp/acp-address-type
+  type: IANA
+  primary: true
+docnumber: acp/acp-address-type
+date:
+- type: created
+  value: '2020-11-05'
+- type: updated
+  value: '2021-05-24'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

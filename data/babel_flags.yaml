@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAbabel-flags
+title:
+- content: Babel Update Flags Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/babel
+  type: src
+type: standard
+docid:
+- id: IANA babel/flags
+  type: IANA
+  primary: true
+docnumber: babel/flags
+date:
+- type: created
+  value: '2015-04-14'
+- type: updated
+  value: '2022-05-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

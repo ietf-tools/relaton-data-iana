@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANApower-state-sets-ieee1621
+title:
+- content: IEEE1621 Power State Set
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/power-state-sets
+  type: src
+type: standard
+docid:
+- id: IANA power-state-sets/ieee1621
+  type: IANA
+  primary: true
+docnumber: power-state-sets/ieee1621
+date:
+- type: created
+  value: '2014-05-28'
+- type: updated
+  value: '2014-09-05'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

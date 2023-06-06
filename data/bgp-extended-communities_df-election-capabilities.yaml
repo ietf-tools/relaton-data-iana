@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAbgp-extended-communities-df-election-capabilities
+title:
+- content: DF Election Capabilities
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bgp-extended-communities
+  type: src
+type: standard
+docid:
+- id: IANA bgp-extended-communities/df-election-capabilities
+  type: IANA
+  primary: true
+docnumber: bgp-extended-communities/df-election-capabilities
+date:
+- type: created
+  value: '2005-08-15'
+- type: updated
+  value: '2023-04-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

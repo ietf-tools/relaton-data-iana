@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANArolie-rolie-information-types
+title:
+- content: ROLIE Information Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rolie
+  type: src
+type: standard
+docid:
+- id: IANA rolie/rolie-information-types
+  type: IANA
+  primary: true
+docnumber: rolie/rolie-information-types
+date:
+- type: created
+  value: '2017-12-21'
+- type: updated
+  value: '2018-04-13'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

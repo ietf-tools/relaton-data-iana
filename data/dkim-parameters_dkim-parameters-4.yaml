@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAdkim-parameters-dkim-parameters-4
+title:
+- content: DKIM-Signature Canonicalization Body
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/dkim-parameters
+  type: src
+type: standard
+docid:
+- id: IANA dkim-parameters/dkim-parameters-4
+  type: IANA
+  primary: true
+docnumber: dkim-parameters/dkim-parameters-4
+date:
+- type: created
+  value: '2007-03-08'
+- type: updated
+  value: '2018-07-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

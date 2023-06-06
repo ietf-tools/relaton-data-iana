@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAiana-hardware
+title:
+- content: iana-hardware YANG Module
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iana-hardware
+  type: src
+type: standard
+docid:
+- id: IANA iana-hardware
+  type: IANA
+  primary: true
+docnumber: iana-hardware
+date:
+- type: created
+  value: '2018-02-08'
+- type: updated
+  value: '2018-04-02'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

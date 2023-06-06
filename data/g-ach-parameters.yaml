@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAg-ach-parameters
+title:
+- content: Generic Associated Channel (G-ACh) Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/g-ach-parameters
+  type: src
+type: standard
+docid:
+- id: IANA g-ach-parameters
+  type: IANA
+  primary: true
+docnumber: g-ach-parameters
+date:
+- type: created
+  value: '2014-02-07'
+- type: updated
+  value: '2021-03-24'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

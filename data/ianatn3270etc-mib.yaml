@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAianatn3270etc-mib
+title:
+- content: IANATn3270eTC-MIB
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ianatn3270etc-mib
+  type: src
+type: standard
+docid:
+- id: IANA ianatn3270etc-mib
+  type: IANA
+  primary: true
+docnumber: ianatn3270etc-mib
+date:
+- type: created
+  value: '1999-09-01'
+- type: updated
+  value: '2014-05-22'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAaaa-parameters-mip6-authentication-mode
+title:
+- content: MIP6 Authentication Mode Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/aaa-parameters
+  type: src
+type: standard
+docid:
+- id: IANA aaa-parameters/mip6-authentication-mode
+  type: IANA
+  primary: true
+docnumber: aaa-parameters/mip6-authentication-mode
+date:
+- type: created
+  value: '2003-04-08'
+- type: updated
+  value: '2023-04-26'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

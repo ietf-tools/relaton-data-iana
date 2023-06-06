@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAnfsv4-named-attributes
+title:
+- content: NFSv4 Named Attribute Definitions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/nfsv4-named-attributes
+  type: src
+type: standard
+docid:
+- id: IANA nfsv4-named-attributes
+  type: IANA
+  primary: true
+docnumber: nfsv4-named-attributes
+date:
+- type: created
+  value: '2009-01-16'
+- type: updated
+  value: '2023-02-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

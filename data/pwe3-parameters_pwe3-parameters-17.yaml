@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANApwe3-parameters-pwe3-parameters-17
+title:
+- content: Pseudowire Switching Point PE sub-TLV Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/pwe3-parameters
+  type: src
+type: standard
+docid:
+- id: IANA pwe3-parameters/pwe3-parameters-17
+  type: IANA
+  primary: true
+docnumber: pwe3-parameters/pwe3-parameters-17
+date:
+- type: created
+  value: '2005-12-12'
+- type: updated
+  value: '2022-12-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

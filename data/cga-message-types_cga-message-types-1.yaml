@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAcga-message-types-cga-message-types-1
+title:
+- content: CGA Extension Type Tags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cga-message-types
+  type: src
+type: standard
+docid:
+- id: IANA cga-message-types/cga-message-types-1
+  type: IANA
+  primary: true
+docnumber: cga-message-types/cga-message-types-1
+date:
+- type: created
+  value: '2004-05-28'
+- type: updated
+  value: '2023-03-15'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

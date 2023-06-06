@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAgrasp-parameters-objective-names
+title:
+- content: GRASP Objective Names
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/grasp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA grasp-parameters/objective-names
+  type: IANA
+  primary: true
+docnumber: grasp-parameters/objective-names
+date:
+- type: created
+  value: '2017-07-20'
+- type: updated
+  value: '2021-05-26'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

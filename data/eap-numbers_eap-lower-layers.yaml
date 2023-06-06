@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAeap-numbers-eap-lower-layers
+title:
+- content: EAP Lower Layers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-numbers
+  type: src
+type: standard
+docid:
+- id: IANA eap-numbers/eap-lower-layers
+  type: IANA
+  primary: true
+docnumber: eap-numbers/eap-lower-layers
+date:
+- type: created
+  value: '2004-04-09'
+- type: updated
+  value: '2022-06-02'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

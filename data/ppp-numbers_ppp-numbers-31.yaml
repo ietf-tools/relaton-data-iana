@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAppp-numbers-ppp-numbers-31
+title:
+- content: IP Header Compression Configuration Option Suboption Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ppp-numbers
+  type: src
+type: standard
+docid:
+- id: IANA ppp-numbers/ppp-numbers-31
+  type: IANA
+  primary: true
+docnumber: ppp-numbers/ppp-numbers-31
+date:
+- type: updated
+  value: '2021-04-22'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

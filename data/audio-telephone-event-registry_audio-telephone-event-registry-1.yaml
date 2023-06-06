@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAaudio-telephone-event-registry-audio-telephone-event-registry-1
+title:
+- content: Event Code Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/audio-telephone-event-registry
+  type: src
+type: standard
+docid:
+- id: IANA audio-telephone-event-registry/audio-telephone-event-registry-1
+  type: IANA
+  primary: true
+docnumber: audio-telephone-event-registry/audio-telephone-event-registry-1
+date:
+- type: updated
+  value: '2011-12-07'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

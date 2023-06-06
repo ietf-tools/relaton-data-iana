@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAarp-parameters-arp-parameters-2
+title:
+- content: Hardware Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/arp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA arp-parameters/arp-parameters-2
+  type: IANA
+  primary: true
+docnumber: arp-parameters/arp-parameters-2
+date:
+- type: updated
+  value: '2023-05-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

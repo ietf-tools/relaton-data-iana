@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAcivic-address-types-registry-catypes
+title:
+- content: Civic Address Types (CAtypes)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/civic-address-types-registry
+  type: src
+type: standard
+docid:
+- id: IANA civic-address-types-registry/catypes
+  type: IANA
+  primary: true
+docnumber: civic-address-types-registry/catypes
+date:
+- type: created
+  value: '2006-04-11'
+- type: updated
+  value: '2014-04-11'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

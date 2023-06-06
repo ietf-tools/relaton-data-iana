@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAicmpv6-parameters-sixlowpan-capability-bits
+title:
+- content: 6LoWPAN Capability Bits
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/icmpv6-parameters
+  type: src
+type: standard
+docid:
+- id: IANA icmpv6-parameters/sixlowpan-capability-bits
+  type: IANA
+  primary: true
+docnumber: icmpv6-parameters/sixlowpan-capability-bits
+date:
+- type: updated
+  value: '2023-04-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

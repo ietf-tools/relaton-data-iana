@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAjmap-jmap-capabilities
+title:
+- content: JMAP Capabilities
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/jmap
+  type: src
+type: standard
+docid:
+- id: IANA jmap/jmap-capabilities
+  type: IANA
+  primary: true
+docnumber: jmap/jmap-capabilities
+date:
+- type: created
+  value: '2019-03-28'
+- type: updated
+  value: '2023-05-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

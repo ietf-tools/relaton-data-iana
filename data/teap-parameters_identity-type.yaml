@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAteap-parameters-identity-type
+title:
+- content: TEAP Identity-Type TLV (value 2) Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/teap-parameters
+  type: src
+type: standard
+docid:
+- id: IANA teap-parameters/identity-type
+  type: IANA
+  primary: true
+docnumber: teap-parameters/identity-type
+date:
+- type: created
+  value: '2014-01-24'
+- type: updated
+  value: '2014-05-13'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

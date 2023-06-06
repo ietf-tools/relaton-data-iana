@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAradius-types-option-codes-softwire46-priority-attribute
+title:
+- content: Option Codes Permitted in the Softwire46-Priority Attribute
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/radius-types
+  type: src
+type: standard
+docid:
+- id: IANA radius-types/option-codes-softwire46-priority-attribute
+  type: IANA
+  primary: true
+docnumber: radius-types/option-codes-softwire46-priority-attribute
+date:
+- type: updated
+  value: '2023-04-24'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

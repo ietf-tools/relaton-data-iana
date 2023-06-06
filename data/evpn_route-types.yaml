@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAevpn-route-types
+title:
+- content: EVPN Route Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/evpn
+  type: src
+type: standard
+docid:
+- id: IANA evpn/route-types
+  type: IANA
+  primary: true
+docnumber: evpn/route-types
+date:
+- type: created
+  value: '2014-10-21'
+- type: updated
+  value: '2022-06-22'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

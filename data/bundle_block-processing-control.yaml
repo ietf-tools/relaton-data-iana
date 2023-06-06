@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAbundle-block-processing-control
+title:
+- content: Block Processing Control Flags
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bundle
+  type: src
+type: standard
+docid:
+- id: IANA bundle/block-processing-control
+  type: IANA
+  primary: true
+docnumber: bundle/block-processing-control
+date:
+- type: created
+  value: '2011-03-24'
+- type: updated
+  value: '2023-06-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

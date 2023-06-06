@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANArtspv2-parameters-notify-reason
+title:
+- content: Notify-Reason Values
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rtspv2-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rtspv2-parameters/notify-reason
+  type: IANA
+  primary: true
+docnumber: rtspv2-parameters/notify-reason
+date:
+- type: created
+  value: '2014-02-21'
+- type: updated
+  value: '2016-12-29'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

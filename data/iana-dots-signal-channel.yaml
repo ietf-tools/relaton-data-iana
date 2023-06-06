@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAiana-dots-signal-channel
+title:
+- content: iana-dots-signal-channel YANG Module
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/iana-dots-signal-channel
+  type: src
+type: standard
+docid:
+- id: IANA iana-dots-signal-channel
+  type: IANA
+  primary: true
+docnumber: iana-dots-signal-channel
+date:
+- type: created
+  value: '2020-01-16'
+- type: updated
+  value: '2022-01-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

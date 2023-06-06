@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANArsvp-parameters-rsvp-parameters-118
+title:
+- content: Call Attributes TLV
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rsvp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA rsvp-parameters/rsvp-parameters-118
+  type: IANA
+  primary: true
+docnumber: rsvp-parameters/rsvp-parameters-118
+date:
+- type: updated
+  value: '2023-02-03'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

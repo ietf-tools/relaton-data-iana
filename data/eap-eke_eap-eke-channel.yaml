@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAeap-eke-eap-eke-channel
+title:
+- content: EAP-EKE Channel-Binding Type Registry
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/eap-eke
+  type: src
+type: standard
+docid:
+- id: IANA eap-eke/eap-eke-channel
+  type: IANA
+  primary: true
+docnumber: eap-eke/eap-eke-channel
+date:
+- type: created
+  value: '2010-11-24'
+- type: updated
+  value: '2020-04-14'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

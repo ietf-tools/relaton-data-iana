@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAtelnet-options-telnet-options-2
+title:
+- content: Telnet Authentication Types (Option 37)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/telnet-options
+  type: src
+type: standard
+docid:
+- id: IANA telnet-options/telnet-options-2
+  type: IANA
+  primary: true
+docnumber: telnet-options/telnet-options-2
+date:
+- type: updated
+  value: '2022-03-16'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

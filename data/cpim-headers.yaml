@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAcpim-headers
+title:
+- content: Common Presence and Instant Messaging (CPIM) Headers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cpim-headers
+  type: src
+type: standard
+docid:
+- id: IANA cpim-headers
+  type: IANA
+  primary: true
+docnumber: cpim-headers
+date:
+- type: created
+  value: '2003-12-15'
+- type: updated
+  value: '2004-09-24'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

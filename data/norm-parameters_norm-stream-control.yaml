@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAnorm-parameters-norm-stream-control
+title:
+- content: NORM Stream Control Codes
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/norm-parameters
+  type: src
+type: standard
+docid:
+- id: IANA norm-parameters/norm-stream-control
+  type: IANA
+  primary: true
+docnumber: norm-parameters/norm-stream-control
+date:
+- type: created
+  value: '2009-09-17'
+- type: updated
+  value: '2009-11-25'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

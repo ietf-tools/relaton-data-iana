@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAmedia-types-application
+title:
+- content: application
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/media-types
+  type: src
+type: standard
+docid:
+- id: IANA media-types/application
+  type: IANA
+  primary: true
+docnumber: media-types/application
+date:
+- type: updated
+  value: '2023-06-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

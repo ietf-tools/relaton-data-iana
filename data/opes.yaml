@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAopes
+title:
+- content: Open Pluggable Edge Services (OPES)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/opes
+  type: src
+type: standard
+docid:
+- id: IANA opes
+  type: IANA
+  primary: true
+docnumber: opes
+date:
+- type: updated
+  value: '2006-10-20'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAsmi-numbers-smi-numbers-6
+title:
+- content: Tunnel Types (tunnelType)
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/smi-numbers
+  type: src
+type: standard
+docid:
+- id: IANA smi-numbers/smi-numbers-6
+  type: IANA
+  primary: true
+docnumber: smi-numbers/smi-numbers-6
+date:
+- type: updated
+  value: '2023-05-08'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

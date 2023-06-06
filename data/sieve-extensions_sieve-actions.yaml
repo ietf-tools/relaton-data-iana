@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAsieve-extensions-sieve-actions
+title:
+- content: Sieve Actions
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/sieve-extensions
+  type: src
+type: standard
+docid:
+- id: IANA sieve-extensions/sieve-actions
+  type: IANA
+  primary: true
+docnumber: sieve-extensions/sieve-actions
+date:
+- type: created
+  value: 2000-11
+- type: updated
+  value: '2023-04-11'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

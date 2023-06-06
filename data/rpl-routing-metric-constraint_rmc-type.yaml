@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANArpl-routing-metric-constraint-rmc-type
+title:
+- content: Routing Metric/Constraint Type
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/rpl-routing-metric-constraint
+  type: src
+type: standard
+docid:
+- id: IANA rpl-routing-metric-constraint/rmc-type
+  type: IANA
+  primary: true
+docnumber: rpl-routing-metric-constraint/rmc-type
+date:
+- type: updated
+  value: '2012-03-28'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

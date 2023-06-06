@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAcose-header-parameters
+title:
+- content: COSE Header Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/cose
+  type: src
+type: standard
+docid:
+- id: IANA cose/header-parameters
+  type: IANA
+  primary: true
+docnumber: cose/header-parameters
+date:
+- type: created
+  value: '2017-01-11'
+- type: updated
+  value: '2023-06-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAmobileip-numbers-mobileip-numbers-2
+title:
+- content: Extensions to Mobile IP Registration Messages
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/mobileip-numbers
+  type: src
+type: standard
+docid:
+- id: IANA mobileip-numbers/mobileip-numbers-2
+  type: IANA
+  primary: true
+docnumber: mobileip-numbers/mobileip-numbers-2
+date:
+- type: updated
+  value: '2015-08-27'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAxmss-extended-hash-based-signatures-wots-signatures
+title:
+- content: WOTS+ Signatures
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/xmss-extended-hash-based-signatures
+  type: src
+type: standard
+docid:
+- id: IANA xmss-extended-hash-based-signatures/wots-signatures
+  type: IANA
+  primary: true
+docnumber: xmss-extended-hash-based-signatures/wots-signatures
+date:
+- type: created
+  value: '2018-02-16'
+- type: updated
+  value: '2020-05-15'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

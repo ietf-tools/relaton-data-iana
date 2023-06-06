@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAethernet-numbers
+title:
+- content: Ethernet Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/ethernet-numbers
+  type: src
+type: standard
+docid:
+- id: IANA ethernet-numbers
+  type: IANA
+  primary: true
+docnumber: ethernet-numbers
+date:
+- type: updated
+  value: '2020-12-14'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

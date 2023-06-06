@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.3
+id: IANAlang-subtags-templates-lang-subtags-templates-1
+title:
+- content: Language Subtag Registry - Registration Templates
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/lang-subtags-templates
+  type: src
+type: standard
+docid:
+- id: IANA lang-subtags-templates/lang-subtags-templates-1
+  type: IANA
+  primary: true
+docnumber: lang-subtags-templates/lang-subtags-templates-1
+date:
+- type: updated
+  value: '2023-05-11'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

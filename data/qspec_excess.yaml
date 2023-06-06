@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAqspec-excess
+title:
+- content: Excess Treatment Parameter
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/qspec
+  type: src
+type: standard
+docid:
+- id: IANA qspec/excess
+  type: IANA
+  primary: true
+docnumber: qspec/excess
+date:
+- type: created
+  value: '2010-02-24'
+- type: updated
+  value: '2010-10-06'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

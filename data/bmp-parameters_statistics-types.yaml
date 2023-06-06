@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAbmp-parameters-statistics-types
+title:
+- content: BMP Statistics Types
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/bmp-parameters
+  type: src
+type: standard
+docid:
+- id: IANA bmp-parameters/statistics-types
+  type: IANA
+  primary: true
+docnumber: bmp-parameters/statistics-types
+date:
+- type: created
+  value: '2016-04-14'
+- type: updated
+  value: '2022-12-01'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

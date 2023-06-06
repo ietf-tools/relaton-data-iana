@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAscim
+title:
+- content: System for Cross-domain Identity Management (SCIM) Schema URIs
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/scim
+  type: src
+type: standard
+docid:
+- id: IANA scim
+  type: IANA
+  primary: true
+docnumber: scim
+date:
+- type: created
+  value: '2015-06-22'
+- type: updated
+  value: '2023-02-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0

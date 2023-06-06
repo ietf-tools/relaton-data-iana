@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.3
+id: IANAigmp-type-numbers
+title:
+- content: Internet Group Management Protocol (IGMP) Type Numbers
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/igmp-type-numbers
+  type: src
+type: standard
+docid:
+- id: IANA igmp-type-numbers
+  type: IANA
+  primary: true
+docnumber: igmp-type-numbers
+date:
+- type: created
+  value: '2002-02-06'
+- type: updated
+  value: '2022-08-03'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0
