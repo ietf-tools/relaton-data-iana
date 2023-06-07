@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAcapwap-parameters-ieee-80211-split-mac-profile
+id: IANAmasque-http-capsule-types
 title:
-- content: IEEE 802.11 Split MAC Profile
+- content: HTTP Capsule Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/capwap-parameters
+- content: http://www.iana.org/assignments/masque
   type: src
 type: standard
 docid:
-- id: IANA capwap-parameters/ieee-80211-split-mac-profile
+- id: IANA masque/http-capsule-types
   type: IANA
   primary: true
-docnumber: capwap-parameters/ieee-80211-split-mac-profile
+docnumber: masque/http-capsule-types
 date:
 - type: created
-  value: '2008-12-04'
+  value: '2022-06-23'
 - type: updated
   value: '2023-06-06'
 contributor:
