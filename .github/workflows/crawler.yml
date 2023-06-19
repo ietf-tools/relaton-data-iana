@@ -12,6 +12,8 @@ on:
 jobs:
   crawl:
     uses: relaton/support/.github/workflows/crawler.yml@master
+    secrets:
+      args: ${{ secrets.RELATON_CI_PAT }}
     with:
       override-files: |
         https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile=Gemfile
