@@ -15,7 +15,4 @@ jobs:
     secrets:
       args: ${{ secrets.RELATON_CI_PAT }}
     with:
-      override-files: |
-        https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile=Gemfile
-        https://raw.githubusercontent.com/ietf-tools/bibxml-service/main/Gemfile.lock=Gemfile.lock
       commit-indexes: false
