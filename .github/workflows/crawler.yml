@@ -14,3 +14,5 @@ jobs:
     uses: relaton/support/.github/workflows/crawler.yml@master
     secrets:
       args: ${{ secrets.RELATON_CI_PAT }}
+    with:
+      commit-indexes: false
