@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: IANAsecevent-secevent-error-codes
+id: IANAsecevent-secevent-identifier-formats
 title:
-- content: Security Event Token Error Codes
+- content: Security Event Identifier Formats
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/secevent
   type: src
 type: standard
 docid:
-- id: IANA secevent/secevent-error-codes
+- id: IANA secevent/secevent-identifier-formats
   type: IANA
   primary: true
-docnumber: secevent/secevent-error-codes
+docnumber: secevent/secevent-identifier-formats
 date:
 - type: created
   value: '2020-07-01'
