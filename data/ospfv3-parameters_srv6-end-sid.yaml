@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: IANAospfv3-parameters-ospfv3-parameters-6
+id: IANAospfv3-parameters-srv6-end-sid
 title:
-- content: OSPFv3 Router LSA Link Types
+- content: OSPFv3 SRv6 End SID Sub-TLV Flags
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/ospfv3-parameters
   type: src
 type: standard
 docid:
-- id: IANA ospfv3-parameters/ospfv3-parameters-6
+- id: IANA ospfv3-parameters/srv6-end-sid
   type: IANA
   primary: true
-docnumber: ospfv3-parameters/ospfv3-parameters-6
+docnumber: ospfv3-parameters/srv6-end-sid
 date:
 - type: created
   value: '2007-04-25'
