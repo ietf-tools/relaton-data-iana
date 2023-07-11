@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAisis-tlv-codepoints-tlv-codepoints
+id: IANAospfv2-parameters-ip-algorithm-prefix-reachability-sub-tlv-flags
 title:
-- content: IS-IS Top-Level TLV Codepoints
+- content: IP Algorithm Prefix Reachability Sub-TLV Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/isis-tlv-codepoints
+- content: http://www.iana.org/assignments/ospfv2-parameters
   type: src
 type: standard
 docid:
-- id: IANA isis-tlv-codepoints/tlv-codepoints
+- id: IANA ospfv2-parameters/ip-algorithm-prefix-reachability-sub-tlv-flags
   type: IANA
   primary: true
-docnumber: isis-tlv-codepoints/tlv-codepoints
+docnumber: ospfv2-parameters/ip-algorithm-prefix-reachability-sub-tlv-flags
 date:
 - type: created
-  value: '2003-05-06'
+  value: '2007-04-25'
 - type: updated
   value: '2023-07-10'
 contributor:
