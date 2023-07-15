@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAnsh-version
+id: IANAsfc-active-oam-sfc-echo-request-reply
 title:
-- content: NSH Version
+- content: SFC Echo Request Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nsh
+- content: http://www.iana.org/assignments/sfc-active-oam
   type: src
 type: standard
 docid:
-- id: IANA nsh/version
+- id: IANA sfc-active-oam/sfc-echo-request-reply
   type: IANA
   primary: true
-docnumber: nsh/version
+docnumber: sfc-active-oam/sfc-echo-request-reply
 date:
 - type: created
-  value: '2017-11-08'
+  value: '2023-07-14'
 - type: updated
   value: '2023-07-14'
 contributor:
