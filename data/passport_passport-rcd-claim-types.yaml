@@ -1,21 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAsmi-numbers-smi-numbers-10
+id: IANApassport-passport-rcd-claim-types
 title:
-- content: MIB - Remote Network Monitoring
+- content: PASSporT RCD Claim Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/passport
   type: src
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-10
+- id: IANA passport/passport-rcd-claim-types
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-10
+docnumber: passport/passport-rcd-claim-types
 date:
+- type: created
+  value: '2017-06-12'
 - type: updated
-  value: '2023-07-17'
+  value: '2021-07-17'
 contributor:
 - organization:
     name:
