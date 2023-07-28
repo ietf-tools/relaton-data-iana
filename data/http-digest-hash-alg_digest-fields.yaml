@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAbundle-bundle-uri-scheme
+id: IANAhttp-digest-hash-alg-digest-fields
 title:
-- content: Bundle Protocol URI Scheme Types
+- content: Hash Algorithms for HTTP Digest Fields
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bundle
+- content: http://www.iana.org/assignments/http-digest-hash-alg
   type: src
 type: standard
 docid:
-- id: IANA bundle/bundle-uri-scheme
+- id: IANA http-digest-hash-alg/digest-fields
   type: IANA
   primary: true
-docnumber: bundle/bundle-uri-scheme
+docnumber: http-digest-hash-alg/digest-fields
 date:
 - type: created
-  value: '2011-03-24'
+  value: '2023-07-27'
 - type: updated
   value: '2023-07-27'
 contributor:
