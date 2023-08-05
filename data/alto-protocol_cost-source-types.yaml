@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAalto-protocol-cost-source
+id: IANAalto-protocol-cost-source-types
 title:
-- content: ALTO Cost Source
+- content: ALTO Cost Source Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/alto-protocol
   type: src
 type: standard
 docid:
-- id: IANA alto-protocol/cost-source
+- id: IANA alto-protocol/cost-source-types
   type: IANA
   primary: true
-docnumber: alto-protocol/cost-source
+docnumber: alto-protocol/cost-source-types
 date:
 - type: created
   value: '2014-03-18'
 - type: updated
-  value: '2023-07-21'
+  value: '2023-08-04'
 contributor:
 - organization:
     name:
