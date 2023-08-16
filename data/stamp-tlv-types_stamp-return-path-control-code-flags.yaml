@@ -1,21 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAbootp-dhcp-parameters-radius-attributes-sub-option
+id: IANAstamp-tlv-types-stamp-return-path-control-code-flags
 title:
-- content: RADIUS Attributes Permitted in RADIUS Attributes Sub-option
+- content: Return Path Control Code Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+- content: http://www.iana.org/assignments/stamp-tlv-types
   type: src
 type: standard
 docid:
-- id: IANA bootp-dhcp-parameters/radius-attributes-sub-option
+- id: IANA stamp-tlv-types/stamp-return-path-control-code-flags
   type: IANA
   primary: true
-docnumber: bootp-dhcp-parameters/radius-attributes-sub-option
+docnumber: stamp-tlv-types/stamp-return-path-control-code-flags
 date:
+- type: created
+  value: '2020-11-19'
 - type: updated
-  value: '2023-04-28'
+  value: '2023-08-15'
 contributor:
 - organization:
     name:

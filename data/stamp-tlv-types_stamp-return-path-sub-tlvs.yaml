@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.3
-id: IANAstamp-tlv-types-stamp-return-codes
+id: IANAstamp-tlv-types-stamp-return-path-sub-tlvs
 title:
-- content: STAMP Return Codes
+- content: Return Path Sub-TLV Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/stamp-tlv-types
   type: src
 type: standard
 docid:
-- id: IANA stamp-tlv-types/stamp-return-codes
+- id: IANA stamp-tlv-types/stamp-return-path-sub-tlvs
   type: IANA
   primary: true
-docnumber: stamp-tlv-types/stamp-return-codes
+docnumber: stamp-tlv-types/stamp-return-path-sub-tlvs
 date:
 - type: created
   value: '2020-11-19'

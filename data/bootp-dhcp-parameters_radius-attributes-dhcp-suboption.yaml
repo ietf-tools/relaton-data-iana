@@ -1,21 +1,19 @@
 ---
 schema-version: v1.2.3
-id: IANAstamp-tlv-types-stamp-return-codes
+id: IANAbootp-dhcp-parameters-radius-attributes-dhcp-suboption
 title:
-- content: STAMP Return Codes
+- content: RADIUS Attributes Permitted in RADIUS Attributes DHCP Suboption
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/stamp-tlv-types
+- content: http://www.iana.org/assignments/bootp-dhcp-parameters
   type: src
 type: standard
 docid:
-- id: IANA stamp-tlv-types/stamp-return-codes
+- id: IANA bootp-dhcp-parameters/radius-attributes-dhcp-suboption
   type: IANA
   primary: true
-docnumber: stamp-tlv-types/stamp-return-codes
+docnumber: bootp-dhcp-parameters/radius-attributes-dhcp-suboption
 date:
-- type: created
-  value: '2020-11-19'
 - type: updated
   value: '2023-08-15'
 contributor:
