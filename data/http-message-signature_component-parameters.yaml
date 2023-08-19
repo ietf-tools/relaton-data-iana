@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAccnx-ccnx-packet-types
+id: IANAhttp-message-signature-component-parameters
 title:
-- content: CCNx Packet Types
+- content: HTTP Signature Component Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ccnx
+- content: http://www.iana.org/assignments/http-message-signature
   type: src
 type: standard
 docid:
-- id: IANA ccnx/ccnx-packet-types
+- id: IANA http-message-signature/component-parameters
   type: IANA
   primary: true
-docnumber: ccnx/ccnx-packet-types
+docnumber: http-message-signature/component-parameters
 date:
 - type: created
-  value: '2019-02-11'
+  value: '2023-08-18'
 - type: updated
   value: '2023-08-18'
 contributor:
