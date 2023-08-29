@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAieee-802-numbers-ieee-802-numbers-1
+id: IANAedhoc-edhoc-method-type
 title:
-- content: Ethertypes
+- content: EDHOC Method Type
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ieee-802-numbers
+- content: http://www.iana.org/assignments/edhoc
   type: src
 type: standard
 docid:
-- id: IANA ieee-802-numbers/ieee-802-numbers-1
+- id: IANA edhoc/edhoc-method-type
   type: IANA
   primary: true
-docnumber: ieee-802-numbers/ieee-802-numbers-1
+docnumber: edhoc/edhoc-method-type
 date:
+- type: created
+  value: '2023-08-28'
 - type: updated
   value: '2023-08-28'
 contributor:

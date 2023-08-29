@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.3
-id: IANAieee-802-numbers-ieee-802-numbers-1
+id: IANAedhoc-edhoc-error-codes
 title:
-- content: Ethertypes
+- content: EDHOC Error Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ieee-802-numbers
+- content: http://www.iana.org/assignments/edhoc
   type: src
 type: standard
 docid:
-- id: IANA ieee-802-numbers/ieee-802-numbers-1
+- id: IANA edhoc/edhoc-error-codes
   type: IANA
   primary: true
-docnumber: ieee-802-numbers/ieee-802-numbers-1
+docnumber: edhoc/edhoc-error-codes
 date:
+- type: created
+  value: '2023-08-28'
 - type: updated
   value: '2023-08-28'
 contributor:
