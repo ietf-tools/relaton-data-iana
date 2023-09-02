@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.3
-id: IANAccnx-ccnx-echo-reply-code
+id: IANAccnx-ccnx-echo-reply-codes
 title:
-- content: CCNx Echo Reply Code
+- content: CCNx Echo Reply Codes
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/ccnx
   type: src
 type: standard
 docid:
-- id: IANA ccnx/ccnx-echo-reply-code
+- id: IANA ccnx/ccnx-echo-reply-codes
   type: IANA
   primary: true
-docnumber: ccnx/ccnx-echo-reply-code
+docnumber: ccnx/ccnx-echo-reply-codes
 date:
 - type: created
   value: '2019-02-11'
 - type: updated
-  value: '2023-08-31'
+  value: '2023-09-01'
 contributor:
 - organization:
     name:
