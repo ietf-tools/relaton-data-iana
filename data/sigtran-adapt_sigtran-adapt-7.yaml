@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsigtran-adapt-sigtran-adapt-7
 title:
 - content: Message Types - Q.921/Q.931 Boundary Primitives Transport (QPTM) Messages

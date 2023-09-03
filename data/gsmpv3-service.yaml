@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAgsmpv3-service
 title:
 - content: Global Switch Management Protocol version 3 (GSMPv3) Service ID Name Space

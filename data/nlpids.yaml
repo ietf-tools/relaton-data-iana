@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAnlpids
 title:
 - content: Network Layer Protocol Identifiers (NLPIDs) of Interest

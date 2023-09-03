@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAospf-parameters-ri-tlv
 title:
 - content: OSPF Router Information (RI) TLVs

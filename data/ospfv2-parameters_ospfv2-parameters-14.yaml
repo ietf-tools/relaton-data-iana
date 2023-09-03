@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAospfv2-parameters-ospfv2-parameters-14
 title:
 - content: Path Computation Element (PCE) Capability Flags

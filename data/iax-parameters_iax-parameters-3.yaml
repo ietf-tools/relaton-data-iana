@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAiax-parameters-iax-parameters-3
 title:
 - content: IAX Control Frame Subclass

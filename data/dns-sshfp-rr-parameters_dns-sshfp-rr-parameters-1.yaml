@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAdns-sshfp-rr-parameters-dns-sshfp-rr-parameters-1
 title:
 - content: SSHFP RR Types for public key algorithms

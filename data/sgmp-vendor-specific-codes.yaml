@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsgmp-vendor-specific-codes
 title:
 - content: Simple Gateway Monitoring Protocol (SGMP) Vendor Specific Codes (Obsolete)

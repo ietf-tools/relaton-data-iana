@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAhttp-message-signature-signature-metadata-parameters
 title:
 - content: HTTP Signature Metadata Parameters

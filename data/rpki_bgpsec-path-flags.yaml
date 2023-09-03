@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArpki-bgpsec-path-flags
 title:
 - content: BGPsec_Path Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAemsk-parameters-emsk-parameters-1
 title:
 - content: User Specific Root Keys (USRK) Key Labels

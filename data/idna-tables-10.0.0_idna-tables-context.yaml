@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAidna-tables-10.0.0-idna-tables-context
 title:
 - content: IDNA Contextual Rules

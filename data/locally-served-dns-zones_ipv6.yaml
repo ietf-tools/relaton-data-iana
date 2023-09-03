@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAlocally-served-dns-zones-ipv6
 title:
 - content: IPv6 Locally-Served DNS Zone Registry

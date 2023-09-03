@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAule-next-headers-ule-next-headers-1
 title:
 - content: Mandatory Extension Headers (or link-dependent type fields) for ULE (Range

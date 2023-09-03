@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAcga-message-types-cga-message-types-1
 title:
 - content: CGA Extension Type Tags

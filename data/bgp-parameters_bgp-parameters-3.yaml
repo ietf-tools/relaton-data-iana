@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbgp-parameters-bgp-parameters-3
 title:
 - content: BGP Error (Notification) Codes

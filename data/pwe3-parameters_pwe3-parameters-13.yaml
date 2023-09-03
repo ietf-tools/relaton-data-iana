@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANApwe3-parameters-pwe3-parameters-13
 title:
 - content: Header Compression Over MPLS PW Control Word Packet Type

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANA_6lowpan-parameters-esc-extension-types
 title:
 - content: ESC Extension Types

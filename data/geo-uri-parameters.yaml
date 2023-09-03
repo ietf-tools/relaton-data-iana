@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAgeo-uri-parameters
 title:
 - content: "'geo' URI Parameters"

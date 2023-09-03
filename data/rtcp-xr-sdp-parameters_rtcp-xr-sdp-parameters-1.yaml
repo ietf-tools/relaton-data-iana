@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArtcp-xr-sdp-parameters-rtcp-xr-sdp-parameters-1
 title:
 - content: RTCP XR SDP Parameters

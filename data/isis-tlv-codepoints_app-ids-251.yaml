@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAisis-tlv-codepoints-app-ids-251
 title:
 - content: IS-IS Application Identifiers for Generic Information TLV

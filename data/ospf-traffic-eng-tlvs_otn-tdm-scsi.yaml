@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAospf-traffic-eng-tlvs-otn-tdm-scsi
 title:
 - content: Types for sub-TLVs of OTN-TDM SCSI (Switching Capability Specific Information)

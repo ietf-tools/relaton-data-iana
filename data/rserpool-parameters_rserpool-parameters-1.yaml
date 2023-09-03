@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArserpool-parameters-rserpool-parameters-1
 title:
 - content: Aggregate Server Access Protocol (ASAP) Message Types

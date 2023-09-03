@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmasque
 title:
 - content: Multiplexed Application Substrate over QUIC Encryption (MASQUE)

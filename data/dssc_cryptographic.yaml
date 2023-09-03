@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAdssc-cryptographic
 title:
 - content: Cryptographic Algorithms

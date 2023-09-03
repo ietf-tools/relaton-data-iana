@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAds-rr-types
 title:
 - content: DNSSEC Delegation Signer (DS) Resource Record (RR) Type Digest Algorithms

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeap-channel-binding-parameters-channel-binding-namespaces
 title:
 - content: EAP Channel-Binding Namespaces

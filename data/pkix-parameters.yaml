@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANApkix-parameters
 title:
 - content: Public Key Infrastructure using X.509 (PKIX) Parameters

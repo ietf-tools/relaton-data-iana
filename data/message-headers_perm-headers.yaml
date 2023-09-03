@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmessage-headers-perm-headers
 title:
 - content: Permanent Message Header Field Names

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAstarttls-validation-result-types
 title:
 - content: STARTTLS Validation Result Types

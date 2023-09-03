@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArtspv2-parameters-range-header
 title:
 - content: Range Header Formats

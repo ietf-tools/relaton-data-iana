@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsfc-active-oam
 title:
 - content: Service Function Chaining (SFC) Active Operations, Administration, and

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAlisp-parameters-lisp-algorithm-id-numbers
 title:
 - content: LISP Algorithm ID Numbers

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbgp-parameters-bgp-l2-tlv-types-registry
 title:
 - content: BGP Layer 2 TLV Types

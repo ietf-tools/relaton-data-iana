@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAhpke-hpke-kem-ids
 title:
 - content: HPKE KEM Identifiers

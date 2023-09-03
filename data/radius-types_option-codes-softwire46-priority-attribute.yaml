@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAradius-types-option-codes-softwire46-priority-attribute
 title:
 - content: Option Codes Permitted in the Softwire46-Priority Attribute

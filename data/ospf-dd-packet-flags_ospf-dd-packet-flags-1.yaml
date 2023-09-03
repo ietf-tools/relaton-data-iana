@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAospf-dd-packet-flags-ospf-dd-packet-flags-1
 title:
 - content: Database Description (DD) Packet Flags

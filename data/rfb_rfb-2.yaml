@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArfb-rfb-2
 title:
 - content: Remote Framebuffer Client-to-Server Message Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArtp-parameters-rtp-parameters-9
 title:
 - content: FMT Values for PSFB Payload Types

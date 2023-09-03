@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAacme-acme-authorization-object-fields
 title:
 - content: ACME Authorization Object Fields

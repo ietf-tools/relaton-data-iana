@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAdkim-parameters-dkim-parameters-6
 title:
 - content: DKIM Key Type

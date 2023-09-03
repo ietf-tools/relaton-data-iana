@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAimap-mailbox-name-attributes
 title:
 - content: IMAP Mailbox Name Attributes

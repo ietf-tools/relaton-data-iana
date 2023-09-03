@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsafi-namespace
 title:
 - content: Subsequent Address Family Identifiers (SAFI) Parameters

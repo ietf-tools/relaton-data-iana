@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAdns-parameters-dns-parameters-13
 title:
 - content: EDNS Header Flags (16 bits)

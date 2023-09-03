@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbootp-dhcp-parameters-dhcpv4-options-atrribute
 title:
 - content: DHCP Options Permitted in the RADIUS DHCPv4-Options Attribute

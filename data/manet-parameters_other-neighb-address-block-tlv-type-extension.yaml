@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmanet-parameters-other-neighb-address-block-tlv-type-extension
 title:
 - content: Type 4 Address Block TLV Type Extensions

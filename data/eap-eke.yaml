@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeap-eke
 title:
 - content: Extensible Authentication Protocol (EAP) Encrypted Key Exchange (EKE) Registry

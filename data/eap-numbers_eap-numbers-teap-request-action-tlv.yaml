@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeap-numbers-eap-numbers-teap-request-action-tlv
 title:
 - content: TEAP Request-Action TLV (value 8) Registry

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArdap-ipv4
 title:
 - content: Bootstrap Service Registry for IPv4 Address Space

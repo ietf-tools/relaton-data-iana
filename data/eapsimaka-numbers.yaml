@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeapsimaka-numbers
 title:
 - content: EAP-AKA and EAP-SIM Parameters

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAisis-tlv-codepoints-isis-sub-sub-tlvs-srv6-sid-sub-tlvs
 title:
 - content: IS-IS Sub-Sub-TLVs for SRv6 SID Sub-TLVs

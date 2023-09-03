@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAtrill-parameters-rbridge-channel-error-codes
 title:
 - content: RBridge Channel Error Codes

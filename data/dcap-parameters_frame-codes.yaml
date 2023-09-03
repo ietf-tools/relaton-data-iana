@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAdcap-parameters-frame-codes
 title:
 - content: Data Link Switching Protocol Frame Codes

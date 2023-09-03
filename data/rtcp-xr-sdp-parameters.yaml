@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArtcp-xr-sdp-parameters
 title:
 - content: RTP Control Protocol Extended Reports (RTCP XR) Session Description Protocol

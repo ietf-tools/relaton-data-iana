@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAcdni-parameters-logging-record-types
 title:
 - content: CDNI Logging record-types

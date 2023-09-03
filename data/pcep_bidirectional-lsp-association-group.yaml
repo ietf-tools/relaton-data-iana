@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANApcep-bidirectional-lsp-association-group
 title:
 - content: Bidirectional LSP Association Group TLV Flag Field

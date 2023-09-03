@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANApcep-lsp-object-flag-field
 title:
 - content: LSP Object Flag Field

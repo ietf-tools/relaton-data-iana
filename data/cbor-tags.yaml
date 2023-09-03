@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAcbor-tags
 title:
 - content: Concise Binary Object Representation (CBOR) Tags

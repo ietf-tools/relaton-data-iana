@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAgss-eap-parameters-error-codes
 title:
 - content: GSS-EAP Error Codes

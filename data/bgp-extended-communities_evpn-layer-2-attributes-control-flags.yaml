@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbgp-extended-communities-evpn-layer-2-attributes-control-flags
 title:
 - content: EVPN Layer 2 Attributes Control Flags

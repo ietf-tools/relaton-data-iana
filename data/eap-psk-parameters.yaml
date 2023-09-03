@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeap-psk-parameters
 title:
 - content: Extensible Authentication Protocol (EAP) EXT_Type Parameters

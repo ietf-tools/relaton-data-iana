@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmpls-lsp-ping-parameters-protocol-label-stack-sub-tlv-downstream-detailed-mapping-tlv
 title:
 - content: Protocol in Label Stack Sub-TLV of Downstream Detailed Mapping TLV

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAiana-dots-signal-channel
 title:
 - content: iana-dots-signal-channel YANG Module

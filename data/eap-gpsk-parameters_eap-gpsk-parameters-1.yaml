@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeap-gpsk-parameters-eap-gpsk-parameters-1
 title:
 - content: EAP-GPSK Ciphersuites

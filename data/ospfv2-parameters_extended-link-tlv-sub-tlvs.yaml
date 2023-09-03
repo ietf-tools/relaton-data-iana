@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAospfv2-parameters-extended-link-tlv-sub-tlvs
 title:
 - content: OSPFv2 Extended Link TLV Sub-TLVs

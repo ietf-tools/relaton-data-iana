@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAancp
 title:
 - content: Access Node Control Protocol (ANCP)

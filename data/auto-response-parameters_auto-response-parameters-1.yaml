@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAauto-response-parameters-auto-response-parameters-1
 title:
 - content: Auto-Submitted header field keywords

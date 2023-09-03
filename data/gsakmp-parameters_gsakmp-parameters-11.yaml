@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAgsakmp-parameters-gsakmp-parameters-11
 title:
 - content: GSAKMP Signature Types

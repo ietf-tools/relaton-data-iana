@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANApcep-no-path-object-flag-field
 title:
 - content: NO-PATH Object Flag Field

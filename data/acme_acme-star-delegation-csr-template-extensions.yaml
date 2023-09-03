@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAacme-acme-star-delegation-csr-template-extensions
 title:
 - content: STAR Delegation CSR Template Extensions

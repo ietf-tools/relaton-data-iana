@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAradius-types-radius-types-6
 title:
 - content: Values for RADIUS Attribute 10, Framed-Routing

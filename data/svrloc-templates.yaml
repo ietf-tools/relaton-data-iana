@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsvrloc-templates
 title:
 - content: Service Location Protocol, Version 2 (SLPv2) Templates

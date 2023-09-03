@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsigtran-adapt-sigtran-adapt-8
 title:
 - content: Message Types - MTP2 User Adaptation (MAUP) Messages (Value 6)

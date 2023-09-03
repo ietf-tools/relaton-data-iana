@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsmtp-enhanced-status-codes
 title:
 - content: Simple Mail Transfer Protocol (SMTP) Enhanced Status Codes Registry

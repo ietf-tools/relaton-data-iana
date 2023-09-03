@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsnoop-datalink-types
 title:
 - content: Snoop Datalink Types

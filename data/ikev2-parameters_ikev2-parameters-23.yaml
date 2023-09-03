@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAikev2-parameters-ikev2-parameters-23
 title:
 - content: ROHC Attribute Types

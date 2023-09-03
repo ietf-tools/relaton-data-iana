@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAiodef2-bulkobservable-type
 title:
 - content: BulkObservable-type

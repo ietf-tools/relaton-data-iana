@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbgp-well-known-communities-bgp-well-known-communities-1
 title:
 - content: BGP Well-known Communities

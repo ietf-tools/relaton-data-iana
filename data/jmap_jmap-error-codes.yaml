@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAjmap-jmap-error-codes
 title:
 - content: JMAP Error Codes

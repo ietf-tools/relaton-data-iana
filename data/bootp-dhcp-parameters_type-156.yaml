@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbootp-dhcp-parameters-type-156
 title:
 - content: DHCP State Type 156 Values

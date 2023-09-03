@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANArpl-routing-metric-constraint-rmc-tlv
 title:
 - content: Routing Metric/Constraint TLVs

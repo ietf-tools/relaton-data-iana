@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAurlauth-authorization-mechanism-registry-urlauth-authorization-mechanism-registry-1
 title:
 - content: IMAP URLAUTH Authorization Mechanism Registry

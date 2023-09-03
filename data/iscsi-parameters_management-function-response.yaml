@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAiscsi-parameters-management-function-response
 title:
 - content: iSCSI Task Management Function Response Codes

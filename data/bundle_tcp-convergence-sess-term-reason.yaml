@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAbundle-tcp-convergence-sess-term-reason
 title:
 - content: Bundle Protocol TCP Convergence-Layer Version 4 SESS_TERM Reason Codes

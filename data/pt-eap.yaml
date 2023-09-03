@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANApt-eap
 title:
 - content: 'PT-EAP: Posture Transport (PT) Protocol For EAP Tunnel Methods'

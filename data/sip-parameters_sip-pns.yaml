@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAsip-parameters-sip-pns
 title:
 - content: Push Notification Service (PNS)

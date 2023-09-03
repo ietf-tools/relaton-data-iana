@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAhttp3-parameters-http3-parameters-error-codes
 title:
 - content: HTTP/3 Error Codes

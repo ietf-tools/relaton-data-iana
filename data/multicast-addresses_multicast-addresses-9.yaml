@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmulticast-addresses-multicast-addresses-9
 title:
 - content: RESERVED (225.0.0.0-231.255.255.255 (7 /8s))

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmobility-parameters-mobility-parameters-8
 title:
 - content: Subtype Field of the MN-HA and MN-AAA Authentication Mobility Options

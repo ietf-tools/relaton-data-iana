@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAmpls-lsp-ping-parameters-protocol-segment-id-sub-tlv
 title:
 - content: Protocol in the Segment ID Sub-TLV

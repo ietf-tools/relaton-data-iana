@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAaaa-parameters-mip6-authentication-mode
 title:
 - content: MIP6 Authentication Mode Registry

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAnntp-parameters-compression-algorithms
 title:
 - content: NNTP Compression Algorithms

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.3
+schema-version: v1.2.4
 id: IANAeap-sake-parameters
 title:
 - content: Extensible Authentication Protocol Method for Shared-secret Authentication
