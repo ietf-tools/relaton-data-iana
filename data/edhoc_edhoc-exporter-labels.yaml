@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.4
-id: IANAedhoc-edhoc-method-type
+id: IANAedhoc-edhoc-exporter-labels
 title:
-- content: EDHOC Method Type
+- content: EDHOC Exporter Labels
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/edhoc
   type: src
 type: standard
 docid:
-- id: IANA edhoc/edhoc-method-type
+- id: IANA edhoc/edhoc-exporter-labels
   type: IANA
   primary: true
-docnumber: edhoc/edhoc-method-type
+docnumber: edhoc/edhoc-exporter-labels
 date:
 - type: created
   value: '2023-08-28'
 - type: updated
-  value: '2023-08-28'
+  value: '2023-09-05'
 contributor:
 - organization:
     name:
