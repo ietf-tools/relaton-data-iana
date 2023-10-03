@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.4
-id: IANArdap-extensions
+id: IANArdap-reverse-search-mapping-rdap-reverse-search-mapping
 title:
-- content: RDAP Extensions
+- content: RDAP Reverse Search Mapping
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rdap-extensions
+- content: http://www.iana.org/assignments/rdap-reverse-search-mapping
   type: src
 type: standard
 docid:
-- id: IANA rdap-extensions
+- id: IANA rdap-reverse-search-mapping/rdap-reverse-search-mapping
   type: IANA
   primary: true
-docnumber: rdap-extensions
+docnumber: rdap-reverse-search-mapping/rdap-reverse-search-mapping
 date:
 - type: created
-  value: '2015-01-12'
+  value: '2023-10-02'
 - type: updated
   value: '2023-10-02'
 contributor:
