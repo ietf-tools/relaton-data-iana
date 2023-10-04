@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.4
-id: IANAmedia-types-audio
+id: IANAjsonpath-function-extensions
 title:
-- content: audio
+- content: Function Extensions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-types
+- content: http://www.iana.org/assignments/jsonpath
   type: src
 type: standard
 docid:
-- id: IANA media-types/audio
+- id: IANA jsonpath/function-extensions
   type: IANA
   primary: true
-docnumber: media-types/audio
+docnumber: jsonpath/function-extensions
 date:
+- type: created
+  value: '2023-10-03'
 - type: updated
   value: '2023-10-03'
 contributor:
