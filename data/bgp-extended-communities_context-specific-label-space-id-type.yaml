@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.4
-id: IANAbgp-extended-communities-sfc-extended-community
+id: IANAbgp-extended-communities-context-specific-label-space-id-type
 title:
-- content: SFC Extended Community Sub-Types
+- content: Context-Specific Label Space ID Type
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/bgp-extended-communities
   type: src
 type: standard
 docid:
-- id: IANA bgp-extended-communities/sfc-extended-community
+- id: IANA bgp-extended-communities/context-specific-label-space-id-type
   type: IANA
   primary: true
-docnumber: bgp-extended-communities/sfc-extended-community
+docnumber: bgp-extended-communities/context-specific-label-space-id-type
 date:
 - type: created
   value: '2005-08-15'
