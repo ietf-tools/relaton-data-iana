@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.4
-id: IANAbgp-ls-parameters-bgp-ls-mpls-protocol-mask
+id: IANAjscontact-jscontact-properties
 title:
-- content: BGP-LS MPLS Protocol Mask
+- content: JSContact Properties
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-ls-parameters
+- content: http://www.iana.org/assignments/jscontact
   type: src
 type: standard
 docid:
-- id: IANA bgp-ls-parameters/bgp-ls-mpls-protocol-mask
+- id: IANA jscontact/jscontact-properties
   type: IANA
   primary: true
-docnumber: bgp-ls-parameters/bgp-ls-mpls-protocol-mask
+docnumber: jscontact/jscontact-properties
 date:
 - type: created
-  value: '2015-11-03'
+  value: '2023-10-27'
 - type: updated
   value: '2023-10-27'
 contributor:

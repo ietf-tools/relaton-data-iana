@@ -2,7 +2,7 @@
 schema-version: v1.2.4
 id: IANAsmi-numbers-smi-numbers-1.3.6.1.2.1.198.4
 title:
-- content: SNMP-TLSTM HashAlgorithm
+- content: SNMP-TLSTM HashAlgorithms
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/smi-numbers
@@ -15,7 +15,7 @@ docid:
 docnumber: smi-numbers/smi-numbers-1.3.6.1.2.1.198.4
 date:
 - type: updated
-  value: '2023-09-22'
+  value: '2023-10-27'
 contributor:
 - organization:
     name:
