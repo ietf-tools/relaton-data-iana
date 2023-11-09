@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.4
-id: IANAsmi-numbers-smi-numbers-10
+id: IANAcbor-tags-time-tag-map-keys
 title:
-- content: MIB - Remote Network Monitoring
+- content: Time Tag Map Keys
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/cbor-tags
   type: src
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-10
+- id: IANA cbor-tags/time-tag-map-keys
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-10
+docnumber: cbor-tags/time-tag-map-keys
 date:
+- type: created
+  value: '2013-09-19'
 - type: updated
   value: '2023-11-08'
 contributor:

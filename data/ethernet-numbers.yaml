@@ -2,7 +2,7 @@
 schema-version: v1.2.4
 id: IANAethernet-numbers
 title:
-- content: Ethernet Numbers
+- content: IANA OUI Ethernet Numbers
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/ethernet-numbers
@@ -15,7 +15,7 @@ docid:
 docnumber: ethernet-numbers
 date:
 - type: updated
-  value: '2020-12-14'
+  value: '2023-11-09'
 contributor:
 - organization:
     name:

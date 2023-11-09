@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.4
-id: IANAsmi-numbers-smi-numbers-10
+id: IANAethernet-numbers-iana-lldp-tlv-subtypes
 title:
-- content: MIB - Remote Network Monitoring
+- content: IANA Link Layer Discovery Protocol (LLDP) TLV Subtypes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/ethernet-numbers
   type: src
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-10
+- id: IANA ethernet-numbers/iana-lldp-tlv-subtypes
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-10
+docnumber: ethernet-numbers/iana-lldp-tlv-subtypes
 date:
 - type: updated
-  value: '2023-11-08'
+  value: '2023-11-09'
 contributor:
 - organization:
     name:
