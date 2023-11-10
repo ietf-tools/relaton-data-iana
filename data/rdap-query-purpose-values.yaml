@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.4
-id: IANAmedia-types-audio
+id: IANArdap-query-purpose-values
 title:
-- content: audio
+- content: Registration Data Access Protocol (RDAP) Query Purpose Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-types
+- content: http://www.iana.org/assignments/rdap-query-purpose-values
   type: src
 type: standard
 docid:
-- id: IANA media-types/audio
+- id: IANA rdap-query-purpose-values
   type: IANA
   primary: true
-docnumber: media-types/audio
+docnumber: rdap-query-purpose-values
 date:
+- type: created
+  value: '2023-11-09'
 - type: updated
   value: '2023-11-09'
 contributor:
