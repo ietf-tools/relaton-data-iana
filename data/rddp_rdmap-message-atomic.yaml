@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANArddp-rdmap-message-atomic
 title:
 - content: RDMAP Message Atomic Operation Subcodes

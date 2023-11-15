@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAtesla-parameters
 title:
 - content: Timed Efficient Stream Loss-tolerant Authentication (TESLA) Parameters

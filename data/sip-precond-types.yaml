@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAsip-precond-types
 title:
 - content: Precondition Types Used with Session Initiation Protocol (SIP)

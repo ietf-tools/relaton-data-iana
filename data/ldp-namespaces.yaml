@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAldp-namespaces
 title:
 - content: Label Distribution Protocol (LDP) Parameters

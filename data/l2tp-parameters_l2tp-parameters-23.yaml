@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAl2tp-parameters-l2tp-parameters-23
 title:
 - content: ATM Alarm Status AVP (Attribute Type 88) Values

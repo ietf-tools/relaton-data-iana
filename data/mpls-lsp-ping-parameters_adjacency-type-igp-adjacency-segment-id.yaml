@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmpls-lsp-ping-parameters-adjacency-type-igp-adjacency-segment-id
 title:
 - content: Adjacency Type in the IGP-Adjacency Segment ID

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAgsmpv3-event
 title:
 - content: Global Switch Management Protocol version 3 (GSMPv3) Event Flag Name Space

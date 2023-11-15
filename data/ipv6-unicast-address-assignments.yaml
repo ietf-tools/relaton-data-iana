@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAipv6-unicast-address-assignments
 title:
 - content: IPv6 Global Unicast Address Assignments

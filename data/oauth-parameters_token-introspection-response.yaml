@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAoauth-parameters-token-introspection-response
 title:
 - content: OAuth Token Introspection Response

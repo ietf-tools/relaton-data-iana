@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAecml-parameters-ecml-parameters-1
 title:
 - content: 'URN Prefix: urn:ietf:params:ecml'

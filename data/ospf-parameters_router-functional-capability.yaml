@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAospf-parameters-router-functional-capability
 title:
 - content: OSPF Router Functional Capability Bits

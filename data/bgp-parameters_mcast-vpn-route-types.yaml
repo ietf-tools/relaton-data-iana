@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbgp-parameters-mcast-vpn-route-types
 title:
 - content: BGP MCAST-VPN Route Types

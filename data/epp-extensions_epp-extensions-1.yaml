@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAepp-extensions-epp-extensions-1
 title:
 - content: Extensions for the Extensible Provisioning Protocol (EPP)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANArtsp-parameters-rtsp-parameters-3
 title:
 - content: RTSP/1.0 Status Codes

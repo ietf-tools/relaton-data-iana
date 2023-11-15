@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmobility-parameters-home-address-reply
 title:
 - content: IPv4 Home Address Reply Status Codes

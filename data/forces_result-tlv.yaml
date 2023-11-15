@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAforces-result-tlv
 title:
 - content: RESULT-TLV Result Values

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAlmp-parameters-lmp-parameters-4
 title:
 - content: LMP Object Class name space and Class type (C-Type)

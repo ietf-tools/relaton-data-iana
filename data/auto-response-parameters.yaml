@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAauto-response-parameters
 title:
 - content: Automatic Responses to Electronic Mail Parameters

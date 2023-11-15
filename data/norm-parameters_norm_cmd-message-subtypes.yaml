@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAnorm-parameters-norm_cmd-message-subtypes
 title:
 - content: NORM_CMD Message Sub-types

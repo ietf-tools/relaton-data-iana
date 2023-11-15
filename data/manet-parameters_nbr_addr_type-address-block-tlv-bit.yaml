@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmanet-parameters-nbr_addr_type-address-block-tlv-bit
 title:
 - content: NBR_ADDR_TYPE Address Block TLV Bit Values

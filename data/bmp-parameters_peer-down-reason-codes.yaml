@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbmp-parameters-peer-down-reason-codes
 title:
 - content: BMP Peer Down Reason Codes

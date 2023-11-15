@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANArtsp-parameters
 title:
 - content: Real Time Streaming Protocol (RTSP)/1.0 Parameters

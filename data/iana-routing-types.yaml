@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAiana-routing-types
 title:
 - content: iana-routing-types YANG Module

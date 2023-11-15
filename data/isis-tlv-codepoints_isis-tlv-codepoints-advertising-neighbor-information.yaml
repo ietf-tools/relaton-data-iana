@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAisis-tlv-codepoints-isis-tlv-codepoints-advertising-neighbor-information
 title:
 - content: IS-IS Sub-TLVs for TLVs Advertising Neighbor Information

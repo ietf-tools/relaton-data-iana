@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANArolie
 title:
 - content: Resource-Oriented Lightweight Information Exchange (ROLIE) URN Parameters

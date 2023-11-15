@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmulticast-addresses-multicast-addresses-13
 title:
 - content: Relative Addresses used with Scoped Multicast Addresses

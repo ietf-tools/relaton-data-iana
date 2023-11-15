@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbgp-extended-communities-generic-transitive-experimental-part2
 title:
 - content: Generic Transitive Extended Community Part 2 Sub-Types

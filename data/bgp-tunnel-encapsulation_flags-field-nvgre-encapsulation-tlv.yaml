@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbgp-tunnel-encapsulation-flags-field-nvgre-encapsulation-tlv
 title:
 - content: Flags Field of NVGRE Encapsulation Sub-TLVs

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAemergency-call-metadata-control-data-emergency-call-vehicle-camera-id
 title:
 - content: Emergency Call Vehicle Camera IDs

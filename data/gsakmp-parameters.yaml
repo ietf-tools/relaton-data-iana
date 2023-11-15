@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAgsakmp-parameters
 title:
 - content: Group Secure Association Group Management Protocol (GSAKMP) Parameters

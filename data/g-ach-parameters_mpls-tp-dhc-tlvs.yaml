@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAg-ach-parameters-mpls-tp-dhc-tlvs
 title:
 - content: MPLS-TP DHC TLVs

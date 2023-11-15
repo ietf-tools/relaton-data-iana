@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAikev2-parameters-ikev2-post-quantum-preshared-key-id-types
 title:
 - content: IKEv2 Post-quantum Preshared Key ID Types

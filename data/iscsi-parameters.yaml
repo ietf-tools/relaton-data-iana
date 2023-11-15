@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAiscsi-parameters
 title:
 - content: Internet Small Computer System Interface (iSCSI) Parameters

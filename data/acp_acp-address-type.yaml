@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAacp-acp-address-type
 title:
 - content: ACP Address Type

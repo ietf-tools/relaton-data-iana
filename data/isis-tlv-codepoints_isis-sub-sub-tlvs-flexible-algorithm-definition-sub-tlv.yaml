@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAisis-tlv-codepoints-isis-sub-sub-tlvs-flexible-algorithm-definition-sub-tlv
 title:
 - content: IS-IS Sub-Sub-TLVs for Flexible Algorithm Definition Sub-TLV

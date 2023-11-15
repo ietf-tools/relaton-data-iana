@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAospf-opaque-types-ospf-opaque-types-2
 title:
 - content: Opaque Link-State Advertisements (LSA) Option Types

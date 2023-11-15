@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANA_6lowpan-parameters
 title:
 - content: IPv6 Low Power Personal Area Network Parameters

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAdhcpv6-parameters-radius-option-attributes
 title:
 - content: RADIUS Attributes Permitted in DHCPv6 RADIUS Option

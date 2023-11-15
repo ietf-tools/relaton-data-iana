@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAcore-parameters-if-link-target-att-value
 title:
 - content: Interface Description (if=) Link Target Attribute Values

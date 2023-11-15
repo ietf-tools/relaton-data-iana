@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAtrill-parameters-neighbor-record-flags
 title:
 - content: TRILL Neighbor TLV NEIGHBOR RECORD Flags

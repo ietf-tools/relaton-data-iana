@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAnovell-sap-numbers
 title:
 - content: Novell Service Advisor Protocol (SAP) Numbers - Novell Object Types

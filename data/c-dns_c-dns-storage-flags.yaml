@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAc-dns-c-dns-storage-flags
 title:
 - content: C-DNS Storage Flags

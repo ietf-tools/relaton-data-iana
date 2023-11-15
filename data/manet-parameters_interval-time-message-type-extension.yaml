@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmanet-parameters-interval-time-message-type-extension
 title:
 - content: Type 0 Message TLV Type Extensions

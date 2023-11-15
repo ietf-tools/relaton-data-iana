@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbootp-dhcp-parameters-relay-agent-sub-options
 title:
 - content: DHCP Relay Agent Sub-Option Codes

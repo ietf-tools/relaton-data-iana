@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAtwamp-parameters-twamp-parameters-1
 title:
 - content: TWAMP-Control Command Numbers

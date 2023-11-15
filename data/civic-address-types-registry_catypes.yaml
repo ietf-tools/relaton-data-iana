@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAcivic-address-types-registry-catypes
 title:
 - content: Civic Address Types (CAtypes)

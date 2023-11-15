@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAemergency-call-additional-data
 title:
 - content: Emergency Call Additional Data

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAidna-tables-12.0.0
 title:
 - content: IDNA Rules and Derived Property Values

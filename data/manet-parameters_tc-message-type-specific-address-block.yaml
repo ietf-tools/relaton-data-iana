@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmanet-parameters-tc-message-type-specific-address-block
 title:
 - content: TC Message-Type-specific Address Block TLV Types

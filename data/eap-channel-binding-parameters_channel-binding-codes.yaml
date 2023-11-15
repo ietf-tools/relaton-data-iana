@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAeap-channel-binding-parameters-channel-binding-codes
 title:
 - content: EAP Channel-Binding Codes

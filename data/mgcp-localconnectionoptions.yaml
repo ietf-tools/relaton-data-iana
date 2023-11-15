@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmgcp-localconnectionoptions
 title:
 - content: Media Gateway Control Protocol (MGCP)

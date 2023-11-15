@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAaodv-parameters-message-types
 title:
 - content: AODV Message Types (for messages sent to port 654)

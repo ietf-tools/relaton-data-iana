@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAprophet-rib-tlv-flags
 title:
 - content: RIB TLV Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAscep-scep-message-types
 title:
 - content: SCEP Message Types

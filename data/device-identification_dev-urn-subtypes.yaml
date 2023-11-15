@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAdevice-identification-dev-urn-subtypes
 title:
 - content: DEV URN Subtypes

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAgmpls-sig-parameters-gmpls-sig-parameters-2
 title:
 - content: LSP Encoding Types

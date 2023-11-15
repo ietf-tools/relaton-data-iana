@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmobility-parameters-binding-revocation-status-codes
 title:
 - content: Binding Revocation Acknowledgement Status Codes

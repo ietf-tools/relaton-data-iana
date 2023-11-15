@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAjose-web-key-use
 title:
 - content: JSON Web Key Use

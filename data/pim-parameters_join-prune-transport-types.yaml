@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANApim-parameters-join-prune-transport-types
 title:
 - content: PIM Join/Prune Transport Types

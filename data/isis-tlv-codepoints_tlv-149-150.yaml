@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAisis-tlv-codepoints-tlv-149-150
 title:
 - content: IS-IS Sub-TLVs for Segment Identifier/Label Binding TLVs

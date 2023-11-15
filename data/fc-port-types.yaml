@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAfc-port-types
 title:
 - content: Fibre Channel Port Types Registry

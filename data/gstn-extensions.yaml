@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAgstn-extensions
 title:
 - content: Global Switched Telephone Network (GSTN) Address Element Extensions in

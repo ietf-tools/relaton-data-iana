@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAcore-parameters-core-custom-problem-detail-keys
 title:
 - content: Custom Problem Detail Keys

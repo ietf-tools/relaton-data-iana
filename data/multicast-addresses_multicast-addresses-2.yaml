@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmulticast-addresses-multicast-addresses-2
 title:
 - content: Internetwork Control Block (224.0.1.0 - 224.0.1.255  (224.0.1/24))

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbgp-parameters-long-lived-graceful-restart-flags-for-address-family
 title:
 - content: Long-lived Graceful Restart Flags for Address Family

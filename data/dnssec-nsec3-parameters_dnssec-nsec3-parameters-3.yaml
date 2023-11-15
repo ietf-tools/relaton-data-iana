@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAdnssec-nsec3-parameters-dnssec-nsec3-parameters-3
 title:
 - content: DNSSEC NSEC3 Hash Algorithms

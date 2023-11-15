@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAisis-tlv-codepoints-isis-srv6-end-sid-sub-tlvs-flags
 title:
 - content: IS-IS SRv6 End SID Sub-TLV Flags

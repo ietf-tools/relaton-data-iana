@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAsip-clf-parameters-transport-flag
 title:
 - content: SIP CLF Transport Flag Values

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAmanet-parameters-interval-time-address-block-tlv-type-extension
 title:
 - content: Type 0 Address Block TLV Type Extensions

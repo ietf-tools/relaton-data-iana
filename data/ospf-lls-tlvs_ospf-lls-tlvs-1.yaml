@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAospf-lls-tlvs-ospf-lls-tlvs-1
 title:
 - content: Link Local Signalling TLV Identifiers (LLS Types)

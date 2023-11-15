@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAgist-parameters-gist-objects
 title:
 - content: GIST Object Types

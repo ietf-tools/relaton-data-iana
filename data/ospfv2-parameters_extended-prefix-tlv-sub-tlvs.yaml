@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAospfv2-parameters-extended-prefix-tlv-sub-tlvs
 title:
 - content: OSPFv2 Extended Prefix TLV Sub-TLVs

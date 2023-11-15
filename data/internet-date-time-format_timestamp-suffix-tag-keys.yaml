@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAinternet-date-time-format-timestamp-suffix-tag-keys
 title:
 - content: Timestamp Suffix Tag Keys

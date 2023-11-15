@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAeap-numbers-eap-numbers-2
 title:
 - content: EAP Initiate and Finish Attributes

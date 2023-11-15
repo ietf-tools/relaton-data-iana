@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbundle-status-reason
 title:
 - content: Bundle Status Report Reason Codes

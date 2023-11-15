@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANApcep-te-path-binding-tlv-bt
 title:
 - content: TE-PATH-BINDING TLV BT Field

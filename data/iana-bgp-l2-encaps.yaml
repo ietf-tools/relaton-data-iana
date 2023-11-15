@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAiana-bgp-l2-encaps
 title:
 - content: iana-bgp-l2-encaps YANG Module

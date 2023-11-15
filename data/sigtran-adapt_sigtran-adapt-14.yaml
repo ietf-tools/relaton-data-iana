@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAsigtran-adapt-sigtran-adapt-14
 title:
 - content: Message Types - Security Messages (Value 12)

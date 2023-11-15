@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANA_6tisch
 title:
 - content: IPv6 Over the TSCH Mode of IEEE 802.15.4 (6TiSCH)

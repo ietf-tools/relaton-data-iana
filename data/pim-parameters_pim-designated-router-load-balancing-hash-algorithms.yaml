@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANApim-parameters-pim-designated-router-load-balancing-hash-algorithms
 title:
 - content: PIM Designated Router Load-Balancing Hash Algorithms

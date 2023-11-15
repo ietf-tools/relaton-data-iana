@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAospfv3-parameters
 title:
 - content: Open Shortest Path First v3 (OSPFv3) Parameters

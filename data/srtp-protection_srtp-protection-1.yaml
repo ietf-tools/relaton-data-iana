@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAsrtp-protection-srtp-protection-1
 title:
 - content: DTLS-SRTP Protection Profiles

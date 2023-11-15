@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAg-ach-parameters-cc-cv-mep-id
 title:
 - content: CC/CV MEP-ID TLV Registry

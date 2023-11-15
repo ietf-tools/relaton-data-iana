@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbgp-extended-communities-trans-ipv4
 title:
 - content: Transitive IPv4-Address-Specific Extended Community Sub-Types

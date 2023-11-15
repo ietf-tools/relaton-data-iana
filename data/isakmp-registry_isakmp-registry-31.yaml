@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAisakmp-registry-isakmp-registry-31
 title:
 - content: IPSEC Identification Type

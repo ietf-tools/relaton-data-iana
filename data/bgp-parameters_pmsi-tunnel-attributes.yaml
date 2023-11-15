@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAbgp-parameters-pmsi-tunnel-attributes
 title:
 - content: P-Multicast Service Interface (PMSI) Tunnel Attribute Flags

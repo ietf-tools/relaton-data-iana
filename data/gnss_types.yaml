@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAgnss-types
 title:
 - content: Global Navigation Satellite System (GNSS) Types

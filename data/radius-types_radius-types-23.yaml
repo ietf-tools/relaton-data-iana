@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.4
+schema-version: v1.2.5
 id: IANAradius-types-radius-types-23
 title:
 - content: Location-Capable Attribute (Attribute 131)
