@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.5
-id: IANAbgp-parameters-srv6-service-sub-tlv-types
+id: IANAUUID
 title:
-- content: SRv6 Service Sub-TLV Types
+- content: UUID
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-parameters
+- content: http://www.iana.org/assignments/UUID
   type: src
 type: standard
 docid:
-- id: IANA bgp-parameters/srv6-service-sub-tlv-types
+- id: IANA UUID
   type: IANA
   primary: true
-docnumber: bgp-parameters/srv6-service-sub-tlv-types
+docnumber: UUID
 date:
+- type: created
+  value: '2023-11-17'
 - type: updated
   value: '2023-11-17'
 contributor:
