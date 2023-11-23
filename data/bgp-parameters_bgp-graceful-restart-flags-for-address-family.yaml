@@ -15,7 +15,7 @@ docid:
 docnumber: bgp-parameters/bgp-graceful-restart-flags-for-address-family
 date:
 - type: updated
-  value: '2023-11-17'
+  value: '2023-11-22'
 contributor:
 - organization:
     name:
