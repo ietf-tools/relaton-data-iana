@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAflow-spec
 title:
 - content: Flow Spec Component Types

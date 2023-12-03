@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-channel-binding-parameters
 title:
 - content: Extensible Authentication Protocol (EAP) Channel-Binding Parameters

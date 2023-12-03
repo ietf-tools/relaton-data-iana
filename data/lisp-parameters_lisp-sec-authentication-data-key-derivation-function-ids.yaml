@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAlisp-parameters-lisp-sec-authentication-data-key-derivation-function-ids
 title:
 - content: LISP-SEC Authentication Data Key Derivation Function IDs

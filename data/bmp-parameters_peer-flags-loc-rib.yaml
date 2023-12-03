@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbmp-parameters-peer-flags-loc-rib
 title:
 - content: BMP Peer Flags for Loc-RIB Instance Peer Type 3

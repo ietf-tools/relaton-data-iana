@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAssh-parameters-ssh-parameters-12
 title:
 - content: Connection Protocol Global Request Names

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdhcpv6-parameters-option-codes-s46-priority-option
 title:
 - content: Option Codes Permitted in the S46 Priority Option

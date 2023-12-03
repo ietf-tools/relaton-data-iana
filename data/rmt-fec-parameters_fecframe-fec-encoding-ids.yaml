@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArmt-fec-parameters-fecframe-fec-encoding-ids
 title:
 - content: FEC Framework (FECFRAME) FEC Encoding IDs

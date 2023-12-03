@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsdp-parameters-cs-correlation-values
 title:
 - content: '"cs-correlation" Attribute Values'

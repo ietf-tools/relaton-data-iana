@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAgmpls-sig-parameters-gmpls-sig-parameters-8
 title:
 - content: Administrative Status Information Flags

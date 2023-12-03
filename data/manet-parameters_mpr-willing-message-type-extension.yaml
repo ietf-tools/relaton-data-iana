@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmanet-parameters-mpr-willing-message-type-extension
 title:
 - content: Type 7 Message TLV Type Extensions

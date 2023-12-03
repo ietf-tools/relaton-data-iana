@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbgp-ls-parameters-bgp-ls-node-flags
 title:
 - content: BGP-LS Node Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbgp-ls-parameters
 title:
 - content: Border Gateway Protocol - Link State (BGP-LS) Parameters

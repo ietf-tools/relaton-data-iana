@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmikey-payloads-mikey-payloads-7
 title:
 - content: Key Data Transport Payload Field Names

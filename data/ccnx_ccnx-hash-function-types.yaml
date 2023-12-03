@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAccnx-ccnx-hash-function-types
 title:
 - content: CCNx Hash Function Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdns-parameters-dns-parameters-11
 title:
 - content: DNS EDNS0 Option Codes (OPT)

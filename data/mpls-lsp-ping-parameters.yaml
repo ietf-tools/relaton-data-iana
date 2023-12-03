@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmpls-lsp-ping-parameters
 title:
 - content: Multiprotocol Label Switching (MPLS) Label Switched Paths (LSPs) Ping Parameters

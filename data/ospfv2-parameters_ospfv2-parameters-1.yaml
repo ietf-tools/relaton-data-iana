@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAospfv2-parameters-ospfv2-parameters-1
 title:
 - content: OSPFv2 Options Registry (8 bits)

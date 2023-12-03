@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAlisp-parameters-lisp-address-type-codes-registry
 title:
 - content: LISP Address Type Codes (CLOSED)

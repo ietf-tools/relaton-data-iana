@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApim-parameters-message-types
 title:
 - content: PIM Message Types

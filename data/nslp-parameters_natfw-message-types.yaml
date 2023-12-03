@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAnslp-parameters-natfw-message-types
 title:
 - content: NATFW NSLP Message Types

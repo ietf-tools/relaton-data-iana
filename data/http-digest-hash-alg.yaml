@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAhttp-digest-hash-alg
 title:
 - content: Hash Algorithms for HTTP Digest Fields

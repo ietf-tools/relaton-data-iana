@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAemail-auth-property-types
 title:
 - content: Email Authentication Property Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsip-table
 title:
 - content: Registry for the Session Initiation Protocol (SIP) NAPTR Resource Record

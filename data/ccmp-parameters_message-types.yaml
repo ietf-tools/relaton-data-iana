@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAccmp-parameters-message-types
 title:
 - content: CCMP Message Types

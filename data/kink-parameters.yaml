@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAkink-parameters
 title:
 - content: Kerberized Internet Negotiation of Keys (KINK) Parameters

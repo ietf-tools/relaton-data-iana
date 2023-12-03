@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-fast-parameters-eap-fast-parameters-5
 title:
 - content: EAP-FAST PAC Types

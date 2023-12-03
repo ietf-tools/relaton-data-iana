@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAperc-perc-dtls-tunnel-message-types
 title:
 - content: Datagram Transport Layer Security (DTLS) Tunnel Protocol Message Types

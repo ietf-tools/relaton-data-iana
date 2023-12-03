@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpl-routing-metric-constraint-rmc-type
 title:
 - content: Routing Metric/Constraint Type

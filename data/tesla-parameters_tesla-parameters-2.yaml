@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAtesla-parameters-tesla-parameters-2
 title:
 - content: Cryptographic Message Authentication Code (MAC) Function, TESLA-MAC Values

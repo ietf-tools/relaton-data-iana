@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAip-parameters-ipv4-router-alert-option-values
 title:
 - content: IPv4 Router Alert Option Values

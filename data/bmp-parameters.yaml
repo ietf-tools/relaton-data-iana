@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbmp-parameters
 title:
 - content: BGP Monitoring Protocol (BMP) Parameters

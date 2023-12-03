@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAlisp-parameters-lisp-shared-extension-message-type-sub-types
 title:
 - content: LISP Shared Extension Message Type Sub-types

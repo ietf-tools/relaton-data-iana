@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAipv6-interface-ids
 title:
 - content: Reserved IPv6 Interface Identifiers

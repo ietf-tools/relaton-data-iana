@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsmi-numbers
 title:
 - content: Structure of Management Information (SMI) Numbers (MIB Module Registrations)

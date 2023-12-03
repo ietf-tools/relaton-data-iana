@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmegaco-h248-megaco-h248-3
 title:
 - content: Private packages (0x8000 to 0xffff)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpl-routing-metric-constraint-hop-count-object-flag
 title:
 - content: Hop-Count Object Flag field

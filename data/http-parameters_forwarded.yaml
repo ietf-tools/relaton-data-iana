@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAhttp-parameters-forwarded
 title:
 - content: HTTP Forwarded Parameters

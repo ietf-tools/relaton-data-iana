@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAisis-tlv-codepoints-isis-tlv-codepoints-242
 title:
 - content: IS-IS Sub-TLVs for IS-IS Router CAPABILITY TLV

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAnslp-parameters-natfw-header-flags
 title:
 - content: NATFW NSLP Header Flags

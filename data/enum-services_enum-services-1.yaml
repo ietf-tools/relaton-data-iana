@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAenum-services-enum-services-1
 title:
 - content: Enumservice Registrations

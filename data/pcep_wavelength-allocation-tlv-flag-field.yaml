@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApcep-wavelength-allocation-tlv-flag-field
 title:
 - content: Wavelength Allocation TLV Flag Field

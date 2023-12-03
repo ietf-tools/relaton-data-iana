@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAkerberos-v-gss-api-token-types
 title:
 - content: Kerberos V GSS-API Token Type Identifiers

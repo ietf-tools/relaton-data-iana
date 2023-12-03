@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpc-authentication-numbers-status
 title:
 - content: RPC Authentication Status Numbers

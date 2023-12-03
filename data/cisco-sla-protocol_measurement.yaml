@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcisco-sla-protocol-measurement
 title:
 - content: Cisco SLA Protocol Measurement-Type Registry

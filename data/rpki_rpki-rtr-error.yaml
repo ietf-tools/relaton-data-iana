@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpki-rpki-rtr-error
 title:
 - content: rpki-rtr-error

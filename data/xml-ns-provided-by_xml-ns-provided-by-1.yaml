@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAxml-ns-provided-by-xml-ns-provided-by-1
 title:
 - content: XML Namespaces for 'provided-by' elements for use with PIDF-LO objects

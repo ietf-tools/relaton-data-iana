@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmanet-parameters-message-tlv-hello
 title:
 - content: HELLO Message-Type-specific Message TLV Types

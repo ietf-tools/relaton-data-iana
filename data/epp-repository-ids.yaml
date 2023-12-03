@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAepp-repository-ids
 title:
 - content: Extensible Provisioning Protocol (EPP) Repository Identifiers

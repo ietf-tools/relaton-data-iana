@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAstun-parameters-stun-security-features
 title:
 - content: STUN Security Features

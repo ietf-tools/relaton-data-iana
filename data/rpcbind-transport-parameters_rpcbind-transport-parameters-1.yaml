@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpcbind-transport-parameters-rpcbind-transport-parameters-1
 title:
 - content: Transport semantics (r_nc_semantics)

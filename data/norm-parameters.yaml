@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAnorm-parameters
 title:
 - content: Negative-ACKnowledgment (NACK) Oriented Reliable Multicast (NORM) Parameters

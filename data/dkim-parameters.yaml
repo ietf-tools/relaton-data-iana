@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdkim-parameters
 title:
 - content: DomainKeys Identified Mail (DKIM) Parameters

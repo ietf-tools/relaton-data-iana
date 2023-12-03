@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdscp-registry-dscp-registry-1
 title:
 - content: Differentiated Services Field Codepoints (DSCP)

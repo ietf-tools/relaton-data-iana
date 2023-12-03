@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAioam-capabilities-ioam-tsf-capability
 title:
 - content: IOAM TSF Capability

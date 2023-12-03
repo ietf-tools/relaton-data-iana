@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmta-sts-mta-sts-txt-record-fields
 title:
 - content: MTA-STS TXT Record Fields

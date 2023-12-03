@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcapability-codes-bgp-role-value
 title:
 - content: BGP Role Value

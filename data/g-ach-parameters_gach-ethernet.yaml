@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAg-ach-parameters-gach-ethernet
 title:
 - content: 'G-ACh Advertisement Protocol: Ethernet Interface Parameters'

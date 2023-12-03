@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAoauth-parameters-extensions-error
 title:
 - content: OAuth Extensions Error Registry

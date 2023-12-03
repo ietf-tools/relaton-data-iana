@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcdni-parameters-cdni-uri-signing-signed-token-transport
 title:
 - content: CDNI URI Signing Signed Token Transport

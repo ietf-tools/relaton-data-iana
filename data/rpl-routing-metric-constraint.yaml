@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpl-routing-metric-constraint
 title:
 - content: Routing Protocol for Low Power and Lossy Networks (RPL) Routing Metric/Constraint

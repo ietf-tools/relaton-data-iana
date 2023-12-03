@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbgp-parameters-bgp-prefix-sid-originator-srgb-tlv-flags
 title:
 - content: BGP Prefix-SID Originator SRGB TLV Flags

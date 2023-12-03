@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAiax-parameters-iax-parameters-8
 title:
 - content: IAX Dialplan Status Flags

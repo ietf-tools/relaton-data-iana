@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmpls-label-values-special-purpose
 title:
 - content: Base Special-Purpose MPLS Label Values

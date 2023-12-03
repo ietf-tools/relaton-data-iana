@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAroute-distinguisher-types-route-distinguisher-types-2
 title:
 - content: Route Distinguisher Type Field

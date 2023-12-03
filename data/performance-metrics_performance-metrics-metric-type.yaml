@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAperformance-metrics-performance-metrics-metric-type
 title:
 - content: Performance Metric Name Elements -  Metric Type

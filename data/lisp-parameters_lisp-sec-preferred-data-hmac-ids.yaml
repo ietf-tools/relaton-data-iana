@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAlisp-parameters-lisp-sec-preferred-data-hmac-ids
 title:
 - content: LISP-SEC Preferred Authentication Data HMAC IDs

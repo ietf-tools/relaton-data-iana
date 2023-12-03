@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAisis-tlv-codepoints-isis-srv6-capabilities-sub-tlv-flags
 title:
 - content: IS-IS SRv6 Capabilities Sub-TLV Flags

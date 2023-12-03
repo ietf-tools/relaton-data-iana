@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAhttp-dig-alg-http-dig-alg-1
 title:
 - content: HTTP Digest Algorithm Values

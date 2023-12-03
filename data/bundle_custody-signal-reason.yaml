@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbundle-custody-signal-reason
 title:
 - content: Bundle Custody Signal Reason Codes

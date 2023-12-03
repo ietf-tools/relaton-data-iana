@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsdp-parameters-sdp-parameters-20
 title:
 - content: QoS Mechanism Tokens

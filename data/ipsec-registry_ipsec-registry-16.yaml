@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAipsec-registry-ipsec-registry-16
 title:
 - content: PRF (Value 13)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAtcp-parameters-tcp-parameters-3
 title:
 - content: Cryptographic Algorithms for TCP-AO Registration

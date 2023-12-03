@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-numbers-eap-numbers-6
 title:
 - content: EAP-FAST (value 43) Error-TLV (value 5) Error-Codes

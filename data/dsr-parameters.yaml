@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdsr-parameters
 title:
 - content: Dynamic Source Routing (DSR) Protocol Parameters

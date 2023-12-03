@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpl-dao-ack-flags
 title:
 - content: Destination Advertisement Object (DAO) Acknowledgment Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApsamp-parameters
 title:
 - content: Packet Sampling (PSAMP) Parameters

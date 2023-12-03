@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsigtran-adapt-sigtran-adapt-13
 title:
 - content: Message Types - M2PA Messages (Value 11)

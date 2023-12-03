@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAisis-tlv-codepoints-isis-tlv-codepoints-advertising-prefix-reachability
 title:
 - content: IS-IS Sub-TLVs for TLVs Advertising Prefix Reachability

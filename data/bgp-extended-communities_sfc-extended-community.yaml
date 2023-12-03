@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbgp-extended-communities-sfc-extended-community
 title:
 - content: SFC Extended Community Sub-Types

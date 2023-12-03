@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAisis-tlv-codepoints-application-specific-link-attributes
 title:
 - content: IS-IS Sub-Sub-TLV Codepoints for Application-Specific Link Attributes

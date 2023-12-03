@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAccmp-parameters-response-codes
 title:
 - content: CCMP Response Codes

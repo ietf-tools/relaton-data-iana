@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAace-oauth-access-token-type-cbor-mappings
 title:
 - content: OAuth Access Token Type CBOR Mappings

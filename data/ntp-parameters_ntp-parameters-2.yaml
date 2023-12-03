@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAntp-parameters-ntp-parameters-2
 title:
 - content: NTP Kiss-o'-Death Codes

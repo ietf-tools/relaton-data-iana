@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbgp-ls-parameters-bgp-ls-igp-prefix-flags
 title:
 - content: BGP-LS IGP Prefix Flags

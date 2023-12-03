@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAipfix-ipfix-structured-data-types-semantics
 title:
 - content: IPFIX Structured Data Types Semantics

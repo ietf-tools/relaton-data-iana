@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdnssec-nsec3-parameters
 title:
 - content: Domain Name System Security (DNSSEC) NextSECure3 (NSEC3) Parameters

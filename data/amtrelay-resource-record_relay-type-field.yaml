@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAamtrelay-resource-record-relay-type-field
 title:
 - content: AMTRELAY Relay Type Field

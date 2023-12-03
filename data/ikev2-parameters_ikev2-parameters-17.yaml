@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAikev2-parameters-ikev2-parameters-17
 title:
 - content: IKEv2 Notification IPCOMP Transform IDs (Value 16387)

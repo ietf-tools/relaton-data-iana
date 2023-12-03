@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmobility-parameters-dsmip6-tls-packet-types
 title:
 - content: DSMIP6-TLS Packet Types Registry

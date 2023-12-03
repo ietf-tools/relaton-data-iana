@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbgp-extended-communities-non-transitive
 title:
 - content: BGP Non-Transitive Extended Community Types

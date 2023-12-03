@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApwe3-parameters-psn-tunnel-sub-tlv
 title:
 - content: PSN Tunnel Sub-TLV Name Space

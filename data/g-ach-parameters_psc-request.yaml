@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAg-ach-parameters-psc-request
 title:
 - content: MPLS PSC Request Registry

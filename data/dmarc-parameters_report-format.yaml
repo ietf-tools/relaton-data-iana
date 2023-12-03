@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdmarc-parameters-report-format
 title:
 - content: DMARC Report Format Registry

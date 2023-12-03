@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAreload-overlay-link-types
 title:
 - content: RELOAD Overlay Link Registry

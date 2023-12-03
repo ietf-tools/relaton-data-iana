@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAxml-ns-provided-by
 title:
 - content: US National Emergency Number Administration (NENA) Provided-By Schema

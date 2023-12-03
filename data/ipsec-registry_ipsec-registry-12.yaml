@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAipsec-registry-ipsec-registry-12
 title:
 - content: Group Type (Value 5)

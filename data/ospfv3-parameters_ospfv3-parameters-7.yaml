@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAospfv3-parameters-ospfv3-parameters-7
 title:
 - content: OSPFv3 Router Properties Registry

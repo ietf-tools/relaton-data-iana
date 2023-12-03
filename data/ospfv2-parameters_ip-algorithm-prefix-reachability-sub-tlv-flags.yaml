@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAospfv2-parameters-ip-algorithm-prefix-reachability-sub-tlv-flags
 title:
 - content: IP Algorithm Prefix Reachability Sub-TLV Flags

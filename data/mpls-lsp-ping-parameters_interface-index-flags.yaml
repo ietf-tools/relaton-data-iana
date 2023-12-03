@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmpls-lsp-ping-parameters-interface-index-flags
 title:
 - content: Interface Index Flags

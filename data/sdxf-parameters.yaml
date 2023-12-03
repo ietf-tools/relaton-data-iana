@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsdxf-parameters
 title:
 - content: Structured Data Exchange Format (SDXF)

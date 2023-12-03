@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAradius-types-radius-types-7
 title:
 - content: Values for RADIUS Attribute 13, Framed-Compression

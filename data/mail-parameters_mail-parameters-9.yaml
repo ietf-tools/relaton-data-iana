@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmail-parameters-mail-parameters-9
 title:
 - content: SMTP PRIORITY extension Priority Assignment Policy

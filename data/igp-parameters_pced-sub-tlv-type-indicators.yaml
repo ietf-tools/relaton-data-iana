@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAigp-parameters-pced-sub-tlv-type-indicators
 title:
 - content: PCE Discovery (PCED) Sub-TLV Type Indicators

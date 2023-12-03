@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcore-parameters-rt-link-target-att-value
 title:
 - content: Resource Type (rt=) Link Target Attribute Values

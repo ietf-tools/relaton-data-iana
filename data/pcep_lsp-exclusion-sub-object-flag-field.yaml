@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApcep-lsp-exclusion-sub-object-flag-field
 title:
 - content: LSP Exclusion Sub-Object Flag Field

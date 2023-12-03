@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmedia-types-parameters-media-types-parameters-2
 title:
 - content: X.400 to MIME Table - Basic Body Parts

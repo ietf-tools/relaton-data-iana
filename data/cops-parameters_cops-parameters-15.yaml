@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcops-parameters-cops-parameters-15
 title:
 - content: COPS-PR Object S-Num, S-Types, and Error-Codes

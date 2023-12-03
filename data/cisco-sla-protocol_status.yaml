@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcisco-sla-protocol-status
 title:
 - content: Cisco SLA Protocol Status Types Registry

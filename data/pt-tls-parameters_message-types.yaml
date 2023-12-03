@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApt-tls-parameters-message-types
 title:
 - content: PT-TLS Message Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAkerberos-parameters-realm-names
 title:
 - content: Well-Known Kerberos Realm Names

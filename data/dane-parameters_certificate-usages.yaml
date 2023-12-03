@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdane-parameters-certificate-usages
 title:
 - content: TLSA Certificate Usages

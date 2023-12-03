@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApaws
 title:
 - content: Protocol to Access White-Space (PAWS)

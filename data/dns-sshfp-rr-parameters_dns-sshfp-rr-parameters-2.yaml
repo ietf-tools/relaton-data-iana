@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdns-sshfp-rr-parameters-dns-sshfp-rr-parameters-2
 title:
 - content: SSHFP RR types for fingerprint types

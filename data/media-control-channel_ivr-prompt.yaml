@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmedia-control-channel-ivr-prompt
 title:
 - content: IVR Prompt Variable Type for Control Packages

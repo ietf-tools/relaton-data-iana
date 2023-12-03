@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-eke-keyed-message
 title:
 - content: EAP-EKE Keyed Message Digest (MAC) Registry

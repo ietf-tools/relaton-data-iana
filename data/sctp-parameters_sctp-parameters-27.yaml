@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsctp-parameters-sctp-parameters-27
 title:
 - content: Adaptation Code Points

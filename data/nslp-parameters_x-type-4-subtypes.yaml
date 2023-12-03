@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAnslp-parameters-x-type-4-subtypes
 title:
 - content: DEST_ADDR (X-Type 4) SubType values

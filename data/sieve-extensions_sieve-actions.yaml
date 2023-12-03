@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsieve-extensions-sieve-actions
 title:
 - content: Sieve Actions

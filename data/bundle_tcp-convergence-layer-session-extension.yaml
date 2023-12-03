@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbundle-tcp-convergence-layer-session-extension
 title:
 - content: Bundle Protocol TCP Convergence-Layer Version 4 Session Extension Types

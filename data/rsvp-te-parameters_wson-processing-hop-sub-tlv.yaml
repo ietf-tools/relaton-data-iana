@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArsvp-te-parameters-wson-processing-hop-sub-tlv
 title:
 - content: Sub-TLV Types for WSON Processing Hop Attribute TLV

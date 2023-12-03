@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAgssapi-service-names-gssapi-service-names-1
 title:
 - content: GSSAPI/Kerberos/SASL Service Names

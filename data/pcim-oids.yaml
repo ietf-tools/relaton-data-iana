@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApcim-oids
 title:
 - content: Lightweight Directory Access Protocol (LDAP) - pcimSchema Descriptors

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApcep-cci-object-flag-field-mpls-label
 title:
 - content: CCI Object Flag Field for MPLS Label

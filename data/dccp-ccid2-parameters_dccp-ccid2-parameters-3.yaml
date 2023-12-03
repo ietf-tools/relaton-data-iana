@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAdccp-ccid2-parameters-dccp-ccid2-parameters-3
 title:
 - content: CCID2-specific Feature Numbers (128-255)

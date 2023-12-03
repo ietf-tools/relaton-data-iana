@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAbootp-dhcp-parameters-radius-attributes-dhcp-suboption
 title:
 - content: RADIUS Attributes Permitted in RADIUS Attributes DHCP Suboption

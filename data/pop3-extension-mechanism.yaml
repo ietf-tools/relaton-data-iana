@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApop3-extension-mechanism
 title:
 - content: Post Office Protocol version 3 (POP3) Extension Mechanism

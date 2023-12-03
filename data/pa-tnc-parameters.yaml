@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApa-tnc-parameters
 title:
 - content: Posture Attribute (PA) Protocol Compatible with Trusted Network Connect

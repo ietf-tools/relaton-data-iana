@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAmanet-parameters-timestamp-address-tlv-types
 title:
 - content: TIMESTAMP Address Block TLV Type Extensions

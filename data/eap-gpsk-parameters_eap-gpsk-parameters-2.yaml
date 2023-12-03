@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-gpsk-parameters-eap-gpsk-parameters-2
 title:
 - content: EAP-GPSK Protected Data Payloads

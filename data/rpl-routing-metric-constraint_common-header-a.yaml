@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANArpl-routing-metric-constraint-common-header-a
 title:
 - content: Routing Metric/Constraint Common Header A field

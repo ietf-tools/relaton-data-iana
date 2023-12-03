@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAotp-parameters-otp-parameters-2
 title:
 - content: Extension Set Identifiers

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAabfab-parameters
 title:
 - content: Application Bridging for Federated Access Beyond Web (ABFAB) Parameters

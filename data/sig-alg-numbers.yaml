@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAsig-alg-numbers
 title:
 - content: SIG (0) Algorithm Numbers

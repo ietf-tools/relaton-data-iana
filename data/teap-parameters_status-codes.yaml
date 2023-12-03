@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAteap-parameters-status-codes
 title:
 - content: TEAP Status Codes

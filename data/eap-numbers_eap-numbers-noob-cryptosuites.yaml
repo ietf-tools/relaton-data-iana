@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-numbers-eap-numbers-noob-cryptosuites
 title:
 - content: EAP-NOOB Cryptosuites

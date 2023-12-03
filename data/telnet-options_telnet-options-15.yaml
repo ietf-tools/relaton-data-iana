@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAtelnet-options-telnet-options-15
 title:
 - content: DES3_CFB64 Telnet Encryption Type (Type 3)

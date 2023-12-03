@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcrypto-suites-crypto-suites-1
 title:
 - content: Cryptographic Suites for IKEv1, IKEv2, and IPsec

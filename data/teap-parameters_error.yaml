@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAteap-parameters-error
 title:
 - content: TEAP Error TLV (value 5) Error Codes

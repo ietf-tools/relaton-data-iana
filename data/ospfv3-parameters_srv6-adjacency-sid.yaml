@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAospfv3-parameters-srv6-adjacency-sid
 title:
 - content: OSPFv3 SRv6 Adjacency SID Sub-TLV Flags

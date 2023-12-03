@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAeap-pax
 title:
 - content: Extensible Authentication Protocol - Password Authenticated Exchange (EAP-PAX)

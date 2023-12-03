@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAtsig-algorithm-names-tsig-algorithm-names-1
 title:
 - content: TSIG Algorithm Names

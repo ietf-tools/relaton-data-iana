@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAnorm-parameters-norm-headers
 title:
 - content: NORM Header Extension Types

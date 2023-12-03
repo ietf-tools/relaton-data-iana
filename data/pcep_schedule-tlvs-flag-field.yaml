@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApcep-schedule-tlvs-flag-field
 title:
 - content: Schedule TLVs Flag Field

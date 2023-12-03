@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANApcep-pcep-message-common-header
 title:
 - content: PCEP Message Common Header Flag Field

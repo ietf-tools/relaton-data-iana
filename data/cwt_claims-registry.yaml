@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAcwt-claims-registry
 title:
 - content: CBOR Web Token (CWT) Claims

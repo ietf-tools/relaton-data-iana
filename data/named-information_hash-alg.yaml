@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAnamed-information-hash-alg
 title:
 - content: Named Information Hash Algorithm Registry

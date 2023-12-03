@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.5
+schema-version: v1.2.7
 id: IANAparams-params-1
 title:
 - content: IETF URN Sub-namespace for Registered Protocol Parameter Identifiers
