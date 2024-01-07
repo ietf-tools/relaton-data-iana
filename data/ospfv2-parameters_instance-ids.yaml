@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospfv2-parameters-instance-ids
 title:
 - content: OSPFv2 Instance IDs

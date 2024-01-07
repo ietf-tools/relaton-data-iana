@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAigmp-type-numbers-igmp-mld-extension-types
 title:
 - content: IGMP/MLD Extension Types

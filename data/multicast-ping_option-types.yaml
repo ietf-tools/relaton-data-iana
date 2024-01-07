@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmulticast-ping-option-types
 title:
 - content: Multicast Ping Protocol Option Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArpcbind-transport-parameters
 title:
 - content: RPCBIND Transport Parameters

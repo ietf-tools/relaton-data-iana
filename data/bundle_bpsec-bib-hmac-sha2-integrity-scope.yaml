@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbundle-bpsec-bib-hmac-sha2-integrity-scope
 title:
 - content: BPSec BIB-HMAC-SHA2 Integrity Scope Flags

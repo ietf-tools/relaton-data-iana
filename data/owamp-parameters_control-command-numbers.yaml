@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAowamp-parameters-control-command-numbers
 title:
 - content: OWAMP-Control Command Numbers

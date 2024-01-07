@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANApgp-parameters-pgp-parameters-7
 title:
 - content: Key Server Preference Extensions

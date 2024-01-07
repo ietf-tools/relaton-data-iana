@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAipv4-address-space
 title:
 - content: IANA IPv4 Address Space Registry

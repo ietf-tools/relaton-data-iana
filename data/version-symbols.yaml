@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAversion-symbols
 title:
 - content: "'version' symbols used within the ISUP and QSIG"

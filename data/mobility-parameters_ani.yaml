@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmobility-parameters-ani
 title:
 - content: Access Network Information (ANI) Sub-Option Type Values

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsigtran-adapt-sigtran-adapt-6
 title:
 - content: Message Types - ASP Traffic Maintenance (ASPTM) Messages (Value 4)

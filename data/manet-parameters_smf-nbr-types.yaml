@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmanet-parameters-smf-nbr-types
 title:
 - content: SMF_NBR_TYPE Address Block TLV Type Extensions

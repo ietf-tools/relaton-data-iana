@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArtspv2-parameters-cache-control-directive
 title:
 - content: Cache-Control Cache Directive Extensions

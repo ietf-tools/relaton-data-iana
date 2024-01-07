@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsctp-parameters-sctp-parameters-25
 title:
 - content: SCTP Payload Protocol Identifiers

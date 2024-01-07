@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAtelnet-options-telnet-options-10
 title:
 - content: Telnet Encryption Types (Option 38)

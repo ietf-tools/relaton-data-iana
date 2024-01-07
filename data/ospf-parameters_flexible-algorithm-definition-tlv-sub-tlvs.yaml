@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospf-parameters-flexible-algorithm-definition-tlv-sub-tlvs
 title:
 - content: OSPF Flexible Algorithm Definition TLV Sub-TLVs

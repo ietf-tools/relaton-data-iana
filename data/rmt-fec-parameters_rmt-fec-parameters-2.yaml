@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArmt-fec-parameters-rmt-fec-parameters-2
 title:
 - content: ietf:rmt:fec:encoding - Under-Specified FEC schemes (128-255)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAkerberos-parameters-transport-type
 title:
 - content: Kerberos Message Transport Types

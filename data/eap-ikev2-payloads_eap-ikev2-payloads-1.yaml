@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAeap-ikev2-payloads-eap-ikev2-payloads-1
 title:
 - content: EAP-IKEv2 Payloads

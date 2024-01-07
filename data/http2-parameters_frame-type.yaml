@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAhttp2-parameters-frame-type
 title:
 - content: HTTP/2 Frame Type

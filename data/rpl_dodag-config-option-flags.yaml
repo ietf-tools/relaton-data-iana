@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArpl-dodag-config-option-flags
 title:
 - content: DODAG Configuration Option Flags for MOP 0..6

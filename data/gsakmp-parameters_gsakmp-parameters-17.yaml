@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAgsakmp-parameters-gsakmp-parameters-17
 title:
 - content: GSAKMP Nonce Types

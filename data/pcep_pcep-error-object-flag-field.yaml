@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANApcep-pcep-error-object-flag-field
 title:
 - content: PCEP-ERROR Object Flag Field

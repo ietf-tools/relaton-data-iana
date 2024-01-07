@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAace-oauth-parameters-cbor-mappings
 title:
 - content: OAuth Parameters CBOR Mappings

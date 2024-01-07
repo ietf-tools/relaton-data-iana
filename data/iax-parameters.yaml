@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAiax-parameters
 title:
 - content: Inter-Asterisk eXchange (IAX) Parameters

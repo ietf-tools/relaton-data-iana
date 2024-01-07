@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANApcep-wavelength-restriction-constraint-tlv-action-values
 title:
 - content: Wavelength Restriction Constraint TLV Action Values

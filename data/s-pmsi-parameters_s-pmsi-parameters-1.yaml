@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAs-pmsi-parameters-s-pmsi-parameters-1
 title:
 - content: S-PMSI Join Message Type Field

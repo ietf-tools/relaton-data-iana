@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAeap-numbers-eap-numbers-noob-message-types
 title:
 - content: EAP-NOOB Message Types

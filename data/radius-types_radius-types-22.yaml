@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAradius-types-radius-types-22
 title:
 - content: Privacy Flags (Attribute 129, Basic-Location-Policy-Rules)

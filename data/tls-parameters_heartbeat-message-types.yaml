@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAtls-parameters-heartbeat-message-types
 title:
 - content: TLS Heartbeat Message Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAedhoc-edhoc-exporter-labels
 title:
 - content: EDHOC Exporter Labels

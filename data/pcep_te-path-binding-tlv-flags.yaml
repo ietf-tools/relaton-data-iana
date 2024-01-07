@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANApcep-te-path-binding-tlv-flags
 title:
 - content: TE-PATH-BINDING TLV Flag Field

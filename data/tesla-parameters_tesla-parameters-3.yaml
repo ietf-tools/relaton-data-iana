@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAtesla-parameters-tesla-parameters-3
 title:
 - content: Signature Encoding Algorithm, TESLA-SIG-ALGO Values

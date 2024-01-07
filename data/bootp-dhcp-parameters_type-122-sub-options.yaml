@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbootp-dhcp-parameters-type-122-sub-options
 title:
 - content: DHCP Cablelabs Client Configuration Option Type 122 Sub-Option Codes

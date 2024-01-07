@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAtrill-parameters-interested-vlans-flags
 title:
 - content: Interested VLANs Flag Bits

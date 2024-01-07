@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmobileip-numbers-mobileip-numbers-27
 title:
 - content: PMIPv4 Non-skippable Extension (Value 47)

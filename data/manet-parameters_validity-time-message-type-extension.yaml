@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmanet-parameters-validity-time-message-type-extension
 title:
 - content: Type 1 Message TLV Type Extensions

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsdp-security-descriptions
 title:
 - content: Session Description Protocol (SDP) Security Descriptions

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsigtran-adapt-sigtran-adapt-4
 title:
 - content: Message Types - SS7 Signalling Network Management (SSNM) Messages (Value

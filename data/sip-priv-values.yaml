@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsip-priv-values
 title:
 - content: Session Initiation Protocol (SIP) Privacy Header Values

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAremote-direct-data-placement-remote-direct-data-placement-rdma-cm-private-data-identifiers
 title:
 - content: RDMA-CM Private Data Identifiers

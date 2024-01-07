@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmessage-store-events
 title:
 - content: Internet Message Store Events

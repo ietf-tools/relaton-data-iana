@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAprophet
 title:
 - content: Probabilistic Routing Protocol using History of Encounters and Transitivity

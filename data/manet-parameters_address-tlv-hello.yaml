@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmanet-parameters-address-tlv-hello
 title:
 - content: HELLO Message-Type-specific Address Block TLV Types

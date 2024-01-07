@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArpki-name-schemes
 title:
 - content: RPKI Repository Name Schemes

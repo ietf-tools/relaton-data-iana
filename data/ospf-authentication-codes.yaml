@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospf-authentication-codes
 title:
 - content: Open Shortest Path First (OSPF) Authentication Codes

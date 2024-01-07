@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAradius-types-radius-types-21
 title:
 - content: Entity Types (Attribute 127, Location-Information)

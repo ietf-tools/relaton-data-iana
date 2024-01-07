@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospf-traffic-eng-tlvs-subtlv2
 title:
 - content: Types for sub-TLVs of TE Link TLV (Value 2)

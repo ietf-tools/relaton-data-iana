@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAjose-web-key-elliptic-curve
 title:
 - content: JSON Web Key Elliptic Curve

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmedia-type-sub-parameters-media-type-sub-parameters-1
 title:
 - content: Sub-Parameter Registry video/mpeg4-generic, audio/mpeg4-generic and application/mpeg4-generic

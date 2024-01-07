@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAipv6-anycast-addresses-ipv6-anycast-addresses-1
 title:
 - content: IPv6 Anycast Addresses

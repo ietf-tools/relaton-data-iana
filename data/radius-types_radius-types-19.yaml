@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAradius-types-radius-types-19
 title:
 - content: Operator Namespace Identifier for Attribute 126

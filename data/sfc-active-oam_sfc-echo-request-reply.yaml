@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsfc-active-oam-sfc-echo-request-reply
 title:
 - content: SFC Echo Request Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAldap-parameters-ldap-parameters-9
 title:
 - content: LDAP Search Scopes

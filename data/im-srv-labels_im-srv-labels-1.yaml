@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAim-srv-labels-im-srv-labels-1
 title:
 - content: Instant Messaging SRV Protocol Label Registry

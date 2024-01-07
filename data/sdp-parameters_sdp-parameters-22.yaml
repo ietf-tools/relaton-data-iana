@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsdp-parameters-sdp-parameters-22
 title:
 - content: SDP Capability Negotiation Configuration Parameters Registry

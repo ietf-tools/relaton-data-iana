@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANApcep-s2ls-object-flag-field
 title:
 - content: S2LS Object Flag Field

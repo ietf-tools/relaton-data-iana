@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAieee-802-numbers-iana-lldp-tlv-subtypes
 title:
 - content: IANA Link Layer Discovery Protocol (LLDP) TLV Subtypes

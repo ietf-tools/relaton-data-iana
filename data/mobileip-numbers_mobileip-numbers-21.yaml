@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmobileip-numbers-mobileip-numbers-21
 title:
 - content: Security Parameter Index (SPI) Values for the Mobile IP Reserved SPIs

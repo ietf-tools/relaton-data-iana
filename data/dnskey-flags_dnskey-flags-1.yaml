@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdnskey-flags-dnskey-flags-1
 title:
 - content: DNSKEY RR Flags

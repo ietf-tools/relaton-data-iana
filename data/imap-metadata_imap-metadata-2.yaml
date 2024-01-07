@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAimap-metadata-imap-metadata-2
 title:
 - content: IMAP METADATA Mailbox Entry Registry

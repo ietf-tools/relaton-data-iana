@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArdap-reverse-search-mapping-rdap-reverse-search-mapping
 title:
 - content: RDAP Reverse Search Mapping

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmpls-lsp-ping-parameters-interface-label-stack-address-type
 title:
 - content: Interface and Label Stack and Detailed Interface and Label Stack Address

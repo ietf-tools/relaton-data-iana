@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAcore-parameters-oscore-flag-bits
 title:
 - content: OSCORE Flag Bits

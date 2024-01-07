@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbgp-tunnel-encapsulation-embedded-label-handling-sub-tlv
 title:
 - content: Embedded Label Handling Sub-TLVs

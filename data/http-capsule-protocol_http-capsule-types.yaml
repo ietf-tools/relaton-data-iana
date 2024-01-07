@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAhttp-capsule-protocol-http-capsule-types
 title:
 - content: HTTP Capsule Types

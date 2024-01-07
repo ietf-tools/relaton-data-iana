@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmobility-parameters-dhcp-support-mode
 title:
 - content: IPv4 DHCP Support Mode Flags

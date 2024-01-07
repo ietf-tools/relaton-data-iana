@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmanet-parameters-timestamp-packet-tlv-types
 title:
 - content: TIMESTAMP Packet TLV Type Extensions

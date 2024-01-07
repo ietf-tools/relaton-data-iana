@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbgp-data-collection-communities-std
 title:
 - content: Border Gateway Protocol (BGP) Data Collection Standard Communities

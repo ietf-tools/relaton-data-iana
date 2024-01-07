@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAprinter-language-numbers
 title:
 - content: Printer MIB Interpreters Language Families - OBSOLETE

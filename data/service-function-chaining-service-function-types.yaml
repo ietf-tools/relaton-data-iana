@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAservice-function-chaining-service-function-types
 title:
 - content: Service Function Chaining Service Function Types

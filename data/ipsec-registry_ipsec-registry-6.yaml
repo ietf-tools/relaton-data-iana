@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAipsec-registry-ipsec-registry-6
 title:
 - content: Hash Algorithm (Value 2)

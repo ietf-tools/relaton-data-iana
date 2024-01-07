@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdccp-parameters
 title:
 - content: Datagram Congestion Control Protocol (DCCP) Parameters

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdccp-ccid2-parameters-dccp-ccid2-parameters-1
 title:
 - content: CCID2-specific Reset codes (128-255)

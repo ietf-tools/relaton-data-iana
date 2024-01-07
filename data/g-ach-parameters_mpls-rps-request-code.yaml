@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAg-ach-parameters-mpls-rps-request-code
 title:
 - content: MPLS RPS Request Code Registry

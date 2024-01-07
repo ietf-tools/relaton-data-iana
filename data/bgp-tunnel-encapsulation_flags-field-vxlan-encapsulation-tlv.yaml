@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbgp-tunnel-encapsulation-flags-field-vxlan-encapsulation-tlv
 title:
 - content: Flags Field of VXLAN Encapsulation Sub-TLVs

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmikey-payloads-mikey-payloads-23
 title:
 - content: Security Policy Payload Field Names

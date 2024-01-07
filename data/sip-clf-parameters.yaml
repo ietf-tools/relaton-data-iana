@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsip-clf-parameters
 title:
 - content: Session Initiation Protocol (SIP) Common Log Format (CLF) Parameters

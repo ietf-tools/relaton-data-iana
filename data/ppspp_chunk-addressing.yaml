@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAppspp-chunk-addressing
 title:
 - content: PPSP Peer Protocol Chunk Addressing Method Registry

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAtelnet-options-telnet-options-8
 title:
 - content: KEA_SJ (Type 12) and KEA_SJ_INTEG (Type 13) Authentication Types

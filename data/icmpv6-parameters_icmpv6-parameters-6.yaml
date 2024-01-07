@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAicmpv6-parameters-icmpv6-parameters-6
 title:
 - content: Trust Anchor option (Type 15) Name Type field

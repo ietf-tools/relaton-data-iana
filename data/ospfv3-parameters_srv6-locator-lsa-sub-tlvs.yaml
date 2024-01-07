@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospfv3-parameters-srv6-locator-lsa-sub-tlvs
 title:
 - content: OSPFv3 SRv6 Locator LSA Sub-TLVs

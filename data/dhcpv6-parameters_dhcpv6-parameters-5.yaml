@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdhcpv6-parameters-dhcpv6-parameters-5
 title:
 - content: Status Codes

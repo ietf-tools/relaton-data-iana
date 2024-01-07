@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdns-parameters-underscored-globally-scoped-dns-node-names
 title:
 - content: Underscored and Globally Scoped DNS Node Names

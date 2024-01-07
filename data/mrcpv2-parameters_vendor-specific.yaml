@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmrcpv2-parameters-vendor-specific
 title:
 - content: MRCPv2 Vendor-Specific Parameters

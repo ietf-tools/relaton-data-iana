@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANApkix-parameters-caa-flags
 title:
 - content: Certification Authority Restriction Flags

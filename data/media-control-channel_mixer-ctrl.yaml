@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmedia-control-channel-Mixer-ctrl
 title:
 - content: Mixer Control Package Status Code Registration

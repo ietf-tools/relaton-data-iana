@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArtcp-xr-block-types-mos-metric
 title:
 - content: RTCP XR MOS Metric block - multimedia application Calculation Algorithm

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAcisco-sla-protocol-version-numbers
 title:
 - content: Cisco SLA Protocol Version Number Registry

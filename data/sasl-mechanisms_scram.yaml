@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAsasl-mechanisms-scram
 title:
 - content: SASL SCRAM Family Mechanisms

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAtls-parameters-tls-kdf-ids
 title:
 - content: TLS KDF Identifiers

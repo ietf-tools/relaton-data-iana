@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANArpl-dao-flags
 title:
 - content: Destination Advertisement Object (DAO) Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospfv2-parameters-ospfv2-parameters-3
 title:
 - content: OSPF Packet Type (both v2 and v3)

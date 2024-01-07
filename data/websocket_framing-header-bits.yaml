@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAwebsocket-framing-header-bits
 title:
 - content: WebSocket Framing Header Bits Registry

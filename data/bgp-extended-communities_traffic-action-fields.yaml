@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbgp-extended-communities-traffic-action-fields
 title:
 - content: Traffic Action Fields

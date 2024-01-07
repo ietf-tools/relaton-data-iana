@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmpls-id-type-mpls-id-type-2
 title:
 - content: Information Field and Protocol Identifier in the Q.2941 Generic Identifier

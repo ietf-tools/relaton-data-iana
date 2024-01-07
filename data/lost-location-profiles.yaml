@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAlost-location-profiles
 title:
 - content: Location-to-Service Translation (LoST) Location Profiles

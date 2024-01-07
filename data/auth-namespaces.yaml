@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAauth-namespaces
 title:
 - content: Dynamic Host Configuration Protocol (DHCP) Authentication Option Name Spaces

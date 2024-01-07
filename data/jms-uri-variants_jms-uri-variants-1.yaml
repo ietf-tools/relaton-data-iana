@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAjms-uri-variants-jms-uri-variants-1
 title:
 - content: JMS URI Scheme Variants

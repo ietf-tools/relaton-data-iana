@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbootp-dhcp-parameters-options
 title:
 - content: BOOTP Vendor Extensions and DHCP Options

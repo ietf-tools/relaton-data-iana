@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAip-over-IEEE1394
 title:
 - content: Namespaces for IP over IEEE 1394

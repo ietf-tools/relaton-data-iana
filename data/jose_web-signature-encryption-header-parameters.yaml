@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAjose-web-signature-encryption-header-parameters
 title:
 - content: JSON Web Signature and Encryption Header Parameters

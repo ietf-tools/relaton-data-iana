@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAl2tp-parameters-l2tp-parameters-35
 title:
 - content: Circuit Status Bits

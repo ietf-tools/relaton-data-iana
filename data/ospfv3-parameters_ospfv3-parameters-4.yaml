@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAospfv3-parameters-ospfv3-parameters-4
 title:
 - content: OSPFv3 Prefix Options (8 bits)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAipv6-parameters-extension-header
 title:
 - content: IPv6 Extension Header Types

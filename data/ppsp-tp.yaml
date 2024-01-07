@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAppsp-tp
 title:
 - content: Peer-to-Peer Streaming Tracker Protocol (PPSTP)

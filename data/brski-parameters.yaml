@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAbrski-parameters
 title:
 - content: Bootstrapping Remote Secure Key Infrastructures (BRSKI) Parameters

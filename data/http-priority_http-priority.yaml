@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAhttp-priority-http-priority
 title:
 - content: HTTP Priority

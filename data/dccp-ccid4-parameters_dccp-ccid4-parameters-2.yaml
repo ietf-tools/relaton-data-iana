@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdccp-ccid4-parameters-dccp-ccid4-parameters-2
 title:
 - content: CCID4-specific Option Types (128-255)

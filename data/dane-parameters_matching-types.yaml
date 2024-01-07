@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdane-parameters-matching-types
 title:
 - content: TLSA Matching Types

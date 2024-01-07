@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAgsmpv3-message-gsmpv3-message-2
 title:
 - content: Message Types

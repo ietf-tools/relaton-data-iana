@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmikey-payloads-mikey-payloads-30
 title:
 - content: Error Payload Name Spaces

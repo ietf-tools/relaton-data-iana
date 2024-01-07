@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAstamp-tlv-types-stamp-return-path-control-code-flags
 title:
 - content: Return Path Control Code Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAgsakmp-parameters-gsakmp-parameters-7
 title:
 - content: GSAKMP Rekey Event Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAcdni-parameters-logging-field-names
 title:
 - content: CDNI Logging Field Names

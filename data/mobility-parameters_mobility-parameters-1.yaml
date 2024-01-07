@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmobility-parameters-mobility-parameters-1
 title:
 - content: Mobility Header Types - for the MH Type field in the Mobility Header

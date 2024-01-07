@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAhttp-message-signature-component-parameters
 title:
 - content: HTTP Signature Component Parameters

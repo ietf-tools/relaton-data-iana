@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAteap-parameters-teap-tlvs
 title:
 - content: TEAP TLV Types

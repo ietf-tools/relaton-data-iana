@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmanet-parameters-mpr-address-block-tlv-type-extension
 title:
 - content: Type 8 Address Block TLV Type Extensions

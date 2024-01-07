@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAnts-nts-key-establishment-record-types
 title:
 - content: Network Time Security Key Establishment Record Types

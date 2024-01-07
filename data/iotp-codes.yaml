@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAiotp-codes
 title:
 - content: Internet Open Trading Protocol (IOTP) Codes

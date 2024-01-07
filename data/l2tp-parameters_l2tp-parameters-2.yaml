@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAl2tp-parameters-l2tp-parameters-2
 title:
 - content: Message Type AVP (Attribute Type 0) Values

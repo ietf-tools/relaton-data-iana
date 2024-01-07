@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAmobility-parameters-dsmipv6-home-address-option
 title:
 - content: Dual Stack MIPv6 (DSMIPv6) IPv4 Home Address Option Status Codes

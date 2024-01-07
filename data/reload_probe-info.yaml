@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAreload-probe-info
 title:
 - content: RELOAD Probe Information Type Registry

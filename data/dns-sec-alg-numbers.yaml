@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.7
+schema-version: v1.2.8
 id: IANAdns-sec-alg-numbers
 title:
 - content: Domain Name System Security (DNSSEC) Algorithm Numbers
