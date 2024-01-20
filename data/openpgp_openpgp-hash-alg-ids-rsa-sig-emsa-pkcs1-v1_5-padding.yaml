@@ -1,0 +1,35 @@
+---
+schema-version: v1.2.8
+id: IANAopenpgp-openpgp-hash-alg-ids-rsa-sig-emsa-pkcs1-v1_5-padding
+title:
+- content: OpenPGP Hash Algorithm Identifiers for RSA Signatures Use of EMSA-PKCS1-v1_5
+    Padding
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/openpgp
+  type: src
+type: standard
+docid:
+- id: IANA openpgp/openpgp-hash-alg-ids-rsa-sig-emsa-pkcs1-v1_5-padding
+  type: IANA
+  primary: true
+docnumber: openpgp/openpgp-hash-alg-ids-rsa-sig-emsa-pkcs1-v1_5-padding
+date:
+- type: created
+  value: '2024-01-19'
+- type: updated
+  value: '2024-01-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0
