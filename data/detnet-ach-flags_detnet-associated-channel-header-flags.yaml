@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAipfix-ipfix-information-element-semantics
+id: IANAdetnet-ach-flags-detnet-associated-channel-header-flags
 title:
-- content: IPFIX Information Element Semantics
+- content: DetNet Associated Channel Header (d-ACH) Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipfix
+- content: http://www.iana.org/assignments/detnet-ach-flags
   type: src
 type: standard
 docid:
-- id: IANA ipfix/ipfix-information-element-semantics
+- id: IANA detnet-ach-flags/detnet-associated-channel-header-flags
   type: IANA
   primary: true
-docnumber: ipfix/ipfix-information-element-semantics
+docnumber: detnet-ach-flags/detnet-associated-channel-header-flags
 date:
 - type: created
-  value: '2007-05-10'
+  value: '2024-01-22'
 - type: updated
   value: '2024-01-22'
 contributor:
