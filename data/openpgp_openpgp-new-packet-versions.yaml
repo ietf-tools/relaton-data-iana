@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: IANAopenpgp-openpgp-new-packet-versions
 title:
-- content: New Packet Versions (OBSOLETE)
+- content: OpenPGP New Packet Versions (OBSOLETE)
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/openpgp
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2024-01-19'
 - type: updated
-  value: '2024-01-19'
+  value: '2024-01-26'
 contributor:
 - organization:
     name:

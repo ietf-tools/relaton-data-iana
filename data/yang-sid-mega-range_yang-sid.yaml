@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAcore-parameters-content-formats
+id: IANAyang-sid-mega-range-yang-sid
 title:
-- content: CoAP Content-Formats
+- content: IETF YANG SID
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/core-parameters
+- content: http://www.iana.org/assignments/yang-sid-mega-range
   type: src
 type: standard
 docid:
-- id: IANA core-parameters/content-formats
+- id: IANA yang-sid-mega-range/yang-sid
   type: IANA
   primary: true
-docnumber: core-parameters/content-formats
+docnumber: yang-sid-mega-range/yang-sid
 date:
 - type: created
-  value: '2012-06-08'
+  value: '2024-01-26'
 - type: updated
   value: '2024-01-26'
 contributor:
