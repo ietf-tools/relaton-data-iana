@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.8
-id: IANApgp-parameters-pgp-parameters-5
+id: IANAyang-sid
 title:
-- content: Signature Subpacket Types
+- content: YANG SID
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pgp-parameters
+- content: http://www.iana.org/assignments/yang-sid
   type: src
 type: standard
 docid:
-- id: IANA pgp-parameters/pgp-parameters-5
+- id: IANA yang-sid
   type: IANA
   primary: true
-docnumber: pgp-parameters/pgp-parameters-5
+docnumber: yang-sid
 date:
 - type: created
-  value: '2007-07-31'
+  value: '2024-01-26'
 - type: updated
-  value: '2020-07-21'
+  value: '2024-01-29'
 contributor:
 - organization:
     name:

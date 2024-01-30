@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.8
-id: IANApgp-parameters-pgp-parameters-13
+id: IANAyang-sid-yang-sid
 title:
-- content: Symmetric Key Algorithms
+- content: IETF YANG SID
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pgp-parameters
+- content: http://www.iana.org/assignments/yang-sid
   type: src
 type: standard
 docid:
-- id: IANA pgp-parameters/pgp-parameters-13
+- id: IANA yang-sid/yang-sid
   type: IANA
   primary: true
-docnumber: pgp-parameters/pgp-parameters-13
+docnumber: yang-sid/yang-sid
 date:
 - type: created
-  value: '2007-07-31'
+  value: '2024-01-26'
 - type: updated
-  value: '2020-07-21'
+  value: '2024-01-29'
 contributor:
 - organization:
     name:
