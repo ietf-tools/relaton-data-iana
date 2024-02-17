@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAhttp-message-signature-component-parameters
+id: IANAkerberos-parameters-second-factor-types
 title:
-- content: HTTP Signature Component Parameters
+- content: Kerberos Second Factor Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-message-signature
+- content: http://www.iana.org/assignments/kerberos-parameters
   type: src
 type: standard
 docid:
-- id: IANA http-message-signature/component-parameters
+- id: IANA kerberos-parameters/second-factor-types
   type: IANA
   primary: true
-docnumber: http-message-signature/component-parameters
+docnumber: kerberos-parameters/second-factor-types
 date:
 - type: created
-  value: '2023-08-18'
+  value: '2004-06-29'
 - type: updated
   value: '2024-02-16'
 contributor:
