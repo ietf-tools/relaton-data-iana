@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAjsonpath-function-extensions
+id: IANAdrip-drip-sam-types
 title:
-- content: Function Extensions
+- content: DRIP SAM Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/jsonpath
+- content: http://www.iana.org/assignments/drip
   type: src
 type: standard
 docid:
-- id: IANA jsonpath/function-extensions
+- id: IANA drip/drip-sam-types
   type: IANA
   primary: true
-docnumber: jsonpath/function-extensions
+docnumber: drip/drip-sam-types
 date:
 - type: created
-  value: '2023-10-03'
+  value: '2022-12-08'
 - type: updated
   value: '2024-02-23'
 contributor:
