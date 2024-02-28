@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: IANAdetnet-ach-flags
 title:
-- content: DetNet Associated Channel Header (d-ACH) Flagss
+- content: DetNet Associated Channel Header (d-ACH) Flags
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/detnet-ach-flags
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2024-01-22'
 - type: updated
-  value: '2024-01-22'
+  value: '2024-02-27'
 contributor:
 - organization:
     name:
