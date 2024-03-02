@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAsmi-numbers-smi-numbers-22
+id: IANAflac
 title:
-- content: SMI Experimental Codes
+- content: Free Lossless Audio Codec (FLAC)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: http://www.iana.org/assignments/flac
   type: src
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-22
+- id: IANA flac
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-22
+docnumber: flac
 date:
+- type: created
+  value: '2024-03-01'
 - type: updated
   value: '2024-03-01'
 contributor:
