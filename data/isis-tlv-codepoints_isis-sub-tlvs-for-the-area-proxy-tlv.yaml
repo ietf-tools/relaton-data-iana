@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAcose-header-parameters
+id: IANAisis-tlv-codepoints-isis-sub-tlvs-for-the-area-proxy-tlv
 title:
-- content: COSE Header Parameters
+- content: IS-IS Sub-TLVs for the Area Proxy TLV
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cose
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
   type: src
 type: standard
 docid:
-- id: IANA cose/header-parameters
+- id: IANA isis-tlv-codepoints/isis-sub-tlvs-for-the-area-proxy-tlv
   type: IANA
   primary: true
-docnumber: cose/header-parameters
+docnumber: isis-tlv-codepoints/isis-sub-tlvs-for-the-area-proxy-tlv
 date:
 - type: created
-  value: '2017-01-11'
+  value: '2003-05-06'
 - type: updated
   value: '2024-03-11'
 contributor:
