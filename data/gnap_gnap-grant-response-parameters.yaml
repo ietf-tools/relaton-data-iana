@@ -1,0 +1,34 @@
+---
+schema-version: v1.2.8
+id: IANAgnap-gnap-grant-response-parameters
+title:
+- content: GNAP Grant Response Parameters
+  format: text/plain
+link:
+- content: http://www.iana.org/assignments/gnap
+  type: src
+type: standard
+docid:
+- id: IANA gnap/gnap-grant-response-parameters
+  type: IANA
+  primary: true
+docnumber: gnap/gnap-grant-response-parameters
+date:
+- type: created
+  value: '2024-03-21'
+- type: updated
+  value: '2024-03-21'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn
+ext:
+  schema-version: v1.0.0
