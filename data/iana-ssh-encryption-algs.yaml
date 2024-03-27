@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAssh-parameters-ssh-parameters-17
+id: IANAiana-ssh-encryption-algs
 title:
-- content: Encryption Algorithm Names
+- content: iana-ssh-encryption-algs YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ssh-parameters
+- content: http://www.iana.org/assignments/iana-ssh-encryption-algs
   type: src
 type: standard
 docid:
-- id: IANA ssh-parameters/ssh-parameters-17
+- id: IANA iana-ssh-encryption-algs
   type: IANA
   primary: true
-docnumber: ssh-parameters/ssh-parameters-17
+docnumber: iana-ssh-encryption-algs
 date:
 - type: created
-  value: '2005-06-02'
+  value: '2024-03-26'
 - type: updated
   value: '2024-03-26'
 contributor:
