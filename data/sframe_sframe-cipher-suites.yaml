@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAipfix-ipfix-structured-data-types-semantics
+id: IANAsframe-sframe-cipher-suites
 title:
-- content: IPFIX Structured Data Types Semantics
+- content: SFrame Cipher Suites
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipfix
+- content: http://www.iana.org/assignments/sframe
   type: src
 type: standard
 docid:
-- id: IANA ipfix/ipfix-structured-data-types-semantics
+- id: IANA sframe/sframe-cipher-suites
   type: IANA
   primary: true
-docnumber: ipfix/ipfix-structured-data-types-semantics
+docnumber: sframe/sframe-cipher-suites
 date:
 - type: created
-  value: '2007-05-10'
+  value: '2024-04-12'
 - type: updated
   value: '2024-04-12'
 contributor:
