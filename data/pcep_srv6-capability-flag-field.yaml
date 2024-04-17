@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.8
-id: IANApcep-te-path-binding-tlv-bt
+id: IANApcep-srv6-capability-flag-field
 title:
-- content: TE-PATH-BINDING TLV BT Field
+- content: SRv6 Capability Flag Field
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-- id: IANA pcep/te-path-binding-tlv-bt
+- id: IANA pcep/srv6-capability-flag-field
   type: IANA
   primary: true
-docnumber: pcep/te-path-binding-tlv-bt
+docnumber: pcep/srv6-capability-flag-field
 date:
 - type: created
   value: '2008-12-19'

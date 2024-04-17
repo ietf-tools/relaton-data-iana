@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.8
-id: IANApcep-te-path-binding-tlv-bt
+id: IANApcep-pcep-srv6-ero-nai-types
 title:
-- content: TE-PATH-BINDING TLV BT Field
+- content: PCEP SRv6-ERO NAI Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-- id: IANA pcep/te-path-binding-tlv-bt
+- id: IANA pcep/pcep-srv6-ero-nai-types
   type: IANA
   primary: true
-docnumber: pcep/te-path-binding-tlv-bt
+docnumber: pcep/pcep-srv6-ero-nai-types
 date:
 - type: created
   value: '2008-12-19'

@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANApcep-te-path-binding-tlv-bt
+id: IANAeapsimaka-numbers-eap-aka-at-kdf-fs-key-derivation-function
 title:
-- content: TE-PATH-BINDING TLV BT Field
+- content: EAP-AKA' AT_KDF_FS Key Derivation Function Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/eapsimaka-numbers
   type: src
 type: standard
 docid:
-- id: IANA pcep/te-path-binding-tlv-bt
+- id: IANA eapsimaka-numbers/eap-aka-at-kdf-fs-key-derivation-function
   type: IANA
   primary: true
-docnumber: pcep/te-path-binding-tlv-bt
+docnumber: eapsimaka-numbers/eap-aka-at-kdf-fs-key-derivation-function
 date:
 - type: created
-  value: '2008-12-19'
+  value: '2005-05-02'
 - type: updated
   value: '2024-04-16'
 contributor:
