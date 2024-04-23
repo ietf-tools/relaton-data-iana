@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAoauth-parameters-extensions-error
+id: IANAace-ace-groupcomm-errors
 title:
-- content: OAuth Extensions Error Registry
+- content: ACE Groupcomm Errors
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/oauth-parameters
+- content: http://www.iana.org/assignments/ace
   type: src
 type: standard
 docid:
-- id: IANA oauth-parameters/extensions-error
+- id: IANA ace/ace-groupcomm-errors
   type: IANA
   primary: true
-docnumber: oauth-parameters/extensions-error
+docnumber: ace/ace-groupcomm-errors
 date:
 - type: created
-  value: '2012-07-27'
+  value: '2021-07-27'
 - type: updated
   value: '2024-04-22'
 contributor:
