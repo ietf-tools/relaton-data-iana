@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.8
-id: IANAsecevent-secevent-identifier-formats
+id: IANAsecevent-subject-identifier-formats
 title:
-- content: Security Event Identifier Formats
+- content: Subject Identifier Formats
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/secevent
   type: src
 type: standard
 docid:
-- id: IANA secevent/secevent-identifier-formats
+- id: IANA secevent/subject-identifier-formats
   type: IANA
   primary: true
-docnumber: secevent/secevent-identifier-formats
+docnumber: secevent/subject-identifier-formats
 date:
 - type: created
   value: '2020-07-01'
