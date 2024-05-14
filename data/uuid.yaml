@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.8
-id: IANAUUID
+id: IANAuuid
 title:
 - content: UUID
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/UUID
+- content: http://www.iana.org/assignments/uuid
   type: src
 type: standard
 docid:
-- id: IANA UUID
+- id: IANA uuid
   type: IANA
   primary: true
-docnumber: UUID
+docnumber: uuid
 date:
 - type: created
   value: '2023-11-17'
 - type: updated
-  value: '2025-05-09'
+  value: '2024-05-13'
 contributor:
 - organization:
     name:

@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.8
-id: IANAUUID-uuid-subtypes
+id: IANAuuid-uuid-subtypes
 title:
 - content: UUID Subtypes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/UUID
+- content: http://www.iana.org/assignments/uuid
   type: src
 type: standard
 docid:
-- id: IANA UUID/uuid-subtypes
+- id: IANA uuid/uuid-subtypes
   type: IANA
   primary: true
-docnumber: UUID/uuid-subtypes
+docnumber: uuid/uuid-subtypes
 date:
 - type: created
   value: '2023-11-17'
 - type: updated
-  value: '2025-05-09'
+  value: '2024-05-13'
 contributor:
 - organization:
     name:
