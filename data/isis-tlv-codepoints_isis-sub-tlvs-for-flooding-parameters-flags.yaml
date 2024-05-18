@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAwebsocket-subprotocol-name
+id: IANAisis-tlv-codepoints-isis-sub-tlvs-for-flooding-parameters-flags
 title:
-- content: WebSocket Subprotocol Name Registry
+- content: IS-IS Bit Values for Flooding Parameters Flags Sub-TLV
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/websocket
+- content: http://www.iana.org/assignments/isis-tlv-codepoints
   type: src
 type: standard
 docid:
-- id: IANA websocket/subprotocol-name
+- id: IANA isis-tlv-codepoints/isis-sub-tlvs-for-flooding-parameters-flags
   type: IANA
   primary: true
-docnumber: websocket/subprotocol-name
+docnumber: isis-tlv-codepoints/isis-sub-tlvs-for-flooding-parameters-flags
 date:
 - type: created
-  value: '2011-10-21'
+  value: '2003-05-06'
 - type: updated
   value: '2024-05-17'
 contributor:
