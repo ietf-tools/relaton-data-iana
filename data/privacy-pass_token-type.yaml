@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: IANAprivacy-pass-token-type
 title:
-- content: Privacy Pass Token Type
+- content: Privacy Pass Token Types
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/privacy-pass
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2023-11-17'
 - type: updated
-  value: '2023-11-20'
+  value: '2024-05-24'
 contributor:
 - organization:
     name:
