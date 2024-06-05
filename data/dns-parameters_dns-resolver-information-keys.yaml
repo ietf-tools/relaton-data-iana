@@ -1,23 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAcbor-tags-timescales
+id: IANAdns-parameters-dns-resolver-information-keys
 title:
-- content: Timescales
+- content: DNS Resolver Information Keys
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cbor-tags
+- content: http://www.iana.org/assignments/dns-parameters
   type: src
 type: standard
 docid:
-- id: IANA cbor-tags/timescales
+- id: IANA dns-parameters/dns-resolver-information-keys
   type: IANA
   primary: true
-docnumber: cbor-tags/timescales
+docnumber: dns-parameters/dns-resolver-information-keys
 date:
-- type: created
-  value: '2013-09-19'
 - type: updated
-  value: '2024-05-31'
+  value: '2024-06-03'
 contributor:
 - organization:
     name:
