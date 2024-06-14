@@ -2,7 +2,7 @@
 schema-version: v1.2.8
 id: IANArift-rift-versions
 title:
-- content: RIFT Versions
+- content: RIFTVersions
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/rift
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2024-06-07'
 - type: updated
-  value: '2024-06-07'
+  value: '2024-06-13'
 contributor:
 - organization:
     name:
