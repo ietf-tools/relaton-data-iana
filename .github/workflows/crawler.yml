@@ -2,7 +2,7 @@ name: Crawler
 
 on:
   push:
-    branches: [ master, main ]
+    branches: [ main ]
     tags: [ v* ]
   pull_request:
   schedule:
@@ -11,7 +11,7 @@ on:
 
 jobs:
   crawl:
-    uses: relaton/support/.github/workflows/crawler.yml@master
+    uses: relaton/support/.github/workflows/crawler.yml@main
     secrets:
       args: ${{ secrets.RELATON_CI_PAT }}
     with:
