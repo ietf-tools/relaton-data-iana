@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAmedia-types-examples
+id: IANAmedia-types-haptics
 title:
-- content: example
+- content: haptics
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/media-types
   type: src
 type: standard
 docid:
-- id: IANA media-types/examples
+- id: IANA media-types/haptics
   type: IANA
   primary: true
-docnumber: media-types/examples
+docnumber: media-types/haptics
 date:
 - type: updated
-  value: '2024-06-18'
+  value: '2024-06-25'
 contributor:
 - organization:
     name:

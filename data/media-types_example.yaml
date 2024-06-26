@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.8
-id: IANAmulticast-addresses-multicast-addresses-9
+id: IANAmedia-types-example
 title:
-- content: RESERVED (225.0.0.0-231.255.255.255 (7 /8s))
+- content: example
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/multicast-addresses
+- content: http://www.iana.org/assignments/media-types
   type: src
 type: standard
 docid:
-- id: IANA multicast-addresses/multicast-addresses-9
+- id: IANA media-types/example
   type: IANA
   primary: true
-docnumber: multicast-addresses/multicast-addresses-9
+docnumber: media-types/example
 date:
 - type: updated
   value: '2024-06-25'
