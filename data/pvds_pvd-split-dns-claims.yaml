@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.8
-id: IANAmedia-types-text
+id: IANApvds-pvd-split-dns-claims
 title:
-- content: text
+- content: PvD Split DNS Claims
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-types
+- content: http://www.iana.org/assignments/pvds
   type: src
 type: standard
 docid:
-- id: IANA media-types/text
+- id: IANA pvds/pvd-split-dns-claims
   type: IANA
   primary: true
-docnumber: media-types/text
+docnumber: pvds/pvd-split-dns-claims
 date:
+- type: created
+  value: '2020-02-18'
 - type: updated
   value: '2024-06-27'
 contributor:
