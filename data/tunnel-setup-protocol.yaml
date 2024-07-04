@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtunnel-setup-protocol
 title:
 - content: Tunnel Setup Protocol (TSP) Parameters

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAimap-annotate-extension
 title:
 - content: Internet Message Access Protocol (IMAP) ANNOTATE Extension

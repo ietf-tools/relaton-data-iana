@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsyslog-parameters-syslog-parameters-9
 title:
 - content: syslog-sign Key Blob Type Values

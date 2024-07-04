@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArddp-sctp-function-codes
 title:
 - content: SCTP Function Codes for DDP Stream Session Control

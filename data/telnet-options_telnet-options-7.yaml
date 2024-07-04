@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtelnet-options-telnet-options-7
 title:
 - content: SRP Telnet Authentication Type (Type 5)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopenpgp-openpgp-elliptic-curve-scalar-encodings
 title:
 - content: OpenPGP Elliptic Curve Scalar Encodings

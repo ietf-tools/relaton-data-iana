@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAppp-numbers
 title:
 - content: Point-to-Point (PPP) Protocol Field Assignments

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApop3-extension-mechanism-pop3-extension-mechanism-2
 title:
 - content: POP3 Response Codes

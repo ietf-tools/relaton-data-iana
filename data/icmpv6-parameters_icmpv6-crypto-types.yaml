@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAicmpv6-parameters-icmpv6-crypto-types
 title:
 - content: Crypto-Types

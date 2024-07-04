@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAkeytable-algid
 title:
 - content: KeyTable AlgIDs

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArtp-parameters-rtp-parameters-1
 title:
 - content: RTP Payload Types (PT) for standard audio and video encodings - Closed

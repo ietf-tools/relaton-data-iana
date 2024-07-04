@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsecevent-secevent-error-codes
 title:
 - content: Security Event Token Error Codes

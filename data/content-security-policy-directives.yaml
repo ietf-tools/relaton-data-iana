@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcontent-security-policy-directives
 title:
 - content: Content Security Policy Directives

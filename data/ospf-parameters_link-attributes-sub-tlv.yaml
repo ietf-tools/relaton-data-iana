@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAospf-parameters-link-attributes-sub-tlv
 title:
 - content: OSPF Link Attributes Sub-TLV Bit Values

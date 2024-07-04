@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopenpgp-openpgp-signature-notation-data-subpacket-notation-flags
 title:
 - content: OpenPGP Signature Notation Data Subpacket Notation Flags

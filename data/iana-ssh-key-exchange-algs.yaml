@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAiana-ssh-key-exchange-algs
 title:
 - content: iana-ssh-key-exchange-algs YANG Module

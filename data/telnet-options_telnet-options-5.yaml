@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtelnet-options-telnet-options-5
 title:
 - content: KERBEROS_V4 Telnet Authentication Type (Type 1)

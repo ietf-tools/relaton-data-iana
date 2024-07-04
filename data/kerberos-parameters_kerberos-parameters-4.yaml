@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAkerberos-parameters-kerberos-parameters-4
 title:
 - content: Kerberos TCP Extensions

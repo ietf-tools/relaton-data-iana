@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcbor-simple-values
 title:
 - content: Concise Binary Object Representation (CBOR) Simple Values

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-lsp-extended-flag-tlv-flags
 title:
 - content: LSP-EXTENDED-FLAG TLV Flag Field

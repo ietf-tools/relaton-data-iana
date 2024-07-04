@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAicmp-parameters-icmp-parameters-ext-classes
 title:
 - content: ICMP Extension Object Classes and Class Sub-types

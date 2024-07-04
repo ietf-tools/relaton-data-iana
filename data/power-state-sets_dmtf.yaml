@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApower-state-sets-dmtf
 title:
 - content: DMTF Power State Set

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAipv6-parameters-segment-routing-header-flags
 title:
 - content: Segment Routing Header Flags

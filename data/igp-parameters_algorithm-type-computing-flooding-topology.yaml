@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAigp-parameters-algorithm-type-computing-flooding-topology
 title:
 - content: IGP Algorithm Type For Computing Flooding Topology

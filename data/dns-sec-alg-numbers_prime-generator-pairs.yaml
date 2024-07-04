@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdns-sec-alg-numbers-prime-generator-pairs
 title:
 - content: DNS KEY Record Diffie-Hellman Well-Known Prime/Generator Pairs

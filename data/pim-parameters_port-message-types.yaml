@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApim-parameters-port-message-types
 title:
 - content: PORT Message Types

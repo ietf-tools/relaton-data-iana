@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAipv6-anycast-addresses-ipv6-anycast-addresses-2
 title:
 - content: IPv6 Anycast Subnet-Router Anycast Address

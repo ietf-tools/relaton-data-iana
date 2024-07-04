@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmta-sts
 title:
 - content: SMTP MTA Strict Transport Security (MTA-STS)

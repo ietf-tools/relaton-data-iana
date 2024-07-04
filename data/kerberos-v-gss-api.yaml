@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAkerberos-v-gss-api
 title:
 - content: Kerberos V GSS-API Mechanism Parameters

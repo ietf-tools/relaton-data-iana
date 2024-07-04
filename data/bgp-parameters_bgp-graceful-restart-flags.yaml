@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbgp-parameters-bgp-graceful-restart-flags
 title:
 - content: BGP Graceful Restart Flags

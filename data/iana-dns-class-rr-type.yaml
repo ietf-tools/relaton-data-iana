@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAiana-dns-class-rr-type
 title:
 - content: iana-dns-class-rr-type YANG Module

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmikey-payloads-mikey-payloads-10
 title:
 - content: Envelope Data Payload Field Names

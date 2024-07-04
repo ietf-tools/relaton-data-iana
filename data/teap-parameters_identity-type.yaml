@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAteap-parameters-identity-type
 title:
 - content: TEAP Identity-Type TLV (value 2) Registry

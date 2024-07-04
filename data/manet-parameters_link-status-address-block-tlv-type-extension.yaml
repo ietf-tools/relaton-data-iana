@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmanet-parameters-link-status-address-block-tlv-type-extension
 title:
 - content: Type 3 Address Block TLV Type Extensions

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmanet-parameters-address-block-tlv-types
 title:
 - content: Address Block TLV Types

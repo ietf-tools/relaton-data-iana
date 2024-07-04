@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-association-type-field
 title:
 - content: ASSOCIATION Type Field

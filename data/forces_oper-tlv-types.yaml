@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAforces-oper-tlv-types
 title:
 - content: Operation Selection (OPER-TLV) Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcfm-oam-tlv-types
 title:
 - content: CFM OAM IETF TLV Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcdni-parameters-ri-error-response
 title:
 - content: CDNI RI Error response code

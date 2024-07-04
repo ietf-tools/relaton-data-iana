@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAssh-parameters-ssh-parameters-15
 title:
 - content: Connection Protocol Subsystem Names

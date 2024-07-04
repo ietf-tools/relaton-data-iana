@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApim-parameters-flooding-mechanism-message-types
 title:
 - content: PIM Flooding Mechanism Message Types

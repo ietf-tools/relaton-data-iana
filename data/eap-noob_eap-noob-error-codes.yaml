@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeap-noob-eap-noob-error-codes
 title:
 - content: EAP-NOOB Error Codes

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAisakmp-registry-isakmp-registry-5
 title:
 - content: IPSEC ISAKMP Transform Identifiers

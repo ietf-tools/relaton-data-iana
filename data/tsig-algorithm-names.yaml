@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtsig-algorithm-names
 title:
 - content: Secret Key Transaction Authentication for DNS (TSIG) Algorithm Names

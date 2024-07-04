@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdns-parameters-dns-quic-error-codes
 title:
 - content: DNS-over-QUIC Error Codes

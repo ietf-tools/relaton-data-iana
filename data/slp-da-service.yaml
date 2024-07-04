@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAslp-da-service
 title:
 - content: Service Location Protocol (SLP) Remote Service Discovery

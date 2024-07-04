@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAgsmpv3-traffic-gsmpv3-traffic-1
 title:
 - content: Traffic Control Flags

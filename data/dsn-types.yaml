@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdsn-types
 title:
 - content: Delivery Status Notification (DSN) Types

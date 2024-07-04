@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAimap-annotate-extension-imap-annotate-extension-entries
 title:
 - content: IMAP ANNOTATE Extension Entries

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsmi-numbers-smi-numbers-62
 title:
 - content: SNMP Management Architecture - Security Subsystem (SnmpSecurityModel)

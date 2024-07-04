@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsigtran-adapt-sigtran-adapt-10
 title:
 - content: Message Types - Connection-Oriented Messages (Value 8)

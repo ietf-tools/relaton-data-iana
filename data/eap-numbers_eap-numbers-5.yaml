@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeap-numbers-eap-numbers-5
 title:
 - content: EAP-FAST TLV Types (Value 43)

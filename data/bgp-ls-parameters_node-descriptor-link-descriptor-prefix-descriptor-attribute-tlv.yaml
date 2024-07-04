@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbgp-ls-parameters-node-descriptor-link-descriptor-prefix-descriptor-attribute-tlv
 title:
 - content: BGP-LS NLRI and Attribute TLVs

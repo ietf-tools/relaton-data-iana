@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAospf-traffic-eng-tlvs-subtlv5
 title:
 - content: Types for sub-TLVs of TE Node Attribute TLV (Value 5)

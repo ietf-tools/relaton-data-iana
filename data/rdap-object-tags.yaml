@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArdap-object-tags
 title:
 - content: Bootstrap Service Registry for Provider Object Tags

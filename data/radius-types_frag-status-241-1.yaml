@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAradius-types-frag-status-241-1
 title:
 - content: Code Values for RADIUS Attribute 241.1, Frag-Status

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAstun-parameters
 title:
 - content: Session Traversal Utilities for NAT (STUN) Parameters

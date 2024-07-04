@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtrill-parameters-rbridge-channel-header-flags
 title:
 - content: RBridge Channel Header Flags

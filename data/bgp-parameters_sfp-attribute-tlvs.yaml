@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbgp-parameters-sfp-attribute-tlvs
 title:
 - content: SFP Attribute TLVs

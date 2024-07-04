@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAstamp-tlv-types-stamp-synchronization-sources
 title:
 - content: STAMP Synchronization Sources

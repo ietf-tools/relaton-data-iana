@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbgp-tunnel-encapsulation-color-extended-community-flags
 title:
 - content: Color Extended Community Flags

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcops-parameters-cops-parameters-5
 title:
 - content: R-Types, Reason-Codes, Report-Types, Decision Object Command-Codes/Flags,

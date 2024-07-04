@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAipv6-multicast-addresses-node-local
 title:
 - content: Node-Local Scope Multicast Addresses

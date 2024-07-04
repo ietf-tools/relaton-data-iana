@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAesp-aggfrag-payload
 title:
 - content: ESP AGGFRAG_PAYLOAD

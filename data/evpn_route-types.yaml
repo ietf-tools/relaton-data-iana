@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAevpn-route-types
 title:
 - content: EVPN Route Types

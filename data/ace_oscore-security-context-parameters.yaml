@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAace-oscore-security-context-parameters
 title:
 - content: OSCORE Security Context Parameters

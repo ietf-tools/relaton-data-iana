@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmulticast-addresses-unicast-prefix-based
 title:
 - content: Unicast-Prefix-based IPv4 Multicast Addresses

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdhcpv6-parameters-dhcpv6-options-attribute
 title:
 - content: DHCPv6 Options Permitted in the RADIUS DHCPv6-Options Attribute

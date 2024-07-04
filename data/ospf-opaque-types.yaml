@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAospf-opaque-types
 title:
 - content: Open Shortest Path First (OSPF) Opaque Link-State Advertisements (LSA)

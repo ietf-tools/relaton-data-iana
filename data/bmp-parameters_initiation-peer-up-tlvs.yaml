@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbmp-parameters-initiation-peer-up-tlvs
 title:
 - content: BMP Initiation and Peer Up Information TLVs

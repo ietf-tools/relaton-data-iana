@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-srv6-capability-flag-field
 title:
 - content: SRv6 Capability Flag Field

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAiana-ssh-public-key-algs
 title:
 - content: iana-ssh-public-key-algs YANG Module

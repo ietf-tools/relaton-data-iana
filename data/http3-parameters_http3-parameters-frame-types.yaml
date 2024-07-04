@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAhttp3-parameters-http3-parameters-frame-types
 title:
 - content: HTTP/3 Frame Types

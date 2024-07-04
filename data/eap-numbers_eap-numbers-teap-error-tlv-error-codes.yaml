@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeap-numbers-eap-numbers-teap-error-tlv-error-codes
 title:
 - content: TEAP Error TLV (value 5) Error Codes

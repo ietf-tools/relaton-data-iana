@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopenpgp-openpgp-hash-alg-ids-rsa-sig-emsa-pkcs1-v1_5-padding
 title:
 - content: OpenPGP Hash Algorithm Identifiers for RSA Signatures Use of EMSA-PKCS1-v1_5

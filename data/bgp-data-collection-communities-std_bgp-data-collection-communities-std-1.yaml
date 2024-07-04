@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbgp-data-collection-communities-std-bgp-data-collection-communities-std-1
 title:
 - content: BGP Data Collection Standard Communities

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmulticast-acquisition-report-block-tlv
 title:
 - content: Multicast Acquisition Report Block TLV Space Registry

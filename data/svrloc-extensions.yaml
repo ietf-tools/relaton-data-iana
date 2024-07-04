@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsvrloc-extensions
 title:
 - content: Service Location Protocol Extensions, Version 2 (SLPv2)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdns-key-rr
 title:
 - content: DNS KEY Resource Record Protocol Octet Values

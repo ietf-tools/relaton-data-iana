@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAipv6-multicast-addresses-unicast-multicast-group-ids
 title:
 - content: Unicast-based (Including SSM) Multicast Group IDs

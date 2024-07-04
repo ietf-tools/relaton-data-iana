@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtwamp-parameters
 title:
 - content: Two-way Active Measurement Protocol (TWAMP) Parameters

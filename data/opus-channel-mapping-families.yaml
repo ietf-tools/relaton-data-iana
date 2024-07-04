@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopus-channel-mapping-families
 title:
 - content: Opus Channel Mapping Families

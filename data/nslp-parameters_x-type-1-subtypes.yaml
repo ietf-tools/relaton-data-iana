@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAnslp-parameters-x-type-1-subtypes
 title:
 - content: AUTH_ENT_ID (X-Type 1) SubType values

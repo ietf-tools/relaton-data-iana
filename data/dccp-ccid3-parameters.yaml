@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdccp-ccid3-parameters
 title:
 - content: 'Profile for Datagram Congestion Control Protocol (DCCP) Congestion Control

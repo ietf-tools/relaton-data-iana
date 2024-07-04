@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANA_6lowpan-parameters-critical-6lowpan-routing-header-type
 title:
 - content: Critical 6LoWPAN Routing Header Type

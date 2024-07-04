@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAauthentication-cryptographic-protocol-id-cryptographic-protocol-id
 title:
 - content: Cryptographic Protocol ID

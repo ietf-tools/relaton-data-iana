@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAppspp-message-types
 title:
 - content: PPSP Peer Protocol Message Type Registry

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAjscalendar-jscalendar-enum-values
 title:
 - content: JSCalendar Enum Values

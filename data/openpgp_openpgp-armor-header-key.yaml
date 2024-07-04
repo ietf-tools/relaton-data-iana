@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopenpgp-openpgp-armor-header-key
 title:
 - content: OpenPGP Armor Header Key

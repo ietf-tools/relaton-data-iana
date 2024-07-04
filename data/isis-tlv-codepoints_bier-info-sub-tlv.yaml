@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAisis-tlv-codepoints-bier-info-sub-tlv
 title:
 - content: IS-IS Sub-Sub-TLVs for BIER Info Sub-TLV

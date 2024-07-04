@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAoauth-parameters-token-endpoint-auth-method
 title:
 - content: OAuth Token Endpoint Authentication Methods

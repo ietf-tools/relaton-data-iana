@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdmarc-parameters
 title:
 - content: Domain-based Message Authentication, Reporting, and Conformance (DMARC)

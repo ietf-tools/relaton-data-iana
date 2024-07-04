@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmulticast-addresses-multicast-addresses-12
 title:
 - content: Scoped Multicast Ranges

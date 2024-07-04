@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAppspp-content-integrity-protection
 title:
 - content: PPSP Peer Protocol Content Integrity Protection Method Registry

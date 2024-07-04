@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAradius-types-radius-types-17
 title:
 - content: Values for RADIUS Attribute 76, Prompt

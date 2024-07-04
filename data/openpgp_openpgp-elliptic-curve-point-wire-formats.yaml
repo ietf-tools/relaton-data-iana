@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopenpgp-openpgp-elliptic-curve-point-wire-formats
 title:
 - content: OpenPGP Elliptic Curve Point Wire Formats

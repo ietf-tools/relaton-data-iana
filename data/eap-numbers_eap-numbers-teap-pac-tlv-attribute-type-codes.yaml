@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeap-numbers-eap-numbers-teap-pac-tlv-attribute-type-codes
 title:
 - content: TEAP PAC TLV (value 11) PAC Attribute Type Codes

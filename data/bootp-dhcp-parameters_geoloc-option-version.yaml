@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbootp-dhcp-parameters-geoloc-option-version
 title:
 - content: GeoLoc Option Version Registry

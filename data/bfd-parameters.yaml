@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbfd-parameters
 title:
 - content: Bidirectional Forwarding Detection (BFD) Parameters

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArid
 title:
 - content: Real-time Inter-network Defense (RID)

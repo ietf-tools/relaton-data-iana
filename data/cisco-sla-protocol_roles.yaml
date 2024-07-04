@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcisco-sla-protocol-roles
 title:
 - content: Cisco SLA Protocol Roles Registry

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAreload
 title:
 - content: REsource LOcation And Discovery (RELOAD)

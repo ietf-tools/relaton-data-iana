@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmobility-parameters-flow-binding-action
 title:
 - content: Flow Binding Action Values

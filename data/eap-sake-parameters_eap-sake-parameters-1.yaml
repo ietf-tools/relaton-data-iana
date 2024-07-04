@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeap-sake-parameters-eap-sake-parameters-1
 title:
 - content: EAP-SAKE messages

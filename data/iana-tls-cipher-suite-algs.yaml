@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAiana-tls-cipher-suite-algs
 title:
 - content: iana-tls-cipher-suite-algs YANG Module

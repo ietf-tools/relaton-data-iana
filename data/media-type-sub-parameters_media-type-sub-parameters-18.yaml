@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmedia-type-sub-parameters-media-type-sub-parameters-18
 title:
 - content: Sub-Parameter Registry for application/aif+cbor and application/aif+json

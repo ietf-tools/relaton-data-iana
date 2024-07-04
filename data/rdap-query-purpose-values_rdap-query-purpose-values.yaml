@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArdap-query-purpose-values-rdap-query-purpose-values
 title:
 - content: Registration Data Access Protocol (RDAP) Query Purpose Values

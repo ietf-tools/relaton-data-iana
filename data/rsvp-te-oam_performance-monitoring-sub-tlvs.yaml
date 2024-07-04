@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArsvp-te-oam-performance-monitoring-sub-tlvs
 title:
 - content: Performance Monitoring Sub-TLV Types

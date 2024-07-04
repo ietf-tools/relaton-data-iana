@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbgp-extended-communities-context-specific-label-space-id-type
 title:
 - content: Context-Specific Label Space ID Type

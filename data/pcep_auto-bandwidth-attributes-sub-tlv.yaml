@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-auto-bandwidth-attributes-sub-tlv
 title:
 - content: AUTO-BANDWIDTH-ATTRIBUTES Sub-TLV Types

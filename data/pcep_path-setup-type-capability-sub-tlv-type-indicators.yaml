@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-path-setup-type-capability-sub-tlv-type-indicators
 title:
 - content: PATH-SETUP-TYPE-CAPABILITY Sub-TLV Type Indicators

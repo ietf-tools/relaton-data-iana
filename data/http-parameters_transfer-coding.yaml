@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAhttp-parameters-transfer-coding
 title:
 - content: HTTP Transfer Coding Registry

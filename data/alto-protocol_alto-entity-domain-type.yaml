@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAalto-protocol-alto-entity-domain-type
 title:
 - content: ALTO Entity Domain Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAopenpgp-openpgp-ecc-curve-oid-usage
 title:
 - content: OpenPGP ECC Curve OID and Usage

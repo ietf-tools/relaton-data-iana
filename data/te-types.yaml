@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAte-types
 title:
 - content: Traffic Engineering (TE) LSA Types and Traffic Engineering (TE) TLVs

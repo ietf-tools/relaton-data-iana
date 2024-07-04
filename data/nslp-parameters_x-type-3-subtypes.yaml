@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAnslp-parameters-x-type-3-subtypes
 title:
 - content: SOURCE_ADDR (X-Type 3) SubType values

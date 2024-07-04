@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArsvp-te-oam-oam-sub-tlvs
 title:
 - content: OAM Sub-TLVs

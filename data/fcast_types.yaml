@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAfcast-types
 title:
 - content: FCAST Object Metadata Types

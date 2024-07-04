@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAalto-protocol-cost-modes
 title:
 - content: ALTO Cost Modes

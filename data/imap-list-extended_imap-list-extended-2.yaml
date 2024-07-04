@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAimap-list-extended-imap-list-extended-2
 title:
 - content: LIST-EXTENDED response

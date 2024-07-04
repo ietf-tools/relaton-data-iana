@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAbier
 title:
 - content: Bit Index Explicit Replication (BIER)

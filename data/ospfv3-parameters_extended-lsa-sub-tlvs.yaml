@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAospfv3-parameters-extended-lsa-sub-tlvs
 title:
 - content: OSPFv3 Extended-LSA Sub-TLVs

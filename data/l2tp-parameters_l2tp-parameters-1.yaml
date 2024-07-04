@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAl2tp-parameters-l2tp-parameters-1
 title:
 - content: Control Message Attribute Value Pairs

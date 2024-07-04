@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANA_6lowpan-parameters-lowpan_nhc
 title:
 - content: LOWPAN_NHC Header Type

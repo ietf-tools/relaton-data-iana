@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsyslog-parameters-syslog-parameters-3
 title:
 - content: syslog Version Values

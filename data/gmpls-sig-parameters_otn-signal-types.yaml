@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAgmpls-sig-parameters-otn-signal-types
 title:
 - content: OTN Signal Type

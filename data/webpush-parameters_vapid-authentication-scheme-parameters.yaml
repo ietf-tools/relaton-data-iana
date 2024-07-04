@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAwebpush-parameters-vapid-authentication-scheme-parameters
 title:
 - content: VAPID Authentication Scheme Parameters

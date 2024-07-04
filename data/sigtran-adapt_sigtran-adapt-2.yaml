@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsigtran-adapt-sigtran-adapt-2
 title:
 - content: Message Types - Management (MGMT) Message (Value 0)

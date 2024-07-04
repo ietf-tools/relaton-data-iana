@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsvrloc-function-ids
 title:
 - content: Service Location Protocol, Version 2 (SLPv2) Function IDs

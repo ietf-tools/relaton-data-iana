@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcpim-headers
 title:
 - content: Common Presence and Instant Messaging (CPIM) Headers

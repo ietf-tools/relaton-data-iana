@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAospf-parameters-dynamic-flooding-lsa
 title:
 - content: OSPF Dynamic Flooding LSA TLVs

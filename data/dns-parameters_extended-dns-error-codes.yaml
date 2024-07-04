@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAdns-parameters-extended-dns-error-codes
 title:
 - content: Extended DNS Error Codes

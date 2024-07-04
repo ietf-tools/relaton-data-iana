@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAsmtp-enhanced-status-codes-smtp-enhanced-status-codes-3
 title:
 - content: Enumerated Status Codes

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAalto-protocol-address-types
 title:
 - content: ALTO Address Types

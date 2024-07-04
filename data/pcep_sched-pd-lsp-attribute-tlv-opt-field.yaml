@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-sched-pd-lsp-attribute-tlv-opt-field
 title:
 - content: SCHED-PD-LSP-ATTRIBUTE TLV Opt Field

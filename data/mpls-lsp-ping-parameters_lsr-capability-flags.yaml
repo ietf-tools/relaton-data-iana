@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmpls-lsp-ping-parameters-lsr-capability-flags
 title:
 - content: LSR Capability Flags

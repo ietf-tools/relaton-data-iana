@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAospf-parameters-flex-algorithm-prefix-metric-bits
 title:
 - content: OSPF Flex-Algorithm Prefix Metric Bits

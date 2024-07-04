@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAace-oauth-error-code-cbor-mappings
 title:
 - content: OAuth Error Code CBOR Mappings

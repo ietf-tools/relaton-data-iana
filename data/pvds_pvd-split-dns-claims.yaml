@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApvds-pvd-split-dns-claims
 title:
 - content: PvD Split DNS Claims

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArpki-bgpsec-algorithm-suite
 title:
 - content: BGPsec Algorithm Suites

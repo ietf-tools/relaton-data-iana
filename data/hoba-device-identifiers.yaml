@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAhoba-device-identifiers
 title:
 - content: HTTP Origin-Bound Authentication (HOBA) Device Identifier Types

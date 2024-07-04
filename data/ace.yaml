@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAace
 title:
 - content: Authentication and Authorization for Constrained Environments (ACE)

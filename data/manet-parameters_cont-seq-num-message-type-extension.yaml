@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmanet-parameters-cont-seq-num-message-type-extension
 title:
 - content: Type 8 Message TLV Type Extensions

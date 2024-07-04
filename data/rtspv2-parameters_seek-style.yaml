@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANArtspv2-parameters-seek-style
 title:
 - content: Seek-Style Policies

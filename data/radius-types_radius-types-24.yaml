@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAradius-types-radius-types-24
 title:
 - content: Requested-Location-Info Attribute (Attribute 132)

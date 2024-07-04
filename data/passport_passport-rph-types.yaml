@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApassport-passport-rph-types
 title:
 - content: PASSporT Resource Priority Header (rph) Types

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAhttp-proxy-status
 title:
 - content: Hypertext Transfer Protocol (HTTP) Proxy-Status

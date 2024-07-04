@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-pcep-srv6-ero-nai-types
 title:
 - content: PCEP SRv6-ERO NAI Types

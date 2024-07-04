@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAisns-parameters
 title:
 - content: Internet Storage Name Service (iSNS) Parameters

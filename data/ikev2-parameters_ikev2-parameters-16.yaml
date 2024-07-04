@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAikev2-parameters-ikev2-parameters-16
 title:
 - content: IKEv2 Notify Message Status Types

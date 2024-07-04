@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmulticast-addresses-multicast-addresses-10
 title:
 - content: Source-Specific Multicast Block (232.0.0.0-232.255.255.255 (232/8))

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeapsimaka-numbers-eap-aka-at-kdf-fs-key-derivation-function
 title:
 - content: EAP-AKA' AT_KDF_FS Key Derivation Function Values

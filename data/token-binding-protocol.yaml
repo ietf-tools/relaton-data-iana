@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAtoken-binding-protocol
 title:
 - content: Token Binding Protocol

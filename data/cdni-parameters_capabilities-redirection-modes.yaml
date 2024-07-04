@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAcdni-parameters-capabilities-redirection-modes
 title:
 - content: CDNI Capabilities Redirection Modes

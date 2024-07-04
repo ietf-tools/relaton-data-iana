@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAiana-ssh-encryption-algs
 title:
 - content: iana-ssh-encryption-algs YANG Module

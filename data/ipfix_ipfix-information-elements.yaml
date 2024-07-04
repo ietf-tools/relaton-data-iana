@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAipfix-ipfix-information-elements
 title:
 - content: IPFIX Information Elements

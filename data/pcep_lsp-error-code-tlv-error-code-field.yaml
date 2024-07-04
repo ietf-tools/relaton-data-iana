@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANApcep-lsp-error-code-tlv-error-code-field
 title:
 - content: LSP-ERROR-CODE TLV Error Code Field

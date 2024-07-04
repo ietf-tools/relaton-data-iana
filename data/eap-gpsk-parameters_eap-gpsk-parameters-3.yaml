@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAeap-gpsk-parameters-eap-gpsk-parameters-3
 title:
 - content: EAP-GPSK Failure Codes

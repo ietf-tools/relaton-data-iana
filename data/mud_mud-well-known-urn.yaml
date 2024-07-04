@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAmud-mud-well-known-urn
 title:
 - content: MUD Well-Known Uniform Resource Name (URN)

@@ -1,5 +1,5 @@
 ---
-schema-version: v1.2.8
+schema-version: v1.2.9
 id: IANAhpke-hpke-aead-ids
 title:
 - content: HPKE AEAD Identifiers
