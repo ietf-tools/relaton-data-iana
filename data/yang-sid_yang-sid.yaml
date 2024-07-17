@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAyang-sid-yang-sid
 title:
-- content: IETF YANG SID
+- content: IETF YANG-SID Modules
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/yang-sid
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2024-01-26'
 - type: updated
-  value: '2024-07-15'
+  value: '2024-07-16'
 contributor:
 - organization:
     name:
