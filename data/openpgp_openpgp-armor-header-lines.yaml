@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAopenpgp-openpgp-hash-algorithms
+id: IANAopenpgp-openpgp-armor-header-lines
 title:
-- content: OpenPGP Hash Algorithms
+- content: OpenPGP Armor Header Lines
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/openpgp
   type: src
 type: standard
 docid:
-- id: IANA openpgp/openpgp-hash-algorithms
+- id: IANA openpgp/openpgp-armor-header-lines
   type: IANA
   primary: true
-docnumber: openpgp/openpgp-hash-algorithms
+docnumber: openpgp/openpgp-armor-header-lines
 date:
 - type: created
   value: '2024-01-19'

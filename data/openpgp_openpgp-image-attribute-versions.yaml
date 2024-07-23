@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.9
-id: IANAopenpgp-openpgp-reason-revocation-code
+id: IANAopenpgp-openpgp-image-attribute-versions
 title:
-- content: OpenPGP Reason for Revocation Code
+- content: OpenPGP Image Attribute Versions
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/openpgp
   type: src
 type: standard
 docid:
-- id: IANA openpgp/openpgp-reason-revocation-code
+- id: IANA openpgp/openpgp-image-attribute-versions
   type: IANA
   primary: true
-docnumber: openpgp/openpgp-reason-revocation-code
+docnumber: openpgp/openpgp-image-attribute-versions
 date:
 - type: created
   value: '2024-01-19'
 - type: updated
-  value: '2024-01-26'
+  value: '2024-07-22'
 contributor:
 - organization:
     name:
