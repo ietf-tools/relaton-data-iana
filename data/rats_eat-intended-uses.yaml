@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAsctp-parameters-sctp-parameters-27
+id: IANArats-eat-intended-uses
 title:
-- content: Adaptation Code Points
+- content: EAT Intended Uses
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sctp-parameters
+- content: http://www.iana.org/assignments/rats
   type: src
 type: standard
 docid:
-- id: IANA sctp-parameters/sctp-parameters-27
+- id: IANA rats/eat-intended-uses
   type: IANA
   primary: true
-docnumber: sctp-parameters/sctp-parameters-27
+docnumber: rats/eat-intended-uses
 date:
 - type: created
-  value: 2000-10
+  value: '2024-07-26'
 - type: updated
   value: '2024-07-26'
 contributor:
