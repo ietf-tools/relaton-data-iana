@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANApcep-wavelength-restriction-constraint-tlv-action-values
 title:
-- content: Wavelength Restriction Constraint TLV Action Values
+- content: Wavelength Restriction TLV Action Values
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/pcep
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2008-12-19'
 - type: updated
-  value: '2024-07-24'
+  value: '2024-07-30'
 contributor:
 - organization:
     name:
