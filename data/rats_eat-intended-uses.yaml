@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANArats-eat-intended-uses
 title:
-- content: EAT Intended Uses
+- content: Entity Attestation Token (EAT) Intended Uses
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/rats
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2024-07-26'
 - type: updated
-  value: '2024-07-26'
+  value: '2024-08-02'
 contributor:
 - organization:
     name:
