@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAdns-parameters-zonemd-hash-algorithms
+id: IANAdns-parameters-zoneversion-type-values
 title:
-- content: ZONEMD Hash Algorithms
+- content: ZONEVERSION TYPE Values
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/dns-parameters
   type: src
 type: standard
 docid:
-- id: IANA dns-parameters/zonemd-hash-algorithms
+- id: IANA dns-parameters/zoneversion-type-values
   type: IANA
   primary: true
-docnumber: dns-parameters/zonemd-hash-algorithms
+docnumber: dns-parameters/zoneversion-type-values
 date:
 - type: updated
   value: '2024-08-09'
