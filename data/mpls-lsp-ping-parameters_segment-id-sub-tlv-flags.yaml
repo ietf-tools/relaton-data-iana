@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAmpls-lsp-ping-parameters-global-flags
+id: IANAmpls-lsp-ping-parameters-segment-id-sub-tlv-flags
 title:
-- content: Global Flags
+- content: Segment ID Sub-TLV Flags
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/mpls-lsp-ping-parameters
   type: src
 type: standard
 docid:
-- id: IANA mpls-lsp-ping-parameters/global-flags
+- id: IANA mpls-lsp-ping-parameters/segment-id-sub-tlv-flags
   type: IANA
   primary: true
-docnumber: mpls-lsp-ping-parameters/global-flags
+docnumber: mpls-lsp-ping-parameters/segment-id-sub-tlv-flags
 date:
 - type: created
   value: '2006-01-12'
