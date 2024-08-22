@@ -1,21 +1,19 @@
 ---
 schema-version: v1.2.9
-id: IANAipp-registrations
+id: IANArsvp-parameters-conditions-object-flags
 title:
-- content: Internet Printing Protocol (IPP) Registrations
+- content: CONDITIONS Object Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipp-registrations
+- content: http://www.iana.org/assignments/rsvp-parameters
   type: src
 type: standard
 docid:
-- id: IANA ipp-registrations
+- id: IANA rsvp-parameters/conditions-object-flags
   type: IANA
   primary: true
-docnumber: ipp-registrations
+docnumber: rsvp-parameters/conditions-object-flags
 date:
-- type: created
-  value: '2002-07-15'
 - type: updated
   value: '2024-08-21'
 contributor:

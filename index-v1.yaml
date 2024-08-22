@@ -6589,3 +6589,5 @@
   :file: data/yang-sid_yang-sid.yaml
 - :id: mpls-lsp-ping-parameters/segment-id-sub-tlv-flags
   :file: data/mpls-lsp-ping-parameters_segment-id-sub-tlv-flags.yaml
+- :id: rsvp-parameters/conditions-object-flags
+  :file: data/rsvp-parameters_conditions-object-flags.yaml
