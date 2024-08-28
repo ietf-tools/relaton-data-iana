@@ -6591,3 +6591,9 @@
   :file: data/mpls-lsp-ping-parameters_segment-id-sub-tlv-flags.yaml
 - :id: rsvp-parameters/conditions-object-flags
   :file: data/rsvp-parameters_conditions-object-flags.yaml
+- :id: whip
+  :file: data/whip.yaml
+- :id: whip/whip-urns
+  :file: data/whip_whip-urns.yaml
+- :id: whip/whip-extension-urns
+  :file: data/whip_whip-extension-urns.yaml

@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANApcep-notification-object
+id: IANAwhip
 title:
-- content: Notification Object
+- content: WebRTC-HTTP ingestion protocol (WHIP)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pcep
+- content: http://www.iana.org/assignments/whip
   type: src
 type: standard
 docid:
-- id: IANA pcep/notification-object
+- id: IANA whip
   type: IANA
   primary: true
-docnumber: pcep/notification-object
+docnumber: whip
 date:
 - type: created
-  value: '2008-12-19'
+  value: '2024-08-27'
 - type: updated
   value: '2024-08-27'
 contributor:
