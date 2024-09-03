@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAicmpv6-parameters-icmpv6-parameters-11
 title:
-- content: IPv6 ND Router Advertisement flags
+- content: IPv6 ND Router Advertisement Flags
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/icmpv6-parameters
@@ -15,7 +15,7 @@ docid:
 docnumber: icmpv6-parameters/icmpv6-parameters-11
 date:
 - type: updated
-  value: '2024-06-04'
+  value: '2024-09-02'
 contributor:
 - organization:
     name:
