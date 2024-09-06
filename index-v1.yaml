@@ -6597,3 +6597,5 @@
   :file: data/whip_whip-urns.yaml
 - :id: whip/whip-extension-urns
   :file: data/whip_whip-extension-urns.yaml
+- :id: locally-served-dns-zones/service-arpa-subdomain
+  :file: data/locally-served-dns-zones_service-arpa-subdomain.yaml

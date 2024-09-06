@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAicmpv6-parameters-ipv6-neighbor-discovery-prefix-information-options
+id: IANAlocally-served-dns-zones-service-arpa-subdomain
 title:
-- content: IPv6 Neighbor Discovery Prefix Information Option Flags
+- content: service.arpa Subdomain
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/icmpv6-parameters
+- content: http://www.iana.org/assignments/locally-served-dns-zones
   type: src
 type: standard
 docid:
-- id: IANA icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
+- id: IANA locally-served-dns-zones/service-arpa-subdomain
   type: IANA
   primary: true
-docnumber: icmpv6-parameters/ipv6-neighbor-discovery-prefix-information-options
+docnumber: locally-served-dns-zones/service-arpa-subdomain
 date:
+- type: created
+  value: '2011-06-10'
 - type: updated
   value: '2024-09-05'
 contributor:
