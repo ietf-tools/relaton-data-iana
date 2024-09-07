@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAkerberos-parameters-second-factor-types
+id: IANAigmp-type-numbers-igmp-mld-query-message-flags
 title:
-- content: Kerberos Second Factor Types
+- content: IGMP/MLD Query Message Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/kerberos-parameters
+- content: http://www.iana.org/assignments/igmp-type-numbers
   type: src
 type: standard
 docid:
-- id: IANA kerberos-parameters/second-factor-types
+- id: IANA igmp-type-numbers/igmp-mld-query-message-flags
   type: IANA
   primary: true
-docnumber: kerberos-parameters/second-factor-types
+docnumber: igmp-type-numbers/igmp-mld-query-message-flags
 date:
 - type: created
-  value: '2004-06-29'
+  value: '2002-02-06'
 - type: updated
   value: '2024-09-06'
 contributor:

@@ -6599,3 +6599,7 @@
   :file: data/whip_whip-extension-urns.yaml
 - :id: locally-served-dns-zones/service-arpa-subdomain
   :file: data/locally-served-dns-zones_service-arpa-subdomain.yaml
+- :id: igmp-type-numbers/igmp-mld-query-message-flags
+  :file: data/igmp-type-numbers_igmp-mld-query-message-flags.yaml
+- :id: igmp-type-numbers/igmp-mld-report-message-flags
+  :file: data/igmp-type-numbers_igmp-mld-report-message-flags.yaml
