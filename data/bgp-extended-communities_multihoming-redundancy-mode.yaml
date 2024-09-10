@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAigmp-type-numbers-igmp-mld-query-message-flags
+id: IANAbgp-extended-communities-multihoming-redundancy-mode
 title:
-- content: IGMP/MLD Query Message Flags
+- content: Multihoming Redundancy Mode
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/igmp-type-numbers
+- content: http://www.iana.org/assignments/bgp-extended-communities
   type: src
 type: standard
 docid:
-- id: IANA igmp-type-numbers/igmp-mld-query-message-flags
+- id: IANA bgp-extended-communities/multihoming-redundancy-mode
   type: IANA
   primary: true
-docnumber: igmp-type-numbers/igmp-mld-query-message-flags
+docnumber: bgp-extended-communities/multihoming-redundancy-mode
 date:
 - type: created
-  value: '2002-02-06'
+  value: '2005-08-15'
 - type: updated
   value: '2024-09-09'
 contributor:

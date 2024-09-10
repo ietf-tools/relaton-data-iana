@@ -6603,3 +6603,9 @@
   :file: data/igmp-type-numbers_igmp-mld-query-message-flags.yaml
 - :id: igmp-type-numbers/igmp-mld-report-message-flags
   :file: data/igmp-type-numbers_igmp-mld-report-message-flags.yaml
+- :id: bgp-extended-communities/evpn-esi-label-extended-community-flags
+  :file: data/bgp-extended-communities_evpn-esi-label-extended-community-flags.yaml
+- :id: bgp-extended-communities/multihoming-redundancy-mode
+  :file: data/bgp-extended-communities_multihoming-redundancy-mode.yaml
+- :id: bgp-extended-communities/split-horizon-type
+  :file: data/bgp-extended-communities_split-horizon-type.yaml
