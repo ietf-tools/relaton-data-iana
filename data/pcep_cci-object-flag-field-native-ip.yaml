@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANApcep-lsp-error-code-tlv-error-code-field
+id: IANApcep-cci-object-flag-field-native-ip
 title:
-- content: LSP-ERROR-CODE TLV Error Code Field
+- content: CCI Object Flag Field for Native-IP
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-- id: IANA pcep/lsp-error-code-tlv-error-code-field
+- id: IANA pcep/cci-object-flag-field-native-ip
   type: IANA
   primary: true
-docnumber: pcep/lsp-error-code-tlv-error-code-field
+docnumber: pcep/cci-object-flag-field-native-ip
 date:
 - type: created
   value: '2008-12-19'

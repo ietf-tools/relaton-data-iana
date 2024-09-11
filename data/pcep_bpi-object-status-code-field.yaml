@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANApcep-lsp-error-code-tlv-error-code-field
+id: IANApcep-bpi-object-status-code-field
 title:
-- content: LSP-ERROR-CODE TLV Error Code Field
+- content: BPI Object Status Code Field
   format: text/plain
 link:
 - content: http://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:
-- id: IANA pcep/lsp-error-code-tlv-error-code-field
+- id: IANA pcep/bpi-object-status-code-field
   type: IANA
   primary: true
-docnumber: pcep/lsp-error-code-tlv-error-code-field
+docnumber: pcep/bpi-object-status-code-field
 date:
 - type: created
   value: '2008-12-19'

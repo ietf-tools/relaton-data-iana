@@ -6609,3 +6609,11 @@
   :file: data/bgp-extended-communities_multihoming-redundancy-mode.yaml
 - :id: bgp-extended-communities/split-horizon-type
   :file: data/bgp-extended-communities_split-horizon-type.yaml
+- :id: pcep/cci-object-flag-field-native-ip
+  :file: data/pcep_cci-object-flag-field-native-ip.yaml
+- :id: pcep/bpi-object-status-code-field
+  :file: data/pcep_bpi-object-status-code-field.yaml
+- :id: pcep/bpi-object-error-code-field
+  :file: data/pcep_bpi-object-error-code-field.yaml
+- :id: pcep/bpi-object-flag-field
+  :file: data/pcep_bpi-object-flag-field.yaml
