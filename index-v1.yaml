@@ -6617,3 +6617,11 @@
   :file: data/pcep_bpi-object-error-code-field.yaml
 - :id: pcep/bpi-object-flag-field
   :file: data/pcep_bpi-object-flag-field.yaml
+- :id: acl-tls
+  :file: data/acl-tls.yaml
+- :id: acl-tls/acl-tls-version-codes
+  :file: data/acl-tls_acl-tls-version-codes.yaml
+- :id: acl-tls/acl-dtls-version-codes
+  :file: data/acl-tls_acl-dtls-version-codes.yaml
+- :id: acl-tls/acl-dtls-parameters
+  :file: data/acl-tls_acl-dtls-parameters.yaml
