@@ -5,7 +5,7 @@ title:
 - content: GSS-API URN Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gss-api-parameters
+- content: https://www.iana.org/assignments/gss-api-parameters
   type: src
 type: standard
 docid:

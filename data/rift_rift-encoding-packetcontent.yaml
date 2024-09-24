@@ -5,7 +5,7 @@ title:
 - content: RIFTEncodingPacketContent
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rift
+- content: https://www.iana.org/assignments/rift
   type: src
 type: standard
 docid:

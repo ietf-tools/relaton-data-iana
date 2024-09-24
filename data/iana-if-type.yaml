@@ -5,7 +5,7 @@ title:
 - content: iana-if-type YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-if-type
+- content: https://www.iana.org/assignments/iana-if-type
   type: src
 type: standard
 docid:

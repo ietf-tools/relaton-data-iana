@@ -5,7 +5,7 @@ title:
 - content: "'geo' URI 'crs' Parameter Values"
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/geo-uri-parameters
+- content: https://www.iana.org/assignments/geo-uri-parameters
   type: src
 type: standard
 docid:

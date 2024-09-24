@@ -5,7 +5,7 @@ title:
 - content: IS-IS Multi-Topology Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/isis-mt-parameters
+- content: https://www.iana.org/assignments/isis-mt-parameters
   type: src
 type: standard
 docid:

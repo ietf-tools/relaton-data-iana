@@ -5,7 +5,7 @@ title:
 - content: EAP-FAST PAC Attribute Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-fast-parameters
+- content: https://www.iana.org/assignments/eap-fast-parameters
   type: src
 type: standard
 docid:

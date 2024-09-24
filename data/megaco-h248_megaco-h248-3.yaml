@@ -5,7 +5,7 @@ title:
 - content: Private packages (0x8000 to 0xffff)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/megaco-h248
+- content: https://www.iana.org/assignments/megaco-h248
   type: src
 type: standard
 docid:

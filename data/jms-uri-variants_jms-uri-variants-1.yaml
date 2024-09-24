@@ -5,7 +5,7 @@ title:
 - content: JMS URI Scheme Variants
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/jms-uri-variants
+- content: https://www.iana.org/assignments/jms-uri-variants
   type: src
 type: standard
 docid:

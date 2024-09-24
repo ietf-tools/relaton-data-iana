@@ -5,7 +5,7 @@ title:
 - content: HTTP Upgrade Tokens
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-upgrade-tokens
+- content: https://www.iana.org/assignments/http-upgrade-tokens
   type: src
 type: standard
 docid:

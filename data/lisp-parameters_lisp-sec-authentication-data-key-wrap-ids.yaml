@@ -5,7 +5,7 @@ title:
 - content: LISP-SEC Authentication Data Key Wrap IDs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/lisp-parameters
+- content: https://www.iana.org/assignments/lisp-parameters
   type: src
 type: standard
 docid:

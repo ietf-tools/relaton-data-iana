@@ -5,7 +5,7 @@ title:
 - content: IANA-POWER-STATE-SET-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianapowerstateset-mib
+- content: https://www.iana.org/assignments/ianapowerstateset-mib
   type: src
 type: standard
 docid:

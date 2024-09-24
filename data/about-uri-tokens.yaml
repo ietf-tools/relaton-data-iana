@@ -5,7 +5,7 @@ title:
 - content: '"about" URI Tokens'
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/about-uri-tokens
+- content: https://www.iana.org/assignments/about-uri-tokens
   type: src
 type: standard
 docid:

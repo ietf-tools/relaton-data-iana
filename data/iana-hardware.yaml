@@ -5,7 +5,7 @@ title:
 - content: iana-hardware YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-hardware
+- content: https://www.iana.org/assignments/iana-hardware
   type: src
 type: standard
 docid:

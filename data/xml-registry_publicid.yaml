@@ -5,7 +5,7 @@ title:
 - content: publicid
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xml-registry
+- content: https://www.iana.org/assignments/xml-registry
   type: src
 type: standard
 docid:

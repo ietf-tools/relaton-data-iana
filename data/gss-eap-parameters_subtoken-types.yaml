@@ -5,7 +5,7 @@ title:
 - content: GSS-EAP Subtoken Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gss-eap-parameters
+- content: https://www.iana.org/assignments/gss-eap-parameters
   type: src
 type: standard
 docid:

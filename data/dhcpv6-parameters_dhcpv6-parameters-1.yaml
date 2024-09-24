@@ -5,7 +5,7 @@ title:
 - content: Message Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dhcpv6-parameters
+- content: https://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:

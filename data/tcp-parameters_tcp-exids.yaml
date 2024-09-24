@@ -5,7 +5,7 @@ title:
 - content: TCP Experimental Option Experiment Identifiers (TCP ExIDs)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tcp-parameters
+- content: https://www.iana.org/assignments/tcp-parameters
   type: src
 type: standard
 docid:

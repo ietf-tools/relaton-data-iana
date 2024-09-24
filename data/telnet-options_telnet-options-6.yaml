@@ -5,7 +5,7 @@ title:
 - content: KERBEROS_V5 Telnet Authentication Type (Type 2)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/telnet-options
+- content: https://www.iana.org/assignments/telnet-options
   type: src
 type: standard
 docid:

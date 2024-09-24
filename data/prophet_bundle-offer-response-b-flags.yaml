@@ -5,7 +5,7 @@ title:
 - content: Bundle Offer and Response B Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/prophet
+- content: https://www.iana.org/assignments/prophet
   type: src
 type: standard
 docid:

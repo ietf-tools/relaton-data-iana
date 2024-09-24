@@ -5,7 +5,7 @@ title:
 - content: Message Tracking Query Protocol (MTQP) Options Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mtqp-options
+- content: https://www.iana.org/assignments/mtqp-options
   type: src
 type: standard
 docid:

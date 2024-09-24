@@ -5,7 +5,7 @@ title:
 - content: Calendar User Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/icalendar
+- content: https://www.iana.org/assignments/icalendar
   type: src
 type: standard
 docid:

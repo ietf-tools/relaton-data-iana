@@ -5,7 +5,7 @@ title:
 - content: Multiplexed Application Substrate over QUIC Encryption (MASQUE)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/masque
+- content: https://www.iana.org/assignments/masque
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Resource Type (rt=) Link Target Attribute Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/core-parameters
+- content: https://www.iana.org/assignments/core-parameters
   type: src
 type: standard
 docid:

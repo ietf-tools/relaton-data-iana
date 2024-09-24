@@ -5,7 +5,7 @@ title:
 - content: Adaptation Code Points
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sctp-parameters
+- content: https://www.iana.org/assignments/sctp-parameters
   type: src
 type: standard
 docid:

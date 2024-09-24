@@ -5,7 +5,7 @@ title:
 - content: Precondition Types Used with SIP
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-precond-types
+- content: https://www.iana.org/assignments/sip-precond-types
   type: src
 type: standard
 docid:

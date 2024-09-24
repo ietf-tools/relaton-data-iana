@@ -5,7 +5,7 @@ title:
 - content: Emergency Call Action Failure Reasons
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/emergency-call-metadata-control-data
+- content: https://www.iana.org/assignments/emergency-call-metadata-control-data
   type: src
 type: standard
 docid:

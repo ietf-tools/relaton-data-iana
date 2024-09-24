@@ -5,7 +5,7 @@ title:
 - content: IMAP URLAUTH Authorization Mechanism Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/urlauth-authorization-mechanism-registry
+- content: https://www.iana.org/assignments/urlauth-authorization-mechanism-registry
   type: src
 type: standard
 docid:

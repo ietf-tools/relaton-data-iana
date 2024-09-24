@@ -5,7 +5,7 @@ title:
 - content: Special-Purpose Autonomous System (AS) Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-as-numbers-special-registry
+- content: https://www.iana.org/assignments/iana-as-numbers-special-registry
   type: src
 type: standard
 docid:

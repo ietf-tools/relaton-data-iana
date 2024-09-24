@@ -5,7 +5,7 @@ title:
 - content: Border Gateway Protocol - Link State (BGP-LS) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-ls-parameters
+- content: https://www.iana.org/assignments/bgp-ls-parameters
   type: src
 type: standard
 docid:

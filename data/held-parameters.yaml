@@ -5,7 +5,7 @@ title:
 - content: Geopriv HTTP Enabled Location Delivery (HELD) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/held-parameters
+- content: https://www.iana.org/assignments/held-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Language Tags - OBSOLETE
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/language-tags
+- content: https://www.iana.org/assignments/language-tags
   type: src
 type: standard
 docid:

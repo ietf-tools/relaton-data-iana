@@ -5,7 +5,7 @@ title:
 - content: IANAolsrv2LinkMetricType-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianaolsrv2linkmetrictype-mib
+- content: https://www.iana.org/assignments/ianaolsrv2linkmetrictype-mib
   type: src
 type: standard
 docid:

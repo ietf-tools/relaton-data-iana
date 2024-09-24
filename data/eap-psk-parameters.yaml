@@ -5,7 +5,7 @@ title:
 - content: Extensible Authentication Protocol (EAP) EXT_Type Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-psk-parameters
+- content: https://www.iana.org/assignments/eap-psk-parameters
   type: src
 type: standard
 docid:

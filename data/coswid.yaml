@@ -5,7 +5,7 @@ title:
 - content: Concise Software Identifier (CoSWID)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/coswid
+- content: https://www.iana.org/assignments/coswid
   type: src
 type: standard
 docid:

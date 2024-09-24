@@ -5,7 +5,7 @@ title:
 - content: DNS Security Algorithm Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dns-sec-alg-numbers
+- content: https://www.iana.org/assignments/dns-sec-alg-numbers
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Network Configuration Protocol (NETCONF) Capability URNs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/netconf-capability-urns
+- content: https://www.iana.org/assignments/netconf-capability-urns
   type: src
 type: standard
 docid:

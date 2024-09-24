@@ -5,7 +5,7 @@ title:
 - content: Extensible Authentication Protocol - Password Authenticated Exchange (EAP-PAX)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-pax
+- content: https://www.iana.org/assignments/eap-pax
   type: src
 type: standard
 docid:

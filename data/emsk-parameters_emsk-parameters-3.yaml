@@ -5,7 +5,7 @@ title:
 - content: EMSK PRF Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/emsk-parameters
+- content: https://www.iana.org/assignments/emsk-parameters
   type: src
 type: standard
 docid:

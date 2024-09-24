@@ -5,7 +5,7 @@ title:
 - content: iana-pseudowire-types YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-pseudowire-types
+- content: https://www.iana.org/assignments/iana-pseudowire-types
   type: src
 type: standard
 docid:

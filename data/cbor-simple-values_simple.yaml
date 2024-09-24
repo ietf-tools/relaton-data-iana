@@ -5,7 +5,7 @@ title:
 - content: CBOR Simple Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cbor-simple-values
+- content: https://www.iana.org/assignments/cbor-simple-values
   type: src
 type: standard
 docid:

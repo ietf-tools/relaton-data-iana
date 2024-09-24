@@ -5,7 +5,7 @@ title:
 - content: Mail Encoding Header Field Keywords
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mail-encoding
+- content: https://www.iana.org/assignments/mail-encoding
   type: src
 type: standard
 docid:

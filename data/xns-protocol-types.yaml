@@ -5,7 +5,7 @@ title:
 - content: Xerox Network System (XNS) Protocol Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xns-protocol-types
+- content: https://www.iana.org/assignments/xns-protocol-types
   type: src
 type: standard
 docid:

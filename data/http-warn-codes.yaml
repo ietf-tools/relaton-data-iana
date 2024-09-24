@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Warn Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-warn-codes
+- content: https://www.iana.org/assignments/http-warn-codes
   type: src
 type: standard
 docid:

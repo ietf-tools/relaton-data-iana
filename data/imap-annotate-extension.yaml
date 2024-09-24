@@ -5,7 +5,7 @@ title:
 - content: Internet Message Access Protocol (IMAP) ANNOTATE Extension
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imap-annotate-extension
+- content: https://www.iana.org/assignments/imap-annotate-extension
   type: src
 type: standard
 docid:

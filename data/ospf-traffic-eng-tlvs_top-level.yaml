@@ -5,7 +5,7 @@ title:
 - content: Top Level Types in TE LSAs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospf-traffic-eng-tlvs
+- content: https://www.iana.org/assignments/ospf-traffic-eng-tlvs
   type: src
 type: standard
 docid:

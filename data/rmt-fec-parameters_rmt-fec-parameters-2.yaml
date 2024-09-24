@@ -5,7 +5,7 @@ title:
 - content: ietf:rmt:fec:encoding - Under-Specified FEC schemes (128-255)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rmt-fec-parameters
+- content: https://www.iana.org/assignments/rmt-fec-parameters
   type: src
 type: standard
 docid:

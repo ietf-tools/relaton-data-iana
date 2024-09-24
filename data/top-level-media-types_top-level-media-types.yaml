@@ -5,7 +5,7 @@ title:
 - content: Top-Level Media Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/top-level-media-types
+- content: https://www.iana.org/assignments/top-level-media-types
   type: src
 type: standard
 docid:

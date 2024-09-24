@@ -6,7 +6,7 @@ title:
     Cryptographic Algorithm Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eappotp-identifiers
+- content: https://www.iana.org/assignments/eappotp-identifiers
   type: src
 type: standard
 docid:

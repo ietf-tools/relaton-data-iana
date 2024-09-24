@@ -5,7 +5,7 @@ title:
 - content: IANA-PRINTER-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianaprinter-mib
+- content: https://www.iana.org/assignments/ianaprinter-mib
   type: src
 type: standard
 docid:

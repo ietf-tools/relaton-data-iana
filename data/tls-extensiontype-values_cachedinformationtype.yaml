@@ -5,7 +5,7 @@ title:
 - content: TLS CachedInformationType Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tls-extensiontype-values
+- content: https://www.iana.org/assignments/tls-extensiontype-values
   type: src
 type: standard
 docid:

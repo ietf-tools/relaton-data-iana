@@ -5,7 +5,7 @@ title:
 - content: Border Gateway Protocol (BGP) Tunnel Encapsulation
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+- content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
   type: src
 type: standard
 docid:

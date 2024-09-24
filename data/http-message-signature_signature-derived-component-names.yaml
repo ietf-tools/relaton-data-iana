@@ -5,7 +5,7 @@ title:
 - content: HTTP Signature Derived Component Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-message-signature
+- content: https://www.iana.org/assignments/http-message-signature
   type: src
 type: standard
 docid:

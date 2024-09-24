@@ -5,7 +5,7 @@ title:
 - content: Reputation Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/reputation-parameters
+- content: https://www.iana.org/assignments/reputation-parameters
   type: src
 type: standard
 docid:

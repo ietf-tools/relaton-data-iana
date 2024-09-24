@@ -5,7 +5,7 @@ title:
 - content: HTTP Origin-Bound Authentication (HOBA) Signature Algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/hoba-signature-algorithms
+- content: https://www.iana.org/assignments/hoba-signature-algorithms
   type: src
 type: standard
 docid:

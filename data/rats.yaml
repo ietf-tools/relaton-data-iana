@@ -5,7 +5,7 @@ title:
 - content: Remote Attestation Procedures (RATS)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rats
+- content: https://www.iana.org/assignments/rats
   type: src
 type: standard
 docid:

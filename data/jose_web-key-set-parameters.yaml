@@ -5,7 +5,7 @@ title:
 - content: JSON Web Key Set Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/jose
+- content: https://www.iana.org/assignments/jose
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Messaging Abuse Reporting Format (MARF) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/marf-parameters
+- content: https://www.iana.org/assignments/marf-parameters
   type: src
 type: standard
 docid:

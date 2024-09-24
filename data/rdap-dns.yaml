@@ -5,7 +5,7 @@ title:
 - content: Bootstrap Service Registry for Domain Name Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rdap-dns
+- content: https://www.iana.org/assignments/rdap-dns
   type: src
 type: standard
 docid:

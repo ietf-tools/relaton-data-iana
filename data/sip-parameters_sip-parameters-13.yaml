@@ -5,7 +5,7 @@ title:
 - content: URI Purposes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-parameters
+- content: https://www.iana.org/assignments/sip-parameters
   type: src
 type: standard
 docid:

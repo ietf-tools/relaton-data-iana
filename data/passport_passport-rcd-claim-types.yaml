@@ -5,7 +5,7 @@ title:
 - content: PASSporT RCD Claim Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/passport
+- content: https://www.iana.org/assignments/passport
   type: src
 type: standard
 docid:

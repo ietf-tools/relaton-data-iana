@@ -5,7 +5,7 @@ title:
 - content: RELOAD Message Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/reload
+- content: https://www.iana.org/assignments/reload
   type: src
 type: standard
 docid:

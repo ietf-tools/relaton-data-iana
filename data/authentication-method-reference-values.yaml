@@ -5,7 +5,7 @@ title:
 - content: Authentication Method Reference Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/authentication-method-reference-values
+- content: https://www.iana.org/assignments/authentication-method-reference-values
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Power State Sets
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/power-state-sets
+- content: https://www.iana.org/assignments/power-state-sets
   type: src
 type: standard
 docid:

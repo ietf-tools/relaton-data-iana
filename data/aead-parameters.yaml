@@ -5,7 +5,7 @@ title:
 - content: Authenticated Encryption with Associated Data (AEAD) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/aead-parameters
+- content: https://www.iana.org/assignments/aead-parameters
   type: src
 type: standard
 docid:

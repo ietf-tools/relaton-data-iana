@@ -5,7 +5,7 @@ title:
 - content: Status Code Name Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ldp-namespaces
+- content: https://www.iana.org/assignments/ldp-namespaces
   type: src
 type: standard
 docid:

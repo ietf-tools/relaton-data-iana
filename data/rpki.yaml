@@ -5,7 +5,7 @@ title:
 - content: Resource Public Key Infrastructure (RPKI)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpki
+- content: https://www.iana.org/assignments/rpki
   type: src
 type: standard
 docid:

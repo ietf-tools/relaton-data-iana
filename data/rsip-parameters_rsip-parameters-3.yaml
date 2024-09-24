@@ -5,7 +5,7 @@ title:
 - content: RSIP Tunnel Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rsip-parameters
+- content: https://www.iana.org/assignments/rsip-parameters
   type: src
 type: standard
 docid:

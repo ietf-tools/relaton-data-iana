@@ -5,7 +5,7 @@ title:
 - content: Parameter Values for the smime-type Parameter
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-type-sub-parameters
+- content: https://www.iana.org/assignments/media-type-sub-parameters
   type: src
 type: standard
 docid:

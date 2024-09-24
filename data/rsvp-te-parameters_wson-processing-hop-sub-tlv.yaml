@@ -5,7 +5,7 @@ title:
 - content: Sub-TLV Types for WSON Processing Hop Attribute TLV
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rsvp-te-parameters
+- content: https://www.iana.org/assignments/rsvp-te-parameters
   type: src
 type: standard
 docid:

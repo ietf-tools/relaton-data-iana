@@ -5,7 +5,7 @@ title:
 - content: Wrapped Encapsulating Security Payload (WESP) Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/wesp-flags
+- content: https://www.iana.org/assignments/wesp-flags
   type: src
 type: standard
 docid:

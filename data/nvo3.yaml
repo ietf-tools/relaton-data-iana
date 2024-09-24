@@ -5,7 +5,7 @@ title:
 - content: Network Virtualization Overlay (NVO3)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nvo3
+- content: https://www.iana.org/assignments/nvo3
   type: src
 type: standard
 docid:

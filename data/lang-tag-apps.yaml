@@ -5,7 +5,7 @@ title:
 - content: " Directory of language tag applications - OBSOLETE"
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/lang-tag-apps
+- content: https://www.iana.org/assignments/lang-tag-apps
   type: src
 type: standard
 docid:

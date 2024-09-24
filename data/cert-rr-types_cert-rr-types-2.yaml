@@ -5,7 +5,7 @@ title:
 - content: CERT RR Certificate Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cert-rr-types
+- content: https://www.iana.org/assignments/cert-rr-types
   type: src
 type: standard
 docid:

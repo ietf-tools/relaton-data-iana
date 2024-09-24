@@ -5,7 +5,7 @@ title:
 - content: SCIM Server-Related Schema URIs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/scim
+- content: https://www.iana.org/assignments/scim
   type: src
 type: standard
 docid:

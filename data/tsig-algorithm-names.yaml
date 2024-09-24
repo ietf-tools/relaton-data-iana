@@ -5,7 +5,7 @@ title:
 - content: Secret Key Transaction Authentication for DNS (TSIG) Algorithm Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tsig-algorithm-names
+- content: https://www.iana.org/assignments/tsig-algorithm-names
   type: src
 type: standard
 docid:

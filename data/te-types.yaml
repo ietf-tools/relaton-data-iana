@@ -5,7 +5,7 @@ title:
 - content: Traffic Engineering (TE) LSA Types and Traffic Engineering (TE) TLVs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/te-types
+- content: https://www.iana.org/assignments/te-types
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Service Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/service-codes
+- content: https://www.iana.org/assignments/service-codes
   type: src
 type: standard
 docid:

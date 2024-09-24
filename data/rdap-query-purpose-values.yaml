@@ -5,7 +5,7 @@ title:
 - content: Registration Data Access Protocol (RDAP) Query Purpose Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rdap-query-purpose-values
+- content: https://www.iana.org/assignments/rdap-query-purpose-values
   type: src
 type: standard
 docid:

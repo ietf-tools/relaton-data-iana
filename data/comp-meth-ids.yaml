@@ -5,7 +5,7 @@ title:
 - content: Transport Layer Security (TLS) Compression Method Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/comp-meth-ids
+- content: https://www.iana.org/assignments/comp-meth-ids
   type: src
 type: standard
 docid:

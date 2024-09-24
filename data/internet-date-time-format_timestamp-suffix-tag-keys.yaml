@@ -5,7 +5,7 @@ title:
 - content: Timestamp Suffix Tag Keys
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/internet-date-time-format
+- content: https://www.iana.org/assignments/internet-date-time-format
   type: src
 type: standard
 docid:

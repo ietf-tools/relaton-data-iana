@@ -5,7 +5,7 @@ title:
 - content: PIM Designated Router Load-Balancing Hash Algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pim-parameters
+- content: https://www.iana.org/assignments/pim-parameters
   type: src
 type: standard
 docid:

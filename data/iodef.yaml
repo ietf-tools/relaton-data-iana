@@ -5,7 +5,7 @@ title:
 - content: Incident Object Description Exchange Format (IODEF)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iodef
+- content: https://www.iana.org/assignments/iodef
   type: src
 type: standard
 docid:

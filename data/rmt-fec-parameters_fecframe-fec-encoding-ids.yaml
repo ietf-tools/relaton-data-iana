@@ -5,7 +5,7 @@ title:
 - content: FEC Framework (FECFRAME) FEC Encoding IDs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rmt-fec-parameters
+- content: https://www.iana.org/assignments/rmt-fec-parameters
   type: src
 type: standard
 docid:

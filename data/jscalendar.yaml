@@ -5,7 +5,7 @@ title:
 - content: JSCalendar
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/jscalendar
+- content: https://www.iana.org/assignments/jscalendar
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Language Subtag Registry - Registration Templates
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/lang-subtags-templates
+- content: https://www.iana.org/assignments/lang-subtags-templates
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Uniform Resource Name (URN) Namespace for IETF Use
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/params
+- content: https://www.iana.org/assignments/params
   type: src
 type: standard
 docid:

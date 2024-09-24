@@ -5,7 +5,7 @@ title:
 - content: IANA-FINISHER-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianafinisher-mib
+- content: https://www.iana.org/assignments/ianafinisher-mib
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: SLPv2 Extension IDs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/svrloc-extensions
+- content: https://www.iana.org/assignments/svrloc-extensions
   type: src
 type: standard
 docid:

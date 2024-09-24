@@ -5,7 +5,7 @@ title:
 - content: Event packages and Event template-packages
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-events
+- content: https://www.iana.org/assignments/sip-events
   type: src
 type: standard
 docid:

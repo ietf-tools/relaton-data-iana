@@ -5,7 +5,7 @@ title:
 - content: SSHFP RR Types for public key algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dns-sshfp-rr-parameters
+- content: https://www.iana.org/assignments/dns-sshfp-rr-parameters
   type: src
 type: standard
 docid:

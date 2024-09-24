@@ -5,7 +5,7 @@ title:
 - content: DES3_OFB64 Telnet Encryption Type (Type 4)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/telnet-options
+- content: https://www.iana.org/assignments/telnet-options
   type: src
 type: standard
 docid:

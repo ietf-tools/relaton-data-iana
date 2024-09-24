@@ -5,7 +5,7 @@ title:
 - content: ONC RPC Universal Address (uaddr) Format Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/uaddr-formats
+- content: https://www.iana.org/assignments/uaddr-formats
   type: src
 type: standard
 docid:

@@ -6,7 +6,7 @@ title:
     Authentication and Security Layer (SASL) Service Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gssapi-service-names
+- content: https://www.iana.org/assignments/gssapi-service-names
   type: src
 type: standard
 docid:

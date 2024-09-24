@@ -5,7 +5,7 @@ title:
 - content: " BPF Instruction Set"
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bpf-instructions
+- content: https://www.iana.org/assignments/bpf-instructions
   type: src
 type: standard
 docid:

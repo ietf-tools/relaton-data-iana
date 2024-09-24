@@ -5,7 +5,7 @@ title:
 - content: Applicable Exchange Core (APEX) Endpoint Applications
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/apex
+- content: https://www.iana.org/assignments/apex
   type: src
 type: standard
 docid:

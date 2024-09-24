@@ -5,7 +5,7 @@ title:
 - content: IPv6 Extension Header Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv6-parameters
+- content: https://www.iana.org/assignments/ipv6-parameters
   type: src
 type: standard
 docid:

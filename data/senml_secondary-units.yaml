@@ -5,7 +5,7 @@ title:
 - content: Secondary Units
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/senml
+- content: https://www.iana.org/assignments/senml
   type: src
 type: standard
 docid:

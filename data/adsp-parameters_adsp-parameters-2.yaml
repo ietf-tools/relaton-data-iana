@@ -5,7 +5,7 @@ title:
 - content: ADSP Outbound Signing Practices
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/adsp-parameters
+- content: https://www.iana.org/assignments/adsp-parameters
   type: src
 type: standard
 docid:

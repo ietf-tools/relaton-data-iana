@@ -5,7 +5,7 @@ title:
 - content: OSPFv2 Router LSA Link Type (Value 1)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospfv2-parameters
+- content: https://www.iana.org/assignments/ospfv2-parameters
   type: src
 type: standard
 docid:

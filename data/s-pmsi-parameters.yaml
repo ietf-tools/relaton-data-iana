@@ -5,7 +5,7 @@ title:
 - content: Selective P-Multicast Service Interface (S-PMSI) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/s-pmsi-parameters
+- content: https://www.iana.org/assignments/s-pmsi-parameters
   type: src
 type: standard
 docid:

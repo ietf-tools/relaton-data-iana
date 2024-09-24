@@ -5,7 +5,7 @@ title:
 - content: TRIP Address Families
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/trip-parameters
+- content: https://www.iana.org/assignments/trip-parameters
   type: src
 type: standard
 docid:

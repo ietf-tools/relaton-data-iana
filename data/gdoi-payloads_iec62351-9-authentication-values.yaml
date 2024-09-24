@@ -5,7 +5,7 @@ title:
 - content: IEC 62351-9 Authentication Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gdoi-payloads
+- content: https://www.iana.org/assignments/gdoi-payloads
   type: src
 type: standard
 docid:

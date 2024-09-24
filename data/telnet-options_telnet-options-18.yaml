@@ -5,7 +5,7 @@ title:
 - content: CAST5_40_OFB64 (Type 9) and CAST128_OFB64 (Type 11) Telnet Encryption Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/telnet-options
+- content: https://www.iana.org/assignments/telnet-options
   type: src
 type: standard
 docid:

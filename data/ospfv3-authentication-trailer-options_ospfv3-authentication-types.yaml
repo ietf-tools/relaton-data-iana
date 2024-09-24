@@ -5,7 +5,7 @@ title:
 - content: OSPFv3 Authentication Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospfv3-authentication-trailer-options
+- content: https://www.iana.org/assignments/ospfv3-authentication-trailer-options
   type: src
 type: standard
 docid:

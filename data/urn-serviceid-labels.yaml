@@ -5,7 +5,7 @@ title:
 - content: Service URN Labels
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/urn-serviceid-labels
+- content: https://www.iana.org/assignments/urn-serviceid-labels
   type: src
 type: standard
 docid:

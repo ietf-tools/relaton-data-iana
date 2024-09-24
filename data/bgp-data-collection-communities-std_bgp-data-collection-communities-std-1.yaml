@@ -5,7 +5,7 @@ title:
 - content: BGP Data Collection Standard Communities
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-data-collection-communities-std
+- content: https://www.iana.org/assignments/bgp-data-collection-communities-std
   type: src
 type: standard
 docid:

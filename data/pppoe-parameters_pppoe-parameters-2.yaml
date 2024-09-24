@@ -5,7 +5,7 @@ title:
 - content: PPPoE Active Discovery Code fields (8-bit values)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pppoe-parameters
+- content: https://www.iana.org/assignments/pppoe-parameters
   type: src
 type: standard
 docid:

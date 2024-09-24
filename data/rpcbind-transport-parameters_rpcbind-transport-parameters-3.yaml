@@ -5,7 +5,7 @@ title:
 - content: Protocol name (r_nc_proto)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpcbind-transport-parameters
+- content: https://www.iana.org/assignments/rpcbind-transport-parameters
   type: src
 type: standard
 docid:

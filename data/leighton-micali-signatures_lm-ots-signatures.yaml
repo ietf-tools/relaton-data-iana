@@ -5,7 +5,7 @@ title:
 - content: LM-OTS Signatures
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/leighton-micali-signatures
+- content: https://www.iana.org/assignments/leighton-micali-signatures
   type: src
 type: standard
 docid:

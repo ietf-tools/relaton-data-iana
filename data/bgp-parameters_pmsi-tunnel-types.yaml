@@ -5,7 +5,7 @@ title:
 - content: P-Multicast Service Interface Tunnel (PMSI Tunnel) Tunnel Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-parameters
+- content: https://www.iana.org/assignments/bgp-parameters
   type: src
 type: standard
 docid:

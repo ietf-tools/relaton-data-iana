@@ -5,7 +5,7 @@ title:
 - content: Hierarchical a HIT (HHIT) Suite IDs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/drip
+- content: https://www.iana.org/assignments/drip
   type: src
 type: standard
 docid:

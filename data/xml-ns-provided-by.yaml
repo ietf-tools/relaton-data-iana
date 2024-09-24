@@ -5,7 +5,7 @@ title:
 - content: US National Emergency Number Administration (NENA) Provided-By Schema
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xml-ns-provided-by
+- content: https://www.iana.org/assignments/xml-ns-provided-by
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Message String Extension (Value 145)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mobileip-numbers
+- content: https://www.iana.org/assignments/mobileip-numbers
   type: src
 type: standard
 docid:

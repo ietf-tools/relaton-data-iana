@@ -5,7 +5,7 @@ title:
 - content: EAP-EKE Diffie-Hellman Group Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-eke
+- content: https://www.iana.org/assignments/eap-eke
   type: src
 type: standard
 docid:

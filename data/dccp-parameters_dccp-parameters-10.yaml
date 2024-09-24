@@ -5,7 +5,7 @@ title:
 - content: Ack Vector States
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dccp-parameters
+- content: https://www.iana.org/assignments/dccp-parameters
   type: src
 type: standard
 docid:

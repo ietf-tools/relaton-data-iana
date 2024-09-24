@@ -5,7 +5,7 @@ title:
 - content: Privacy Pass
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/privacy-pass
+- content: https://www.iana.org/assignments/privacy-pass
   type: src
 type: standard
 docid:

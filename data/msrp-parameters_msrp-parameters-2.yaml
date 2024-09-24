@@ -5,7 +5,7 @@ title:
 - content: Header Fields
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/msrp-parameters
+- content: https://www.iana.org/assignments/msrp-parameters
   type: src
 type: standard
 docid:

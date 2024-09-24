@@ -5,7 +5,7 @@ title:
 - content: Sub-Parameter Registry video/mpeg4-generic, audio/mpeg4-generic and application/mpeg4-generic
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-type-sub-parameters
+- content: https://www.iana.org/assignments/media-type-sub-parameters
   type: src
 type: standard
 docid:

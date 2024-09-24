@@ -5,7 +5,7 @@ title:
 - content: Method Tokens
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/method-tokens
+- content: https://www.iana.org/assignments/method-tokens
   type: src
 type: standard
 docid:

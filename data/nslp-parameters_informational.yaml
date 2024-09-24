@@ -5,7 +5,7 @@ title:
 - content: Informational Error Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nslp-parameters
+- content: https://www.iana.org/assignments/nslp-parameters
   type: src
 type: standard
 docid:

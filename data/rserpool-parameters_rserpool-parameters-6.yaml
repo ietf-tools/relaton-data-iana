@@ -5,7 +5,7 @@ title:
 - content: RSerPool Policy Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rserpool-parameters
+- content: https://www.iana.org/assignments/rserpool-parameters
   type: src
 type: standard
 docid:

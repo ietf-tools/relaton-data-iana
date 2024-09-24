@@ -5,7 +5,7 @@ title:
 - content: Concise Data Definition Language (CDDL)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cddl
+- content: https://www.iana.org/assignments/cddl
   type: src
 type: standard
 docid:

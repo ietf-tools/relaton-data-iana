@@ -5,7 +5,7 @@ title:
 - content: RPCSEC_GSS Structured Privilege Names Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpc-authentication-numbers
+- content: https://www.iana.org/assignments/rpc-authentication-numbers
   type: src
 type: standard
 docid:

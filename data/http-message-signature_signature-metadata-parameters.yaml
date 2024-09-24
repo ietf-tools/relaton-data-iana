@@ -5,7 +5,7 @@ title:
 - content: HTTP Signature Metadata Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-message-signature
+- content: https://www.iana.org/assignments/http-message-signature
   type: src
 type: standard
 docid:

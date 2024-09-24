@@ -5,7 +5,7 @@ title:
 - content: RDAP Reverse Search Mapping
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rdap-reverse-search-mapping
+- content: https://www.iana.org/assignments/rdap-reverse-search-mapping
   type: src
 type: standard
 docid:

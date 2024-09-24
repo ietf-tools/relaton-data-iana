@@ -5,7 +5,7 @@ title:
 - content: Well-Known URIs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/well-known-uris
+- content: https://www.iana.org/assignments/well-known-uris
   type: src
 type: standard
 docid:

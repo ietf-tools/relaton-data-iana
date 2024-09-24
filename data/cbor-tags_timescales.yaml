@@ -5,7 +5,7 @@ title:
 - content: Timescales
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cbor-tags
+- content: https://www.iana.org/assignments/cbor-tags
   type: src
 type: standard
 docid:

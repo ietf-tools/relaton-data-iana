@@ -5,7 +5,7 @@ title:
 - content: Bootstrapping Remote Secure Key Infrastructures (BRSKI) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/brski-parameters
+- content: https://www.iana.org/assignments/brski-parameters
   type: src
 type: standard
 docid:

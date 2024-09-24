@@ -5,7 +5,7 @@ title:
 - content: MTA-STS TXT Record Fields
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mta-sts
+- content: https://www.iana.org/assignments/mta-sts
   type: src
 type: standard
 docid:

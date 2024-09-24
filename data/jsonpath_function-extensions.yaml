@@ -5,7 +5,7 @@ title:
 - content: Function Extensions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/jsonpath
+- content: https://www.iana.org/assignments/jsonpath
   type: src
 type: standard
 docid:

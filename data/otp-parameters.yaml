@@ -5,7 +5,7 @@ title:
 - content: One Time Password (OTP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/otp-parameters
+- content: https://www.iana.org/assignments/otp-parameters
   type: src
 type: standard
 docid:

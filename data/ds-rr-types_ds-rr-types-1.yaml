@@ -5,7 +5,7 @@ title:
 - content: Digest Algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ds-rr-types
+- content: https://www.iana.org/assignments/ds-rr-types
   type: src
 type: standard
 docid:

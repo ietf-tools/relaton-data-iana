@@ -5,7 +5,7 @@ title:
 - content: DMARC Tag Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dmarc-parameters
+- content: https://www.iana.org/assignments/dmarc-parameters
   type: src
 type: standard
 docid:
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2015-01-27'
 - type: updated
-  value: '2023-09-15'
+  value: '2024-09-23'
 contributor:
 - organization:
     name:

@@ -5,7 +5,7 @@ title:
 - content: OSPFv2 Grace LSA Top Level TLV
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospfv2-parameters
+- content: https://www.iana.org/assignments/ospfv2-parameters
   type: src
 type: standard
 docid:

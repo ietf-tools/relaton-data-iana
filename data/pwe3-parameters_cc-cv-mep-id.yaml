@@ -5,7 +5,7 @@ title:
 - content: CC/CV MEP-ID TLV Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pwe3-parameters
+- content: https://www.iana.org/assignments/pwe3-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: SIP CLF Transport Flag Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-clf-parameters
+- content: https://www.iana.org/assignments/sip-clf-parameters
   type: src
 type: standard
 docid:

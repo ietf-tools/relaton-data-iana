@@ -5,7 +5,7 @@ title:
 - content: HELLO Message-Type-specific Address Block TLV Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/manet-parameters
+- content: https://www.iana.org/assignments/manet-parameters
   type: src
 type: standard
 docid:

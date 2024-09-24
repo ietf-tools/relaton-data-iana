@@ -5,7 +5,7 @@ title:
 - content: IEEE 802 Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ieee-802-numbers
+- content: https://www.iana.org/assignments/ieee-802-numbers
   type: src
 type: standard
 docid:

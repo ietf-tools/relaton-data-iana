@@ -5,7 +5,7 @@ title:
 - content: Multicast Ping Protocol Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/multicast-ping
+- content: https://www.iana.org/assignments/multicast-ping
   type: src
 type: standard
 docid:

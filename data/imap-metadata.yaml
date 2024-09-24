@@ -5,7 +5,7 @@ title:
 - content: IMAP METADATA Entry Registrations
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imap-metadata
+- content: https://www.iana.org/assignments/imap-metadata
   type: src
 type: standard
 docid:

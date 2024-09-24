@@ -5,7 +5,7 @@ title:
 - content: Traversal Using Relays around NAT (TURN) Channel Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/stun-parameters
+- content: https://www.iana.org/assignments/stun-parameters
   type: src
 type: standard
 docid:

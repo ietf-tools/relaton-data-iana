@@ -5,7 +5,7 @@ title:
 - content: Message Types - MTP2 User Adaptation (MAUP) Messages (Value 6)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sigtran-adapt
+- content: https://www.iana.org/assignments/sigtran-adapt
   type: src
 type: standard
 docid:

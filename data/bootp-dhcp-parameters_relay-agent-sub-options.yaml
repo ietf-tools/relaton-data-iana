@@ -5,7 +5,7 @@ title:
 - content: DHCP Relay Agent Sub-Option Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+- content: https://www.iana.org/assignments/bootp-dhcp-parameters
   type: src
 type: standard
 docid:

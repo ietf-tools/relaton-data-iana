@@ -5,7 +5,7 @@ title:
 - content: IPS Protocol# (Protocol Number) Field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ips-protocols
+- content: https://www.iana.org/assignments/ips-protocols
   type: src
 type: standard
 docid:

@@ -6,7 +6,7 @@ title:
     Secure Real-time Transport Protocol (SRTP)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/srtp-protection
+- content: https://www.iana.org/assignments/srtp-protection
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: SGMP Vendor Specific Codes (Obsolete)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sgmp-vendor-specific-codes
+- content: https://www.iana.org/assignments/sgmp-vendor-specific-codes
   type: src
 type: standard
 docid:

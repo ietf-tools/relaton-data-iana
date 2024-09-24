@@ -5,7 +5,7 @@ title:
 - content: Cryptographic BSD Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/svrloc-cryptographic-bsd
+- content: https://www.iana.org/assignments/svrloc-cryptographic-bsd
   type: src
 type: standard
 docid:

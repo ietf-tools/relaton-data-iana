@@ -5,7 +5,7 @@ title:
 - content: HTTP Status Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-status-codes
+- content: https://www.iana.org/assignments/http-status-codes
   type: src
 type: standard
 docid:

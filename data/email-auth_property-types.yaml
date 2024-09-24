@@ -5,7 +5,7 @@ title:
 - content: Email Authentication Property Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/email-auth
+- content: https://www.iana.org/assignments/email-auth
   type: src
 type: standard
 docid:

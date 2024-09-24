@@ -5,7 +5,7 @@ title:
 - content: IANA MAC ADDRESS BLOCK
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ethernet-numbers
+- content: https://www.iana.org/assignments/ethernet-numbers
   type: src
 type: standard
 docid:

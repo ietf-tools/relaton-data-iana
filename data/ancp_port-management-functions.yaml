@@ -5,7 +5,7 @@ title:
 - content: ANCP Port Management Functions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ancp
+- content: https://www.iana.org/assignments/ancp
   type: src
 type: standard
 docid:

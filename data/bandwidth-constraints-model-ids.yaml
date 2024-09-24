@@ -5,7 +5,7 @@ title:
 - content: Bandwidth Constraints Model Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bandwidth-constraints-model-ids
+- content: https://www.iana.org/assignments/bandwidth-constraints-model-ids
   type: src
 type: standard
 docid:

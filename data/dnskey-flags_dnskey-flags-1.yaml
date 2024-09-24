@@ -5,7 +5,7 @@ title:
 - content: DNSKEY RR Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dnskey-flags
+- content: https://www.iana.org/assignments/dnskey-flags
   type: src
 type: standard
 docid:

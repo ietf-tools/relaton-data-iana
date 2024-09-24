@@ -5,7 +5,7 @@ title:
 - content: Segment Routing
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/segment-routing
+- content: https://www.iana.org/assignments/segment-routing
   type: src
 type: standard
 docid:

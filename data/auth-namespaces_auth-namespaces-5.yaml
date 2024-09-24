@@ -5,7 +5,7 @@ title:
 - content: RDM Name Space Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/auth-namespaces
+- content: https://www.iana.org/assignments/auth-namespaces
   type: src
 type: standard
 docid:

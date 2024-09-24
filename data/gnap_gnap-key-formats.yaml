@@ -5,7 +5,7 @@ title:
 - content: GNAP Key Formats
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gnap
+- content: https://www.iana.org/assignments/gnap
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: IANA-ENERGY-RELATION-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianaenergyrelation-mib
+- content: https://www.iana.org/assignments/ianaenergyrelation-mib
   type: src
 type: standard
 docid:

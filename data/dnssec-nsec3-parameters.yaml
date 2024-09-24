@@ -5,7 +5,7 @@ title:
 - content: Domain Name System Security (DNSSEC) NextSECure3 (NSEC3) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dnssec-nsec3-parameters
+- content: https://www.iana.org/assignments/dnssec-nsec3-parameters
   type: src
 type: standard
 docid:

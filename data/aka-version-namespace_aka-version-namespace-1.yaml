@@ -5,7 +5,7 @@ title:
 - content: AKA-Version Namespace
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/aka-version-namespace
+- content: https://www.iana.org/assignments/aka-version-namespace
   type: src
 type: standard
 docid:

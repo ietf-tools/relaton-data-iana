@@ -5,7 +5,7 @@ title:
 - content: AODV Message Types (for messages sent to port 654)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/aodv-parameters
+- content: https://www.iana.org/assignments/aodv-parameters
   type: src
 type: standard
 docid:

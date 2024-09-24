@@ -5,7 +5,7 @@ title:
 - content: Assigned Internet Protocol Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/protocol-numbers
+- content: https://www.iana.org/assignments/protocol-numbers
   type: src
 type: standard
 docid:

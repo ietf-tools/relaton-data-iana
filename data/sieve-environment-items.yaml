@@ -5,7 +5,7 @@ title:
 - content: Sieve Environment Items
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sieve-environment-items
+- content: https://www.iana.org/assignments/sieve-environment-items
   type: src
 type: standard
 docid:

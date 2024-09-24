@@ -5,7 +5,7 @@ title:
 - content: SoftwareReference-spec-id
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iodef2
+- content: https://www.iana.org/assignments/iodef2
   type: src
 type: standard
 docid:

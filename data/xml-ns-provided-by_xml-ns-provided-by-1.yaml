@@ -5,7 +5,7 @@ title:
 - content: XML Namespaces for 'provided-by' elements for use with PIDF-LO objects
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xml-ns-provided-by
+- content: https://www.iana.org/assignments/xml-ns-provided-by
   type: src
 type: standard
 docid:

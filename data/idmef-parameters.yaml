@@ -5,7 +5,7 @@ title:
 - content: Intrusion Detection Message Exchange Format (IDMEF) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/idmef-parameters
+- content: https://www.iana.org/assignments/idmef-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: iana-ssh-encryption-algs YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-ssh-encryption-algs
+- content: https://www.iana.org/assignments/iana-ssh-encryption-algs
   type: src
 type: standard
 docid:

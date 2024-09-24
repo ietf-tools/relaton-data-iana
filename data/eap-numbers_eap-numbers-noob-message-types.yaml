@@ -5,7 +5,7 @@ title:
 - content: EAP-NOOB Message Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-numbers
+- content: https://www.iana.org/assignments/eap-numbers
   type: src
 type: standard
 docid:

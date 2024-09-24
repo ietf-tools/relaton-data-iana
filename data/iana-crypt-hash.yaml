@@ -5,7 +5,7 @@ title:
 - content: iana-crypt-hash YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-crypt-hash
+- content: https://www.iana.org/assignments/iana-crypt-hash
   type: src
 type: standard
 docid:

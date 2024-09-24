@@ -5,7 +5,7 @@ title:
 - content: HTTP Digest Algorithm Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-dig-alg
+- content: https://www.iana.org/assignments/http-dig-alg
   type: src
 type: standard
 docid:

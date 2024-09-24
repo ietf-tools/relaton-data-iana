@@ -5,7 +5,7 @@ title:
 - content: Extensible Provisioning Protocol (EPP) Organization Role Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/epp-extension-role-values
+- content: https://www.iana.org/assignments/epp-extension-role-values
   type: src
 type: standard
 docid:

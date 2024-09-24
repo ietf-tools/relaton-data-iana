@@ -5,7 +5,7 @@ title:
 - content: Negative-ACKnowledgment (NACK) Oriented Reliable Multicast (NORM) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/norm-parameters
+- content: https://www.iana.org/assignments/norm-parameters
   type: src
 type: standard
 docid:

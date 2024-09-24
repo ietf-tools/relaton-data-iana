@@ -5,7 +5,7 @@ title:
 - content: SRTP Crypto Suite Registrations
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sdp-security-descriptions
+- content: https://www.iana.org/assignments/sdp-security-descriptions
   type: src
 type: standard
 docid:

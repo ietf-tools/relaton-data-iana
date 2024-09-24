@@ -5,7 +5,7 @@ title:
 - content: Cisco SLA Protocol CSLD Command Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cisco-sla-protocol
+- content: https://www.iana.org/assignments/cisco-sla-protocol
   type: src
 type: standard
 docid:

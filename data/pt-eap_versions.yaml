@@ -5,7 +5,7 @@ title:
 - content: PT-EAP Versions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pt-eap
+- content: https://www.iana.org/assignments/pt-eap
   type: src
 type: standard
 docid:

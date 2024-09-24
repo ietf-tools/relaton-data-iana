@@ -5,7 +5,7 @@ title:
 - content: Cryptographic Protocol ID
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/authentication-cryptographic-protocol-id
+- content: https://www.iana.org/assignments/authentication-cryptographic-protocol-id
   type: src
 type: standard
 docid:

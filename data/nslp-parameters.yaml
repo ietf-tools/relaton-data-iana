@@ -5,7 +5,7 @@ title:
 - content: NSIS Signaling Layer Protocol (NSLP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nslp-parameters
+- content: https://www.iana.org/assignments/nslp-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Service Location Protocol, Version 2 (SLPv2) Function IDs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/svrloc-function-ids
+- content: https://www.iana.org/assignments/svrloc-function-ids
   type: src
 type: standard
 docid:

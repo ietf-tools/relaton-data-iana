@@ -5,7 +5,7 @@ title:
 - content: Types for Subfields of WSON Resource Block Information Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gmpls-wson
+- content: https://www.iana.org/assignments/gmpls-wson
   type: src
 type: standard
 docid:

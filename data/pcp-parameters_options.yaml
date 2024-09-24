@@ -5,7 +5,7 @@ title:
 - content: PCP Options
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pcp-parameters
+- content: https://www.iana.org/assignments/pcp-parameters
   type: src
 type: standard
 docid:

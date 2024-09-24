@@ -5,7 +5,7 @@ title:
 - content: TE Node Capabilities
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/te-link-capabilities
+- content: https://www.iana.org/assignments/te-link-capabilities
   type: src
 type: standard
 docid:

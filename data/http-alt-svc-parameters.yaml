@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Alt-Svc Parameter Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-alt-svc-parameters
+- content: https://www.iana.org/assignments/http-alt-svc-parameters
   type: src
 type: standard
 docid:

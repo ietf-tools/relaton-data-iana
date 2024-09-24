@@ -5,7 +5,7 @@ title:
 - content: Fibre Channel Port Types Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/fc-port-types
+- content: https://www.iana.org/assignments/fc-port-types
   type: src
 type: standard
 docid:

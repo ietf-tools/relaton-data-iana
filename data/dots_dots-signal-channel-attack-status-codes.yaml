@@ -5,7 +5,7 @@ title:
 - content: DOTS Signal Channel Attack Status Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dots
+- content: https://www.iana.org/assignments/dots
   type: src
 type: standard
 docid:

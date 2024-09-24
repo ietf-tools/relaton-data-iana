@@ -5,7 +5,7 @@ title:
 - content: Layer Two Tunneling Protocol "L2TP"
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/l2tp-parameters
+- content: https://www.iana.org/assignments/l2tp-parameters
   type: src
 type: standard
 docid:

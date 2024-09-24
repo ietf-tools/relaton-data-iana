@@ -5,7 +5,7 @@ title:
 - content: Blocks Extensible Exchange Protocol (BEEP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/beep-parameters
+- content: https://www.iana.org/assignments/beep-parameters
   type: src
 type: standard
 docid:

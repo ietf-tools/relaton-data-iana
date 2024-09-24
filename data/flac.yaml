@@ -5,7 +5,7 @@ title:
 - content: Free Lossless Audio Codec (FLAC)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/flac
+- content: https://www.iana.org/assignments/flac
   type: src
 type: standard
 docid:

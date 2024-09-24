@@ -5,7 +5,7 @@ title:
 - content: application/QSIG symbols
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/version-symbols
+- content: https://www.iana.org/assignments/version-symbols
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: RFC 4973 Experimental TE LSA Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/te-types
+- content: https://www.iana.org/assignments/te-types
   type: src
 type: standard
 docid:

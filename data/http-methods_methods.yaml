@@ -5,7 +5,7 @@ title:
 - content: HTTP Method Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-methods
+- content: https://www.iana.org/assignments/http-methods
   type: src
 type: standard
 docid:

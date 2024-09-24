@@ -5,7 +5,7 @@ title:
 - content: Elective 6LoWPAN Routing Header Type
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/_6lowpan-parameters
+- content: https://www.iana.org/assignments/_6lowpan-parameters
   type: src
 type: standard
 docid:

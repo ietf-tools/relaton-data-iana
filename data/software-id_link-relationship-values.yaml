@@ -5,7 +5,7 @@ title:
 - content: Software ID Link Relationship Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/software-id
+- content: https://www.iana.org/assignments/software-id
   type: src
 type: standard
 docid:

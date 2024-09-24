@@ -5,7 +5,7 @@ title:
 - content: Group Type (Value 5)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipsec-registry
+- content: https://www.iana.org/assignments/ipsec-registry
   type: src
 type: standard
 docid:

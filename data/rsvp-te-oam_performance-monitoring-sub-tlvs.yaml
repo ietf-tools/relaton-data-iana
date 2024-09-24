@@ -5,7 +5,7 @@ title:
 - content: Performance Monitoring Sub-TLV Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rsvp-te-oam
+- content: https://www.iana.org/assignments/rsvp-te-oam
   type: src
 type: standard
 docid:

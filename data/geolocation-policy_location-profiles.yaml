@@ -5,7 +5,7 @@ title:
 - content: Geolocation Policy Location Profile Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/geolocation-policy
+- content: https://www.iana.org/assignments/geolocation-policy
   type: src
 type: standard
 docid:

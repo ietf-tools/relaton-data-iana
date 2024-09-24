@@ -5,7 +5,7 @@ title:
 - content: C-DNS Storage Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/c-dns
+- content: https://www.iana.org/assignments/c-dns
   type: src
 type: standard
 docid:

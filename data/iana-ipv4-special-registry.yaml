@@ -5,7 +5,7 @@ title:
 - content: IANA IPv4 Special-Purpose Address Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-ipv4-special-registry
+- content: https://www.iana.org/assignments/iana-ipv4-special-registry
   type: src
 type: standard
 docid:

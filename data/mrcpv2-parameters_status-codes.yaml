@@ -5,7 +5,7 @@ title:
 - content: MRCPv2 Status Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mrcpv2-parameters
+- content: https://www.iana.org/assignments/mrcpv2-parameters
   type: src
 type: standard
 docid:

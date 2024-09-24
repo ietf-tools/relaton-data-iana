@@ -5,7 +5,7 @@ title:
 - content: rpki-signed-objects
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpki-signed-objects
+- content: https://www.iana.org/assignments/rpki-signed-objects
   type: src
 type: standard
 docid:

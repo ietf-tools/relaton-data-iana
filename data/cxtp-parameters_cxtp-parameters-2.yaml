@@ -5,7 +5,7 @@ title:
 - content: Context Transfer Protocol Authorization Token Calculation Algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cxtp-parameters
+- content: https://www.iana.org/assignments/cxtp-parameters
   type: src
 type: standard
 docid:

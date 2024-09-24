@@ -5,7 +5,7 @@ title:
 - content: CCNx Interest Return Code Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ccnx
+- content: https://www.iana.org/assignments/ccnx
   type: src
 type: standard
 docid:

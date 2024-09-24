@@ -5,7 +5,7 @@ title:
 - content: Open Shortest Path First (OSPF) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospf-parameters
+- content: https://www.iana.org/assignments/ospf-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: ECN Support
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/capwap-parameters
+- content: https://www.iana.org/assignments/capwap-parameters
   type: src
 type: standard
 docid:

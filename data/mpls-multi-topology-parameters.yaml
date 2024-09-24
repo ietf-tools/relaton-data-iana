@@ -5,7 +5,7 @@ title:
 - content: MPLS Multi-Topology Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mpls-multi-topology-parameters
+- content: https://www.iana.org/assignments/mpls-multi-topology-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Type of Provider
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/emergency-call-additional-data
+- content: https://www.iana.org/assignments/emergency-call-additional-data
   type: src
 type: standard
 docid:

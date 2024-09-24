@@ -5,7 +5,7 @@ title:
 - content: AMTRELAY Relay Type Field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/amtrelay-resource-record
+- content: https://www.iana.org/assignments/amtrelay-resource-record
   type: src
 type: standard
 docid:

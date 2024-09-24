@@ -5,7 +5,7 @@ title:
 - content: SESSION_AUTH X-Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nslp-parameters
+- content: https://www.iana.org/assignments/nslp-parameters
   type: src
 type: standard
 docid:

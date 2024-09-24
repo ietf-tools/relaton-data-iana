@@ -5,7 +5,7 @@ title:
 - content: Transparent Interconnection of Lots of Links (TRILL) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/trill-parameters
+- content: https://www.iana.org/assignments/trill-parameters
   type: src
 type: standard
 docid:

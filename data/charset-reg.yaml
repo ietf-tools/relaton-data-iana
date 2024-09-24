@@ -5,7 +5,7 @@ title:
 - content: Character Set Registrations
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/charset-reg
+- content: https://www.iana.org/assignments/charset-reg
   type: src
 type: standard
 docid:

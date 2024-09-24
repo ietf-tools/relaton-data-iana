@@ -5,7 +5,7 @@ title:
 - content: RAMS TLV Space Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtp-parameters
+- content: https://www.iana.org/assignments/rtp-parameters
   type: src
 type: standard
 docid:

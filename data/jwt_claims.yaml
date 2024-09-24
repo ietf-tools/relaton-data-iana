@@ -5,7 +5,7 @@ title:
 - content: JSON Web Token Claims
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/jwt
+- content: https://www.iana.org/assignments/jwt
   type: src
 type: standard
 docid:

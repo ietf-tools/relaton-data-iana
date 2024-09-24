@@ -5,7 +5,7 @@ title:
 - content: SFC Echo Return Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sfc-active-oam
+- content: https://www.iana.org/assignments/sfc-active-oam
   type: src
 type: standard
 docid:

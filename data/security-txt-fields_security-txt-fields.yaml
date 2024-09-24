@@ -5,7 +5,7 @@ title:
 - content: security.txt Fields
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/security-txt-fields
+- content: https://www.iana.org/assignments/security-txt-fields
   type: src
 type: standard
 docid:

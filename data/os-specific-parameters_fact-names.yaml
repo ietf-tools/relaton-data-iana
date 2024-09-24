@@ -5,7 +5,7 @@ title:
 - content: OS Specific Fact Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/os-specific-parameters
+- content: https://www.iana.org/assignments/os-specific-parameters
   type: src
 type: standard
 docid:

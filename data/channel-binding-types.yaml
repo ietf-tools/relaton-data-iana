@@ -5,7 +5,7 @@ title:
 - content: Channel-Binding Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/channel-binding-types
+- content: https://www.iana.org/assignments/channel-binding-types
   type: src
 type: standard
 docid:

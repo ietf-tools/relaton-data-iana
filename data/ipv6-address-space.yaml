@@ -5,7 +5,7 @@ title:
 - content: Internet Protocol Version 6 Address Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv6-address-space
+- content: https://www.iana.org/assignments/ipv6-address-space
   type: src
 type: standard
 docid:

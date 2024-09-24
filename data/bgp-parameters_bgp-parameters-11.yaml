@@ -5,7 +5,7 @@ title:
 - content: BGP OPEN Optional Parameter Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-parameters
+- content: https://www.iana.org/assignments/bgp-parameters
   type: src
 type: standard
 docid:

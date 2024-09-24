@@ -5,7 +5,7 @@ title:
 - content: Session Initiation Protocol (SIP) Common Log Format (CLF) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-clf-parameters
+- content: https://www.iana.org/assignments/sip-clf-parameters
   type: src
 type: standard
 docid:

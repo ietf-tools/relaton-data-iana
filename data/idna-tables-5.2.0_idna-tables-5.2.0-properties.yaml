@@ -5,7 +5,7 @@ title:
 - content: IDNA Derived Properties
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/idna-tables-5.2.0
+- content: https://www.iana.org/assignments/idna-tables-5.2.0
   type: src
 type: standard
 docid:

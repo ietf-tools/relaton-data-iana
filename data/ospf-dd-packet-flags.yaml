@@ -5,7 +5,7 @@ title:
 - content: OSPF Database Description (DD) Packet Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospf-dd-packet-flags
+- content: https://www.iana.org/assignments/ospf-dd-packet-flags
   type: src
 type: standard
 docid:

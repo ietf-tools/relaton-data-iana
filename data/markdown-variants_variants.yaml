@@ -5,7 +5,7 @@ title:
 - content: Markdown Variants
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/markdown-variants
+- content: https://www.iana.org/assignments/markdown-variants
   type: src
 type: standard
 docid:

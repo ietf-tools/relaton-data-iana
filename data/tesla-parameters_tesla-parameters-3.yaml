@@ -5,7 +5,7 @@ title:
 - content: Signature Encoding Algorithm, TESLA-SIG-ALGO Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tesla-parameters
+- content: https://www.iana.org/assignments/tesla-parameters
   type: src
 type: standard
 docid:

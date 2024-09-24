@@ -5,7 +5,7 @@ title:
 - content: SASL SCRAM Family Mechanisms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sasl-mechanisms
+- content: https://www.iana.org/assignments/sasl-mechanisms
   type: src
 type: standard
 docid:

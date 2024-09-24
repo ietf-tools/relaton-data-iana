@@ -5,7 +5,7 @@ title:
 - content: IKEv2 Configuration Payload Attribute Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ikev2-parameters
+- content: https://www.iana.org/assignments/ikev2-parameters
   type: src
 type: standard
 docid:

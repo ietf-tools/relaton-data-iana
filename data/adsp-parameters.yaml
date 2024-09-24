@@ -5,7 +5,7 @@ title:
 - content: Author Domain Signing Practices (ADSP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/adsp-parameters
+- content: https://www.iana.org/assignments/adsp-parameters
   type: src
 type: standard
 docid:

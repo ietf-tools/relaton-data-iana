@@ -5,7 +5,7 @@ title:
 - content: Interactive Connectivity Establishment (ICE)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ice
+- content: https://www.iana.org/assignments/ice
   type: src
 type: standard
 docid:

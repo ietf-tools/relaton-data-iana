@@ -5,7 +5,7 @@ title:
 - content: Default L2-Specific Sublayer bits
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/l2tp-parameters
+- content: https://www.iana.org/assignments/l2tp-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: iana-dns-class-rr-type YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-dns-class-rr-type
+- content: https://www.iana.org/assignments/iana-dns-class-rr-type
   type: src
 type: standard
 docid:

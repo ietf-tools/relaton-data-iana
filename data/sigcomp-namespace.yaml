@@ -5,7 +5,7 @@ title:
 - content: Signaling Compression (SigComp) Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sigcomp-namespace
+- content: https://www.iana.org/assignments/sigcomp-namespace
   type: src
 type: standard
 docid:

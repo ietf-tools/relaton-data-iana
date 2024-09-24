@@ -5,7 +5,7 @@ title:
 - content: SRv6 BGP EPE SID Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-ls-parameters
+- content: https://www.iana.org/assignments/bgp-ls-parameters
   type: src
 type: standard
 docid:

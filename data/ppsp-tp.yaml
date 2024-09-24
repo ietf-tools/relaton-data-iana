@@ -5,7 +5,7 @@ title:
 - content: Peer-to-Peer Streaming Tracker Protocol (PPSTP)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ppsp-tp
+- content: https://www.iana.org/assignments/ppsp-tp
   type: src
 type: standard
 docid:

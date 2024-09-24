@@ -5,7 +5,7 @@ title:
 - content: PKIX SRV Protocol Labels
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pkix-parameters
+- content: https://www.iana.org/assignments/pkix-parameters
   type: src
 type: standard
 docid:

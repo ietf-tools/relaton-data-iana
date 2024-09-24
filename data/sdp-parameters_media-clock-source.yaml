@@ -5,7 +5,7 @@ title:
 - content: Media Clock Source Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sdp-parameters
+- content: https://www.iana.org/assignments/sdp-parameters
   type: src
 type: standard
 docid:

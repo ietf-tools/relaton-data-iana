@@ -5,7 +5,7 @@ title:
 - content: 'XMSS: Extended Hash-Based Signatures'
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xmss-extended-hash-based-signatures
+- content: https://www.iana.org/assignments/xmss-extended-hash-based-signatures
   type: src
 type: standard
 docid:

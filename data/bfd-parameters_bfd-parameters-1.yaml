@@ -5,7 +5,7 @@ title:
 - content: BFD Diagnostic Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bfd-parameters
+- content: https://www.iana.org/assignments/bfd-parameters
   type: src
 type: standard
 docid:

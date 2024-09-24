@@ -5,7 +5,7 @@ title:
 - content: DNS-Based Authentication of Named Entities (DANE) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dane-parameters
+- content: https://www.iana.org/assignments/dane-parameters
   type: src
 type: standard
 docid:

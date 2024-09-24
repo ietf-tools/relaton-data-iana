@@ -5,7 +5,7 @@ title:
 - content: Civic Address Types (CAtypes)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/civic-address-types-registry
+- content: https://www.iana.org/assignments/civic-address-types-registry
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Hardware Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/arp-parameters
+- content: https://www.iana.org/assignments/arp-parameters
   type: src
 type: standard
 docid:

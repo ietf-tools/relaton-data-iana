@@ -5,7 +5,7 @@ title:
 - content: Actions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gmpls-sig-parameters
+- content: https://www.iana.org/assignments/gmpls-sig-parameters
   type: src
 type: standard
 docid:

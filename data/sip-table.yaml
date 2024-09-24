@@ -6,7 +6,7 @@ title:
     Services Field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-table
+- content: https://www.iana.org/assignments/sip-table
   type: src
 type: standard
 docid:

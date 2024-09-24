@@ -5,7 +5,7 @@ title:
 - content: TRILL Pull Directory Query Types (QTYPEs)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/trill-parameters
+- content: https://www.iana.org/assignments/trill-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: CCID2-specific Feature Numbers (128-255)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dccp-ccid2-parameters
+- content: https://www.iana.org/assignments/dccp-ccid2-parameters
   type: src
 type: standard
 docid:

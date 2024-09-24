@@ -5,7 +5,7 @@ title:
 - content: PPSP Peer Protocol Message Type Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ppspp
+- content: https://www.iana.org/assignments/ppspp
   type: src
 type: standard
 docid:

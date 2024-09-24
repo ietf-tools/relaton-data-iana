@@ -7,7 +7,7 @@ title:
     Allocations made from the Current Recovered IPv4 Pool
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv4-recovered-address-space
+- content: https://www.iana.org/assignments/ipv4-recovered-address-space
   type: src
 type: standard
 docid:

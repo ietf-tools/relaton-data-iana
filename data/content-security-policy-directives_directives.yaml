@@ -5,7 +5,7 @@ title:
 - content: Content Security Policy Directives
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/content-security-policy-directives
+- content: https://www.iana.org/assignments/content-security-policy-directives
   type: src
 type: standard
 docid:

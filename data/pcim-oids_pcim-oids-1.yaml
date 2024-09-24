@@ -5,7 +5,7 @@ title:
 - content: pcimSchema LDAP Descriptors
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pcim-oids
+- content: https://www.iana.org/assignments/pcim-oids
   type: src
 type: standard
 docid:

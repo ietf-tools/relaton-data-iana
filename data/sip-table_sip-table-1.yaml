@@ -5,7 +5,7 @@ title:
 - content: SIP Table of Mappings From Service Field Values to Transport Protocols
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-table
+- content: https://www.iana.org/assignments/sip-table
   type: src
 type: standard
 docid:

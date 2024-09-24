@@ -5,7 +5,7 @@ title:
 - content: VNC URI ID Hash Algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/vnc-uri
+- content: https://www.iana.org/assignments/vnc-uri
   type: src
 type: standard
 docid:

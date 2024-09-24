@@ -5,7 +5,7 @@ title:
 - content: Pattern Matching Engine (PME) Opcodes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtfm
+- content: https://www.iana.org/assignments/rtfm
   type: src
 type: standard
 docid:

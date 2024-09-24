@@ -5,7 +5,7 @@ title:
 - content: Internet Protocol Version 4 (IPv4) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ip-parameters
+- content: https://www.iana.org/assignments/ip-parameters
   type: src
 type: standard
 docid:

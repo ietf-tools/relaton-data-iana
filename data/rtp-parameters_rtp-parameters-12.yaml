@@ -5,7 +5,7 @@ title:
 - content: SFMT Values for RAMS Messages
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtp-parameters
+- content: https://www.iana.org/assignments/rtp-parameters
   type: src
 type: standard
 docid:

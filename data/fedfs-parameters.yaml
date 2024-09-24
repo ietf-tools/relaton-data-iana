@@ -5,7 +5,7 @@ title:
 - content: Federated File System (FedFS) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/fedfs-parameters
+- content: https://www.iana.org/assignments/fedfs-parameters
   type: src
 type: standard
 docid:

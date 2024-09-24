@@ -5,7 +5,7 @@ title:
 - content: IMAP Response Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imap-response-codes
+- content: https://www.iana.org/assignments/imap-response-codes
   type: src
 type: standard
 docid:

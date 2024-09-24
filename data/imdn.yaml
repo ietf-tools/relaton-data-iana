@@ -5,7 +5,7 @@ title:
 - content: Instant Message Disposition Notification (IMDN) Headers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imdn
+- content: https://www.iana.org/assignments/imdn
   type: src
 type: standard
 docid:

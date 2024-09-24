@@ -5,7 +5,7 @@ title:
 - content: IP Time to Live Parameter
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ip-parameters
+- content: https://www.iana.org/assignments/ip-parameters
   type: src
 type: standard
 docid:

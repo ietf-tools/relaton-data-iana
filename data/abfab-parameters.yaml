@@ -5,7 +5,7 @@ title:
 - content: Application Bridging for Federated Access Beyond Web (ABFAB) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/abfab-parameters
+- content: https://www.iana.org/assignments/abfab-parameters
   type: src
 type: standard
 docid:

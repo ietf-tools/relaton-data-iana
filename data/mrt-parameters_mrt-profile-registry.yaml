@@ -5,7 +5,7 @@ title:
 - content: MRT Profile Identifier Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mrt-parameters
+- content: https://www.iana.org/assignments/mrt-parameters
   type: src
 type: standard
 docid:

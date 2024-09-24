@@ -5,7 +5,7 @@ title:
 - content: Subtype Field of the MN-HA and MN-AAA Authentication Mobility Options
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mobility-parameters
+- content: https://www.iana.org/assignments/mobility-parameters
   type: src
 type: standard
 docid:

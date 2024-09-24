@@ -5,7 +5,7 @@ title:
 - content: The Binary Floor Control Protocol (BFCP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bfcp-parameters
+- content: https://www.iana.org/assignments/bfcp-parameters
   type: src
 type: standard
 docid:

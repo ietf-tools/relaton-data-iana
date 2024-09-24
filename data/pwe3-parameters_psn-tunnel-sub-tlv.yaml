@@ -5,7 +5,7 @@ title:
 - content: PSN Tunnel Sub-TLV Name Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pwe3-parameters
+- content: https://www.iana.org/assignments/pwe3-parameters
   type: src
 type: standard
 docid:

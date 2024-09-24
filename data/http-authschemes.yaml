@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Authentication Scheme Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-authschemes
+- content: https://www.iana.org/assignments/http-authschemes
   type: src
 type: standard
 docid:

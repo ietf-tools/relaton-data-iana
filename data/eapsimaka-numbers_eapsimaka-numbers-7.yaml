@@ -5,7 +5,7 @@ title:
 - content: EAP-AKA' AT_KDF Key Derivation Function Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eapsimaka-numbers
+- content: https://www.iana.org/assignments/eapsimaka-numbers
   type: src
 type: standard
 docid:

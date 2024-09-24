@@ -5,7 +5,7 @@ title:
 - content: Performance Metric Name Elements -  Method
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/performance-metrics
+- content: https://www.iana.org/assignments/performance-metrics
   type: src
 type: standard
 docid:

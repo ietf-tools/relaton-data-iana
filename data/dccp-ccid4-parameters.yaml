@@ -6,7 +6,7 @@ title:
     ID 4: TCP-Friendly Rate Control for Small Packets (TFRC-SP)'
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dccp-ccid4-parameters
+- content: https://www.iana.org/assignments/dccp-ccid4-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: SPPF OrgIdType Namespaces
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sppf-orgidtype-namespace
+- content: https://www.iana.org/assignments/sppf-orgidtype-namespace
   type: src
 type: standard
 docid:

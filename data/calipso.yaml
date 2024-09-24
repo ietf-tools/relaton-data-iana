@@ -5,7 +5,7 @@ title:
 - content: Common Architecture Label IPv6 Security Option (CALIPSO)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/calipso
+- content: https://www.iana.org/assignments/calipso
   type: src
 type: standard
 docid:

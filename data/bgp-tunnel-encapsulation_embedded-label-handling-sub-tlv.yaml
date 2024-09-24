@@ -5,7 +5,7 @@ title:
 - content: Embedded Label Handling Sub-TLVs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-tunnel-encapsulation
+- content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
   type: src
 type: standard
 docid:

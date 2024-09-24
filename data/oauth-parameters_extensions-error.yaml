@@ -5,7 +5,7 @@ title:
 - content: OAuth Extensions Error Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/oauth-parameters
+- content: https://www.iana.org/assignments/oauth-parameters
   type: src
 type: standard
 docid:

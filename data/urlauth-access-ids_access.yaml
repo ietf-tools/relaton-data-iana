@@ -5,7 +5,7 @@ title:
 - content: IMAP URLAUTH Access Identifiers and Prefixes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/urlauth-access-ids
+- content: https://www.iana.org/assignments/urlauth-access-ids
   type: src
 type: standard
 docid:

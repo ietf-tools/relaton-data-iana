@@ -5,7 +5,7 @@ title:
 - content: Kerberos Checksum Type Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/kerberos-parameters
+- content: https://www.iana.org/assignments/kerberos-parameters
   type: src
 type: standard
 docid:

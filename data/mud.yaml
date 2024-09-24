@@ -5,7 +5,7 @@ title:
 - content: Manufacturer Usage Description (MUD)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mud
+- content: https://www.iana.org/assignments/mud
   type: src
 type: standard
 docid:

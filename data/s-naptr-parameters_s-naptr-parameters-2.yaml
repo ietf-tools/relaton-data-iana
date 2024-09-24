@@ -5,7 +5,7 @@ title:
 - content: S-NAPTR Application Protocol Tags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/s-naptr-parameters
+- content: https://www.iana.org/assignments/s-naptr-parameters
   type: src
 type: standard
 docid:

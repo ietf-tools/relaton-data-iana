@@ -5,7 +5,7 @@ title:
 - content: SLP Remote Service Discovery
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/slp-da-service
+- content: https://www.iana.org/assignments/slp-da-service
   type: src
 type: standard
 docid:

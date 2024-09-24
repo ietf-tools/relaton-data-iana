@@ -5,7 +5,7 @@ title:
 - content: CBOR Web Token (CWT) Claims
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cwt
+- content: https://www.iana.org/assignments/cwt
   type: src
 type: standard
 docid:

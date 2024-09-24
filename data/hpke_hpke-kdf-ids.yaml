@@ -5,7 +5,7 @@ title:
 - content: HPKE KDF Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/hpke
+- content: https://www.iana.org/assignments/hpke
   type: src
 type: standard
 docid:

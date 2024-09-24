@@ -5,7 +5,7 @@ title:
 - content: Alert URN Providers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/alert-urns
+- content: https://www.iana.org/assignments/alert-urns
   type: src
 type: standard
 docid:

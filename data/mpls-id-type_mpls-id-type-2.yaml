@@ -5,7 +5,7 @@ title:
 - content: Information Field and Protocol Identifier in the Q.2941 Generic Identifier
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mpls-id-type
+- content: https://www.iana.org/assignments/mpls-id-type
   type: src
 type: standard
 docid:

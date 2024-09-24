@@ -5,7 +5,7 @@ title:
 - content: Internet Protocol Version 6 (IPv6) Anycast Addresses
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv6-anycast-addresses
+- content: https://www.iana.org/assignments/ipv6-anycast-addresses
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: CLUE Schema <view>
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/clue
+- content: https://www.iana.org/assignments/clue
   type: src
 type: standard
 docid:

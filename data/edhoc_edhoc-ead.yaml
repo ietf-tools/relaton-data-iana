@@ -5,7 +5,7 @@ title:
 - content: EDHOC External Authorization Data
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/edhoc
+- content: https://www.iana.org/assignments/edhoc
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Babel Hello Flags Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/babel
+- content: https://www.iana.org/assignments/babel
   type: src
 type: standard
 docid:

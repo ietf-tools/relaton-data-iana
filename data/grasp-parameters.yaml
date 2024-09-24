@@ -5,7 +5,7 @@ title:
 - content: GeneRic Autonomic Signaling Protocol (GRASP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/grasp-parameters
+- content: https://www.iana.org/assignments/grasp-parameters
   type: src
 type: standard
 docid:

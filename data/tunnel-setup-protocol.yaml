@@ -5,7 +5,7 @@ title:
 - content: Tunnel Setup Protocol (TSP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tunnel-setup-protocol
+- content: https://www.iana.org/assignments/tunnel-setup-protocol
   type: src
 type: standard
 docid:

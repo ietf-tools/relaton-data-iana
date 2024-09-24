@@ -5,7 +5,7 @@ title:
 - content: Open Network Computing (ONC) Remote Procedure Call (RPC) Network Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/oncrpc-ids
+- content: https://www.iana.org/assignments/oncrpc-ids
   type: src
 type: standard
 docid:

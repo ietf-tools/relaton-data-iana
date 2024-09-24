@@ -5,7 +5,7 @@ title:
 - content: DEV URN Subtypes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/device-identification
+- content: https://www.iana.org/assignments/device-identification
   type: src
 type: standard
 docid:

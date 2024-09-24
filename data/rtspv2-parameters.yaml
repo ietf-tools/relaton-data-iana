@@ -5,7 +5,7 @@ title:
 - content: Real-Time Streaming Protocol (RTSP) 2.0 Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtspv2-parameters
+- content: https://www.iana.org/assignments/rtspv2-parameters
   type: src
 type: standard
 docid:

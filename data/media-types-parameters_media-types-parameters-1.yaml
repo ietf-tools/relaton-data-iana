@@ -5,7 +5,7 @@ title:
 - content: MIME to X.400 Table
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-types-parameters
+- content: https://www.iana.org/assignments/media-types-parameters
   type: src
 type: standard
 docid:

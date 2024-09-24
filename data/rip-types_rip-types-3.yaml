@@ -5,7 +5,7 @@ title:
 - content: RIP Address Family Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rip-types
+- content: https://www.iana.org/assignments/rip-types
   type: src
 type: standard
 docid:

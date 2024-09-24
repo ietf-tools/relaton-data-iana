@@ -5,7 +5,7 @@ title:
 - content: Hello TLV Flags 3-7
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/prophet
+- content: https://www.iana.org/assignments/prophet
   type: src
 type: standard
 docid:

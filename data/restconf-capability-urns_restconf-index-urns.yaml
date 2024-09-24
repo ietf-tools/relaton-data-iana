@@ -5,7 +5,7 @@ title:
 - content: RESTCONF Capability URNs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/restconf-capability-urns
+- content: https://www.iana.org/assignments/restconf-capability-urns
   type: src
 type: standard
 docid:

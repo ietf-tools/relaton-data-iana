@@ -5,7 +5,7 @@ title:
 - content: FMIPv6 Message Types (Value 154)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/icmpv6-parameters
+- content: https://www.iana.org/assignments/icmpv6-parameters
   type: src
 type: standard
 docid:

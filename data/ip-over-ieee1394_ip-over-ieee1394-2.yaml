@@ -5,7 +5,7 @@ title:
 - content: MCAP (Multicast Channel Allocation Protocol) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ip-over-IEEE1394
+- content: https://www.iana.org/assignments/ip-over-IEEE1394
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: PA-TNC Attribute Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pa-tnc-parameters
+- content: https://www.iana.org/assignments/pa-tnc-parameters
   type: src
 type: standard
 docid:

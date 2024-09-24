@@ -5,7 +5,7 @@ title:
 - content: Algorithm Type Field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipseckey-rr-parameters
+- content: https://www.iana.org/assignments/ipseckey-rr-parameters
   type: src
 type: standard
 docid:

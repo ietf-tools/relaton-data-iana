@@ -5,7 +5,7 @@ title:
 - content: Link Relations
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/link-relations
+- content: https://www.iana.org/assignments/link-relations
   type: src
 type: standard
 docid:

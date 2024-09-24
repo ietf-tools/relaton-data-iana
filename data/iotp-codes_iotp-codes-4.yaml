@@ -5,7 +5,7 @@ title:
 - content: CurrencyAmount/CurrCodeType
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iotp-codes
+- content: https://www.iana.org/assignments/iotp-codes
   type: src
 type: standard
 docid:

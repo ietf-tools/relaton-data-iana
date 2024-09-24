@@ -5,7 +5,7 @@ title:
 - content: Routing Metric/Constraint Type
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpl-routing-metric-constraint
+- content: https://www.iana.org/assignments/rpl-routing-metric-constraint
   type: src
 type: standard
 docid:

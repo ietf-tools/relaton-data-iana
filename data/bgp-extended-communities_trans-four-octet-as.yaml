@@ -5,7 +5,7 @@ title:
 - content: Transitive Four-Octet AS-Specific Extended Community Sub-Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-extended-communities
+- content: https://www.iana.org/assignments/bgp-extended-communities
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: DHCPv6 Options Permitted in the RADIUS DHCPv6-Options Attribute
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dhcpv6-parameters
+- content: https://www.iana.org/assignments/dhcpv6-parameters
   type: src
 type: standard
 docid:

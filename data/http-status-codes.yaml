@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Status Code Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-status-codes
+- content: https://www.iana.org/assignments/http-status-codes
   type: src
 type: standard
 docid:

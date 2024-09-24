@@ -5,7 +5,7 @@ title:
 - content: Dynamic Symmetric Key Provisioning Protocol (DSKPP)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dskpp
+- content: https://www.iana.org/assignments/dskpp
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Named Information
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/named-information
+- content: https://www.iana.org/assignments/named-information
   type: src
 type: standard
 docid:

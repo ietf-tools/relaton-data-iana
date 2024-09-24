@@ -5,7 +5,7 @@ title:
 - content: IPv6 Router Alert Option Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv6-routeralert-values
+- content: https://www.iana.org/assignments/ipv6-routeralert-values
   type: src
 type: standard
 docid:

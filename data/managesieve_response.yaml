@@ -5,7 +5,7 @@ title:
 - content: ManageSieve Response Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/managesieve
+- content: https://www.iana.org/assignments/managesieve
   type: src
 type: standard
 docid:

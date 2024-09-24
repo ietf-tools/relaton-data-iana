@@ -5,7 +5,7 @@ title:
 - content: YANG-SID Mega-Ranges
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/yang-sid
+- content: https://www.iana.org/assignments/yang-sid
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Multicast Address Dynamic Client Allocation Protocol (MADCAP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/madcap-parameters
+- content: https://www.iana.org/assignments/madcap-parameters
   type: src
 type: standard
 docid:

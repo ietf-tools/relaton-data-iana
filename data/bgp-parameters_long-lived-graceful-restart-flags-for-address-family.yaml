@@ -5,7 +5,7 @@ title:
 - content: Long-Lived Graceful Restart Flags for Address Family
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bgp-parameters
+- content: https://www.iana.org/assignments/bgp-parameters
   type: src
 type: standard
 docid:

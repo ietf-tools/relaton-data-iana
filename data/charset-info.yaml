@@ -5,7 +5,7 @@ title:
 - content: Character Sets Mailing List Information
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/charset-info
+- content: https://www.iana.org/assignments/charset-info
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: RDAP Extensions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rdap-extensions
+- content: https://www.iana.org/assignments/rdap-extensions
   type: src
 type: standard
 docid:

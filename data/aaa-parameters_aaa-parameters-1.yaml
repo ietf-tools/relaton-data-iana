@@ -5,7 +5,7 @@ title:
 - content: AVP Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/aaa-parameters
+- content: https://www.iana.org/assignments/aaa-parameters
   type: src
 type: standard
 docid:

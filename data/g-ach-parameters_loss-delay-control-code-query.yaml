@@ -5,7 +5,7 @@ title:
 - content: 'Loss/Delay Measurement Control Code: Query Codes'
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/g-ach-parameters
+- content: https://www.iana.org/assignments/g-ach-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: ACME Directory Metadata Fields
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/acme
+- content: https://www.iana.org/assignments/acme
   type: src
 type: standard
 docid:

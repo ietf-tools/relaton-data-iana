@@ -5,7 +5,7 @@ title:
 - content: MADCAP Error Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/madcap-parameters
+- content: https://www.iana.org/assignments/madcap-parameters
   type: src
 type: standard
 docid:

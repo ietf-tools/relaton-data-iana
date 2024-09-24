@@ -5,7 +5,7 @@ title:
 - content: Web Push Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/webpush-parameters
+- content: https://www.iana.org/assignments/webpush-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Locally-Served DNS Zones
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/locally-served-dns-zones
+- content: https://www.iana.org/assignments/locally-served-dns-zones
   type: src
 type: standard
 docid:

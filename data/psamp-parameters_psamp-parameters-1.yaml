@@ -5,7 +5,7 @@ title:
 - content: PSAMP selectorAlgorithm Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/psamp-parameters
+- content: https://www.iana.org/assignments/psamp-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Link Management Protocol (LMP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/lmp-parameters
+- content: https://www.iana.org/assignments/lmp-parameters
   type: src
 type: standard
 docid:

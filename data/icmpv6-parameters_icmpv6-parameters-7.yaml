@@ -5,7 +5,7 @@ title:
 - content: Certificate option  (Type 16) Cert Type field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/icmpv6-parameters
+- content: https://www.iana.org/assignments/icmpv6-parameters
   type: src
 type: standard
 docid:

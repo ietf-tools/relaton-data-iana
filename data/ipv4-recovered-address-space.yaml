@@ -5,7 +5,7 @@ title:
 - content: IPv4 Recovered Address Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv4-recovered-address-space
+- content: https://www.iana.org/assignments/ipv4-recovered-address-space
   type: src
 type: standard
 docid:

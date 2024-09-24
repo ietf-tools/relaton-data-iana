@@ -5,7 +5,7 @@ title:
 - content: HTTP Authentication Control Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-authentication-control-parameters
+- content: https://www.iana.org/assignments/http-authentication-control-parameters
   type: src
 type: standard
 docid:

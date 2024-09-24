@@ -5,7 +5,7 @@ title:
 - content: Mtrace2 TLV Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mtrace
+- content: https://www.iana.org/assignments/mtrace
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Geopriv Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/geopriv-identifiers
+- content: https://www.iana.org/assignments/geopriv-identifiers
   type: src
 type: standard
 docid:

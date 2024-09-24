@@ -5,7 +5,7 @@ title:
 - content: BMP Peer Flags for Peer Types 0 through 2
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bmp-parameters
+- content: https://www.iana.org/assignments/bmp-parameters
   type: src
 type: standard
 docid:

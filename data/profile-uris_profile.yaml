@@ -5,7 +5,7 @@ title:
 - content: Profile URIs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/profile-uris
+- content: https://www.iana.org/assignments/profile-uris
   type: src
 type: standard
 docid:

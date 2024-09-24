@@ -5,7 +5,7 @@ title:
 - content: Global Switch Management Protocol version 3 (GSMPv3) Label Type Name Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gsmpv3-label
+- content: https://www.iana.org/assignments/gsmpv3-label
   type: src
 type: standard
 docid:

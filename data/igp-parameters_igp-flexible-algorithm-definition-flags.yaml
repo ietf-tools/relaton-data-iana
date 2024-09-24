@@ -5,7 +5,7 @@ title:
 - content: IGP Flexible Algorithm Definition Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/igp-parameters
+- content: https://www.iana.org/assignments/igp-parameters
   type: src
 type: standard
 docid:

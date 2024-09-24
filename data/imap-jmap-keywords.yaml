@@ -5,7 +5,7 @@ title:
 - content: IMAP and JMAP Keywords
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imap-jmap-keywords
+- content: https://www.iana.org/assignments/imap-jmap-keywords
   type: src
 type: standard
 docid:

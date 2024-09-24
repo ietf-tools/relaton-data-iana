@@ -5,7 +5,7 @@ title:
 - content: Data Channel Establishment Protocol (DCEP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dcep-parameters
+- content: https://www.iana.org/assignments/dcep-parameters
   type: src
 type: standard
 docid:

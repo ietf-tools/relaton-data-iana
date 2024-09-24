@@ -5,7 +5,7 @@ title:
 - content: Public Key ID Namespace
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-pax
+- content: https://www.iana.org/assignments/eap-pax
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Media Stream Transports
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sdp-security-descriptions
+- content: https://www.iana.org/assignments/sdp-security-descriptions
   type: src
 type: standard
 docid:

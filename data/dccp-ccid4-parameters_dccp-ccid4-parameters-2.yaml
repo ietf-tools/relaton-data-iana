@@ -5,7 +5,7 @@ title:
 - content: CCID4-specific Option Types (128-255)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dccp-ccid4-parameters
+- content: https://www.iana.org/assignments/dccp-ccid4-parameters
   type: src
 type: standard
 docid:

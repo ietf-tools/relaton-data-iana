@@ -5,7 +5,7 @@ title:
 - content: ALTO Entity Property Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/alto-protocol
+- content: https://www.iana.org/assignments/alto-protocol
   type: src
 type: standard
 docid:

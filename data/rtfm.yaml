@@ -5,7 +5,7 @@ title:
 - content: Realtime Traffic Flow Measurement (RTFM)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtfm
+- content: https://www.iana.org/assignments/rtfm
   type: src
 type: standard
 docid:

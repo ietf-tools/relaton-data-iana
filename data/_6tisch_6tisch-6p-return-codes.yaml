@@ -5,7 +5,7 @@ title:
 - content: 6P Return Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/_6tisch
+- content: https://www.iana.org/assignments/_6tisch
   type: src
 type: standard
 docid:

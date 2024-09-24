@@ -5,7 +5,7 @@ title:
 - content: MPTCP MP_TCPRST Reason Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tcp-parameters
+- content: https://www.iana.org/assignments/tcp-parameters
   type: src
 type: standard
 docid:

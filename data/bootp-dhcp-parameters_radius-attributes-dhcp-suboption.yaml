@@ -5,7 +5,7 @@ title:
 - content: RADIUS Attributes Permitted in RADIUS Attributes DHCP Suboption
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bootp-dhcp-parameters
+- content: https://www.iana.org/assignments/bootp-dhcp-parameters
   type: src
 type: standard
 docid:

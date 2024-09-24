@@ -5,7 +5,7 @@ title:
 - content: Media Gateway Control Protocol (MGCP) Package Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mgcp-packages
+- content: https://www.iana.org/assignments/mgcp-packages
   type: src
 type: standard
 docid:

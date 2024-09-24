@@ -5,7 +5,7 @@ title:
 - content: IANA-STORAGE-MEDIA-TYPE-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianastoragemediatype-mib
+- content: https://www.iana.org/assignments/ianastoragemediatype-mib
   type: src
 type: standard
 docid:

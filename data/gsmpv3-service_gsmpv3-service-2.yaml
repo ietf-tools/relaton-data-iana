@@ -5,7 +5,7 @@ title:
 - content: Service ID Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gsmpv3-service
+- content: https://www.iana.org/assignments/gsmpv3-service
   type: src
 type: standard
 docid:

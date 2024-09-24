@@ -5,7 +5,7 @@ title:
 - content: Connectivity Fault Management (CFM) OAM IETF Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cfm-oam
+- content: https://www.iana.org/assignments/cfm-oam
   type: src
 type: standard
 docid:

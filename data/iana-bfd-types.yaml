@@ -5,7 +5,7 @@ title:
 - content: iana-bfd-types YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-bfd-types
+- content: https://www.iana.org/assignments/iana-bfd-types
   type: src
 type: standard
 docid:

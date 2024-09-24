@@ -5,7 +5,7 @@ title:
 - content: DetNet Associated Channel Header (d-ACH) Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/detnet-ach-flags
+- content: https://www.iana.org/assignments/detnet-ach-flags
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Update Notification Acknowledgement Status Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mobility-parameters
+- content: https://www.iana.org/assignments/mobility-parameters
   type: src
 type: standard
 docid:

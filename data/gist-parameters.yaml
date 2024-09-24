@@ -5,7 +5,7 @@ title:
 - content: General Internet Signalling Transport (GIST) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/gist-parameters
+- content: https://www.iana.org/assignments/gist-parameters
   type: src
 type: standard
 docid:

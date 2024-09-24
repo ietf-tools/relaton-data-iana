@@ -5,7 +5,7 @@ title:
 - content: IANA-CHARSET-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianacharset-mib
+- content: https://www.iana.org/assignments/ianacharset-mib
   type: src
 type: standard
 docid:

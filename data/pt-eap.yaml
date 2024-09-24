@@ -5,7 +5,7 @@ title:
 - content: 'PT-EAP: Posture Transport (PT) Protocol For EAP Tunnel Methods'
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pt-eap
+- content: https://www.iana.org/assignments/pt-eap
   type: src
 type: standard
 docid:

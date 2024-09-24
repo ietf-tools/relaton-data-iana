@@ -5,7 +5,7 @@ title:
 - content: PRECIS Derived Property Value
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/precis-tables-6.3.0
+- content: https://www.iana.org/assignments/precis-tables-6.3.0
   type: src
 type: standard
 docid:

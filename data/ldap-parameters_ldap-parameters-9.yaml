@@ -5,7 +5,7 @@ title:
 - content: LDAP Search Scopes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ldap-parameters
+- content: https://www.iana.org/assignments/ldap-parameters
   type: src
 type: standard
 docid:

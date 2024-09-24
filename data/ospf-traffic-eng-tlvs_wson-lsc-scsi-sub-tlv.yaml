@@ -5,7 +5,7 @@ title:
 - content: Types for sub-TLVs of WSON-LSC SCSI (Switching Capability Specific Information)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospf-traffic-eng-tlvs
+- content: https://www.iana.org/assignments/ospf-traffic-eng-tlvs
   type: src
 type: standard
 docid:

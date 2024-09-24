@@ -5,7 +5,7 @@ title:
 - content: Enumservice Registrations
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/enum-services
+- content: https://www.iana.org/assignments/enum-services
   type: src
 type: standard
 docid:

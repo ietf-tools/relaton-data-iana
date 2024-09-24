@@ -5,7 +5,7 @@ title:
 - content: Address Family Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/address-family-numbers
+- content: https://www.iana.org/assignments/address-family-numbers
   type: src
 type: standard
 docid:

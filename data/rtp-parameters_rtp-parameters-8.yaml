@@ -5,7 +5,7 @@ title:
 - content: FMT Values for RTPFB Payload Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtp-parameters
+- content: https://www.iana.org/assignments/rtp-parameters
   type: src
 type: standard
 docid:

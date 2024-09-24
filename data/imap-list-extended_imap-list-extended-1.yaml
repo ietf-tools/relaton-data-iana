@@ -5,7 +5,7 @@ title:
 - content: LIST-EXTENDED options
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imap-list-extended
+- content: https://www.iana.org/assignments/imap-list-extended
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: LLS Type 1 Extended Options and Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospf-lls-tlvs
+- content: https://www.iana.org/assignments/ospf-lls-tlvs
   type: src
 type: standard
 docid:

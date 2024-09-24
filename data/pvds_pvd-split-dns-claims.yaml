@@ -5,7 +5,7 @@ title:
 - content: PvD Split DNS Claims
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pvds
+- content: https://www.iana.org/assignments/pvds
   type: src
 type: standard
 docid:

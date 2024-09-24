@@ -5,7 +5,7 @@ title:
 - content: SMTP MTA Strict Transport Security (MTA-STS)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mta-sts
+- content: https://www.iana.org/assignments/mta-sts
   type: src
 type: standard
 docid:

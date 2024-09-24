@@ -5,7 +5,7 @@ title:
 - content: pNFS Layout Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pnfs-layout-types
+- content: https://www.iana.org/assignments/pnfs-layout-types
   type: src
 type: standard
 docid:

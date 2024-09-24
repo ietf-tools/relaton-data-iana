@@ -5,7 +5,7 @@ title:
 - content: IANA-GBOND-TC-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianagbondtc-mib
+- content: https://www.iana.org/assignments/ianagbondtc-mib
   type: src
 type: standard
 docid:

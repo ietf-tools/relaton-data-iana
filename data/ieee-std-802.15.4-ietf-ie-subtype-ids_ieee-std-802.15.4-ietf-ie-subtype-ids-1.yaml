@@ -5,7 +5,7 @@ title:
 - content: IEEE Std 802.15.4 IETF IE Subtype IDs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ieee-std-802.15.4-ietf-ie-subtype-ids
+- content: https://www.iana.org/assignments/ieee-std-802.15.4-ietf-ie-subtype-ids
   type: src
 type: standard
 docid:

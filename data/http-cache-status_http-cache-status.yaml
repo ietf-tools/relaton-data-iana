@@ -5,7 +5,7 @@ title:
 - content: HTTP Cache-Status
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-cache-status
+- content: https://www.iana.org/assignments/http-cache-status
   type: src
 type: standard
 docid:

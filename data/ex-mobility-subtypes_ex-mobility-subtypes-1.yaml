@@ -5,7 +5,7 @@ title:
 - content: Experimental Mobility Protocol Subtype Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ex-mobility-subtypes
+- content: https://www.iana.org/assignments/ex-mobility-subtypes
   type: src
 type: standard
 docid:

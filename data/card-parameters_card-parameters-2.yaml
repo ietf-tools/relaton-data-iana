@@ -5,7 +5,7 @@ title:
 - content: Layer 2 Access Technology Identifier Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/card-parameters
+- content: https://www.iana.org/assignments/card-parameters
   type: src
 type: standard
 docid:

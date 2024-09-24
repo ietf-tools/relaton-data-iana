@@ -5,7 +5,7 @@ title:
 - content: PAL Package Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pal-package-types
+- content: https://www.iana.org/assignments/pal-package-types
   type: src
 type: standard
 docid:

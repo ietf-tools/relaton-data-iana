@@ -5,7 +5,7 @@ title:
 - content: Timed Efficient Stream Loss-tolerant Authentication (TESLA) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tesla-parameters
+- content: https://www.iana.org/assignments/tesla-parameters
   type: src
 type: standard
 docid:

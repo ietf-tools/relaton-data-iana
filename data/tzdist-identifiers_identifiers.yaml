@@ -5,7 +5,7 @@ title:
 - content: TZDIST Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tzdist-identifiers
+- content: https://www.iana.org/assignments/tzdist-identifiers
   type: src
 type: standard
 docid:

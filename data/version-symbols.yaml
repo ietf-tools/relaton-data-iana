@@ -5,7 +5,7 @@ title:
 - content: "'version' symbols used within the ISUP and QSIG"
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/version-symbols
+- content: https://www.iana.org/assignments/version-symbols
   type: src
 type: standard
 docid:

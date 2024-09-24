@@ -5,7 +5,7 @@ title:
 - content: Level of Assurance Profiles
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/loa-profiles
+- content: https://www.iana.org/assignments/loa-profiles
   type: src
 type: standard
 docid:

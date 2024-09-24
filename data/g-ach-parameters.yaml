@@ -5,7 +5,7 @@ title:
 - content: Generic Associated Channel (G-ACh) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/g-ach-parameters
+- content: https://www.iana.org/assignments/g-ach-parameters
   type: src
 type: standard
 docid:

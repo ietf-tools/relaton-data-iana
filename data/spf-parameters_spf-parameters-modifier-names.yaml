@@ -5,7 +5,7 @@ title:
 - content: Modifier Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/spf-parameters
+- content: https://www.iana.org/assignments/spf-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Internet Message Access Protocol (IMAP) Capabilities Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/imap-capabilities
+- content: https://www.iana.org/assignments/imap-capabilities
   type: src
 type: standard
 docid:

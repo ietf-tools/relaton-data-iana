@@ -5,7 +5,7 @@ title:
 - content: iso.org.dod.internet.features.sip-tree (1.3.6.1.8.4)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-feature-tags
+- content: https://www.iana.org/assignments/media-feature-tags
   type: src
 type: standard
 docid:

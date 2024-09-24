@@ -5,7 +5,7 @@ title:
 - content: Service Name and Transport Protocol Port Number Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/service-names-port-numbers
+- content: https://www.iana.org/assignments/service-names-port-numbers
   type: src
 type: standard
 docid:
@@ -15,7 +15,7 @@ docid:
 docnumber: service-names-port-numbers
 date:
 - type: updated
-  value: '2024-09-12'
+  value: '2024-09-23'
 contributor:
 - organization:
     name:

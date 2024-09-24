@@ -5,7 +5,7 @@ title:
 - content: Session Initiation Protocol (SIP) Privacy Header Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sip-priv-values
+- content: https://www.iana.org/assignments/sip-priv-values
   type: src
 type: standard
 docid:

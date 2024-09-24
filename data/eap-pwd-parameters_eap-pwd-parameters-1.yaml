@@ -5,7 +5,7 @@ title:
 - content: PWD-Exch Messages
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-pwd-parameters
+- content: https://www.iana.org/assignments/eap-pwd-parameters
   type: src
 type: standard
 docid:

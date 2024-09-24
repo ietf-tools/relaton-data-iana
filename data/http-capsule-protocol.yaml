@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Capsule Protocol
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-capsule-protocol
+- content: https://www.iana.org/assignments/http-capsule-protocol
   type: src
 type: standard
 docid:

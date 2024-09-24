@@ -5,7 +5,7 @@ title:
 - content: tel URI Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tel-uri-parameters
+- content: https://www.iana.org/assignments/tel-uri-parameters
   type: src
 type: standard
 docid:

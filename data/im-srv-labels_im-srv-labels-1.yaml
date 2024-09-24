@@ -5,7 +5,7 @@ title:
 - content: Instant Messaging SRV Protocol Label Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/im-srv-labels
+- content: https://www.iana.org/assignments/im-srv-labels
   type: src
 type: standard
 docid:

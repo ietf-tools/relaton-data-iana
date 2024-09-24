@@ -5,7 +5,7 @@ title:
 - content: MLS Public Key Encryption Labels
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mls
+- content: https://www.iana.org/assignments/mls
   type: src
 type: standard
 docid:

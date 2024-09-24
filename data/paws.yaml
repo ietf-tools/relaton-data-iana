@@ -5,7 +5,7 @@ title:
 - content: Protocol to Access White-Space (PAWS)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/paws
+- content: https://www.iana.org/assignments/paws
   type: src
 type: standard
 docid:

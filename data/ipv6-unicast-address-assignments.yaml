@@ -5,7 +5,7 @@ title:
 - content: IPv6 Global Unicast Address Assignments
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ipv6-unicast-address-assignments
+- content: https://www.iana.org/assignments/ipv6-unicast-address-assignments
   type: src
 type: standard
 docid:

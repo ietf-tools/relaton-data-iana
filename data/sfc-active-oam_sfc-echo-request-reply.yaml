@@ -5,7 +5,7 @@ title:
 - content: SFC Echo Request Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sfc-active-oam
+- content: https://www.iana.org/assignments/sfc-active-oam
   type: src
 type: standard
 docid:

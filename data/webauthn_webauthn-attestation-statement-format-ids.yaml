@@ -5,7 +5,7 @@ title:
 - content: WebAuthn Attestation Statement Format Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/webauthn
+- content: https://www.iana.org/assignments/webauthn
   type: src
 type: standard
 docid:

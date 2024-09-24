@@ -5,7 +5,7 @@ title:
 - content: Bootstrap Service Registry for AS Number Space
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rdap-asn
+- content: https://www.iana.org/assignments/rdap-asn
   type: src
 type: standard
 docid:

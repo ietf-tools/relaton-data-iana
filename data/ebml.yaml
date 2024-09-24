@@ -5,7 +5,7 @@ title:
 - content: Extensible Binary Meta Language (EBML)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ebml
+- content: https://www.iana.org/assignments/ebml
   type: src
 type: standard
 docid:

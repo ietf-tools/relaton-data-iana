@@ -5,7 +5,7 @@ title:
 - content: VCDIFF Secondary Compressor ID Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/vcdiff-comp-ids
+- content: https://www.iana.org/assignments/vcdiff-comp-ids
   type: src
 type: standard
 docid:

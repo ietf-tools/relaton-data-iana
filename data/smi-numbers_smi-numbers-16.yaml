@@ -5,7 +5,7 @@ title:
 - content: Internet-standard MIB - Mail Monitoring
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/smi-numbers
+- content: https://www.iana.org/assignments/smi-numbers
   type: src
 type: standard
 docid:
@@ -15,7 +15,7 @@ docid:
 docnumber: smi-numbers/smi-numbers-16
 date:
 - type: updated
-  value: '2024-09-20'
+  value: '2024-09-23'
 contributor:
 - organization:
     name:

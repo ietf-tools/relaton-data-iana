@@ -5,7 +5,7 @@ title:
 - content: IANATn3270eTC-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianatn3270etc-mib
+- content: https://www.iana.org/assignments/ianatn3270etc-mib
   type: src
 type: standard
 docid:

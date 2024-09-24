@@ -5,7 +5,7 @@ title:
 - content: EAP-GPSK Failure Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/eap-gpsk-parameters
+- content: https://www.iana.org/assignments/eap-gpsk-parameters
   type: src
 type: standard
 docid:

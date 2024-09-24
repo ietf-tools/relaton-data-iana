@@ -5,7 +5,7 @@ title:
 - content: SMTP PRIORITY extension Priority Assignment Policy
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mail-parameters
+- content: https://www.iana.org/assignments/mail-parameters
   type: src
 type: standard
 docid:

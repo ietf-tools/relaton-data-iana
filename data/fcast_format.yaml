@@ -5,7 +5,7 @@ title:
 - content: FCAST Object Metadata Format
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/fcast
+- content: https://www.iana.org/assignments/fcast
   type: src
 type: standard
 docid:

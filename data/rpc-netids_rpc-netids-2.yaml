@@ -5,7 +5,7 @@ title:
 - content: ONC RPC Netids (Standards Action)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpc-netids
+- content: https://www.iana.org/assignments/rpc-netids
   type: src
 type: standard
 docid:

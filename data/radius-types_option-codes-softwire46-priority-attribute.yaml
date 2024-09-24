@@ -5,7 +5,7 @@ title:
 - content: Option Codes Permitted in the Softwire46-Priority Attribute
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/radius-types
+- content: https://www.iana.org/assignments/radius-types
   type: src
 type: standard
 docid:

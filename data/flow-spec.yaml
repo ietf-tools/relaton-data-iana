@@ -5,7 +5,7 @@ title:
 - content: Flow Spec Component Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/flow-spec
+- content: https://www.iana.org/assignments/flow-spec
   type: src
 type: standard
 docid:

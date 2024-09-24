@@ -5,7 +5,7 @@ title:
 - content: Media Resource Control Protocol Version 2 (MRCPv2) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mrcpv2-parameters
+- content: https://www.iana.org/assignments/mrcpv2-parameters
   type: src
 type: standard
 docid:

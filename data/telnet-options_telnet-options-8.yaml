@@ -5,7 +5,7 @@ title:
 - content: KEA_SJ (Type 12) and KEA_SJ_INTEG (Type 13) Authentication Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/telnet-options
+- content: https://www.iana.org/assignments/telnet-options
   type: src
 type: standard
 docid:

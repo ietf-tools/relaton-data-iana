@@ -5,7 +5,7 @@ title:
 - content: OSPFv3 Options (24 bits)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ospfv3-parameters
+- content: https://www.iana.org/assignments/ospfv3-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Sieve Notification Mechanisms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sieve-notification
+- content: https://www.iana.org/assignments/sieve-notification
   type: src
 type: standard
 docid:

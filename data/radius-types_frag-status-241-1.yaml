@@ -5,7 +5,7 @@ title:
 - content: Code Values for RADIUS Attribute 241.1, Frag-Status
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/radius-types
+- content: https://www.iana.org/assignments/radius-types
   type: src
 type: standard
 docid:

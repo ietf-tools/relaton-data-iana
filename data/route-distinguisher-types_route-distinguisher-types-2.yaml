@@ -5,7 +5,7 @@ title:
 - content: Route Distinguisher Type Field
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/route-distinguisher-types
+- content: https://www.iana.org/assignments/route-distinguisher-types
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Extended Special-Purpose MPLS Label Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mpls-label-values
+- content: https://www.iana.org/assignments/mpls-label-values
   type: src
 type: standard
 docid:

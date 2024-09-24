@@ -5,7 +5,7 @@ title:
 - content: PATH-KEY Subobjects
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pcep
+- content: https://www.iana.org/assignments/pcep
   type: src
 type: standard
 docid:

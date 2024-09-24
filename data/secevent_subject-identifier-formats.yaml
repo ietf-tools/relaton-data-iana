@@ -5,7 +5,7 @@ title:
 - content: Subject Identifier Formats
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/secevent
+- content: https://www.iana.org/assignments/secevent
   type: src
 type: standard
 docid:

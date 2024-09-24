@@ -5,7 +5,7 @@ title:
 - content: RPC Program Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpc-program-numbers
+- content: https://www.iana.org/assignments/rpc-program-numbers
   type: src
 type: standard
 docid:

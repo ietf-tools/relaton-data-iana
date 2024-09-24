@@ -5,7 +5,7 @@ title:
 - content: CGA Extension Type Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cga-message-types
+- content: https://www.iana.org/assignments/cga-message-types
   type: src
 type: standard
 docid:

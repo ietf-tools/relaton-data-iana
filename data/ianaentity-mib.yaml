@@ -5,7 +5,7 @@ title:
 - content: IANA-ENTITY-MIB
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ianaentity-mib
+- content: https://www.iana.org/assignments/ianaentity-mib
   type: src
 type: standard
 docid:

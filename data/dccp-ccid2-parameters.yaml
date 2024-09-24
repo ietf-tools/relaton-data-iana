@@ -6,7 +6,7 @@ title:
     ID 2: TCP-like Congestion Control Parameters'
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dccp-ccid2-parameters
+- content: https://www.iana.org/assignments/dccp-ccid2-parameters
   type: src
 type: standard
 docid:

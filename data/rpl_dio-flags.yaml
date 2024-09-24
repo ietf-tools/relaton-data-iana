@@ -5,7 +5,7 @@ title:
 - content: DODAG Information Object (DIO) Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rpl
+- content: https://www.iana.org/assignments/rpl
   type: src
 type: standard
 docid:

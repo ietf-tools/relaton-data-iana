@@ -5,7 +5,7 @@ title:
 - content: IS-IS SRv6 Adjacency SID Sub-TLVs Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/isis-tlv-codepoints
+- content: https://www.iana.org/assignments/isis-tlv-codepoints
   type: src
 type: standard
 docid:

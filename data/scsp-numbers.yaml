@@ -5,7 +5,7 @@ title:
 - content: Server Cache Synchronization Protocol (SCSP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/scsp-numbers
+- content: https://www.iana.org/assignments/scsp-numbers
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: IPv6 Over the TSCH Mode of IEEE 802.15.4 (6TiSCH)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/_6tisch
+- content: https://www.iana.org/assignments/_6tisch
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: FLUTE - File Delivery over Unidirectional Transport (FLUTE) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/flute-parameters
+- content: https://www.iana.org/assignments/flute-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Multiprotocol Label Switching Architecture (MPLS) Identifier Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mpls-id-type
+- content: https://www.iana.org/assignments/mpls-id-type
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: HOBA Device Identifier Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/hoba-device-identifiers
+- content: https://www.iana.org/assignments/hoba-device-identifiers
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Novell Object Type
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/novell-sap-numbers
+- content: https://www.iana.org/assignments/novell-sap-numbers
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Post Office Protocol version 3 (POP3) Extension Mechanism
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pop3-extension-mechanism
+- content: https://www.iana.org/assignments/pop3-extension-mechanism
   type: src
 type: standard
 docid:

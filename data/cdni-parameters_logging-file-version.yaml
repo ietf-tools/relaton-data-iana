@@ -5,7 +5,7 @@ title:
 - content: CDNI Logging File version
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cdni-parameters
+- content: https://www.iana.org/assignments/cdni-parameters
   type: src
 type: standard
 docid:

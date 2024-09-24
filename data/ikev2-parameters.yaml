@@ -5,7 +5,7 @@ title:
 - content: Internet Key Exchange Version 2 (IKEv2) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ikev2-parameters
+- content: https://www.iana.org/assignments/ikev2-parameters
   type: src
 type: standard
 docid:

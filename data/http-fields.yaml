@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Field Name Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-fields
+- content: https://www.iana.org/assignments/http-fields
   type: src
 type: standard
 docid:

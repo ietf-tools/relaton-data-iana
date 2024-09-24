@@ -5,7 +5,7 @@ title:
 - content: IPv4 Multicast Address Space Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/multicast-addresses
+- content: https://www.iana.org/assignments/multicast-addresses
   type: src
 type: standard
 docid:

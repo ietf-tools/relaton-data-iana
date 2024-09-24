@@ -5,7 +5,7 @@ title:
 - content: COSE Key Common Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cose
+- content: https://www.iana.org/assignments/cose
   type: src
 type: standard
 docid:

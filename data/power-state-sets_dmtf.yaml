@@ -5,7 +5,7 @@ title:
 - content: DMTF Power State Set
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/power-state-sets
+- content: https://www.iana.org/assignments/power-state-sets
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Subsequent Address Family Identifiers (SAFI) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/safi-namespace
+- content: https://www.iana.org/assignments/safi-namespace
   type: src
 type: standard
 docid:

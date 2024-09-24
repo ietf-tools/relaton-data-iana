@@ -5,7 +5,7 @@ title:
 - content: Service Location Protocol, Version 2 (SLPv2) Error Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/svrloc-error-numbers
+- content: https://www.iana.org/assignments/svrloc-error-numbers
   type: src
 type: standard
 docid:

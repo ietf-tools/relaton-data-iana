@@ -5,7 +5,7 @@ title:
 - content: Cryptographic Suites for IKEv1, IKEv2, and IPsec
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/crypto-suites
+- content: https://www.iana.org/assignments/crypto-suites
   type: src
 type: standard
 docid:

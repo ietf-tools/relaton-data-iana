@@ -5,7 +5,7 @@ title:
 - content: XML Evidence Record Syntax (XMLERS)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xmlers
+- content: https://www.iana.org/assignments/xmlers
   type: src
 type: standard
 docid:

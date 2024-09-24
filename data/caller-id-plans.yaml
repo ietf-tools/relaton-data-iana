@@ -5,7 +5,7 @@ title:
 - content: Caller-ID Numbering Plans
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/caller-id-plans
+- content: https://www.iana.org/assignments/caller-id-plans
   type: src
 type: standard
 docid:

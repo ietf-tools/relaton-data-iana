@@ -5,7 +5,7 @@ title:
 - content: Network Time Security Next Protocols
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/nts
+- content: https://www.iana.org/assignments/nts
   type: src
 type: standard
 docid:

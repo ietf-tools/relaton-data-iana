@@ -5,7 +5,7 @@ title:
 - content: Trailer Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/trailer-types
+- content: https://www.iana.org/assignments/trailer-types
   type: src
 type: standard
 docid:

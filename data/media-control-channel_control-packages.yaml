@@ -5,7 +5,7 @@ title:
 - content: Control Packages
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-control-channel
+- content: https://www.iana.org/assignments/media-control-channel
   type: src
 type: standard
 docid:

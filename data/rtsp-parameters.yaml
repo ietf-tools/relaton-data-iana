@@ -5,7 +5,7 @@ title:
 - content: Real Time Streaming Protocol (RTSP)/1.0 Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtsp-parameters
+- content: https://www.iana.org/assignments/rtsp-parameters
   type: src
 type: standard
 docid:

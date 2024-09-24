@@ -5,7 +5,7 @@ title:
 - content: TCP Header Flags
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tcp-header-flags
+- content: https://www.iana.org/assignments/tcp-header-flags
   type: src
 type: standard
 docid:

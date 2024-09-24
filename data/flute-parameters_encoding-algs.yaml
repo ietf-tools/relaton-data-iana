@@ -5,7 +5,7 @@ title:
 - content: FLUTE Content Encoding Algorithms
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/flute-parameters
+- content: https://www.iana.org/assignments/flute-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Message Disposition Notification (MDN) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mdn
+- content: https://www.iana.org/assignments/mdn
   type: src
 type: standard
 docid:

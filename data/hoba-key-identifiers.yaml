@@ -5,7 +5,7 @@ title:
 - content: HTTP Origin-Bound Authentication (HOBA) Key Identifier Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/hoba-key-identifiers
+- content: https://www.iana.org/assignments/hoba-key-identifiers
   type: src
 type: standard
 docid:

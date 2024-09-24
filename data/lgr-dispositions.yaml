@@ -5,7 +5,7 @@ title:
 - content: Label Generation Ruleset (LGR) Dispositions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/lgr-dispositions
+- content: https://www.iana.org/assignments/lgr-dispositions
   type: src
 type: standard
 docid:

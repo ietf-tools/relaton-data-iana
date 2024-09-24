@@ -5,7 +5,7 @@ title:
 - content: DNS KEY RR Protocol Octet Values
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dns-key-rr
+- content: https://www.iana.org/assignments/dns-key-rr
   type: src
 type: standard
 docid:

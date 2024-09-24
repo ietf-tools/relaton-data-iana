@@ -5,7 +5,7 @@ title:
 - content: Captive Portal API Keys
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/captive-portals
+- content: https://www.iana.org/assignments/captive-portals
   type: src
 type: standard
 docid:

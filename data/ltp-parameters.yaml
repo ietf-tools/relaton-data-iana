@@ -5,7 +5,7 @@ title:
 - content: Licklider Transmission Protocol (LTP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/ltp-parameters
+- content: https://www.iana.org/assignments/ltp-parameters
   type: src
 type: standard
 docid:

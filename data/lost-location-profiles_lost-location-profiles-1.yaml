@@ -5,7 +5,7 @@ title:
 - content: LoST Location Profiles
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/lost-location-profiles
+- content: https://www.iana.org/assignments/lost-location-profiles
   type: src
 type: standard
 docid:

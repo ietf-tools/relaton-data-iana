@@ -5,7 +5,7 @@ title:
 - content: BEEP Features
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/beep-parameters
+- content: https://www.iana.org/assignments/beep-parameters
   type: src
 type: standard
 docid:

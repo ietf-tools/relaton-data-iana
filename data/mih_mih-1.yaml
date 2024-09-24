@@ -5,7 +5,7 @@ title:
 - content: MIH Table of Mappings From Service Field Values to Transport Protocols
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/mih
+- content: https://www.iana.org/assignments/mih
   type: src
 type: standard
 docid:

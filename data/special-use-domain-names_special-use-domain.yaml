@@ -5,7 +5,7 @@ title:
 - content: Special-Use Domain Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/special-use-domain-names
+- content: https://www.iana.org/assignments/special-use-domain-names
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: TLV Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/forces
+- content: https://www.iana.org/assignments/forces
   type: src
 type: standard
 docid:

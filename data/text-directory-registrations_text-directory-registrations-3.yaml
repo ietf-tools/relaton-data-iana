@@ -5,7 +5,7 @@ title:
 - content: text/directory Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/text-directory-registrations
+- content: https://www.iana.org/assignments/text-directory-registrations
   type: src
 type: standard
 docid:

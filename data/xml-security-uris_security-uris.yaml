@@ -5,7 +5,7 @@ title:
 - content: XML Security URIs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/xml-security-uris
+- content: https://www.iana.org/assignments/xml-security-uris
   type: src
 type: standard
 docid:

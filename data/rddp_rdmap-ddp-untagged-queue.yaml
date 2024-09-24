@@ -5,7 +5,7 @@ title:
 - content: RDMAP DDP Untagged Queue Numbers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rddp
+- content: https://www.iana.org/assignments/rddp
   type: src
 type: standard
 docid:

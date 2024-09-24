@@ -5,7 +5,7 @@ title:
 - content: YANG Geographic Location Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/yang-geographic-location
+- content: https://www.iana.org/assignments/yang-geographic-location
   type: src
 type: standard
 docid:

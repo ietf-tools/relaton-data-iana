@@ -5,7 +5,7 @@ title:
 - content: Parameter Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/hip-parameters
+- content: https://www.iana.org/assignments/hip-parameters
   type: src
 type: standard
 docid:

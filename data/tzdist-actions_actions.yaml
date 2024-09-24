@@ -5,7 +5,7 @@ title:
 - content: TZDIST Service Actions
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/tzdist-actions
+- content: https://www.iana.org/assignments/tzdist-actions
   type: src
 type: standard
 docid:

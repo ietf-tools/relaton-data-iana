@@ -5,7 +5,7 @@ title:
 - content: Directory System Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/directory-system-names
+- content: https://www.iana.org/assignments/directory-system-names
   type: src
 type: standard
 docid:

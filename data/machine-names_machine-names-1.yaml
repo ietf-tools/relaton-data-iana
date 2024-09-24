@@ -5,7 +5,7 @@ title:
 - content: Machine Names
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/machine-names
+- content: https://www.iana.org/assignments/machine-names
   type: src
 type: standard
 docid:

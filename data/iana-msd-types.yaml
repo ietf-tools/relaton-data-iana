@@ -5,7 +5,7 @@ title:
 - content: iana-msd-types YANG Module
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/iana-msd-types
+- content: https://www.iana.org/assignments/iana-msd-types
   type: src
 type: standard
 docid:

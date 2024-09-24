@@ -5,7 +5,7 @@ title:
 - content: Portable Symmetric Key Container (PSKC)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/pskc
+- content: https://www.iana.org/assignments/pskc
   type: src
 type: standard
 docid:

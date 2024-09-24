@@ -5,7 +5,7 @@ title:
 - content: Message Types - Routing Key Management (RKM) Messages (Value 9)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/sigtran-adapt
+- content: https://www.iana.org/assignments/sigtran-adapt
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: vCard Value Data Types
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/vcard-elements
+- content: https://www.iana.org/assignments/vcard-elements
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Ethernet Sub-TLVs Sub-Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rsvp-te-oam
+- content: https://www.iana.org/assignments/rsvp-te-oam
   type: src
 type: standard
 docid:

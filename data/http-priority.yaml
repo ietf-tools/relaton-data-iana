@@ -5,7 +5,7 @@ title:
 - content: Hypertext Transfer Protocol (HTTP) Priority
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/http-priority
+- content: https://www.iana.org/assignments/http-priority
   type: src
 type: standard
 docid:

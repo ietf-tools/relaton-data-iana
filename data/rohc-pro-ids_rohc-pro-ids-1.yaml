@@ -5,7 +5,7 @@ title:
 - content: Profile Identifiers
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rohc-pro-ids
+- content: https://www.iana.org/assignments/rohc-pro-ids
   type: src
 type: standard
 docid:

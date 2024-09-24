@@ -5,7 +5,7 @@ title:
 - content: Common Name Resolution Protocol (CNRP) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/cnrp-parameters
+- content: https://www.iana.org/assignments/cnrp-parameters
   type: src
 type: standard
 docid:

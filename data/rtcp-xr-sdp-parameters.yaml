@@ -6,7 +6,7 @@ title:
     (SDP) Parameters Registry
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/rtcp-xr-sdp-parameters
+- content: https://www.iana.org/assignments/rtcp-xr-sdp-parameters
   type: src
 type: standard
 docid:

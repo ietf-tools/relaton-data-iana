@@ -5,7 +5,7 @@ title:
 - content: Intrusion Detection Exchange Protocol (IDXP) Options
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/idxp-options
+- content: https://www.iana.org/assignments/idxp-options
   type: src
 type: standard
 docid:

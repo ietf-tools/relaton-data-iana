@@ -5,7 +5,7 @@ title:
 - content: Bidirectional Forwarding Detection (BFD) Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/bfd-parameters
+- content: https://www.iana.org/assignments/bfd-parameters
   type: src
 type: standard
 docid:

@@ -5,7 +5,7 @@ title:
 - content: Virtual Network Computing (VNC) Uniform Resource Identifier (URI)
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/vnc-uri
+- content: https://www.iana.org/assignments/vnc-uri
   type: src
 type: standard
 docid:

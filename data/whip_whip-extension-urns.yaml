@@ -5,7 +5,7 @@ title:
 - content: WebRTC-HTTP ingestion protocol (WHIP) Extension URNs
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/whip
+- content: https://www.iana.org/assignments/whip
   type: src
 type: standard
 docid:

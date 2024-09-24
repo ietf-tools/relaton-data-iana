@@ -5,7 +5,7 @@ title:
 - content: Dynamic Source Routing (DSR) Protocol Options
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/dsr-parameters
+- content: https://www.iana.org/assignments/dsr-parameters
   type: src
 type: standard
 docid:

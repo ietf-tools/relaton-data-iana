@@ -5,7 +5,7 @@ title:
 - content: Shim6 Error Codes
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/shim6
+- content: https://www.iana.org/assignments/shim6
   type: src
 type: standard
 docid:

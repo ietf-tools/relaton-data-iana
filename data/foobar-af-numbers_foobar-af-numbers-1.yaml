@@ -5,7 +5,7 @@ title:
 - content: Assigned FOOBAR Address Families
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/foobar-af-numbers
+- content: https://www.iana.org/assignments/foobar-af-numbers
   type: src
 type: standard
 docid:

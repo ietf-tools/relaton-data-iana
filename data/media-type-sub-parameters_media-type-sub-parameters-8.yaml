@@ -5,7 +5,7 @@ title:
 - content: Sub-Parameter Registry for audio/rtp-midi
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-type-sub-parameters
+- content: https://www.iana.org/assignments/media-type-sub-parameters
   type: src
 type: standard
 docid:

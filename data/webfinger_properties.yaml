@@ -5,7 +5,7 @@ title:
 - content: Webfinger Properties
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/webfinger
+- content: https://www.iana.org/assignments/webfinger
   type: src
 type: standard
 docid:

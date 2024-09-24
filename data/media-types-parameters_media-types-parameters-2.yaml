@@ -5,7 +5,7 @@ title:
 - content: X.400 to MIME Table - Basic Body Parts
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/media-types-parameters
+- content: https://www.iana.org/assignments/media-types-parameters
   type: src
 type: standard
 docid:

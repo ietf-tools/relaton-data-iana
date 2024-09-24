@@ -5,7 +5,7 @@ title:
 - content: IPv6 Low Power Personal Area Network Parameters
   format: text/plain
 link:
-- content: http://www.iana.org/assignments/_6lowpan-parameters
+- content: https://www.iana.org/assignments/_6lowpan-parameters
   type: src
 type: standard
 docid:
