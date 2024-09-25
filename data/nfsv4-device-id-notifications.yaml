@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/nfsv4-device-id-notifications
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA nfsv4-device-id-notifications

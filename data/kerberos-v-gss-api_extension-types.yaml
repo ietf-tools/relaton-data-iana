@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/kerberos-v-gss-api
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA kerberos-v-gss-api/extension-types

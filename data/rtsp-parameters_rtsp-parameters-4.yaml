@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rtsp-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rtsp-parameters/rtsp-parameters-4

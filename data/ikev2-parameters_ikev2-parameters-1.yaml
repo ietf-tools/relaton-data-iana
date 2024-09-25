@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ikev2-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ikev2-parameters/ikev2-parameters-1

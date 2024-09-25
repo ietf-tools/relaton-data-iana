@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/sieve-notification
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA sieve-notification/sieve-notification-2

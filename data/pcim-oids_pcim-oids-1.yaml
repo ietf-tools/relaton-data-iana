@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pcim-oids
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pcim-oids/pcim-oids-1

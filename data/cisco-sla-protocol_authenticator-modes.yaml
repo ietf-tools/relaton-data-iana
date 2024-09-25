@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/cisco-sla-protocol
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA cisco-sla-protocol/authenticator-modes

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/urn-serviceid-labels
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA urn-serviceid-labels/urn-serviceid-labels-1

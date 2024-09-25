@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/crypto-suites
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA crypto-suites/crypto-suites-1

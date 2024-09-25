@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/wesp-flags
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA wesp-flags/wesp-flags-2

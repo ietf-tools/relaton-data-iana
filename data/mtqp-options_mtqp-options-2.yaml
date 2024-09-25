@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/mtqp-options
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA mtqp-options/mtqp-options-2

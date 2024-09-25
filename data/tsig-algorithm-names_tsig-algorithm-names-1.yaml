@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/tsig-algorithm-names
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA tsig-algorithm-names/tsig-algorithm-names-1

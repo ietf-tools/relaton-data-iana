@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/auto-submitted-keywords
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA auto-submitted-keywords/auto-submitted-keywords-1

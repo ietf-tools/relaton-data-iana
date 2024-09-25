@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/te-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA te-types/rfc-4973-experimental-te-tlvs

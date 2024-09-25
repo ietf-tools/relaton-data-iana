@@ -7,7 +7,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/srtp-protection
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA srtp-protection

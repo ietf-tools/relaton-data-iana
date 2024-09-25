@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/svrloc-extensions
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA svrloc-extensions/svrloc-extensions-1

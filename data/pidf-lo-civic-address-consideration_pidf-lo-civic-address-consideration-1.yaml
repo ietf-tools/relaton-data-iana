@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pidf-lo-civic-address-consideration
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pidf-lo-civic-address-consideration/pidf-lo-civic-address-consideration-1

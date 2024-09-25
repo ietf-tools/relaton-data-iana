@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/sdp-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA sdp-parameters/rid-attribute

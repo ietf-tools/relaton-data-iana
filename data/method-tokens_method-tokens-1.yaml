@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/method-tokens
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA method-tokens/method-tokens-1

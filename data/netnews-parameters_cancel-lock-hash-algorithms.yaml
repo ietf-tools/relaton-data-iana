@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/netnews-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA netnews-parameters/cancel-lock-hash-algorithms

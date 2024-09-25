@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bgp-data-collection-communities-std
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA bgp-data-collection-communities-std/bgp-data-collection-communities-std-1

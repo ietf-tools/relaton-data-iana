@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rpc-program-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rpc-program-numbers/rpc-program-numbers-data

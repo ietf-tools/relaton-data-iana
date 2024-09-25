@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/s-naptr-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA s-naptr-parameters

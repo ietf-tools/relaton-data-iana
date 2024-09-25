@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/eap-fast-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA eap-fast-parameters/eap-fast-parameters-3

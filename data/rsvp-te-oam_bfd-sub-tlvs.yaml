@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rsvp-te-oam
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rsvp-te-oam/bfd-sub-tlvs

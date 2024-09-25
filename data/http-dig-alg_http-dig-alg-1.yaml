@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/http-dig-alg
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA http-dig-alg/http-dig-alg-1

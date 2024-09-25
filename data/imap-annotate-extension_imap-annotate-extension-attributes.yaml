@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/imap-annotate-extension
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA imap-annotate-extension/imap-annotate-extension-attributes

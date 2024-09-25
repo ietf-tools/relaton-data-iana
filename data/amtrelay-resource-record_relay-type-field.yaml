@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/amtrelay-resource-record
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA amtrelay-resource-record/relay-type-field

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/segment-routing
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA segment-routing

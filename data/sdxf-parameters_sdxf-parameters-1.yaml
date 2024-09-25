@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/sdxf-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA sdxf-parameters/sdxf-parameters-1

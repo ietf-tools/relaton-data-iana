@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/service-function-chaining-service-function-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA service-function-chaining-service-function-types/service-function-chaining-service-function-types-2

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dsn-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dsn-types/dsn-types-1

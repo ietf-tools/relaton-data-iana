@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dkim-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dkim-parameters/dkim-parameters-6

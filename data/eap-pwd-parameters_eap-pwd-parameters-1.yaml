@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/eap-pwd-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA eap-pwd-parameters/eap-pwd-parameters-1

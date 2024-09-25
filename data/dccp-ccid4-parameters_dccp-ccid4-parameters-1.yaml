@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dccp-ccid4-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dccp-ccid4-parameters/dccp-ccid4-parameters-1

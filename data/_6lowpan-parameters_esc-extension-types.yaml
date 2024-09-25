@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/_6lowpan-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA _6lowpan-parameters/esc-extension-types

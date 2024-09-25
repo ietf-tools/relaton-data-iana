@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/emergency-call-metadata-control-data
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA emergency-call-metadata-control-data/emergency-call-vehicle-camera-id

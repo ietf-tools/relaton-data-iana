@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/manet-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA manet-parameters/validity-time-message-type-extension

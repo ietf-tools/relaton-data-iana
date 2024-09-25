@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ldap-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ldap-parameters/ldap-parameters-10

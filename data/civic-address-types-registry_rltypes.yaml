@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/civic-address-types-registry
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA civic-address-types-registry/rltypes

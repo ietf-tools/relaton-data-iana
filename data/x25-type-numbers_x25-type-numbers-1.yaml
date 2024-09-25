@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/x25-type-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA x25-type-numbers/x25-type-numbers-1

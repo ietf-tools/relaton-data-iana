@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/sun-rpc-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA sun-rpc-numbers/sun-rpc-numbers-1

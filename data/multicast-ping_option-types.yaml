@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/multicast-ping
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA multicast-ping/option-types

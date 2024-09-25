@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pwe3-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pwe3-parameters/gach-application

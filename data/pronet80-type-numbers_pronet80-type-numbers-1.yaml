@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pronet80-type-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pronet80-type-numbers/pronet80-type-numbers-1

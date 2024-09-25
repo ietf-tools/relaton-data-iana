@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/iana-tls-cipher-suite-algs
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA iana-tls-cipher-suite-algs

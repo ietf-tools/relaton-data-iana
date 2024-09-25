@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ethernet-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ethernet-numbers/ethernet-numbers-6

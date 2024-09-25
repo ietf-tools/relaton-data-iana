@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/geo-uri-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA geo-uri-parameters/geo-uri-parameters-2

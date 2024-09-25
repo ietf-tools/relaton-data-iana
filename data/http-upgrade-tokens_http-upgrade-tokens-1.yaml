@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/http-upgrade-tokens
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA http-upgrade-tokens/http-upgrade-tokens-1

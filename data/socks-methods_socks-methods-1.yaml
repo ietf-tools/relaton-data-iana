@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/socks-methods
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA socks-methods/socks-methods-1

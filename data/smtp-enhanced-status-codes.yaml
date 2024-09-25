@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/smtp-enhanced-status-codes
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA smtp-enhanced-status-codes

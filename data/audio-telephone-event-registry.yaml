@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/audio-telephone-event-registry
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA audio-telephone-event-registry

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/mpls-multi-topology-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA mpls-multi-topology-parameters

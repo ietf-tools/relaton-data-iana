@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/uaddr-formats
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA uaddr-formats/uaddr-formats-1

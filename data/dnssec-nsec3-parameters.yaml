@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dnssec-nsec3-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dnssec-nsec3-parameters

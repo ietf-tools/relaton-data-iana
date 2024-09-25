@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/svrloc-error-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA svrloc-error-numbers/svrloc-error-numbers-1

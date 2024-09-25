@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/l2tp-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA l2tp-parameters/l2tp-parameters-18

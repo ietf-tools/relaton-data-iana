@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rdap-reverse-search-mapping
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rdap-reverse-search-mapping/rdap-reverse-search-mapping

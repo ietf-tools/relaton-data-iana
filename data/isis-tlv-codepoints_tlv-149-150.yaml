@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/isis-tlv-codepoints
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA isis-tlv-codepoints/tlv-149-150

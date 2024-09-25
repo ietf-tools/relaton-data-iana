@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/http-status-codes
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA http-status-codes/http-status-codes-1

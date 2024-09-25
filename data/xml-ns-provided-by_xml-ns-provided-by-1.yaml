@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/xml-ns-provided-by
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA xml-ns-provided-by/xml-ns-provided-by-1

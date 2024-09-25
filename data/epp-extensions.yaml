@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/epp-extensions
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA epp-extensions

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/media-type-structured-suffix
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA media-type-structured-suffix/structured-syntax-suffix

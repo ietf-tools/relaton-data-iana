@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/cbor-tags
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA cbor-tags/time-tag-map-keys

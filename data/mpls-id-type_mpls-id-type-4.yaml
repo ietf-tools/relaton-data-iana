@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/mpls-id-type
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA mpls-id-type/mpls-id-type-4

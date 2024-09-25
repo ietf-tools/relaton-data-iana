@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dns-sec-alg-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dns-sec-alg-numbers/prime-lengths

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pcep
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pcep/sched-pd-lsp-attribute-tlv-opt-field

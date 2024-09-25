@@ -8,7 +8,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ipv4-recovered-address-space
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ipv4-recovered-address-space/ipv4-recovered-address-space-2

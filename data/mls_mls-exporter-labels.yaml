@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/mls
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA mls/mls-exporter-labels

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rfb
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rfb/rfb-4

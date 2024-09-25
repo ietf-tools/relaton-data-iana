@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/idna-tables-5.2.0
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA idna-tables-5.2.0/idna-tables-5.2.0-properties

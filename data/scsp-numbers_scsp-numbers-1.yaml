@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/scsp-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA scsp-numbers/scsp-numbers-1

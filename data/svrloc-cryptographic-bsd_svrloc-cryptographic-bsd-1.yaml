@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/svrloc-cryptographic-bsd
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA svrloc-cryptographic-bsd/svrloc-cryptographic-bsd-1

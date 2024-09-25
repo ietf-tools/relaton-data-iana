@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/iodef2
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA iodef2/domaindata-system-status

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/service-codes
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA service-codes/service-codes-1

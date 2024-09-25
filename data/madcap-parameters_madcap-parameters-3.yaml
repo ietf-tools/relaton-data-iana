@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/madcap-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA madcap-parameters/madcap-parameters-3

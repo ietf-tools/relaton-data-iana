@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/authentication-method-reference-values
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA authentication-method-reference-values/amr-values

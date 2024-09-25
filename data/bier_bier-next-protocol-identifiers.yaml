@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bier
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA bier/bier-next-protocol-identifiers

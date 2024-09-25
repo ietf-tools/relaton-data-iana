@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pres-srv-labels
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pres-srv-labels/pres-srv-labels-1

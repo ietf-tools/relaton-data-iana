@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/gsakmp-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA gsakmp-parameters/gsakmp-parameters-16

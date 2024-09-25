@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rip-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rip-types

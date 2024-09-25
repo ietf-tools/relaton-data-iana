@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/lgr-dispositions
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA lgr-dispositions/private-dispositions

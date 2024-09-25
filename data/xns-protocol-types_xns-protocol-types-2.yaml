@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/xns-protocol-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA xns-protocol-types/xns-protocol-types-2

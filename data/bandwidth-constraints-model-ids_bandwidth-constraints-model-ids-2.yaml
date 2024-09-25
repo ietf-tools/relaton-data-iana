@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bandwidth-constraints-model-ids
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA bandwidth-constraints-model-ids/bandwidth-constraints-model-ids-2

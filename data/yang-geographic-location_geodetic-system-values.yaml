@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/yang-geographic-location
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA yang-geographic-location/geodetic-system-values

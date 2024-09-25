@@ -7,7 +7,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/g-ach-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA g-ach-parameters/mpls-g-ach-types

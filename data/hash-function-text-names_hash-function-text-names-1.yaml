@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/hash-function-text-names
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA hash-function-text-names/hash-function-text-names-1

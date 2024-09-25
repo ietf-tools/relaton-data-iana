@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/caller-id-plans
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA caller-id-plans/caller-id-plans-1

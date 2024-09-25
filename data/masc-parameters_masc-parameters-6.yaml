@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/masc-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA masc-parameters/masc-parameters-6

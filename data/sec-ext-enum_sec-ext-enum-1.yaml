@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/sec-ext-enum
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA sec-ext-enum/sec-ext-enum-1

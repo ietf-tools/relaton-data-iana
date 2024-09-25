@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ds-rr-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ds-rr-types/ds-rr-types-1

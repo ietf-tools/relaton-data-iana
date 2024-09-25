@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/iana-ipv4-special-registry
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA iana-ipv4-special-registry/iana-ipv4-special-registry-1

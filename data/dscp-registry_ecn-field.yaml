@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dscp-registry
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dscp-registry/ecn-field

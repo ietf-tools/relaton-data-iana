@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/aaa-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA aaa-parameters/aaa-parameters-1

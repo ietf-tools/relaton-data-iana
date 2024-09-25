@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/performance-metrics
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA performance-metrics/performance-metrics-registry

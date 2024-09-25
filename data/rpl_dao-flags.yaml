@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rpl
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rpl/dao-flags

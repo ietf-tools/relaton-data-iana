@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/power-state-sets
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA power-state-sets/dmtf

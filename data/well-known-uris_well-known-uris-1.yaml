@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/well-known-uris
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA well-known-uris/well-known-uris-1

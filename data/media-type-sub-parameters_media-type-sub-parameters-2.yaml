@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/media-type-sub-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA media-type-sub-parameters/media-type-sub-parameters-2

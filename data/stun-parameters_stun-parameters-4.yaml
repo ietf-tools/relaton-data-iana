@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/stun-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA stun-parameters/stun-parameters-4

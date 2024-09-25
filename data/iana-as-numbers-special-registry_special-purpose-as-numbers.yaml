@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/iana-as-numbers-special-registry
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA iana-as-numbers-special-registry/special-purpose-as-numbers

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ntp-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ntp-parameters/ntp-parameters-2

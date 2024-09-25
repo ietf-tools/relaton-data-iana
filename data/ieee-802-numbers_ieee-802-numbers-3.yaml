@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/ieee-802-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA ieee-802-numbers/ieee-802-numbers-3

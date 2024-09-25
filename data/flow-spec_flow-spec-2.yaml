@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/flow-spec
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA flow-spec/flow-spec-2

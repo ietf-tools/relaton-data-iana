@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/opus-channel-mapping-families
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA opus-channel-mapping-families

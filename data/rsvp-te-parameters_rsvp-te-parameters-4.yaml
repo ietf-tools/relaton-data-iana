@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rsvp-te-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rsvp-te-parameters/rsvp-te-parameters-4

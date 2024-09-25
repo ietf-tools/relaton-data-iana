@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/gssapi-service-names
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA gssapi-service-names/gssapi-service-names-1

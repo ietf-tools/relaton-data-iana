@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/comp-meth-ids
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA comp-meth-ids/comp-meth-ids-2

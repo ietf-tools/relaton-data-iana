@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/stamp-tlv-types
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA stamp-tlv-types/stamp-synchronization-sources

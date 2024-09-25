@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pana-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pana-parameters/pana-parameters-2

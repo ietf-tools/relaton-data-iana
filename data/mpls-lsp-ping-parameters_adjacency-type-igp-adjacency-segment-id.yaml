@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA mpls-lsp-ping-parameters/adjacency-type-igp-adjacency-segment-id

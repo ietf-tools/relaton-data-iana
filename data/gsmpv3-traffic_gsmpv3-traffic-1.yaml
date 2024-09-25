@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/gsmpv3-traffic
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA gsmpv3-traffic/gsmpv3-traffic-1

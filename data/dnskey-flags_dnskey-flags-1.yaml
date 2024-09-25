@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dnskey-flags
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA dnskey-flags/dnskey-flags-1

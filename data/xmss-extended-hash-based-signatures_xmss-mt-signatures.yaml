@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/xmss-extended-hash-based-signatures
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA xmss-extended-hash-based-signatures/xmss-mt-signatures

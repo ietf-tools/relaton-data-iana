@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/eap-ikev2-payloads
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA eap-ikev2-payloads/eap-ikev2-payloads-1

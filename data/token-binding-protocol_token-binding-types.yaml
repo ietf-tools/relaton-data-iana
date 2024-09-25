@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/token-binding-protocol
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA token-binding-protocol/token-binding-types

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bpf-instructions
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA bpf-instructions/bpf-instruction-conformance-groups

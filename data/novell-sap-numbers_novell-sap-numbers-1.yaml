@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/novell-sap-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA novell-sap-numbers/novell-sap-numbers-1

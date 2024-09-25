@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/language-subtag-registry
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA language-subtag-registry/language-subtag-registry-1

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/milnet-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA milnet-parameters/milnet-parameters-3

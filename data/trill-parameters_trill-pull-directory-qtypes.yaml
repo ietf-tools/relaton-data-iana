@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/trill-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA trill-parameters/trill-pull-directory-qtypes

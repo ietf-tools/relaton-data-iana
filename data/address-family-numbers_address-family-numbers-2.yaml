@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/address-family-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA address-family-numbers/address-family-numbers-2

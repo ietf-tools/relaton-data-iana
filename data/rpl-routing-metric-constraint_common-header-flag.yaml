@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rpl-routing-metric-constraint
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rpl-routing-metric-constraint/common-header-flag

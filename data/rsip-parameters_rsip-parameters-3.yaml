@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rsip-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rsip-parameters/rsip-parameters-3

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/brski-parameters
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA brski-parameters/brski-well-known-uris

@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pop3-extension-mechanism
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA pop3-extension-mechanism

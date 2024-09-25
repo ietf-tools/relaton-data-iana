@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/jose
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA jose/web-key-operations

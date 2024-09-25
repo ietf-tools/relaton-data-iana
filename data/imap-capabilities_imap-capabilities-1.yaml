@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/imap-capabilities
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA imap-capabilities/imap-capabilities-1

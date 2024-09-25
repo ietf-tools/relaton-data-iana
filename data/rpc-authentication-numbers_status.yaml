@@ -6,7 +6,7 @@ title:
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rpc-authentication-numbers
-  type: src
+  type: self
 type: standard
 docid:
 - id: IANA rpc-authentication-numbers/status
