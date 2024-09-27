@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAmatroska
+id: IANAmatroska-matroska-horizontal-chroma-sitings
 title:
-- content: Matroska
+- content: Matroska Horizontal Chroma Sitings
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/matroska
   type: self
 type: standard
 docid:
-- id: IANA matroska
+- id: IANA matroska/matroska-horizontal-chroma-sitings
   type: IANA
   primary: true
-docnumber: matroska
+docnumber: matroska/matroska-horizontal-chroma-sitings
 date:
 - type: created
   value: '2023-10-27'

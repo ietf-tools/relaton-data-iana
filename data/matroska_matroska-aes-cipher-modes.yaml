@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAmatroska
+id: IANAmatroska-matroska-aes-cipher-modes
 title:
-- content: Matroska
+- content: Matroska AES Cipher Modes
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/matroska
   type: self
 type: standard
 docid:
-- id: IANA matroska
+- id: IANA matroska/matroska-aes-cipher-modes
   type: IANA
   primary: true
-docnumber: matroska
+docnumber: matroska/matroska-aes-cipher-modes
 date:
 - type: created
   value: '2023-10-27'

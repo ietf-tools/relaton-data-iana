@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAmatroska
+id: IANAmatroska-matroska-display-units
 title:
-- content: Matroska
+- content: Matroska Display Units
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/matroska
   type: self
 type: standard
 docid:
-- id: IANA matroska
+- id: IANA matroska/matroska-display-units
   type: IANA
   primary: true
-docnumber: matroska
+docnumber: matroska/matroska-display-units
 date:
 - type: created
   value: '2023-10-27'

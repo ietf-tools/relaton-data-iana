@@ -6625,3 +6625,33 @@
   :file: data/acl-tls_acl-dtls-version-codes.yaml
 - :id: acl-tls/acl-dtls-parameters
   :file: data/acl-tls_acl-dtls-parameters.yaml
+- :id: matroska/matroska-compression-algorithms
+  :file: data/matroska_matroska-compression-algorithms.yaml
+- :id: matroska/matroska-encryption-algorithms
+  :file: data/matroska_matroska-encryption-algorithms.yaml
+- :id: matroska/matroska-aes-cipher-modes
+  :file: data/matroska_matroska-aes-cipher-modes.yaml
+- :id: matroska/matroska-content-encoding-scopes
+  :file: data/matroska_matroska-content-encoding-scopes.yaml
+- :id: matroska/matroska-content-encoding-types
+  :file: data/matroska_matroska-content-encoding-types.yaml
+- :id: matroska/matroska-stereo-modes
+  :file: data/matroska_matroska-stereo-modes.yaml
+- :id: matroska/matroska-alpha-modes
+  :file: data/matroska_matroska-alpha-modes.yaml
+- :id: matroska/matroska-display-units
+  :file: data/matroska_matroska-display-units.yaml
+- :id: matroska/matroska-horizontal-chroma-sitings
+  :file: data/matroska_matroska-horizontal-chroma-sitings.yaml
+- :id: matroska/matroska-vertical-chroma-sitings
+  :file: data/matroska_matroska-vertical-chroma-sitings.yaml
+- :id: matroska/matroska-color-ranges
+  :file: data/matroska_matroska-color-ranges.yaml
+- :id: matroska/matroska-tags-target-types
+  :file: data/matroska_matroska-tags-target-types.yaml
+- :id: matroska/matroska-projection-types
+  :file: data/matroska_matroska-projection-types.yaml
+- :id: matroska/matroska-track-types
+  :file: data/matroska_matroska-track-types.yaml
+- :id: matroska/matroska-track-plane-types
+  :file: data/matroska_matroska-track-plane-types.yaml
