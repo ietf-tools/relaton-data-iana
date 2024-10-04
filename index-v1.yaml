@@ -6655,3 +6655,7 @@
   :file: data/matroska_matroska-track-types.yaml
 - :id: matroska/matroska-track-plane-types
   :file: data/matroska_matroska-track-plane-types.yaml
+- :id: bmp-parameters/initiation-information-tlvs
+  :file: data/bmp-parameters_initiation-information-tlvs.yaml
+- :id: bmp-parameters/peer-up-message-tlvs
+  :file: data/bmp-parameters_peer-up-message-tlvs.yaml

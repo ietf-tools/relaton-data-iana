@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.9
-id: IANAbmp-parameters-initiation-peer-up-tlvs
+id: IANAbmp-parameters-peer-up-message-tlvs
 title:
-- content: BMP Initiation and Peer Up Information TLVs
+- content: BMP Peer Up Message TLVs
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bmp-parameters
   type: self
 type: standard
 docid:
-- id: IANA bmp-parameters/initiation-peer-up-tlvs
+- id: IANA bmp-parameters/peer-up-message-tlvs
   type: IANA
   primary: true
-docnumber: bmp-parameters/initiation-peer-up-tlvs
+docnumber: bmp-parameters/peer-up-message-tlvs
 date:
 - type: created
   value: '2016-04-14'
 - type: updated
-  value: '2023-12-20'
+  value: '2024-10-03'
 contributor:
 - organization:
     name:

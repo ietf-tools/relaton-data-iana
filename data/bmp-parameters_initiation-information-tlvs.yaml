@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAjose-web-key-parameters
+id: IANAbmp-parameters-initiation-information-tlvs
 title:
-- content: JSON Web Key Parameters
+- content: BMP Initiation Information TLVs
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/jose
+- content: https://www.iana.org/assignments/bmp-parameters
   type: self
 type: standard
 docid:
-- id: IANA jose/web-key-parameters
+- id: IANA bmp-parameters/initiation-information-tlvs
   type: IANA
   primary: true
-docnumber: jose/web-key-parameters
+docnumber: bmp-parameters/initiation-information-tlvs
 date:
 - type: created
-  value: '2015-01-23'
+  value: '2016-04-14'
 - type: updated
   value: '2024-10-03'
 contributor:
