@@ -6659,3 +6659,5 @@
   :file: data/bmp-parameters_initiation-information-tlvs.yaml
 - :id: bmp-parameters/peer-up-message-tlvs
   :file: data/bmp-parameters_peer-up-message-tlvs.yaml
+- :id: ipfix/ipfix-ipv6extensionheaders-bits
+  :file: data/ipfix_ipfix-ipv6extensionheaders-bits.yaml
