@@ -6661,3 +6661,9 @@
   :file: data/bmp-parameters_peer-up-message-tlvs.yaml
 - :id: ipfix/ipfix-ipv6extensionheaders-bits
   :file: data/ipfix_ipfix-ipv6extensionheaders-bits.yaml
+- :id: uri-schemes/ipn-scheme-uri-allocator-identifiers
+  :file: data/uri-schemes_ipn-scheme-uri-allocator-identifiers.yaml
+- :id: uri-schemes/ipn-scheme-uri-default-allocator-node-numbers
+  :file: data/uri-schemes_ipn-scheme-uri-default-allocator-node-numbers.yaml
+- :id: uri-schemes/ipn-scheme-uri-well-known-service-numbers-for-bpv7
+  :file: data/uri-schemes_ipn-scheme-uri-well-known-service-numbers-for-bpv7.yaml

@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAmedia-types-font
+id: IANAuri-schemes-ipn-scheme-uri-allocator-identifiers
 title:
-- content: font
+- content: "'ipn' Scheme URI Allocator Identifiers"
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/media-types
+- content: https://www.iana.org/assignments/uri-schemes
   type: self
 type: standard
 docid:
-- id: IANA media-types/font
+- id: IANA uri-schemes/ipn-scheme-uri-allocator-identifiers
   type: IANA
   primary: true
-docnumber: media-types/font
+docnumber: uri-schemes/ipn-scheme-uri-allocator-identifiers
 date:
 - type: updated
   value: '2024-10-09'
