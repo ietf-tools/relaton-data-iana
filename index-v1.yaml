@@ -6667,3 +6667,5 @@
   :file: data/uri-schemes_ipn-scheme-uri-default-allocator-node-numbers.yaml
 - :id: uri-schemes/ipn-scheme-uri-well-known-service-numbers-for-bpv7
   :file: data/uri-schemes_ipn-scheme-uri-well-known-service-numbers-for-bpv7.yaml
+- :id: oauth-parameters/protected-resource-metadata
+  :file: data/oauth-parameters_protected-resource-metadata.yaml

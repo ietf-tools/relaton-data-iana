@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAoauth-parameters-token-types
+id: IANAoauth-parameters-protected-resource-metadata
 title:
-- content: OAuth Access Token Types
+- content: OAuth Protected Resource Metadata
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/oauth-parameters
   type: self
 type: standard
 docid:
-- id: IANA oauth-parameters/token-types
+- id: IANA oauth-parameters/protected-resource-metadata
   type: IANA
   primary: true
-docnumber: oauth-parameters/token-types
+docnumber: oauth-parameters/protected-resource-metadata
 date:
 - type: created
   value: '2012-07-27'
