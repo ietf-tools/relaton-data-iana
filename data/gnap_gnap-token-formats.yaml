@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAgnap-gnap-grant-request-parameters
+id: IANAgnap-gnap-token-formats
 title:
-- content: GNAP Grant Request Parameters
+- content: GNAP Token Formats
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/gnap
   type: self
 type: standard
 docid:
-- id: IANA gnap/gnap-grant-request-parameters
+- id: IANA gnap/gnap-token-formats
   type: IANA
   primary: true
-docnumber: gnap/gnap-grant-request-parameters
+docnumber: gnap/gnap-token-formats
 date:
 - type: created
   value: '2024-03-21'

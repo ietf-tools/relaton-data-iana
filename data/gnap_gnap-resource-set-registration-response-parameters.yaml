@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAgnap-gnap-grant-request-parameters
+id: IANAgnap-gnap-resource-set-registration-response-parameters
 title:
-- content: GNAP Grant Request Parameters
+- content: GNAP Resource Set Registration Response Parameters
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/gnap
   type: self
 type: standard
 docid:
-- id: IANA gnap/gnap-grant-request-parameters
+- id: IANA gnap/gnap-resource-set-registration-response-parameters
   type: IANA
   primary: true
-docnumber: gnap/gnap-grant-request-parameters
+docnumber: gnap/gnap-resource-set-registration-response-parameters
 date:
 - type: created
   value: '2024-03-21'
