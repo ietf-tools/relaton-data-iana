@@ -6683,3 +6683,9 @@
   :file: data/gnap_gnap-rs-facing-discovery-document-fields.yaml
 - :id: gnap/gnap-rs-facing-error-codes
   :file: data/gnap_gnap-rs-facing-error-codes.yaml
+- :id: ace/ace-token-revocation-list-parameters
+  :file: data/ace_ace-token-revocation-list-parameters.yaml
+- :id: ace/ace-token-revocation-list-errors
+  :file: data/ace_ace-token-revocation-list-errors.yaml
+- :id: g-ach-parameters/return-path-sub-tlv-type
+  :file: data/g-ach-parameters_return-path-sub-tlv-type.yaml

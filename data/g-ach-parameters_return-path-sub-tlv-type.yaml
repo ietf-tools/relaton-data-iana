@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAg-ach-parameters-gach-tlv
+id: IANAg-ach-parameters-return-path-sub-tlv-type
 title:
-- content: 'G-ACh Advertisement Protocol: GAP TLV Objects (Application ID 0)'
+- content: Return Path Sub-TLV Type
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/g-ach-parameters
   type: self
 type: standard
 docid:
-- id: IANA g-ach-parameters/gach-tlv
+- id: IANA g-ach-parameters/return-path-sub-tlv-type
   type: IANA
   primary: true
-docnumber: g-ach-parameters/gach-tlv
+docnumber: g-ach-parameters/return-path-sub-tlv-type
 date:
 - type: created
   value: '2014-02-07'

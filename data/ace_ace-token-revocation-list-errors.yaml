@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAg-ach-parameters-gach-tlv
+id: IANAace-ace-token-revocation-list-errors
 title:
-- content: 'G-ACh Advertisement Protocol: GAP TLV Objects (Application ID 0)'
+- content: ACE Token Revocation List Errors
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/g-ach-parameters
+- content: https://www.iana.org/assignments/ace
   type: self
 type: standard
 docid:
-- id: IANA g-ach-parameters/gach-tlv
+- id: IANA ace/ace-token-revocation-list-errors
   type: IANA
   primary: true
-docnumber: g-ach-parameters/gach-tlv
+docnumber: ace/ace-token-revocation-list-errors
 date:
 - type: created
-  value: '2014-02-07'
+  value: '2021-07-27'
 - type: updated
   value: '2024-10-25'
 contributor:
