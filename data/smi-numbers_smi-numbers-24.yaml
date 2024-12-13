@@ -15,7 +15,7 @@ docid:
 docnumber: smi-numbers/smi-numbers-24
 date:
 - type: updated
-  value: '2024-12-11'
+  value: '2024-12-12'
 contributor:
 - organization:
     name:
@@ -28,5 +28,3 @@ language:
 - en
 script:
 - Latn
-ext:
-  schema-version: v1.0.0
