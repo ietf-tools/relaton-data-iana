@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAsmi-numbers-smi-numbers-6
+id: IANApost-stack-first-nibble
 title:
-- content: Tunnel Types (tunnelType)
+- content: Post-Stack First Nibble
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/smi-numbers
+- content: https://www.iana.org/assignments/post-stack-first-nibble
   type: self
 type: standard
 docid:
-- id: IANA smi-numbers/smi-numbers-6
+- id: IANA post-stack-first-nibble
   type: IANA
   primary: true
-docnumber: smi-numbers/smi-numbers-6
+docnumber: post-stack-first-nibble
 date:
+- type: created
+  value: '2024-12-16'
 - type: updated
   value: '2024-12-16'
 contributor:
