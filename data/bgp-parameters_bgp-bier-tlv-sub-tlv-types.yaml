@@ -1,21 +1,19 @@
 ---
 schema-version: v1.2.9
-id: IANAbgp-extended-communities
+id: IANAbgp-parameters-bgp-bier-tlv-sub-tlv-types
 title:
-- content: Border Gateway Protocol (BGP) Extended Communities
+- content: BGP BIER TLV and Sub-TLV Types
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/bgp-extended-communities
+- content: https://www.iana.org/assignments/bgp-parameters
   type: self
 type: standard
 docid:
-- id: IANA bgp-extended-communities
+- id: IANA bgp-parameters/bgp-bier-tlv-sub-tlv-types
   type: IANA
   primary: true
-docnumber: bgp-extended-communities
+docnumber: bgp-parameters/bgp-bier-tlv-sub-tlv-types
 date:
-- type: created
-  value: '2005-08-15'
 - type: updated
   value: '2024-12-20'
 contributor:

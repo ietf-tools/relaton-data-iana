@@ -1,21 +1,19 @@
 ---
 schema-version: v1.2.9
-id: IANAbgp-extended-communities
+id: IANAdraft-tags-subtags-language-subtags
 title:
-- content: Border Gateway Protocol (BGP) Extended Communities
+- content: Language Subtag Registry
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/bgp-extended-communities
+- content: https://www.iana.org/assignments/draft-tags-subtags
   type: self
 type: standard
 docid:
-- id: IANA bgp-extended-communities
+- id: IANA draft-tags-subtags/language-subtags
   type: IANA
   primary: true
-docnumber: bgp-extended-communities
+docnumber: draft-tags-subtags/language-subtags
 date:
-- type: created
-  value: '2005-08-15'
 - type: updated
   value: '2024-12-20'
 contributor:

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAlang-tag-apps
 title:
-- content: " Directory of language tag applications - OBSOLETE"
+- content: " Language Tag Registration Form Archive (OBSOLETE)"
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/lang-tag-apps
@@ -15,7 +15,7 @@ docid:
 docnumber: lang-tag-apps
 date:
 - type: updated
-  value: '2006-09-27'
+  value: '2024-12-20'
 contributor:
 - organization:
     name:

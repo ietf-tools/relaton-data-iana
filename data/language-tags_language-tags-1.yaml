@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAlanguage-tags-language-tags-1
 title:
-- content: Language Tags
+- content: Language Tags (OBSOLETE)
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/language-tags
@@ -15,7 +15,7 @@ docid:
 docnumber: language-tags/language-tags-1
 date:
 - type: updated
-  value: '2010-06-17'
+  value: '2024-12-20'
 contributor:
 - organization:
     name:

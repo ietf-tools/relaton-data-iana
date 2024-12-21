@@ -6693,3 +6693,15 @@
   :file: data/post-stack-first-nibble.yaml
 - :id: post-stack-first-nibble/post-stack-first-nibble
   :file: data/post-stack-first-nibble_post-stack-first-nibble.yaml
+- :id: bgp-parameters/bgp-bier-tlv-sub-tlv-types
+  :file: data/bgp-parameters_bgp-bier-tlv-sub-tlv-types.yaml
+- :id: lang-tag-apps/lang-tag-registration-forms
+  :file: data/lang-tag-apps_lang-tag-registration-forms.yaml
+- :id: draft-tags-subtags
+  :file: data/draft-tags-subtags.yaml
+- :id: draft-tags-subtags/language-subtags
+  :file: data/draft-tags-subtags_language-subtags.yaml
+- :id: draft-tags-subtags/language-tag-extensions
+  :file: data/draft-tags-subtags_language-tag-extensions.yaml
+- :id: draft-tags-subtags/language-tags
+  :file: data/draft-tags-subtags_language-tags.yaml

@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAlang-subtags-templates-lang-subtags-templates-1
 title:
-- content: Language Subtag Registry - Registration Templates
+- content: Language Subtag Registration Form Archive
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/lang-subtags-templates
@@ -15,7 +15,7 @@ docid:
 docnumber: lang-subtags-templates/lang-subtags-templates-1
 date:
 - type: updated
-  value: '2024-11-19'
+  value: '2024-12-20'
 contributor:
 - organization:
     name:
