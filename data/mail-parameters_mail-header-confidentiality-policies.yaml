@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAmail-parameters-mail-parameters-9
+id: IANAmail-parameters-mail-header-confidentiality-policies
 title:
-- content: SMTP PRIORITY extension Priority Assignment Policy
+- content: Mail Header Confidentiality Policies
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/mail-parameters
   type: self
 type: standard
 docid:
-- id: IANA mail-parameters/mail-parameters-9
+- id: IANA mail-parameters/mail-header-confidentiality-policies
   type: IANA
   primary: true
-docnumber: mail-parameters/mail-parameters-9
+docnumber: mail-parameters/mail-header-confidentiality-policies
 date:
 - type: updated
   value: '2025-01-13'

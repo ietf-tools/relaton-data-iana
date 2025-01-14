@@ -6705,3 +6705,5 @@
   :file: data/draft-tags-subtags_language-tag-extensions.yaml
 - :id: draft-tags-subtags/language-tags
   :file: data/draft-tags-subtags_language-tags.yaml
+- :id: mail-parameters/mail-header-confidentiality-policies
+  :file: data/mail-parameters_mail-header-confidentiality-policies.yaml
