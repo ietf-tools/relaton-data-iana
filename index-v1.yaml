@@ -6707,3 +6707,7 @@
   :file: data/draft-tags-subtags_language-tags.yaml
 - :id: mail-parameters/mail-header-confidentiality-policies
   :file: data/mail-parameters_mail-header-confidentiality-policies.yaml
+- :id: cdni-parameters/telemetry-source-types
+  :file: data/cdni-parameters_telemetry-source-types.yaml
+- :id: cdni-parameters/capacity-limit-types
+  :file: data/cdni-parameters_capacity-limit-types.yaml

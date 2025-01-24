@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAcdni-parameters-error-codes
+id: IANAcdni-parameters-capacity-limit-types
 title:
-- content: CDNI CI/T Error Codes
+- content: CDNI Capacity Limit Types
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/cdni-parameters
   type: self
 type: standard
 docid:
-- id: IANA cdni-parameters/error-codes
+- id: IANA cdni-parameters/capacity-limit-types
   type: IANA
   primary: true
-docnumber: cdni-parameters/error-codes
+docnumber: cdni-parameters/capacity-limit-types
 date:
 - type: created
   value: '2015-10-22'
