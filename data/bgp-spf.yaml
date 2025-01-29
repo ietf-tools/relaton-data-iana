@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAbgp-parameters-srv6-service-sub-tlv-types
+id: IANAbgp-spf
 title:
-- content: SRv6 Service Sub-TLV Types
+- content: BGP Shortest Path First (BGP SPF)
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/bgp-parameters
+- content: https://www.iana.org/assignments/bgp-spf
   type: self
 type: standard
 docid:
-- id: IANA bgp-parameters/srv6-service-sub-tlv-types
+- id: IANA bgp-spf
   type: IANA
   primary: true
-docnumber: bgp-parameters/srv6-service-sub-tlv-types
+docnumber: bgp-spf
 date:
+- type: created
+  value: '2025-01-28'
 - type: updated
   value: '2025-01-28'
 contributor:

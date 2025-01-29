@@ -6711,3 +6711,11 @@
   :file: data/cdni-parameters_telemetry-source-types.yaml
 - :id: cdni-parameters/capacity-limit-types
   :file: data/cdni-parameters_capacity-limit-types.yaml
+- :id: bgp-spf
+  :file: data/bgp-spf.yaml
+- :id: bgp-spf/bgp-ls-spf-node-nlri-attribute
+  :file: data/bgp-spf_bgp-ls-spf-node-nlri-attribute.yaml
+- :id: bgp-spf/bgp-ls-spf-link-nlri-attribute
+  :file: data/bgp-spf_bgp-ls-spf-link-nlri-attribute.yaml
+- :id: bgp-spf/bgp-ls-spf-prefix-nlri-attribute
+  :file: data/bgp-spf_bgp-ls-spf-prefix-nlri-attribute.yaml
