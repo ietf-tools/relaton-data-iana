@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAmedia-types-font
+id: IANAcoap-eap
 title:
-- content: font
+- content: CoAP-EAP Protocol
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/media-types
+- content: https://www.iana.org/assignments/coap-eap
   type: self
 type: standard
 docid:
-- id: IANA media-types/font
+- id: IANA coap-eap
   type: IANA
   primary: true
-docnumber: media-types/font
+docnumber: coap-eap
 date:
+- type: created
+  value: '2025-02-14'
 - type: updated
   value: '2025-02-14'
 contributor:

@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAmedia-types-font
+id: IANAcoap-eap-coap-eap-cipher-suites
 title:
-- content: font
+- content: CoAP-EAP Cipher Suites
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/media-types
+- content: https://www.iana.org/assignments/coap-eap
   type: self
 type: standard
 docid:
-- id: IANA media-types/font
+- id: IANA coap-eap/coap-eap-cipher-suites
   type: IANA
   primary: true
-docnumber: media-types/font
+docnumber: coap-eap/coap-eap-cipher-suites
 date:
+- type: created
+  value: '2025-02-14'
 - type: updated
   value: '2025-02-14'
 contributor:

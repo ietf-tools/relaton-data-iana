@@ -6719,3 +6719,9 @@
   :file: data/bgp-spf_bgp-ls-spf-link-nlri-attribute.yaml
 - :id: bgp-spf/bgp-ls-spf-prefix-nlri-attribute
   :file: data/bgp-spf_bgp-ls-spf-prefix-nlri-attribute.yaml
+- :id: coap-eap
+  :file: data/coap-eap.yaml
+- :id: coap-eap/coap-eap-cipher-suites
+  :file: data/coap-eap_coap-eap-cipher-suites.yaml
+- :id: coap-eap/coap-eap-information-elements
+  :file: data/coap-eap_coap-eap-information-elements.yaml
