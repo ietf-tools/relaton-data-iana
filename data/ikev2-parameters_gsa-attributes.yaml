@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.9
+id: IANAikev2-parameters-gsa-attributes
+title:
+- content: GSA Attributes
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/ikev2-parameters
+  type: self
+type: standard
+docid:
+- id: IANA ikev2-parameters/gsa-attributes
+  type: IANA
+  primary: true
+docnumber: ikev2-parameters/gsa-attributes
+date:
+- type: created
+  value: '2005-01-18'
+- type: updated
+  value: '2025-02-18'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

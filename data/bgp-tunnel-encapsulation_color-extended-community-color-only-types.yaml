@@ -1,0 +1,30 @@
+---
+schema-version: v1.2.9
+id: IANAbgp-tunnel-encapsulation-color-extended-community-color-only-types
+title:
+- content: Color Extended Community Color-Only Types
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/bgp-tunnel-encapsulation
+  type: self
+type: standard
+docid:
+- id: IANA bgp-tunnel-encapsulation/color-extended-community-color-only-types
+  type: IANA
+  primary: true
+docnumber: bgp-tunnel-encapsulation/color-extended-community-color-only-types
+date:
+- type: updated
+  value: '2025-02-18'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

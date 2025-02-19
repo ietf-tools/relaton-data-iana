@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.9
+id: IANAikev2-parameters-group-wide-policy-attributes
+title:
+- content: Group-wide Policy Attributes
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/ikev2-parameters
+  type: self
+type: standard
+docid:
+- id: IANA ikev2-parameters/group-wide-policy-attributes
+  type: IANA
+  primary: true
+docnumber: ikev2-parameters/group-wide-policy-attributes
+date:
+- type: created
+  value: '2005-01-18'
+- type: updated
+  value: '2025-02-18'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

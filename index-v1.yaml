@@ -6725,3 +6725,23 @@
   :file: data/coap-eap_coap-eap-cipher-suites.yaml
 - :id: coap-eap/coap-eap-information-elements
   :file: data/coap-eap_coap-eap-information-elements.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-segment-list-sub-tlvs
+  :file: data/bgp-tunnel-encapsulation_sr-policy-segment-list-sub-tlvs.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-binding-sid-flags
+  :file: data/bgp-tunnel-encapsulation_sr-policy-binding-sid-flags.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-srv6-binding-sid-flags
+  :file: data/bgp-tunnel-encapsulation_sr-policy-srv6-binding-sid-flags.yaml
+- :id: bgp-tunnel-encapsulation/sr-policy-segment-flags
+  :file: data/bgp-tunnel-encapsulation_sr-policy-segment-flags.yaml
+- :id: bgp-tunnel-encapsulation/color-extended-community-color-only-types
+  :file: data/bgp-tunnel-encapsulation_color-extended-community-color-only-types.yaml
+- :id: ikev2-parameters/gsa-attributes
+  :file: data/ikev2-parameters_gsa-attributes.yaml
+- :id: ikev2-parameters/group-wide-policy-attributes
+  :file: data/ikev2-parameters_group-wide-policy-attributes.yaml
+- :id: ikev2-parameters/group-key-bag-attributes
+  :file: data/ikev2-parameters_group-key-bag-attributes.yaml
+- :id: ikev2-parameters/member-key-bag-attributes
+  :file: data/ikev2-parameters_member-key-bag-attributes.yaml
+- :id: segment-routing/sr-policy-enlp-values
+  :file: data/segment-routing_sr-policy-enlp-values.yaml
