@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAbgp-extended-communities-split-horizon-type
 title:
-- content: Split Horizon Type
+- content: Split-Horizon Type
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bgp-extended-communities
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2005-08-15'
 - type: updated
-  value: '2025-02-25'
+  value: '2025-03-03'
 contributor:
 - organization:
     name:
