@@ -6745,3 +6745,5 @@
   :file: data/ikev2-parameters_member-key-bag-attributes.yaml
 - :id: segment-routing/sr-policy-enlp-values
   :file: data/segment-routing_sr-policy-enlp-values.yaml
+- :id: acme/acme-renewal-info-object-fields
+  :file: data/acme_acme-renewal-info-object-fields.yaml

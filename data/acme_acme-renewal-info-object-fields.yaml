@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAikev2-parameters-ikev2-parameters-10
+id: IANAacme-acme-renewal-info-object-fields
 title:
-- content: IKEv2 Identification Payload ID Types
+- content: ACME Renewal Info Object Fields
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/ikev2-parameters
+- content: https://www.iana.org/assignments/acme
   type: self
 type: standard
 docid:
-- id: IANA ikev2-parameters/ikev2-parameters-10
+- id: IANA acme/acme-renewal-info-object-fields
   type: IANA
   primary: true
-docnumber: ikev2-parameters/ikev2-parameters-10
+docnumber: acme/acme-renewal-info-object-fields
 date:
 - type: created
-  value: '2005-01-18'
+  value: '2019-01-02'
 - type: updated
   value: '2025-03-06'
 contributor:
