@@ -6747,3 +6747,7 @@
   :file: data/segment-routing_sr-policy-enlp-values.yaml
 - :id: acme/acme-renewal-info-object-fields
   :file: data/acme_acme-renewal-info-object-fields.yaml
+- :id: bgp-extended-communities/trans-transport-class
+  :file: data/bgp-extended-communities_trans-transport-class.yaml
+- :id: bgp-extended-communities/non-trans-transport-class
+  :file: data/bgp-extended-communities_non-trans-transport-class.yaml

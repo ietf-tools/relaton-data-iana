@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAmpls-lsp-ping-parameters-return-codes
+id: IANAbgp-extended-communities-trans-transport-class
 title:
-- content: Return Codes
+- content: Transitive Transport Class Extended Community Sub-Types
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/mpls-lsp-ping-parameters
+- content: https://www.iana.org/assignments/bgp-extended-communities
   type: self
 type: standard
 docid:
-- id: IANA mpls-lsp-ping-parameters/return-codes
+- id: IANA bgp-extended-communities/trans-transport-class
   type: IANA
   primary: true
-docnumber: mpls-lsp-ping-parameters/return-codes
+docnumber: bgp-extended-communities/trans-transport-class
 date:
 - type: created
-  value: '2006-01-12'
+  value: '2005-08-15'
 - type: updated
   value: '2025-03-10'
 contributor:
