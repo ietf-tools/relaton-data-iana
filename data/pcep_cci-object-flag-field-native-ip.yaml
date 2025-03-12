@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANApcep-cci-object-flag-field-native-ip
 title:
-- content: CCI Object Flag Field for Native-IP
+- content: CCI Object Flag Field for Native IP
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/pcep
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2008-12-19'
 - type: updated
-  value: '2025-03-10'
+  value: '2025-03-11'
 contributor:
 - organization:
     name:
