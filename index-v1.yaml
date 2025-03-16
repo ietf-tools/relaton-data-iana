@@ -6751,3 +6751,9 @@
   :file: data/bgp-extended-communities_trans-transport-class.yaml
 - :id: bgp-extended-communities/non-trans-transport-class
   :file: data/bgp-extended-communities_non-trans-transport-class.yaml
+- :id: bgp-ls-parameters/bgp-ls-sr-segment-descriptor-types
+  :file: data/bgp-ls-parameters_bgp-ls-sr-segment-descriptor-types.yaml
+- :id: bgp-ls-parameters/bgp-ls-sr-policy-metric-type
+  :file: data/bgp-ls-parameters_bgp-ls-sr-policy-metric-type.yaml
+- :id: segment-routing/sr-policy-protocol-origin
+  :file: data/segment-routing_sr-policy-protocol-origin.yaml

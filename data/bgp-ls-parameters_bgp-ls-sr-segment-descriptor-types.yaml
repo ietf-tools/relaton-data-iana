@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAsegment-routing-sr-policy-enlp-values
+id: IANAbgp-ls-parameters-bgp-ls-sr-segment-descriptor-types
 title:
-- content: SR Policy ENLP Values
+- content: SR Segment Descriptor Types
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/segment-routing
+- content: https://www.iana.org/assignments/bgp-ls-parameters
   type: self
 type: standard
 docid:
-- id: IANA segment-routing/sr-policy-enlp-values
+- id: IANA bgp-ls-parameters/bgp-ls-sr-segment-descriptor-types
   type: IANA
   primary: true
-docnumber: segment-routing/sr-policy-enlp-values
+docnumber: bgp-ls-parameters/bgp-ls-sr-segment-descriptor-types
 date:
 - type: created
-  value: '2021-01-08'
+  value: '2015-11-03'
 - type: updated
   value: '2025-03-16'
 contributor:
