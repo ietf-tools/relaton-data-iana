@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAbgp-ls-parameters-bgp-ls-sr-segment-descriptor-types
 title:
-- content: SR Segment Descriptor Types
+- content: BGP-LS SR Segment Descriptor Types
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/bgp-ls-parameters
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2015-11-03'
 - type: updated
-  value: '2025-03-16'
+  value: '2025-03-17'
 contributor:
 - organization:
     name:
