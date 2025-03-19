@@ -1,0 +1,30 @@
+---
+schema-version: v1.2.9
+id: IANAbgp-parameters-bgp-car-nlri-tlv-types
+title:
+- content: BGP CAR NLRI TLV Types
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/bgp-parameters
+  type: self
+type: standard
+docid:
+- id: IANA bgp-parameters/bgp-car-nlri-tlv-types
+  type: IANA
+  primary: true
+docnumber: bgp-parameters/bgp-car-nlri-tlv-types
+date:
+- type: updated
+  value: '2025-03-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

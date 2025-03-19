@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAwhip-whip-extension-urns
 title:
-- content: WebRTC-HTTP ingestion protocol (WHIP) Extension URNs
+- content: WebRTC-HTTP Ingestion Protocol (WHIP) Extension URNs
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/whip
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2024-08-27'
 - type: updated
-  value: '2024-08-27'
+  value: '2025-03-18'
 contributor:
 - organization:
     name:

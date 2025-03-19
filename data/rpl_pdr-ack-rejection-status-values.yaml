@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.9
+id: IANArpl-pdr-ack-rejection-status-values
+title:
+- content: PDR-ACK Rejection Status Values
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/rpl
+  type: self
+type: standard
+docid:
+- id: IANA rpl/pdr-ack-rejection-status-values
+  type: IANA
+  primary: true
+docnumber: rpl/pdr-ack-rejection-status-values
+date:
+- type: created
+  value: '2011-04-08'
+- type: updated
+  value: '2025-03-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

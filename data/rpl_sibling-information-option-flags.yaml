@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.9
+id: IANArpl-sibling-information-option-flags
+title:
+- content: Sibling Information Option (SIO) Flags
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/rpl
+  type: self
+type: standard
+docid:
+- id: IANA rpl/sibling-information-option-flags
+  type: IANA
+  primary: true
+docnumber: rpl/sibling-information-option-flags
+date:
+- type: created
+  value: '2011-04-08'
+- type: updated
+  value: '2025-03-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

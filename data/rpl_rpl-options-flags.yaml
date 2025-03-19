@@ -1,0 +1,32 @@
+---
+schema-version: v1.2.9
+id: IANArpl-rpl-options-flags
+title:
+- content: RPL Option Flags
+  format: text/plain
+link:
+- content: https://www.iana.org/assignments/rpl
+  type: self
+type: standard
+docid:
+- id: IANA rpl/rpl-options-flags
+  type: IANA
+  primary: true
+docnumber: rpl/rpl-options-flags
+date:
+- type: created
+  value: '2011-04-08'
+- type: updated
+  value: '2025-03-19'
+contributor:
+- organization:
+    name:
+    - content: Internet Assigned Numbers Authority
+    abbreviation:
+      content: IANA
+  role:
+  - type: publisher
+language:
+- en
+script:
+- Latn

@@ -6757,3 +6757,21 @@
   :file: data/bgp-ls-parameters_bgp-ls-sr-policy-metric-type.yaml
 - :id: segment-routing/sr-policy-protocol-origin
   :file: data/segment-routing_sr-policy-protocol-origin.yaml
+- :id: bgp-parameters/bgp-car-nlri-types
+  :file: data/bgp-parameters_bgp-car-nlri-types.yaml
+- :id: bgp-parameters/bgp-car-nlri-tlv-types
+  :file: data/bgp-parameters_bgp-car-nlri-tlv-types.yaml
+- :id: rpl/rpl-options-flags
+  :file: data/rpl_rpl-options-flags.yaml
+- :id: rpl/projected-dao-request
+  :file: data/rpl_projected-dao-request.yaml
+- :id: rpl/pdr-ack-flags
+  :file: data/rpl_pdr-ack-flags.yaml
+- :id: rpl/pdr-ack-acceptance-status-values
+  :file: data/rpl_pdr-ack-acceptance-status-values.yaml
+- :id: rpl/pdr-ack-rejection-status-values
+  :file: data/rpl_pdr-ack-rejection-status-values.yaml
+- :id: rpl/via-information-options-flags
+  :file: data/rpl_via-information-options-flags.yaml
+- :id: rpl/sibling-information-option-flags
+  :file: data/rpl_sibling-information-option-flags.yaml
