@@ -6775,3 +6775,5 @@
   :file: data/rpl_via-information-options-flags.yaml
 - :id: rpl/sibling-information-option-flags
   :file: data/rpl_sibling-information-option-flags.yaml
+- :id: rpl/projected-dao-request-flags
+  :file: data/rpl_projected-dao-request-flags.yaml

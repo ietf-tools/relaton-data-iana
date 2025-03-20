@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.9
-id: IANArpl-projected-dao-request
+id: IANArpl-projected-dao-request-flags
 title:
-- content: Projected DAO Request (PDR)
+- content: Projected DAO Request (PDR) Flags
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/rpl
   type: self
 type: standard
 docid:
-- id: IANA rpl/projected-dao-request
+- id: IANA rpl/projected-dao-request-flags
   type: IANA
   primary: true
-docnumber: rpl/projected-dao-request
+docnumber: rpl/projected-dao-request-flags
 date:
 - type: created
   value: '2011-04-08'
 - type: updated
-  value: '2025-03-19'
+  value: '2025-03-20'
 contributor:
 - organization:
     name:
