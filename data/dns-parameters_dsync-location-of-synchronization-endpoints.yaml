@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAdns-parameters-zonemd-hash-algorithms
+id: IANAdns-parameters-dsync-location-of-synchronization-endpoints
 title:
-- content: ZONEMD Hash Algorithms
+- content: 'DSYNC: Location of Synchronization Endpoints'
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dns-parameters
   type: self
 type: standard
 docid:
-- id: IANA dns-parameters/zonemd-hash-algorithms
+- id: IANA dns-parameters/dsync-location-of-synchronization-endpoints
   type: IANA
   primary: true
-docnumber: dns-parameters/zonemd-hash-algorithms
+docnumber: dns-parameters/dsync-location-of-synchronization-endpoints
 date:
 - type: updated
   value: '2025-03-20'

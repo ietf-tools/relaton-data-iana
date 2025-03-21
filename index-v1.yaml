@@ -6777,3 +6777,5 @@
   :file: data/rpl_sibling-information-option-flags.yaml
 - :id: rpl/projected-dao-request-flags
   :file: data/rpl_projected-dao-request-flags.yaml
+- :id: dns-parameters/dsync-location-of-synchronization-endpoints
+  :file: data/dns-parameters_dsync-location-of-synchronization-endpoints.yaml
