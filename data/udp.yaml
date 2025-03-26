@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAxml-registry-schema
+id: IANAudp
 title:
-- content: schema
+- content: User Datagram Protocol (UDP)
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/xml-registry
+- content: https://www.iana.org/assignments/udp
   type: self
 type: standard
 docid:
-- id: IANA xml-registry/schema
+- id: IANA udp
   type: IANA
   primary: true
-docnumber: xml-registry/schema
+docnumber: udp
 date:
+- type: created
+  value: '2025-03-25'
 - type: updated
   value: '2025-03-25'
 contributor:

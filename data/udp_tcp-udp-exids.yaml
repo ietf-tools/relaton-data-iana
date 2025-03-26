@@ -1,19 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAxml-registry-schema
+id: IANAudp-tcp-udp-exids
 title:
-- content: schema
+- content: TCP/UDP Experimental Option Experiment Identifiers (TCP/UDP ExIDs)
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/xml-registry
+- content: https://www.iana.org/assignments/udp
   type: self
 type: standard
 docid:
-- id: IANA xml-registry/schema
+- id: IANA udp/tcp-udp-exids
   type: IANA
   primary: true
-docnumber: xml-registry/schema
+docnumber: udp/tcp-udp-exids
 date:
+- type: created
+  value: '2025-03-25'
 - type: updated
   value: '2025-03-25'
 contributor:

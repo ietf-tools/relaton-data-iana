@@ -6779,3 +6779,11 @@
   :file: data/rpl_projected-dao-request-flags.yaml
 - :id: dns-parameters/dsync-location-of-synchronization-endpoints
   :file: data/dns-parameters_dsync-location-of-synchronization-endpoints.yaml
+- :id: tcp-parameters/tcp-udp-exids
+  :file: data/tcp-parameters_tcp-udp-exids.yaml
+- :id: udp
+  :file: data/udp.yaml
+- :id: udp/udp-options
+  :file: data/udp_udp-options.yaml
+- :id: udp/tcp-udp-exids
+  :file: data/udp_tcp-udp-exids.yaml

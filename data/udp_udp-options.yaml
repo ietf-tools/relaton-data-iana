@@ -1,21 +1,23 @@
 ---
 schema-version: v1.2.9
-id: IANAtcp-parameters-tcp-exids
+id: IANAudp-udp-options
 title:
-- content: TCP Experimental Option Experiment Identifiers (TCP ExIDs)
+- content: UDP Option Kind Numbers
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/tcp-parameters
+- content: https://www.iana.org/assignments/udp
   type: self
 type: standard
 docid:
-- id: IANA tcp-parameters/tcp-exids
+- id: IANA udp/udp-options
   type: IANA
   primary: true
-docnumber: tcp-parameters/tcp-exids
+docnumber: udp/udp-options
 date:
+- type: created
+  value: '2025-03-25'
 - type: updated
-  value: '2025-02-25'
+  value: '2025-03-25'
 contributor:
 - organization:
     name:
