@@ -1,21 +1,21 @@
 ---
 schema-version: v1.2.9
-id: IANAsenml-secondary-units
+id: IANAsdf-sdftype-values
 title:
-- content: Secondary Units
+- content: sdfType Values
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/senml
+- content: https://www.iana.org/assignments/sdf
   type: self
 type: standard
 docid:
-- id: IANA senml/secondary-units
+- id: IANA sdf/sdftype-values
   type: IANA
   primary: true
-docnumber: senml/secondary-units
+docnumber: sdf/sdftype-values
 date:
 - type: created
-  value: '2018-06-01'
+  value: '2025-03-27'
 - type: updated
   value: '2025-03-27'
 contributor:

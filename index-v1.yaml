@@ -6787,3 +6787,13 @@
   :file: data/udp_udp-options.yaml
 - :id: udp/tcp-udp-exids
   :file: data/udp_tcp-udp-exids.yaml
+- :id: sdf
+  :file: data/sdf.yaml
+- :id: sdf/sdf-quality-names
+  :file: data/sdf_sdf-quality-names.yaml
+- :id: sdf/sdf-quality-name-prefixes
+  :file: data/sdf_sdf-quality-name-prefixes.yaml
+- :id: sdf/sdftype-values
+  :file: data/sdf_sdftype-values.yaml
+- :id: sdf/sdf-feature-names
+  :file: data/sdf_sdf-feature-names.yaml
