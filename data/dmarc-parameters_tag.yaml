@@ -2,7 +2,7 @@
 schema-version: v1.2.9
 id: IANAdmarc-parameters-tag
 title:
-- content: DMARC Tag Registry
+- content: DMARC Tags
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dmarc-parameters
@@ -17,7 +17,7 @@ date:
 - type: created
   value: '2015-01-27'
 - type: updated
-  value: '2024-09-23'
+  value: '2025-03-27'
 contributor:
 - organization:
     name:
