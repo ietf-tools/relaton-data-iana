@@ -1,23 +1,23 @@
 ---
 schema-version: v1.2.9
-id: IANApcep-sr-ero-flag-field
+id: IANAsuit-suit-envelope-elements
 title:
-- content: SR-ERO Flag Field
+- content: SUIT Envelope Elements
   format: text/plain
 link:
-- content: https://www.iana.org/assignments/pcep
+- content: https://www.iana.org/assignments/suit
   type: self
 type: standard
 docid:
-- id: IANA pcep/sr-ero-flag-field
+- id: IANA suit/suit-envelope-elements
   type: IANA
   primary: true
-docnumber: pcep/sr-ero-flag-field
+docnumber: suit/suit-envelope-elements
 date:
 - type: created
-  value: '2008-12-19'
+  value: '2025-04-03'
 - type: updated
-  value: '2025-04-04'
+  value: '2025-04-03'
 contributor:
 - organization:
     name:

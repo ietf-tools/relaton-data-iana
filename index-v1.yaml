@@ -6797,3 +6797,19 @@
   :file: data/sdf_sdftype-values.yaml
 - :id: sdf/sdf-feature-names
   :file: data/sdf_sdf-feature-names.yaml
+- :id: suit
+  :file: data/suit.yaml
+- :id: suit/suit-envelope-elements
+  :file: data/suit_suit-envelope-elements.yaml
+- :id: suit/suit-manifest-elements
+  :file: data/suit_suit-manifest-elements.yaml
+- :id: suit/suit-common-elements
+  :file: data/suit_suit-common-elements.yaml
+- :id: suit/suit-commands
+  :file: data/suit_suit-commands.yaml
+- :id: suit/suit-parameters
+  :file: data/suit_suit-parameters.yaml
+- :id: suit/suit-text-values
+  :file: data/suit_suit-text-values.yaml
+- :id: suit/suit-component-text-values
+  :file: data/suit_suit-component-text-values.yaml
