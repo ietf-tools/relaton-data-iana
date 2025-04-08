@@ -6813,3 +6813,5 @@
   :file: data/suit_suit-text-values.yaml
 - :id: suit/suit-component-text-values
   :file: data/suit_suit-component-text-values.yaml
+- :id: dlep-parameters/traffic-classification-sub-data-item-type-values
+  :file: data/dlep-parameters_traffic-classification-sub-data-item-type-values.yaml

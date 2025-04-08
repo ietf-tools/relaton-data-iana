@@ -1,18 +1,18 @@
 ---
 schema-version: v1.2.9
-id: IANAdlep-parameters-data-item-type-values
+id: IANAdlep-parameters-traffic-classification-sub-data-item-type-values
 title:
-- content: Data Item Type Values
+- content: Traffic Classification Sub-Data Item Type Values
   format: text/plain
 link:
 - content: https://www.iana.org/assignments/dlep-parameters
   type: self
 type: standard
 docid:
-- id: IANA dlep-parameters/data-item-type-values
+- id: IANA dlep-parameters/traffic-classification-sub-data-item-type-values
   type: IANA
   primary: true
-docnumber: dlep-parameters/data-item-type-values
+docnumber: dlep-parameters/traffic-classification-sub-data-item-type-values
 date:
 - type: created
   value: '2017-04-03'
